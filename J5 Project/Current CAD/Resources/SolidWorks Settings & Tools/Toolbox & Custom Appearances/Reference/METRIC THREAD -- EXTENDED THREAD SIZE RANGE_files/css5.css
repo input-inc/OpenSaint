@@ -1,0 +1,28 @@
+body { font-family: arial, helvetica, sans-serif; background-color:
+#ffff00; font-weight: lighter;  color: black; font-size : 10pt;}
+table { font-family : arial; font-size : 16pt }
+td { font-family : arial; font-size : 9pt; font-weight: lighter;}
+tr { font-family : arial; font-size : 16pt; }
+th { font-family : arial; font-size : 16pt; }
+b { font-family : arial; font-size : 10pt; }
+p { font-family : arial; font-size : 9pt; font-weight: lighter;}
+small { text-decoration:none; font:10px arial; font-weight:300; color: #000000;}
+big { text-decoration:none; font:24pt arial; font-weight:700; color: #000000;}
+hr { border-top-width: solid }
+a:link { color: blue }
+a:visited { color: red }
+a:active { color: purple }
+li {display: block;}
+.t8 { text-decoration:none; font:8pt arial; font-weight:300; color: #000000;}
+.t9 { text-decoration:none; font:9pt arial; font-weight:300; color: #000000;}
+.t10 { text-decoration:none; font:10pt arial; font-weight:300; color: #000000;}
+.t11 { text-decoration:none; font:11pt arial; font-weight:300; color: #000000;}
+.t12 { text-decoration:none; font:12pt arial; font-weight:300; color: #000000;}
+.t14 { text-decoration:none; font:14pt arial; font-weight:300; color: #000000;}
+.t16 { text-decoration:none; font:16pt arial; font-weight:300; color: #000000;}
+.t9b { text-decoration:none; font:9pt arial; font-weight:700; color: #000000;}
+.t10b { text-decoration:none; font:10pt arial; font-weight:700; color: #000000;}
+.t11b { text-decoration:none; font:11pt arial; font-weight:700; color: #000000;}
+.t12b { text-decoration:none; font:12pt arial; font-weight:700; color: #000000;}
+.t14b { text-decoration:none; font:14pt arial; font-weight:700; color: #000000;}
+.t16b { text-decoration:none; font:16pt arial; font-weight:700; color: #000000;}

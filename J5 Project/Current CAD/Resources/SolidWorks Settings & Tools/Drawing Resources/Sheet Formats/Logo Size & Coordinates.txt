@@ -1,0 +1,16 @@
+J5 Logo
+
+2in Height
+1.7645in Width
+
+14.5187in X LOC
+0.6530in  Y LOC
+
+---------------
+
+Input-Inc Logo
+
+0.4in Height
+
+4.7425in X LOC
+0.8720in Y LOC

@@ -1,0 +1,30 @@
+All Effects' Track Drive Gearing Specs:
+
+Pinion: 18-tooth
+Spur: 54-tooth
+Gear ratio: 9:1
+
+Motors used were 3/4hp (each) servo motors, brand unknown, load & no-load RPM unknown
+__________________________________________________________________________________________
+
+Input-Inc's Track Drive Gearing Specs:
+
+Pinion: 14-tooth
+Pinion pitch diameter: 1.123" (rounded)
+
+Spur: 60-tooth
+Spur pitch diameter: 4.777" (rounded)
+
+4.777 / 1.123 =  4.25
+4.25 x 4.25 = 18.0625
+Gear ratio: 18.0625:1
+
+For a safe, conservative, easy-to-read gear ratio and simple torque conversion, we will
+simplify this gear ratio figure to 18:1
+
+60 / 14 = 4.28
+4.28 x 4.28 = 18.3184
+Speed Ratio: 18.3184
+__________________________________________________________________________________________
+
+Calculations done by Terry Andrews Jr. 4/19/2017

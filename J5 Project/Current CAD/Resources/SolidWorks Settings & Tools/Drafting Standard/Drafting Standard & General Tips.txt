@@ -1,0 +1,199 @@
+I.) Drafting Standard
+
+	i.) ANSI vs. ISO
+		I don't intend for the section to lead way to a heated debate, but I believe this choice is in good reason.
+
+		The major reason I impress upon my fellow members an ANSI-based standard, is the fact that the vast majority of hardware (fasteners, bearings, and so forth) used on the project conform
+		to ANSI/ASME/ASMT specifications -- or in other words -- various Americanized standards. Roughly ninety percent of our hardware-related components are specific to the ANSI inch.
+
+		Another reason is that the original robot is clearly designed with the inch in mind, and in America.
+
+		This does NOT, in any way, shape, or form, mean that you should not or cannot switch to Metric within SolidWorks and work with what you are comfortable with.
+
+	ii.) Settings
+		Note: Some of these settings may not actually be contained within the .sldstd files, as SolidWorks seems to be very choosy about what is saved to them.
+		      However, using the macro I have made will apply all the settings below.
+
+		A.) Input-Inc Part Drafting Standard.sldstd
+			-Drafting Standard
+				Overall drafting standard: ANSI
+			-Annotation
+				Trailing zeroes: Remove
+			-Dimensions
+				Show units for dual display: True
+				Dual display alignment: Bottom
+				Trailing zeroes: Remove
+			--All Dimension Subtrees
+				Show units for dual display: True
+				Dual display alignment: Bottom
+				Trailing zeroes: Remove
+				All Tolerance Precision (Primary and Dual): 2
+			-Tables
+			--Bill of Materials
+				Trailing zeroes: Remove
+			--General
+				Trailing zeroes: Remove
+			-Detailing
+			--Display Filter
+				Shaded cosmetic threads: On
+			-Units
+				Unit System: IPS
+			--Basic Units
+				Length Unit: inches
+				Length Decimals: 8
+				Dual Dimension Unit: millimeters
+				Dual Dimension Length Decimals: 8
+				Angle Unit: degrees
+				Angle Decimals: 8
+			--Mass/Section Properties
+				Length Unit: inches
+				Length Decimals: 2
+			--Motion Units
+				Time Unit: second
+				Time Decimals: 2
+
+		B.) Input-Inc Assembly Drafting Standard.sldstd
+			-Drafting Standard
+				Overall drafting standard: ANSI
+			-Annotation
+				Trailing zeroes: Remove
+			-Dimensions
+				Show units for dual display: True
+				Dual display alignment: Bottom
+				Trailing zeroes: Remove
+			--All Dimension Subtrees
+				Show units for dual display: True
+				Dual display alignment: Bottom
+				Trailing zeroes: Remove
+				All Tolerance Precision (Primary and Dual): 2
+			-Tables
+			--Bill of Materials
+				Trailing zeroes: Remove
+			--General
+				Trailing zeroes: Remove
+			-Detailing
+			--Display Filter
+				Shaded cosmetic threads: On
+			-Units
+				Unit System: IPS
+			--Basic Units
+				Length Unit: inches
+				Length Decimals: 8
+				Dual Dimension Unit: millimeters
+				Dual Dimension Length Decimals: 8
+				Angle Unit: degrees
+				Angle Decimals: 8
+			--Mass/Section Properties
+				Length Unit: inches
+				Length Decimals: 2
+			--Motion Units
+				Time Unit: second
+				Time Decimals: 2
+				Force Unit: pound-force
+				Force Decimals: 2
+				Power Unit: watt
+				Power Decimals: 2
+				Energy Unit: BTU
+				Energy Decimals: 2
+
+
+		C.) Input-Inc Drawing Drafting Standard.sldstd
+			-Drafting Standard
+				Overall drafting standard: ANSI
+			-Annotation
+				Trailing zeroes: Remove
+			-Dimensions
+				Show units for dual display: True
+				Dual display alignment: Bottom
+				Trailing zeroes: Remove
+			--All Dimension Subtrees
+				Show units for dual display: True
+				Dual display alignment: Bottom
+				Trailing zeroes: Remove
+				All Tolerance Precision (Primary and Dual): 2
+			-Tables
+			--Bend
+				Angular Precision: 4
+				Inner Radius Precision: 4
+				Allowance Precision: 4
+				Trailing zeroes: Remove
+			--Bill of Materials
+				Trailing zeroes: Remove
+			--General
+				Trailing zeroes: Remove
+			--Hole
+				Location Precision: 4
+				Combine same size: True
+				Trailing zeroes: Remove
+			--Punch
+				Location Precision: 4
+				Combine same type: True
+				Trailing zeroes: Remove
+			--Weld
+				Trailing zeroes: Remove
+			-Detailing
+			--Display Filter
+				Shaded cosmetic threads: On
+			--Cosmetic thread display
+				High quality: True
+			-Units
+				Unit System: IPS
+			--Basic Units
+				Length Unit: inches
+				Length Decimals: 4
+				Dual Dimension Unit: millimeters
+				Dual Dimension Length Decimals: 4
+				Angle Unit: degrees
+				Angle Decimals: 4
+			--Mass/Section Properties
+				Length Unit: inches
+				Length Decimals: 2
+			--Motion Units
+				Time Unit: second
+				Time Decimals: 2
+
+----------
+
+II.) General Tips & Notes
+
+	i.) Imperial & Metric Switching
+		In SolidWorks 2014, we now have the ability to change Units from Imperial to Metric and vice versa from the bottom right of the status bar.
+		After some testing, it appears that changing this from the bottom right has the same effect as changing it through Document Properties for the current file.
+		Thus, it can be concluded that either changing this setting from the bottom right or from Document Properties is acceptable practice.
+
+	ii.) Trailing Zeroes
+		When it comes to complex parts and fully defined sketches, screen space is valuable. Especially for drawings, where every inch of paper is extremely valuable, and "clutter" is the enemy.
+		As far as drawings go, I firmly believe we don't need "5.1000" to be shown as such. "5.1" would do just fine.
+		This small change can mean a world of difference in cases where you must fit "5.1000" in a tight spot between sketch entities.
+
+		Examples:
+			"2.000000"   = "2"
+			"2.675000"   = "2.675"
+			"2.00000001"   = "2.00000001"
+			"2.000000089"  = "2.00000009"
+			"2.000001838"  = "2.00000184"
+			"2.0000000008" = "2"
+
+	iii.) Three Different Standard Files? Why Not One?
+		If you open a part, assembly, and drawing, and look through each of their Document Properties, you will see that there are different options presented.
+		
+		In parts and assemblies, most of the options are the same, but there are some subtle differences, specifically under Units and Image Quality.
+		In drawings, there are actually completely different options presented that pertain only to drawing files.
+
+		If you look at the file sizes between these three files, they are indeed different down to the byte. Thus it can be concluded that their contents are different as well.
+		With this in mind, I saved the settings for each file type as three separate files to be on the safe side.
+
+	iv.) Determining if a File is using the Settings as Described Above
+		1.) Open the Document Properties for the file.
+		2.) Click on "Drafting Standard" should it not be already chosen.
+		3.) If this reads as "Input-Inc _____ Drafting Standard", where "_____" matches the type of file that is open, then everything should be in OK shape.
+
+		Should the Drafting Standard not read this:
+		A.) Option #1
+			1.) Click "Load From External File..."
+			2.) Choose the appropriate .sldstd file for the file you have open.
+
+			Note: It should be noted that this option does NOT apply Image Quality and *some* Unit settings to the file, as it appears SW is VERY picky about what is saved within .sldstd files.
+
+		B.) Option #2
+			1.) Run the "Apply Image Quality [All Types]" macro as described in "Macro Information & Usage.txt", Section III.

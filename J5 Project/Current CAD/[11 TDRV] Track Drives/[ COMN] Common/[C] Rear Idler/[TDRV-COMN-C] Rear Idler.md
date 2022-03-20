@@ -1,0 +1,18 @@
+# @
+| Attribute | Value |
+| ---  | ---     |
+| Author | SixWingedFreak |
+| Date | 01/30/2016 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2021 |
+# 1-Piece Idler Tube
+| Attribute | Value |
+| ---  | ---     |
+| Description | Rear 7&quot; idler assembly. This version utilizes a one-piece idler tube. |
+| Author | SixWingedFreak |
+| Date | 01/30/2016 |
+# 3-Piece Idler Tube
+| Attribute | Value |
+| ---  | ---     |
+| Description | Rear 7&quot; idler assembly. This version utilizes a three-piece idler tube. |
+| Author | SixWingedFreak |
+| Date | 01/30/2016 |

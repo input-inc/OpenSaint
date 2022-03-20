@@ -1,0 +1,153 @@
+Anderson Powerpole Connector PP15
+9 head
+7 lower torso
+9 upper oblique plate (copied section of head)
+9 chest plate (copied section of head)
+TOTAL: 34
+---
+
+Bourns 271-1-502
+8 head
+4 lower torso
+6 lower oblique plate (copied section of head)
+4 chest plate (copied section of head)
+10 back (copied section of head)
+TOTAL: 32
+---
+
+Bourns 3292X
+2 head
+2 lower torso
+TOTAL: 4
+---
+
+Bourns JM39015/2-004WP
+3 head
+5 lower torso
+1 lower oblique plate (copied section of head)
+4 chest plate (copied section of head)
+TOTAL: 13
+---
+
+TO-39
+2 lower torso
+TOTAL: 2
+---
+
+TO-92
+3 head
+10 lower torso
+6 chest plate(copied section of head)
+TOTAL: 19
+---
+
+TO-127
+5 head
+7 lower torso
+2 back (copied section of head)
+4 chest plate (copied section of head)
+5 lower oblique plate (copied section of head)
+TOTAL: 23
+---
+
+TO-225AA
+1 lower torso
+TOTAL: 1
+---
+
+TO-220
+6 head
+8 tlower
+4 chest plate (copied section of head)
+2 lower oblique plate (copied section of head)
+TOTAL: 20
+---
+
+8-Pin Carrier
+1 head
+1 lower torso
+TOTAL: 2
+---
+
+10-Pin Carrier
+1 head
+3 lower torso
+2 chest plate (copied section of head)
+TOTAL: 6
+---
+
+Aries 20-Pin DIP (20-511-11)
+1 lower torso
+TOTAL: 1
+---
+
+Dale RH-25
+1 head
+6 lower torso
+TOTAL: 7
+---
+
+Dale RH-50
+1 head
+1 chest plate (copied section of head)
+1 lower oblique plate (copied section of head)
+TOTAL: 3
+---
+
+Pacific Resistor Co. RE65
+2 head
+2 lower torso
+2 lower oblique (copied section of head)
+3 back (copied section of head)
+TOTAL: 9
+---
+
+Knob
+2 head
+2 lower torso (one is slightly smaller)
+TOTAL: 4
+---
+
+Mystery Part
+3 head
+2 lower torso
+3 chest plate  (copied section of head)
+2 lower oblique (copied section of head)
+2 back (copied section of head)
+TOTAL: 12
+---
+
+Large Playback Head
+1 head
+3 lower torso
+1 lower oblique (copied section of head)
+2 back (copied section of head)
+TOTAL: 7
+---
+
+Small Playback Head
+3 head
+TOTAL: 3
+---
+
+Photosensor
+2 head
+4 chest plate (copied section of head)
+TOTAL: 6
+---
+
+large 1000uF 63V radial lead capacitor
+5 lower torso (three have casing removed)
+TOTAL: 5
+---
+
+RF Choke
+1 lower torso
+TOTAL: 1
+---
+
+Small axial Lead Capacitor
+1 head
+12 lower torso (some having casing removed or may be 
+2 chest plate (copied section of head)
+TOTAL: 15

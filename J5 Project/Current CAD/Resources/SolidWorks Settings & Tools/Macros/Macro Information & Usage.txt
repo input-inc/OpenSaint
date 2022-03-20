@@ -1,0 +1,153 @@
+I.) General Information
+
+	A.) SolidWorks Macro Runner
+
+		The "SolidWorks Macro Runner" program was found from "https://forum.solidworks.com/thread/47294", and created by user Terry Raymond.
+
+			Key Functions:
+			1.) Searches a directory for all parts/assemblies/drawings.
+			2.) Can search through subdirectories (recursive).
+			3.) Can resume from the last file run.
+			4.) Can stop after a specified number of files.
+			5.) Runs one macro across all the chosen files in rapid succession.
+			6.) Saves and closes the file once the macro is applied.
+			7.) Is hardcoded to close and re-open SolidWorks after 500 files are opened (for possible performance reasons).
+			8.) Is uninstallable from Windows Control Panel.
+			9.) Has full source code and is thus editable.
+
+		It works with SolidWorks 2014, both 64-bit and 32-bit versions.
+		This simple program is beyond my ability to code in Visual Basic, so this is the best I could find with several hours of searching.
+
+		The "SolidWorks Task Scheduler" bundled with SolidWorks 2014 does not have this functionality.
+		It can be scheduled to run a macro of choosing, but the ability for it to search and how "deep" it searches must be coded in the macro itself.
+		There exists another program called "SolidWorks Batch Runner". It can be found at "http://schmalls.com/blog/2008/05/solidworks-batch-runner".
+		It is command-line only -- no GUI -- and I was personally unable to get it working myself, though it is reported to work with SW2009 and up.
+
+	B.) Custom Properties Manager
+
+		The "Custom Properties Manager" program was found in a random thread on the SolidWorks forums. I cannot find a link at present.
+
+			Key Functions:
+			1.) Can add new custom properties.
+			2.) Can edit existing custom properties.
+			3.) Can delete current custom properties.
+			4.) Can search through subdirectories (recursive).
+			5.) Does not require SolidWorks to be installed.
+
+		This program has been and will be instrumental in adjusting, creating, and deleting custom properties as we complete the robot.
+
+----------
+
+II.) Macro Functions
+
+	A.) Apply Image Quality [All Types].swp
+		1.) Applies the ANSI drafting standard to start with a clean slate (resets to default essentially).
+		2.) Loads the appropriate .sldstd file located in "\J5 Project CAD 2014\Resources\SolidWorks Settings & Tools\Drafting Standard\".
+			2a.) "Input-Inc Part Drafting Standard.sldstd" if the open document is a part.
+			2b.) "Input-Inc Assembly Drafting Standard.sldstd" if the open document is an assembly.
+			2c.) "Input-Inc Drawing Drafting Standard.sldstd" if the open document is a drawing.
+
+		Note: Refer to "Drafting Standard & General Tips.txt" for additional information regarding drafting standards.
+
+		3.) Sets "Shaded and draft quality HLR/HLV resolution" to 85%.
+		4.) Sets "Wireframe and high quality HLR/HLV resolution" to 85%.
+		5.) Resets all other options in Image Quality to defaults.
+		6.) Applies settings to "Detailing" within Document Properties.
+			6a.) Turns "Shaded cosmetic threads" off for all file types.
+			6b.) For drawings, turns "High quality cosmetic thread display" on.
+		7.) Sets "Unit System" to IPS.
+		8.) Applies settings to "Units" within Document Properties
+			8a.) For parts and assemblies:
+				Sets "Length", "Dual Dimension", and "Angular" decimal place length to 8 places.
+				Sets "Mass - Length", "Motion - Time", "Motion - Force", "Motion - Power", and "Motion - Energy" decimal place length to the default of 2 places.
+			8b.) For drawings:
+				Sets "Length", "Dual Dimension", and "Angular" decimal place length to 4 places.
+				Sets "Mass - Length" and "Motion - Time" decimal place length to the default of 2 places.
+		9.) Resets all other options in Units to defaults.
+		10.) Sets the FeatureManager width to 240 pixels wide.
+		11.) Applies some final adjustments.
+			11a.) For parts and assemblies:
+				Applies the default "Shaded With Edges" display style to the model.
+				Applies the default "3 Point Faded" background to the working area.
+				The model is orientated to Isometric View.
+				The model is "Fit to Screen" (F key on the keyboard).
+			11b.) For drawings:
+				Opens each sheet (page) of the drawing, and each page is "Fit to Screen" (F key on the keyboard).
+				The first sheet is then made active, so that it will be the first sheet seen upon opening the file.
+
+		Note: I recommend keeping SolidWorks maximized when using this macro. Otherwise, "Fit to Screen" may cause the model to appear far away from the "camera."
+
+	B.) Change Drawing Sheet Format.swp
+		This macro opens each page of a drawing, applies the appropriate "Input-Inc Sheet Format," fits the page to the screen, and returns to the first page.
+		It determines which sheet format to use via the "Zone" custom property. Note that "Zone" must be a global custom property, not configuration-specific property, for this to work properly.
+		The path to the sheet formats is relative to my computer and must be changed prior to use.
+
+	C.) Change J5 Logo.swp
+		This macro should not be needed unless changes to the J5 Logo on the sheet formats are required. Since we need a different picture to represent each zone, replacing the picture manually
+		can be extremely tedious, time consuming, and click-intensive.
+		It simply deletes the existing J5 Logo and replaces it with one specified in the code.
+
+----------
+
+III.) Usage Instructions
+
+	i.) Applying to All Files Within a Directory
+		A. Installation
+			1.) Browse to "J5 Project CAD 2014\Resources\SolidWorks Settings & Tools\Macros\Tools" and open "SW Macro Runner Installer.zip".
+			2.) Run "setup.exe" located inside the archive. The program will install.
+			3.) Once installed, the shortcut to the program will be in your Windows Start Menu.
+		B.) Usage
+			1.) Run SolidWorks 2014, wait for it to load, and leave it open.
+			2.) Run SolidWorks Macro Runner.
+			3.) Select the macro to be run.
+			4.) Select the folder you wish the macro to be run upon.
+			5.) Choose whether or not to include subfolders. This should be checked if you want to apply the macro to everything in the above folder.
+			6.) Select whether the macro should be applied to parts, assemblies, or drawings.
+				Note: For "Apply Image Quality [All Types].swp", I recommend doing parts first, then assemblies, and finally, drawings. I do not advise doing all types at once.
+				      I also recommend turning off the display of errors, such as rebuild prompts/errors and missing components, in order to not be interrupted during the process.
+			7.) Turn "Save" and "Close" on.
+			8.) Set "Stop after" to 0 to do all files.
+			9.) Click "Run".
+			
+			Note: Again, SolidWorks Macro Runner will attempt to restart SolidWorks after 500 files for performance reasons the author coded in.
+				Should any problems arise regarding this:
+				1.) Close the Macro Runner and SolidWorks should they be open.
+				2.) Run SolidWorks 2014, wait for it to load, and leave it open.
+				3.) Run SolidWorks Macro Runner.
+				4.) Follow the instructions above, though choosing to start at file 498-500.
+				5.) Repeat as necessary.
+
+	ii.) Applying to a Single File
+		1.) Have the document you wish to be affected open.
+		2.) Go up to the SolidWorks Ribbon and go to "Tools". Go down to "Macro" and choose "Run..."
+		3.) Select the macro. 		
+		The macro will run immediately and may give no indication when it is done. Note that the macros I have created do not save afterwards for safety reasons.
+
+		Note: If you want a much quicker way to run a macro, I suggest looking at this link:
+		      http://help.solidworks.com/2014/English/api/sldworksapiprogguide/GettingStarted/Assign_SolidWorks_Macro_to_Button.htm
+
+----------
+
+IV.) Editing
+
+	i.) Editing a Macro
+		1.) Go up to the SolidWorks Ribbon and go to "Tools". Go down to "Macro" and choose "Edit..."
+		2.) Select the macro you wish to edit.
+
+Anyone is free to edit these as they so choose, especially if they need to edit a path.
+I strongly recommend copying these macros to somewhere on your hard drive before editing, so you can have your own "personalized" copy.
+
+All the information on the SolidWorks API can be gathered from the website, forums, Google, etc.
+
+Please feel free to ask for help if you need to edit, or have any feature requests!
+
+----------
+
+V.) Notes
+
+Because I, Andrew, have created these macros, within the code there are paths relative to my system. For example:
+
+"boolstatus = Part.Extension.LoadDraftingStandard("Z:\J5 Project CAD 2014\Resources\SolidWorks Settings & Tools\Drafting Standard\_____.sldstd")"
+
+As you can see, it references the "Z:\J5 Project CAD 2014\" location on my computer. Lines like this MUST be changed if you intend to run the macro yourself. And believe me, there are A LOT of lines
+similar to this one. I cannot for the life of me, write macros that work otherwise.

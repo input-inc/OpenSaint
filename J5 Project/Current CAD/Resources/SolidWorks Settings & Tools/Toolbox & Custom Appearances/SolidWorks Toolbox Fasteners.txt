@@ -1,0 +1,154 @@
+As taken from "METRIC THREAD -- EXTENDED THREAD SIZE RANGE.htm":
+	Thread Minor Diameter = External Minor Dia. Max. (d3)
+	Thread Minor Diameter Inside = Internal Minor Dia. Min. (D1)
+
+Type: ANSI Inch Socket Head Cap Screw
+	Length:
+		Size: 3/8
+		Length: 8
+		Thread Length: 1.25
+	Notes:
+		Needed for "[TDRV-COMN-B-V2] Top Idler.SLDASM".
+
+Type: ANSI Inch Socket Set Screw Cup Point
+	Length:
+		Size: 1/4
+		Length: 1.125
+		Partial Thread: 0
+		Cone Angle: 90
+		Cup Nose Angle: 45
+	Notes:
+		Used in one hole of the "[TIP-COMN-01] Collar" on the Tiptoe Tube assembly.
+
+Type: ANSI Inch Socket Set Screw Flat Point
+	Length:
+		Size: #4
+		Length: 0.375
+		Partial Thread: 0
+		Cone Angle: 90
+		Cup Nose Angle: 45
+	Notes:
+		Used as to adjust belt tension for the Neck potentiometer.
+	Length:
+		Size: #10
+		Length: 0.125
+		Partial Thread: 0
+		Cone Angle: 118
+		Cup Nose Angle: 30
+	Notes:
+		Can be used on the Hitec Shaft Coupler (ServoCity 525134).
+
+Type: ANSI Inch Socket Button Head Cap Screw
+	Length:
+		Size: #4
+		Length: 1.75
+		Thread Length: 1.75
+	Notes:
+		Used to attach the MFRC to a servo with a nylon output shaft.
+
+Type: ANSI Inch Pan Cross Head Machine Screw
+
+	Length:
+		Size: #0
+		Lengths: 0.75, 1.1875, 1.25
+		Thread Lengths: 0.75, 1.1875, 1.25
+	Length:
+		Size: #1
+		Lengths: 1, 1.125
+		Thread Lengths: 1, 1.125
+	Notes:
+		We use these screws as case screws on most of the servos in the CAD.
+		It is most likely NOT the correct size, however it bears the closest resemblance until further measurements can be taken.
+
+Type: ANSI Metric Socket Head Cap Screw
+	Length:
+		Size: M6
+		Length: 140
+		Thread Length: 140
+	Notes:
+		Holds together the AmpFlow E30-400 motor.		
+
+Type: ANSI Metric Socket Countersunk Head Cap Screw
+
+	Size:
+		Size: M2
+		Pitch: 0.4
+		Diameter: 2
+		Head Diameter: 4.5
+		Head Minimum: 4
+		Head Height: 1.25
+		Head Angle: 90
+		Heat Fillet Radius: 0.1
+		Hex Size: 1.3
+		Key Engagement: 0.975
+		Threads Per Unit: 0.4
+	Length:
+		Size: M2
+		Lengths: 6, 8, 10, 12
+		Thread Lengths: 6, 8, 10, 12
+	Notes:
+		Also use this data for the Metric Countersunk Hole Wizard section.
+		This screw is used throughout the Tool Arm to mount the MFA-Como 944D Series Gearmotors.
+		Measurements are taken from McMaster-Carr's model.
+
+Type: JIS Cross Recess Binding Head
+
+	Size:
+		Size: M2.6
+		Pitch: 0.45
+		Diameter: 2.6
+		Head Diameter: 5.5
+		Head Height: 1.6
+		Oval Height: 0.5 (Copied from M2.5)
+		Head Fillet Radius: 0.1 (Copied from M2.5)
+		Slot/Recess fields copied from M2.5 (Uses #1 Phillips driver like M2.5)
+		Counterbore Diameter: 6.05 (Head Diameter * 1.1)
+		Drive Types: CrossAndSlot
+		Threads Per Unit: 0.45
+	Length:
+		Size: M2.6
+		Lengths: 8, 30
+		Thread Lengths: 8, 30
+	Thread Data:
+		Size: M2.6
+		Thread Diameter: 2.6
+		Advance: 0.45
+		Thread Minor Diameter: 2.093
+		Thread Minor Diameter Inside: 2.113
+		Tap Drill: 2.15
+		Thread Description: M2.6x0.45
+		Threads Per Unit: 0.45
+		fullsize: M2.6x0.45
+	Notes:
+		Also use this data for the JIS Tapped Hole Wizard section.
+		This screw is used on the output shaft of standard-size Hitec metal gear servos such as the HSR-5995TG and HS-7980TH.
+
+	Size:
+		Size: M2.3
+		Pitch: 0.45
+		Diameter: 2.3
+		Head Diameter: 4.9
+		Head Height: 1.4
+		Oval Height: 0.5 (Copied from M2.5)
+		Head Fillet Radius: 0.1 (Copied from M2.5)
+		Slot/Recess fields copied from M2.5 (Uses #1 Phillips driver like M2.5)
+		Counterbore Diameter: 5.39 (Head Diameter * 1.1)
+		Drive Types: CrossAndSlot
+		Threads Per Unit: 0.45
+	Length:
+		Size: M2.3
+		Length: 5
+		Thread Length: 5
+	Thread Data:
+		Size: M2.3
+		Thread Diameter: 2.3
+		Advance: 0.45
+		Thread Minor Diameter: 1.793
+		Thread Minor Diameter Inside: 1.813
+		Tap Drill: 1.85
+		Thread Description: M2.3x0.45
+		Threads Per Unit: 0.45
+		fullsize: M2.3x0.45
+	Notes:
+		Also use this data for the JIS Tapped Hole Wizard section.
+		This screw is used on the output shaft of micro-size Hitec metal gear servos such as the HS-85MG.

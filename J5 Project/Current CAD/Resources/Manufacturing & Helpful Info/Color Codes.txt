@@ -1,0 +1,32 @@
+Johnny Five Color Codes Taken From Stunt Laser Prop
+Measured With a Nix Color Sensor on 07/01/2018
+
+--------------------------------------------------
+
+Gray
+	111,109,116
+	111,110,115
+	108,107,112
+	109,109,115 
+	Average: 110,109,115
+	Note: Gray and Blue are shiny or satin.
+
+--------------------------------------------------
+
+Blue
+	64,82,98
+	64,80,97
+	66,85,99
+	64,85,99
+	Average: 65,83,98
+	Note: Gray and Blue are shiny or satin.
+
+--------------------------------------------------
+
+Black
+	50,57,55
+	55,60,60
+	51,55,54
+	52,59,58
+	Average: 52,58,57
+	Note: Flat Black, nothing special.

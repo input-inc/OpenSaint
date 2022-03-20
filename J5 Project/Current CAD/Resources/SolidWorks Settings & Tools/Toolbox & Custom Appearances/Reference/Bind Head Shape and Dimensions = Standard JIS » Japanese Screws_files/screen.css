@@ -1,0 +1,225 @@
+/*--------------------------------------------------
+version: screen.css - 1.6
+created: 20-07-2011
+author: Michael Eccleston ~ GlobalGraphics Associates Ltd.
+email: webmaster@globalgraphics.co.uk
+website: http://www.globalgraphics.co.uk/
+--------------------------------------------------*/
+
+@import url("base.css");
+/*@import url("generic.css");*/
+@import url("enrichment.css");
+
+/* 2 Cols */
+@import url("wireframes/2a.css");
+/* overrides */
+#content { float: none; margin-bottom: 20px; min-height: 340px; overflow: hidden; width: 100%; }
+
+/*-------------------------------------------------------------------*/
+/* BASE CSS OVERRIDES  /  BASIC STYLES */
+/*-------------------------------------------------------------------*/
+
+body { background: #DBEEF7 url('../img/ui/background.jpg') repeat-x left top; }
+body, input, textarea { font-family: Arial, Helvetica, sans-serif; }
+
+.container { margin: 0 auto; position: relative; text-align: left; width: 940px; padding: 10px; background-color: #fff; }
+
+a { color: #399; text-decoration: none; }
+a:hover { color: #0cc; }
+/* styles repeated in .entries li a */
+a.button { background-color: #099; border: 1px solid #099; color: #fff; cursor: pointer; font-size: 11px; font-weight: bold; padding: 2px 8px; text-transform: uppercase; }
+a.button:hover { background-color: #0cc; border-color: #0cc; }
+
+/* p, ul, ol, dl, label { font-size: 1.2em; line-height: 1.6em; margin-bottom: 1em; }
+li p, dd p { font-size: 1em; }
+h1 { font-size: 4.8em; }
+h2 { font-size: 3.6em; }
+h3 { font-size: 2.4em; }
+h4 { font-size: 2.1em; }
+h5 { font-size: 1.8em; }
+h6 { font-size: 1.6em; }
+h1, h2, h3, h4, h5, h6 { margin-bottom: 0.4em; }
+blockquote { font-family: Georgia, "Times New Roman", Times, serif; margin: 0 1em; }
+code { font-family: "Courier New", Courier, monospace; font-size: 12px; }
+input, textarea { font-size: 1.2em; } */
+p, ul, ol, dl, label { color: #666; }
+ul, ol { font-size: 1em; }
+li p { font-size: 1.2em; }
+h1 { font-size: 2.3em; }
+h2 { font-size: 2.1em; }
+h3 { font-size: 1.8em; }
+h4 { font-size: 1.6em; }
+h5 { font-size: 1.5em; }
+h6 { font-size: 1.4em; }
+h1, h2 { color: #ffc20e; font-weight: normal; letter-spacing: 2px; margin-bottom: 0.7em; text-transform: lowercase; }
+h1 span, h2 span { color: #999; }
+h3, h4, h5, h6 { color: #666; font-weight: normal; }
+
+/* forms */
+input, textarea, select { border: 1px solid #ccc; padding: 2px; background-color: #fff; color: #333; }
+input.narrow { width: 50px; }
+input[type="submit"], input.button { background-color: #fff; border: 1px solid #fff; color: #399; cursor: pointer; font-weight: bold; padding: 2px 8px; }
+input[type="submit"]:hover, input.button:hover { border: 1px solid #0cc; color: #0cc; }
+input[type="checkbox"], input.chkbox, input.auto, select.auto, label.auto { width: auto; }
+input:focus, textarea:focus, select:focus { border-color: #999; }
+input.error, textarea.error, select.error { border-color: #f00; }
+input[type="radio"], input[type="checkbox"], input.checkbox, input.radio { border: none; }
+
+/* basic contact form */
+/* see also enrichment.css */
+#quickenqform { margin-left: 20px; }
+.basic legend { display: none; }
+.basic li { padding: 5px 0; position: relative; }
+.basic li p { font-size: 1.1em; line-height: 1.3em; margin-bottom: 0; }
+.basic li.submit { overflow: hidden; }
+.basic input, .basic textarea, .basic select { display: block; font-size: 1.1em; margin: 0; width: 200px; }
+.basic select { width: auto; }
+.basic input.narrow { width: 50px; }
+.basic label { font-size: 1.1em; }
+.basic label.over { position: absolute; top: 9px; left: 4px; line-height: 1em; margin: 0; }
+.basic li.validation label { float: left; margin-right: 3px; margin-top: 4px; position: static; text-indent: 0px !important; }
+.basic input[type="submit"], .basic input.button { float: right; width: auto; }
+
+/*-------------------------------------------------------------------*/
+/* HEADER */
+/*-------------------------------------------------------------------*/
+
+#header { height: 120px; position: relative; }
+
+#logo { background: transparent url('../img/ui/logo.jpg') no-repeat top left; height: 42px; text-indent: -5000px; width: 220px; float: left; clear: both; }
+#heads_logo { background: transparent url('../img/ui/heads.jpg') no-repeat top left; height: 62px; text-indent: -5000px; width: 103px; float: right;  }
+#header p { color: #ffc20e; font-size: 23px; letter-spacing: 5px; line-height: 1.2em; text-transform: lowercase; float: left; margin: 10px 0 0 20px; }
+
+#header ul { height: 17px; margin-bottom: 10px; float: right; margin-top: 20px; }
+#header ul a { color: #999; }
+#header ul a:hover { color: #0cc; }
+#header li { color: #999; float: left; font-size: 14px; line-height: 17px; margin-left: 10px; }
+#header li:first-child { margin-left: 0px; }
+
+#header ul#flags { margin-right: 20px; }
+
+/*-------------------------------------------------------------------*/
+/* NAVIGATION */
+/*-------------------------------------------------------------------*/
+
+/* see also enrichment.css */
+#nav { background: #666 url('../img/ui/nav.png') repeat-x top left; height: 40px; margin-bottom: 10px; overflow: hidden; }
+#nav li { background: transparent url('../img/ui/nav-divider.png') no-repeat top left; float: left; padding-left: 3px; }
+#nav li:first-child { background: none; padding-left: 0px; }
+#nav a { color: #fff; display: block; font-size: 14px; line-height: 40px; padding: 0px 19px; }
+#nav a:active, #nav a:focus, #nav a:hover, #nav a.active { color: #ffc20e; }
+
+/*-------------------------------------------------------------------*/
+/* BANNER */
+/*-------------------------------------------------------------------*/
+
+#banner { height: 250px; margin-bottom: 20px; overflow: hidden; position: relative; width: 940px; }
+
+#slider { height: 250px; overflow: hidden; width: 940px; }
+#slider ul, #slider li, #slider2 ul, #slider2 li { margin: 0; padding: 0; list-style: none; }
+#slider li, #slider2 li { height: 250px; overflow: hidden; position: relative; width: 940px; }
+
+#controls { bottom: 20px; font-size: 11px; left: 10px; line-height: 1em; margin-bottom: 0; position: absolute; }
+#controls li { background-color: #333; float: left; margin-left: 10px; }
+#controls li a { color: #fff; display: block; line-height: 20px; height: 20px; text-decoration: none; width: 20px; text-align: center; }
+#controls li.current a { color: #ffc20e; }
+#controls li a:active, #controls li a:focus, #controls li a:hover { color: #ffc20e; }
+
+/* see also enrichment.css */
+/*#slider div { background-color: #000; background-color: rgba(0,0,0,0.4); padding: 5px; position: absolute; right: 30px; top: 70px; width: 260px; }
+#banner p { color: #fff; font-size: 11px; margin-bottom: 0px; }
+#banner .heading, #banner .subpage-heading { color: #ffc20e; font-size: 24px; line-height: 26px; letter-spacing: 2px; margin-bottom: 0.4em; text-transform: lowercase; }
+#banner .heading span, #banner .subpage-heading span { color: #fff; }
+#banner .heading a, #banner .subpage-heading a { color: #ffc20e; }
+#banner .heading a span, #banner .subpage-heading a span { color: #fff; }
+#banner .subpage-heading { position: absolute; right: 30px; top: 100px; }*/
+
+/* see also enrichment.css */
+/* z-index - must be above #slider */
+#banner p { color: #ffc20e; font-size: 26px; left: 20px; line-height: 28px; letter-spacing: 2px; margin-bottom: 0.4em; position: absolute; text-transform: lowercase; top: 100px; z-index: 1001; }
+#page-home #banner p { background: rgba(0, 0, 0, 0.3); left: 0px; line-height: 50px; padding: 0 20px; }
+#banner p span { color: #fff; }
+#banner a { color: #ffc20e; }
+#banner a span { color: #fff; }
+
+/* must be below #banner p */
+#slider { z-index: 1000; }
+
+
+/*-------------------------------------------------------------------*/
+/* CONTENT */
+/*-------------------------------------------------------------------*/
+
+#content .primary { float: right; width: 620px; }
+#content .secondary { float: left; width: 300px; }
+
+/* see also enrichment.css */
+/* .box also used (and modified) in #footer */
+.box { border: 1px solid #ccc; overflow: hidden; padding: 19px 19px 4px 19px; }
+#content .box p { font-size: 11px; line-height: 15px; }
+
+.rule { border-right: 1px solid #ffc20e; padding-right: 10px; text-align: left; }
+.rule blockquote { font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 10px 30px; }
+#content .secondary .rule blockquote { text-align: right; }
+.rule p { line-height: 2em; }
+.rule blockquote.highlighted p {  color: #ffc20e; font-size: 1.6em; }
+
+#content .primary ul.bullets { list-style-type: disc; list-style-position: inside; }
+#content .primary ul.bullets li { font-size: 1.2em; }
+
+.row3 li { float: left; margin: 0 30px 30px 0; height: 155px; width: 150px; }
+.row3 img { border: 1px solid #ccc; }
+
+/*-------------------------------------------------------------------*/
+/* CONTENT > HOMEPAGE */
+/*-------------------------------------------------------------------*/
+
+#page-home #content h2 { clear: both; }
+
+/*-------------------------------------------------------------------*/
+/* CONTACTS (include file used in footer and on contact page) */
+/*-------------------------------------------------------------------*/
+
+#contacts { list-style: none; margin-bottom: 15px; overflow: hidden; }
+#contacts li { color: #999; float: left; font: normal 11px/1.2em Tahoma, Geneva, sans-serif; margin-left: 40px; width: 150px; }
+#contacts li strong { color: #666; }
+#contacts li:first-child { margin-left: 0px; }
+#contacts a { color: #999; }
+#contacts a:hover { color: #0cc; }
+
+/*-------------------------------------------------------------------*/
+/* Products menu */
+/*-------------------------------------------------------------------*/
+
+#products { padding-left: 20px; }
+#products li { padding: 10px 0; border-bottom: 1px dotted #999999; }
+#products li ul { margin: 0; }
+#products li ul li { padding: 2px 0; border-bottom: none; }
+#products li h3 { font-size: 20px; color: #333333; font-weight: normal; }
+#products li a { font-size: 14px; }
+
+
+.primary ul li, .primary ol li { font-size: 12px; }
+/* .primary h2 { font-size: 17px; color: #333333; text-transform: capitalize; } */
+.primary table { width: 100%; font-size: 11px; color: #333333; margin-bottom: 20px; border-bottom: 2px solid #FFCC33; }
+.primary table tr.last { border-bottom: 2px solid #FFCC33; }
+.primary table tr th { background-color: #E5E5E5; font-weight: normal; margin-right: 2px; }
+.primary table tr th, .primary table tr td { padding: 5px; text-align: center; }
+.primary table tr:nth-child(2n+1) { background-color: #F5F5F5; }
+
+.text li { list-style: disc; margin-left: 30px; }
+
+#map { float: right; }
+
+/*-------------------------------------------------------------------*/
+/* FOOTER */
+/*-------------------------------------------------------------------*/
+
+#footer { overflow: hidden; margin-bottom: 10px; }
+#footer .box { margin-bottom: 20px; }
+#footer p { color: #666; font: normal 11px/1.2em Tahoma, Geneva, sans-serif; }
+#footer p a { color: #666; }
+#footer p a:hover { color: #0cc; }
+#footer .primary { float: left; }
+#footer .secondary { float: right; width: 180px; }
+#footer .secondary img { display: block; margin-bottom: 20px; }
