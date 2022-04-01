@@ -20,7 +20,7 @@ For those without Git experience we recommend downloading [Git Desktop](https://
 4. Select the `File` menu and select `Clone Repository`.
 5. Select the `URL` tab from the dialog.
 6. Enter the URL of this repository (Found in the Clone menu on the repository website. HTTPS preferred)
-7. Choose a location where you want to save the files. **IMPORTANT: ** For Windows you must install at the top level of a drive like C:, because the path names will exceed the Windows maximum length if it is installed elsewhere.
+7. Choose a location where you want to save the files. **IMPORTANT:** For Windows you must install at the top level of a drive like C:, because the path names will exceed the Windows maximum length if it is installed elsewhere.
 8. Click the `Clone` button.
 9. Wait for the repository to finish downloading.
 
