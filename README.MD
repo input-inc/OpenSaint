@@ -25,8 +25,8 @@ For those without Git experience we recommend downloading [Git Desktop](https://
 9. Wait for the repository to finish downloading.
 
 ### Git Command-line Steps
-This requires `git lfs`. Download and install in whatever way is appropriate for your operating system.
-1. `git lfs clone <repository URL> <path to save>`
+This requires current versions of `git` and `git lfs`. Download and install in whatever way is appropriate for your operating system.
+1. `git clone <repository URL> <path to save>`
 
 ## Reading the CAD
 
@@ -67,23 +67,27 @@ For these machines we recommend the largest you can afford and realistically own
 - 3D printer (FDM: 350mm2 minimum recommended, Resin)
 
 ### Tools
-Fractional and Metric alan wrench sets - Most of the fasteners on OpenSAINT are fractional size socket head cap screws. We recommend a quality set of these that go down to .028” and 0.7mm
+Fractional and Metric allen wrench sets - Most of the fasteners on OpenSAINT are fractional size socket head cap screws. We recommend a quality set of these that go down to .028” and 0.7mm
 
 ## Vendors
 Most off-the-shelf parts included in the CAD include part numbers for ease of searching. 
 
 ### Fasteners
 - [McMaster-Carr](https://www.mcmaster.com) - Unless otherwise specified, most of the fasteners can be found here. 
+- [Bolt Depot](https://boltdepot.com)
+- [Fastenal](fastenal.com)
 
 ### Laser cutting
-For last cut parts we’ve found the following vendors to provide excellent results:
+For laser cut parts we’ve found the following vendors to provide excellent results:
 
 - [SendCutSend](https://sendcutsend.com) - 2D sheet metal, laser cutting, and some bending.
 - [OSHCut](https://www.oshcut.com) - 2D sheet metal, laser cutting, and bending
 - [Ponoko](https://www.ponoko.com) - Plastics laser cutting
 
 ### PCBs
+- [JLPCB](https://jlpcb.com)
 - [OSH Park](https://oshpark.com)
+- [PCBWay](https://pcbway.com)
 
 ### Servos
 - [Servo City](https://www.servocity.com) - Motors, servos, gears
@@ -91,6 +95,11 @@ For last cut parts we’ve found the following vendors to provide excellent resu
 
 ### 3D Printing
 - [CraftCloud](https://craftcloud3d.com) - A large marketplace for 3D printing services.
+
+### Other Vendors
+- [Bearings Direct](https://bearingsdirect.com)
+- [MetalsDepot](https://www.metalsdepot.com)
+
 
 ## Where to get parts
 - Part runs - Occasionally Input-Inc. members will have parts for sale, or do parts runs. Visit our Facebook group and check the announcements for parts runs. We do our best to ensure fit and compatibility but you may still need to make adjustments on stuff.
