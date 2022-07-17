@@ -4,7 +4,7 @@
 | Description | Front 7&quot; idler assembly. Contains drive sprocket. |
 | Author | SixWingedFreak |
 | Date | 01/30/2016 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2021 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2022 |
 # v2 Bearing Cup Layout
 | Attribute | Value |
 | ---  | ---     |

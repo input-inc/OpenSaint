@@ -3,6 +3,7 @@
 | ---  | ---     |
 | Description | All vent fins (1-5) for both left and right side |
 | Author | hackmancoltaire |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2022 |
 # 2r
 | Attribute | Value |
 | ---  | ---     |

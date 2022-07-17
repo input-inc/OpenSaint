@@ -3,6 +3,7 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 11/30/2019 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2022 |
 # Right
 | Attribute | Value |
 | ---  | ---     |
