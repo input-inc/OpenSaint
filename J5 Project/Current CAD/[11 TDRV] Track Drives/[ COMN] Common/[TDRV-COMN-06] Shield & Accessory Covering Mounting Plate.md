@@ -3,8 +3,8 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 05/18/2015 |
-| Material | AISI 316 Stainless Steel Sheet (SS) |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2021 |
+| Material | 5052-H32 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2022 |
 # Default
 | Attribute | Value |
 | ---  | ---     |

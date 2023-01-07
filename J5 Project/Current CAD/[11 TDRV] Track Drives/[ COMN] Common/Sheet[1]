@@ -1,8 +1,12 @@
 # Default
----
 | Attribute | Value |
 | ---  | ---     |
 | Description | Sheet |
-| Material | AISI 316 Stainless Steel Sheet (SS) |
+| Material | 5052-H32 |
 | Cost | 0.00 |
----
+# DefaultSM-FLAT-PATTERN
+| Attribute | Value |
+| ---  | ---     |
+| Description | Sheet |
+| Material | 5052-H32 |
+| Cost | 0.00 |

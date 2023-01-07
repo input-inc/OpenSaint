@@ -15,3 +15,8 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 01/30/2016 |
+# with 3-Piece Sprocket
+| Attribute | Value |
+| ---  | ---     |
+| Author | SixWingedFreak |
+| Date | 01/30/2016 |

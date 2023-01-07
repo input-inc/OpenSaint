@@ -16,3 +16,8 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 05/19/2015 |
+# .5&quot; Thick for multi-part
+| Attribute | Value |
+| ---  | ---     |
+| Author | SixWingedFreak |
+| Date | 05/19/2015 |
