@@ -3,6 +3,7 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 03/15/2016 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2015 |
 # With LiFePO4 Batteries
 | Attribute | Value |
 | ---  | ---     |

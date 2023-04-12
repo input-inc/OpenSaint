@@ -8,7 +8,7 @@
 | Number | 217-5844 |
 | Part Type | Purchased |
 | Cost | 16.99 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2021 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2022 |
 # Default
 | Attribute | Value |
 | ---  | ---     |

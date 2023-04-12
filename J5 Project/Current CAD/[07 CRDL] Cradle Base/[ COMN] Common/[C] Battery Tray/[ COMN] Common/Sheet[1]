@@ -1,9 +1,10 @@
-# @
----
+# Default&lt;As Machined&gt;
 | Attribute | Value |
 | ---  | ---     |
 | Description | Sheet |
-| Author | SixWingedFreak |
-| Date | 08/30/2017 |
-| Material | AISI 316 Stainless Steel Sheet (SS) |
----
+| Material | 5052-H32 |
+# Default&lt;As Machined&gt;SM-FLAT-PATTERN
+| Attribute | Value |
+| ---  | ---     |
+| Description | Sheet |
+| Material | 5052-H32 |

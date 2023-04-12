@@ -5,7 +5,7 @@
 | Author | hackmancoltaire |
 | Date | 12/23/2022 |
 | Material | 5052-H32 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2022 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
 # Default
 | Attribute | Value |
 | ---  | ---     |
