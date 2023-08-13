@@ -8,7 +8,7 @@
 | Vendor | McMaster-Carr Supply Company |
 | Material | Steel Grade 8 |
 | Part Type | Purchased |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2022 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
 # Default
 | Attribute | Value |
 | ---  | ---     |
@@ -17,6 +17,34 @@
 | Material | Steel Grade 8 |
 | Part Type | Purchased |
 # Simplified
+| Attribute | Value |
+| ---  | ---     |
+| Author | hackmancoltaire |
+| Date | 04/10/2022 |
+| Material | Steel Grade 8 |
+| Part Type | Purchased |
+# 2
+| Attribute | Value |
+| ---  | ---     |
+| Author | hackmancoltaire |
+| Date | 04/10/2022 |
+| Material | Steel Grade 8 |
+| Part Type | Purchased |
+# 2 - Complex
+| Attribute | Value |
+| ---  | ---     |
+| Author | hackmancoltaire |
+| Date | 04/10/2022 |
+| Material | Steel Grade 8 |
+| Part Type | Purchased |
+# 8.5
+| Attribute | Value |
+| ---  | ---     |
+| Author | hackmancoltaire |
+| Date | 04/10/2022 |
+| Material | Steel Grade 8 |
+| Part Type | Purchased |
+# 8.5 - Complex
 | Attribute | Value |
 | ---  | ---     |
 | Author | hackmancoltaire |

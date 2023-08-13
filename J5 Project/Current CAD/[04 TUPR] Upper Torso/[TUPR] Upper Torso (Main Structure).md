@@ -3,7 +3,7 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 03/05/2016 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2022 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
 # LASR (Without Coverings)
 | Attribute | Value |
 | ---  | ---     |

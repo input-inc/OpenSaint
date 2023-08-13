@@ -1,3 +1,42 @@
+July 2023 (Released in August)
+
+* Removed lip from lower torso bearing collar to make it laser cuttable
+* Added 3D Printable Lower Torso Actuator Support and updated lower torso supports to match
+* Change Wollensak lens diaphragm leaf thickness to match actual part
+* Added tolerance adjustment features to nose carrier side covering
+* Added drawings for V3 PEM version of lower torso
+* Fixed broken mates in right eye
+* Added drawings for lower torso rod mount, and frame plate
+* Added drawing for ID actuator mounting block
+* Removed various tolerances on servo arms in the head to account for better 3D printing capabilities.
+* Added a middle cutout configuration for the 3D printable nose basket.
+* Added drawings for the upper A-Frame plates.
+* Updated PEM version of the angled plate to conform with SendCutSend’s abilities.
+* Added drawings for 2-piece upper A-Frame bearing cup.
+* Updated data plates parts with new design from Andrew.F
+* Rebuilt the Upper A-Frame parts into a single part with exports, instead of duplicates.
+* Added 3D printable PCB Mounting Assembly to the Upper Torso.
+* Modified the Upper Torso side plates to create a stronger, smoother profile.
+* Modified 3” Bearing Collar to use binding barrels with the 2-part laser cut version.
+* Added drawings for the middle torso cage top and bottom plates.
+* Added an entirely new mid-torso linkage assembly intended for bent sheet metal (UNTESTED)
+* Added drawings for new A-Frame linkage
+* Added a completely new upper torso hinge assembly intended for bent sheet metal, with quick release plate.
+* Added drawings for new upper torso hinge assembly.
+* Updated the eccentric drive to center the chains, add chain mates, and add shims and spacers to the assembly. Switched materials on some of the spacers to plastic.
+* Added new wire passthrough tunnel to the eccentric drive.
+* Added new PCB mount plates to the side of the cradle base, with magnet attachment features for the coverings.
+* Updated the potentiometer housing and sprocket to make more room for the potentiometer leads.
+* Adjusted the Vishay 3-turn potentiometer part to more closely resemble the actual part.
+* Fixed mates between the Vishay potentiometer and the housing.
+* Added 44 Tooth Sprocket Drill Template for the eccentric drive sprockets, to the Jigs folder.
+* Updated the torsion springs in the neck assembly to ones you can actually find at McMaster
+* Added a Spring Spacer Plate to the neck assembly to meet the adjusted springs.
+* Modified the collar that the neck springs sit in, making the holes tighter, and changing the depth to through holes.
+* Modified the diameter of the spring bushing so the new spring doesn’t rock.
+* Added new upper torso tip connection bar linkage.
+* Added cradle base wire passthrough drill template to modify any existing sheets.
+
 April 2023
 
 * Added PEM design for Cradle Base and drawings

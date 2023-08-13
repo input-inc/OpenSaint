@@ -9,3 +9,8 @@
 | ---  | ---     |
 | Author | hackmancoltaire |
 | Date | 03/16/2016 |
+# DefaultSM-FLAT-PATTERN
+| Attribute | Value |
+| ---  | ---     |
+| Author | hackmancoltaire |
+| Date | 03/16/2016 |
