@@ -3,12 +3,8 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 08/31/2017 |
-# With LiFePO4 Batteries
-| Attribute | Value |
-| ---  | ---     |
-| Author | SixWingedFreak |
-| Date | 08/31/2017 |
-# Without Batteries
+| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
+# Default
 | Attribute | Value |
 | ---  | ---     |
 | Author | SixWingedFreak |

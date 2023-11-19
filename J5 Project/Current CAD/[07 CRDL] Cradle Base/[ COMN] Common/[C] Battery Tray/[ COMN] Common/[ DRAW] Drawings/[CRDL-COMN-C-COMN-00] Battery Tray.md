@@ -1,17 +1,15 @@
-# @
+# Layout1
 | Attribute | Value |
 | ---  | ---     |
-| Author | hackmancoltaire |
-| Date | 03/16/2023 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
-| _SW_Detailing_Mode_ | 0 |
-# Sheet1
+| Date | 03/15/2023 |
+| Drawn By | hackmancoltaire |
+# Layout2
 | Attribute | Value |
 | ---  | ---     |
-| Author | hackmancoltaire |
-| Date | 03/16/2023 |
-# Sheet2
+| Date | 03/15/2023 |
+| Drawn By | hackmancoltaire |
+# Model
 | Attribute | Value |
 | ---  | ---     |
-| Author | hackmancoltaire |
-| Date | 03/16/2023 |
+| Date | 03/15/2023 |
+| Drawn By | hackmancoltaire |

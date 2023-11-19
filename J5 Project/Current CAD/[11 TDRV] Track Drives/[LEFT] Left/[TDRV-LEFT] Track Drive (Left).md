@@ -10,3 +10,8 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 02/02/2016 |
+# With EV105 Batteries_speedpak
+| Attribute | Value |
+| ---  | ---     |
+| Author | SixWingedFreak |
+| Date | 02/02/2016 |

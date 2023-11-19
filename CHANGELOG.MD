@@ -1,4 +1,29 @@
-July 2023 (Released in August)
+# October 2023 (Released in November)
+
+* Added drawings for the cradle base top and bottom blocks
+* Added new 3D printed mounts for cradle base coverings
+* Complete rework of the shield coverings into 3 part magnet mounted marvels
+* Updates to track drive accessory coverings to use magnet mounts
+* Deleted STL exports for the EV105 Case. Export them yourself
+* Added flat patterns for the cradle base battery tray
+* More progress on the arms, but still not done. Stay tuned
+* Added flat pattern for the curved support bracket
+* Swapped out the cradle base shaft caps in favor of off the shelf components
+* Adjusted the track drive side coverings to be properly symmetrical, and added wire channel cutouts
+* Which required minor changes to the outer wire channel
+* Added an accessory bundle and mounting plate to the track drives.
+* Removed superfluous hole in track tip tube
+* Added wire protection design to the track tip spacer
+* Added more speedpaks to make large assemblies load faster. Refer to our speedpak video to turn it off.
+* Updates to the “Jesus” switch assembly in the middle torso to take the pin out, in favor of a 3D printed feature. Also re-oriented the assembly, because reasons.
+* Updated the tie bar assembly and added drawings
+* Updated Banana plates to match SendCutSend’s capabilities, and fixed hole sizes in L plates
+* Fixed a collision issue with the middle torso pivot bushing
+* Updated the lower torso actuator limit mate, as it should never go to 6”
+* Finalized the mid torso linkage
+* Added a cradle base wire passthrough drill jig template to modify plates that have already been cut
+
+# July 2023 (Released in August)
 
 * Removed lip from lower torso bearing collar to make it laser cuttable
 * Added 3D Printable Lower Torso Actuator Support and updated lower torso supports to match
@@ -37,7 +62,7 @@ July 2023 (Released in August)
 * Added new upper torso tip connection bar linkage.
 * Added cradle base wire passthrough drill template to modify any existing sheets.
 
-April 2023
+# April 2023
 
 * Added PEM design for Cradle Base and drawings
 * Added PEM design for Lower Torso
@@ -69,7 +94,7 @@ April 2023
 * Added new 3D printable tip toe tube spacers, instead of using brass / metal.
 * Fixed some lower-half mates in full assembly.
 
-January 2023
+# January 2023
 
 * Updated arm design (Elbow movement only)
 * Added a drawing for the tip-toe tube
@@ -87,7 +112,7 @@ January 2023
 * Added a new printable bearing spacer for the shoulder tube
 * Added a new track hole link guide to drill holes into track links one at a time with repeatable accuracy.
 
-July 2022
+# July 2022
 
 * Added the new laser cut lower a-frame as a configuration to the lower a-frame assembly.
 * Updated the EV105 battery box assembly so it exports the sub parts properly
