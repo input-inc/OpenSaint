@@ -1,3 +1,34 @@
+# January 2024 (Released in February)
+
+* Upper Half Speedpack Updates
+* Added countersink to track drive accessory plate to avoid PEM protrusion
+* Added a small spacer to the EV105 Battery Case for batteries that are shorter than the originals we used to design the case
+* Adjustments to the middle torso bushings and plastic spacers
+* Changed material callouts for middle torso bent plates
+* Small rework of left shoulder (Right shoulder to follow) that makes the metal cuffs easier to laser cut, and the vertical cuff a wire passthrough and a 3D printable part. Also changed the vertical plate’s vertical post width to eliminate the chamfer.
+* Added information the the data card for the shoulder bearing.
+* Created new 1-Piece neck cup design, and retainer ring.
+* Major changes to the tool arm coverings and rear cap. Improved the geometry to make them nest together better, and increased their thickness to .125”.
+* Started rework of the tool arm section to create a mounting system for PCBs and accessories to be slot mounted. This section is still incomplete.
+* Changed the tubes for the accessory (laser/toolbox) and tool arm to be 3D printed instead of metal, and introduced new aluminum channel to make these sections structurally stable, and altered the mounting method to make these easier to remove.
+* Adjusted the cradle base eccentric drive support rod’s hole callout to 1/4-28. Terry thought it was oversized. This change should have minimal impact for anyone who has already made it.
+* Moderate adjustments to the upper torso plates, including the removal of the middle plate’s bottom flange, as it served no structural purpose. Changed hole callouts to “close”, and rounded all the sharp corners, punched a big hole through all the plates for wire passthrough and designed a new 3D printed part to aid in wire passthrough that avoids the actuator.
+* Exported flat patterns for the changes to the upper torso.
+* The upper torso assembly now uses 2 shoulder bolts instead of a through-bolt. This is more like the original design and provides better compression per side.
+* Fixed a length error in the Eye Vent pins on the left side, and a configuration error on the right side assembly.
+* Started documenting the ASME05B case as it has slight differences to the 04B (Incomplete)
+* Added a COMPLETELY NEW V2 version of the Turkey Neck Drive, that can be assembled from 2D laser cut plates.
+* Modified the turkey neck sprocket and shafting at the rear of the neck to minimize parts between the shaft and the neck rods. Future versions of the neck rods will be simplified for this design.
+* Redesigned the clamping and accessory mounting design for the laser / toolbox. This design uses more off-the-shelf parts, and creates a wiring pass-through for the accessories. More on that in the future.
+* Updated the neck cylinder drive to increase the servo arm size and the attachment method.
+* Added a new 3D printed “Cable Saver” to allow cables to pass through the tip-toe tube without hitting the edge of the metal tubing. The parts are replaceable without having to take out any wires, if that ever becomes an issue.
+* Added to cradle base top covering mount plate out of the work area
+* Major work completed on the upper arm. Ready for prototyping. Includes new servo cages for the cabling, and an updated core for wire and pull cable passthrough.
+* Small revisions to the shield covering plates and assemblies to allow for left / right configurations and added another magnet spot so the corners stay down.
+* Added flat patterns for the caster parts to allow for laser cutting.
+* Adjusted tape locations on the cradle base top covering mounts so they are symmetrical.
+* Update to the Neck Rod Mount Blocks to prevent collision with the fastener head.
+
 # October 2023 (Released in November)
 
 * Added drawings for the cradle base top and bottom blocks

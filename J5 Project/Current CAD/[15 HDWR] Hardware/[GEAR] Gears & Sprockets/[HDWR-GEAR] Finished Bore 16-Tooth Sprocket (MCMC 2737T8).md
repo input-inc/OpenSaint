@@ -3,6 +3,7 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 09/27/2016 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # Stock
 | Attribute | Value |
 | ---  | ---     |
@@ -10,6 +11,12 @@
 | Author | SixWingedFreak |
 | Date | 09/27/2016 |
 # TUPR Neck Drive
+| Attribute | Value |
+| ---  | ---     |
+| Description | Finshed Bore 16-Tooth Sprocket (MCMC 2737T8, TUPR Neck Drive) |
+| Author | SixWingedFreak |
+| Date | 09/27/2016 |
+# Neck Drive
 | Attribute | Value |
 | ---  | ---     |
 | Description | Finshed Bore 16-Tooth Sprocket (MCMC 2737T8, TUPR Neck Drive) |

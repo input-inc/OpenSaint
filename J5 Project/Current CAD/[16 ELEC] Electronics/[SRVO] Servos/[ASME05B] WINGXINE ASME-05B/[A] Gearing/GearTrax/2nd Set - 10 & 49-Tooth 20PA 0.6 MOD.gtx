@@ -1,0 +1,1160 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:AssemblyGTX id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<m_strFullAssyName id="ref-4">C:\Users\SixWingedFreak\Desktop\49-Tooth 20PA 0.6 MOD.gtx</m_strFullAssyName>
+<m_strComponent href="#ref-5"/>
+<m_colAssyPositions href="#ref-6"/>
+<m_colAssyComponents href="#ref-7"/>
+<m_intPlanetMode>None</m_intPlanetMode>
+<m_intPlanets>0</m_intPlanets>
+<m_dblRPM>60</m_dblRPM>
+<m_intStream href="#ref-8"/>
+<m_dblStream href="#ref-9"/>
+<m_blnStream href="#ref-10"/>
+<m_strStream0 xsi:null="1"/>
+<m_strStream1 id="ref-11">True</m_strStream1>
+<m_strStream2 xsi:null="1"/>
+<m_strStream3 xsi:null="1"/>
+<m_strStream4 xsi:null="1"/>
+<m_strStream5 xsi:null="1"/>
+<m_strStream6 xsi:null="1"/>
+<m_strStream7 xsi:null="1"/>
+<m_strStream8 xsi:null="1"/>
+<m_strStream9 xsi:null="1"/>
+</a1:AssemblyGTX>
+<SOAP-ENC:Array id="ref-5" SOAP-ENC:arrayType="xsd:string[2]">
+</SOAP-ENC:Array>
+<a3:Collection id="ref-6" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Microsoft.VisualBasic/Microsoft.VisualBasic%2C%20Version%3D10.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<Keys href="#ref-12"/>
+<KeysCount>0</KeysCount>
+<Values href="#ref-13"/>
+<CultureInfo href="#ref-14"/>
+</a3:Collection>
+<a3:Collection id="ref-7" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Microsoft.VisualBasic/Microsoft.VisualBasic%2C%20Version%3D10.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<Keys href="#ref-15"/>
+<KeysCount>0</KeysCount>
+<Values href="#ref-16"/>
+<CultureInfo href="#ref-14"/>
+</a3:Collection>
+<SOAP-ENC:Array id="ref-8" SOAP-ENC:arrayType="xsd:int[10]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-9" SOAP-ENC:arrayType="xsd:double[10]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-10" SOAP-ENC:arrayType="xsd:boolean[10]">
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-12" SOAP-ENC:arrayType="xsd:string[2]">
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-13" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item href="#ref-17"/>
+<item href="#ref-18"/>
+</SOAP-ENC:Array>
+<a4:CultureInfo id="ref-14" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Globalization">
+<m_isReadOnly>true</m_isReadOnly>
+<compareInfo href="#ref-19"/>
+<textInfo href="#ref-20"/>
+<numInfo href="#ref-21"/>
+<dateTimeInfo href="#ref-22"/>
+<calendar href="#ref-23"/>
+<m_dataItem>0</m_dataItem>
+<cultureID>1033</cultureID>
+<m_name id="ref-24">en-US</m_name>
+<m_useUserOverride>true</m_useUserOverride>
+</a4:CultureInfo>
+<SOAP-ENC:Array id="ref-15" SOAP-ENC:arrayType="xsd:string[2]">
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-16" SOAP-ENC:arrayType="xsd:anyType[2]">
+<item href="#ref-25"/>
+<item href="#ref-26"/>
+</SOAP-ENC:Array>
+<a1:AssyPosition id="ref-17" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<m_strComponentName id="ref-28">49-Tooth 20PA 0.6 MODPinion</m_strComponentName>
+<m_strComponentPath xsi:null="1"/>
+<m_strPositionName id="ref-29">apSpurPinion1</m_strPositionName>
+<m_intMateType>None</m_intMateType>
+<m_CBColor>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>35</knownColor>
+<state>1</state>
+</m_CBColor>
+<m_dblRPM>60</m_dblRPM>
+<m_blnBackLashNormalDirection>true</m_blnBackLashNormalDirection>
+<m_blnFlipLineOfAction>false</m_blnFlipLineOfAction>
+<m_blnCenterDistanceLocked>false</m_blnCenterDistanceLocked>
+<m_blnBelongsToPlanetSet>false</m_blnBelongsToPlanetSet>
+<m_dblCenterDistanceSpur>0</m_dblCenterDistanceSpur>
+<m_dblCenterDistanceChain>0</m_dblCenterDistanceChain>
+<m_dblCenterDistanceGearBelt>0</m_dblCenterDistanceGearBelt>
+<m_dblCenterDistanceVeeBelt>0</m_dblCenterDistanceVeeBelt>
+<m_dblCenterDistanceLocked>0</m_dblCenterDistanceLocked>
+<m_dblCenterDistanceExtension>0</m_dblCenterDistanceExtension>
+<m_dblCoefficientOfFriction>0</m_dblCoefficientOfFriction>
+<m_dblSpurContactRatio>0</m_dblSpurContactRatio>
+<m_dblApproachLength>0</m_dblApproachLength>
+<m_dblRecessLength>0</m_dblRecessLength>
+<m_dblContactRatioFace>0</m_dblContactRatioFace>
+<m_blnXYLocked>false</m_blnXYLocked>
+<m_dblX>0</m_dblX>
+<m_dblY>0</m_dblY>
+<m_dblZ>0</m_dblZ>
+<m_dblSumofPitchAngles>90</m_dblSumofPitchAngles>
+<m_strMate id="ref-30"></m_strMate>
+<m_sngMateAngle>0</m_sngMateAngle>
+<m_sngMateCompensateAngle>0.0107962694</m_sngMateCompensateAngle>
+<m_intGearType>Driver</m_intGearType>
+<m_intStream href="#ref-31"/>
+<m_dblStream href="#ref-32"/>
+<m_blnStream href="#ref-33"/>
+<m_strStream0 xsi:null="1"/>
+<m_strStream1 xsi:null="1"/>
+<m_strStream2 xsi:null="1"/>
+<m_strStream3 xsi:null="1"/>
+<m_strStream4 xsi:null="1"/>
+<m_strStream5 xsi:null="1"/>
+<m_strStream6 xsi:null="1"/>
+<m_strStream7 xsi:null="1"/>
+<m_strStream8 xsi:null="1"/>
+<m_strStream9 xsi:null="1"/>
+</a1:AssyPosition>
+<a1:AssyPosition id="ref-18" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<m_strComponentName id="ref-34">49-Tooth 20PA 0.6 MODGear</m_strComponentName>
+<m_strComponentPath xsi:null="1"/>
+<m_strPositionName id="ref-35">apSpurGear1</m_strPositionName>
+<m_intMateType>Gear</m_intMateType>
+<m_CBColor>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>35</knownColor>
+<state>1</state>
+</m_CBColor>
+<m_dblRPM>60</m_dblRPM>
+<m_blnBackLashNormalDirection>true</m_blnBackLashNormalDirection>
+<m_blnFlipLineOfAction>false</m_blnFlipLineOfAction>
+<m_blnCenterDistanceLocked>false</m_blnCenterDistanceLocked>
+<m_blnBelongsToPlanetSet>false</m_blnBelongsToPlanetSet>
+<m_dblCenterDistanceSpur>17.974713873083608</m_dblCenterDistanceSpur>
+<m_dblCenterDistanceChain>0</m_dblCenterDistanceChain>
+<m_dblCenterDistanceGearBelt>0</m_dblCenterDistanceGearBelt>
+<m_dblCenterDistanceVeeBelt>0</m_dblCenterDistanceVeeBelt>
+<m_dblCenterDistanceLocked>0</m_dblCenterDistanceLocked>
+<m_dblCenterDistanceExtension>0</m_dblCenterDistanceExtension>
+<m_dblCoefficientOfFriction>0</m_dblCoefficientOfFriction>
+<m_dblSpurContactRatio>0</m_dblSpurContactRatio>
+<m_dblApproachLength>0</m_dblApproachLength>
+<m_dblRecessLength>0</m_dblRecessLength>
+<m_dblContactRatioFace>0</m_dblContactRatioFace>
+<m_blnXYLocked>false</m_blnXYLocked>
+<m_dblX>0</m_dblX>
+<m_dblY>0</m_dblY>
+<m_dblZ>0</m_dblZ>
+<m_dblSumofPitchAngles>90</m_dblSumofPitchAngles>
+<m_strMate href="#ref-29"/>
+<m_sngMateAngle>0</m_sngMateAngle>
+<m_sngMateCompensateAngle>-0.00220332039</m_sngMateCompensateAngle>
+<m_intGearType>Driver</m_intGearType>
+<m_intStream href="#ref-36"/>
+<m_dblStream href="#ref-37"/>
+<m_blnStream href="#ref-38"/>
+<m_strStream0 xsi:null="1"/>
+<m_strStream1 xsi:null="1"/>
+<m_strStream2 xsi:null="1"/>
+<m_strStream3 xsi:null="1"/>
+<m_strStream4 xsi:null="1"/>
+<m_strStream5 xsi:null="1"/>
+<m_strStream6 xsi:null="1"/>
+<m_strStream7 xsi:null="1"/>
+<m_strStream8 xsi:null="1"/>
+<m_strStream9 xsi:null="1"/>
+</a1:AssyPosition>
+<a4:CompareInfo id="ref-19" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Globalization">
+<m_name id="ref-39">en-US</m_name>
+<win32LCID>0</win32LCID>
+<culture>1033</culture>
+<m_SortVersion xsi:null="1"/>
+</a4:CompareInfo>
+<a4:TextInfo id="ref-20" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Globalization">
+<m_listSeparator xsi:null="1"/>
+<m_isReadOnly>true</m_isReadOnly>
+<m_cultureName id="ref-40">en-US</m_cultureName>
+<customCultureName href="#ref-40"/>
+<m_nDataItem>0</m_nDataItem>
+<m_useUserOverride>false</m_useUserOverride>
+<m_win32LangID>1033</m_win32LangID>
+</a4:TextInfo>
+<a4:NumberFormatInfo id="ref-21" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Globalization">
+<numberGroupSizes href="#ref-41"/>
+<currencyGroupSizes href="#ref-42"/>
+<percentGroupSizes href="#ref-41"/>
+<positiveSign id="ref-43">+</positiveSign>
+<negativeSign id="ref-44">-</negativeSign>
+<numberDecimalSeparator id="ref-45">.</numberDecimalSeparator>
+<numberGroupSeparator id="ref-46">,</numberGroupSeparator>
+<currencyGroupSeparator id="ref-47">,</currencyGroupSeparator>
+<currencyDecimalSeparator id="ref-48">.</currencyDecimalSeparator>
+<currencySymbol id="ref-49">$</currencySymbol>
+<ansiCurrencySymbol xsi:null="1"/>
+<nanSymbol id="ref-50">NaN</nanSymbol>
+<positiveInfinitySymbol id="ref-51">Infinity</positiveInfinitySymbol>
+<negativeInfinitySymbol id="ref-52">-Infinity</negativeInfinitySymbol>
+<percentDecimalSeparator href="#ref-45"/>
+<percentGroupSeparator href="#ref-46"/>
+<percentSymbol id="ref-53">%</percentSymbol>
+<perMilleSymbol id="ref-54">‰</perMilleSymbol>
+<nativeDigits href="#ref-55"/>
+<m_dataItem>0</m_dataItem>
+<numberDecimalDigits>2</numberDecimalDigits>
+<currencyDecimalDigits>2</currencyDecimalDigits>
+<currencyPositivePattern>0</currencyPositivePattern>
+<currencyNegativePattern>0</currencyNegativePattern>
+<numberNegativePattern>1</numberNegativePattern>
+<percentPositivePattern>0</percentPositivePattern>
+<percentNegativePattern>0</percentNegativePattern>
+<percentDecimalDigits>2</percentDecimalDigits>
+<digitSubstitution>1</digitSubstitution>
+<isReadOnly>true</isReadOnly>
+<m_useUserOverride>false</m_useUserOverride>
+<m_isInvariant>false</m_isInvariant>
+<validForParseAsNumber>true</validForParseAsNumber>
+<validForParseAsCurrency>true</validForParseAsCurrency>
+</a4:NumberFormatInfo>
+<a4:DateTimeFormatInfo id="ref-22" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Globalization">
+<m_name href="#ref-40"/>
+<amDesignator id="ref-56">AM</amDesignator>
+<pmDesignator id="ref-57">PM</pmDesignator>
+<dateSeparator id="ref-58">/</dateSeparator>
+<generalShortTimePattern xsi:null="1"/>
+<generalLongTimePattern xsi:null="1"/>
+<timeSeparator id="ref-59">:</timeSeparator>
+<monthDayPattern xsi:null="1"/>
+<dateTimeOffsetPattern xsi:null="1"/>
+<calendar href="#ref-23"/>
+<firstDayOfWeek>0</firstDayOfWeek>
+<calendarWeekRule>0</calendarWeekRule>
+<fullDateTimePattern xsi:null="1"/>
+<abbreviatedDayNames xsi:null="1"/>
+<m_superShortDayNames xsi:null="1"/>
+<dayNames xsi:null="1"/>
+<abbreviatedMonthNames xsi:null="1"/>
+<monthNames xsi:null="1"/>
+<genitiveMonthNames xsi:null="1"/>
+<m_genitiveAbbreviatedMonthNames xsi:null="1"/>
+<leapYearMonthNames xsi:null="1"/>
+<longDatePattern id="ref-60">dddd, MMMM dd, yyyy</longDatePattern>
+<shortDatePattern id="ref-61">M/d/yyyy</shortDatePattern>
+<yearMonthPattern id="ref-62">MMMM, yyyy</yearMonthPattern>
+<longTimePattern id="ref-63">h:mm:ss tt</longTimePattern>
+<shortTimePattern id="ref-64">h:mm tt</shortTimePattern>
+<allYearMonthPatterns href="#ref-65"/>
+<allShortDatePatterns href="#ref-66"/>
+<allLongDatePatterns href="#ref-67"/>
+<allShortTimePatterns href="#ref-68"/>
+<allLongTimePatterns href="#ref-69"/>
+<m_eraNames xsi:null="1"/>
+<m_abbrevEraNames xsi:null="1"/>
+<m_abbrevEnglishEraNames xsi:null="1"/>
+<optionalCalendars href="#ref-70"/>
+<m_isReadOnly>true</m_isReadOnly>
+<formatFlags>NotInitialized</formatFlags>
+<CultureID>1033</CultureID>
+<m_useUserOverride>true</m_useUserOverride>
+<bUseCalendarInfo>false</bUseCalendarInfo>
+<nDataItem>0</nDataItem>
+<m_isDefaultCalendar>false</m_isDefaultCalendar>
+<m_dateWords xsi:null="1"/>
+</a4:DateTimeFormatInfo>
+<a4:GregorianCalendar id="ref-23" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Globalization">
+<m_type>Localized</m_type>
+<m_currentEraValue>-1</m_currentEraValue>
+<twoDigitYearMax>-1</twoDigitYearMax>
+<Calendar_x002B_m_currentEraValue>-1</Calendar_x002B_m_currentEraValue>
+<Calendar_x002B_m_isReadOnly>true</Calendar_x002B_m_isReadOnly>
+<Calendar_x002B_twoDigitYearMax>-1</Calendar_x002B_twoDigitYearMax>
+</a4:GregorianCalendar>
+<a1:Spur id="ref-25" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<m_sngX href="#ref-71"/>
+<m_sngY href="#ref-72"/>
+<m_sngZ href="#ref-73"/>
+<m_intRackTeethOffset href="#ref-74"/>
+<m_blnFlipBackLash href="#ref-75"/>
+<m_enmToothModification href="#ref-76"/>
+<m_dblToothModification href="#ref-77"/>
+<m_dblToothLength href="#ref-78"/>
+<m_dblPitchDepthRack>19.049999999999997</m_dblPitchDepthRack>
+<m_dblFaceWidth>5.4</m_dblFaceWidth>
+<m_dblPinDiameter>0</m_dblPinDiameter>
+<m_dblToppingAdjustment>0</m_dblToppingAdjustment>
+<m_dblBacklash>0</m_dblBacklash>
+<m_dblCenterDistanceExtension href="#ref-79"/>
+<m_strAGMA_Class>AGMA_Q7</m_strAGMA_Class>
+<m_dblAddendumCoef>1</m_dblAddendumCoef>
+<m_dblClearanceCoef>0.25</m_dblClearanceCoef>
+<m_dblClearanceAdditional>0</m_dblClearanceAdditional>
+<m_dblFilletCoef>0.3</m_dblFilletCoef>
+<m_intNumberOfTeeth>10</m_intNumberOfTeeth>
+<m_intPlanetSerialized>3</m_intPlanetSerialized>
+<m_intInternalGear>External</m_intInternalGear>
+<m_dblNormalPitch>42.333333333333336</m_dblNormalPitch>
+<m_dblNormalPressureAngle>20</m_dblNormalPressureAngle>
+<m_dblRPM href="#ref-80"/>
+<m_dblInvoluteTrochoidRadius href="#ref-81"/>
+<m_dblHelicalAngle>0</m_dblHelicalAngle>
+<m_strHandOfHelix id="ref-82">0</m_strHandOfHelix>
+<m_intGearStandard>0</m_intGearStandard>
+<m_dblAddModCoef>0.35833333871496015</m_dblAddModCoef>
+<m_dblAddendum>0</m_dblAddendum>
+<m_dblDedendum>0</m_dblDedendum>
+<m_dblFilletRadius>0</m_dblFilletRadius>
+<m_dblToothThickness>0</m_dblToothThickness>
+<m_intGearType>not_defined</m_intGearType>
+<m_strManufacturingMethod>Hobbing</m_strManufacturingMethod>
+<m_KeywayPosition>On_Space_Center</m_KeywayPosition>
+<m_GearStandard>Fine_Pitch_Involute_20deg</m_GearStandard>
+<m_PlanetMode>None</m_PlanetMode>
+<m_blnLoadAtCenter>false</m_blnLoadAtCenter>
+<m_TeethToPattern>All</m_TeethToPattern>
+<Bushing href="#ref-83"/>
+<Annotation href="#ref-84"/>
+<m_dblT>299</m_dblT>
+<m_dblCp>0</m_dblCp>
+<m_dblWt>0</m_dblWt>
+<m_dblCf>1</m_dblCf>
+<m_dblCh>1</m_dblCh>
+<m_dblCsf>1</m_dblCsf>
+<m_dblI>0.001</m_dblI>
+<m_dblJ>0.5</m_dblJ>
+<m_dblKb>1</m_dblKb>
+<m_dblKm>1</m_dblKm>
+<m_dblKo>1</m_dblKo>
+<m_dblKr>0.99</m_dblKr>
+<m_dblKs>1</m_dblKs>
+<m_dblKsf>1</m_dblKsf>
+<m_dblKt>1</m_dblKt>
+<m_dblKv>1.5</m_dblKv>
+<m_dblSf>1</m_dblSf>
+<m_dblSh>1</m_dblSh>
+<m_dblYn>1</m_dblYn>
+<m_dblZn>1</m_dblZn>
+<m_dblAv>1</m_dblAv>
+<m_dblFd>1</m_dblFd>
+<m_dblFt>1</m_dblFt>
+<m_dblP>0.21258</m_dblP>
+<m_dblSac>195000</m_dblSac>
+<m_dblHPa>0</m_dblHPa>
+<m_dblHPac>0</m_dblHPac>
+<m_dblHPacu>0</m_dblHPacu>
+<m_dblHPat>0</m_dblHPat>
+<m_dblHPatu>0</m_dblHPatu>
+<m_intStream href="#ref-85"/>
+<m_dblStream href="#ref-86"/>
+<m_strStream0 xsi:null="1"/>
+<m_strStream1 id="ref-87">9000 0000 0016 9675</m_strStream1>
+<m_strStream2 xsi:null="1"/>
+<m_strStream3 xsi:null="1"/>
+<m_strStream4 xsi:null="1"/>
+<m_strStream5 xsi:null="1"/>
+<m_strStream6 xsi:null="1"/>
+<m_strStream7 xsi:null="1"/>
+<m_strStream8 xsi:null="1"/>
+<m_strStream9 xsi:null="1"/>
+<m_sngServiceFactor>1</m_sngServiceFactor>
+<m_sngTensileStrengthUltimatePSI>0</m_sngTensileStrengthUltimatePSI>
+<m_sngSpecificWeightofMaterial>0</m_sngSpecificWeightofMaterial>
+<m_sngModulusOfElasticityKSI>2E+07</m_sngModulusOfElasticityKSI>
+<m_sngSafeBendingStressPSI>20000</m_sngSafeBendingStressPSI>
+<m_sngCompressiveYieldStrengthPSI>0</m_sngCompressiveYieldStrengthPSI>
+<m_sngPoissonsRatio>0.3</m_sngPoissonsRatio>
+<m_sngShrinkageRate>0</m_sngShrinkageRate>
+<m_sngBrinellHardness>150</m_sngBrinellHardness>
+<m_enmMaterial>0</m_enmMaterial>
+<m_blnBackLashNormalDirection href="#ref-88"/>
+<m_blnCreateWithArcs>false</m_blnCreateWithArcs>
+<m_IsLocked>false</m_IsLocked>
+<m_dblZDistance href="#ref-89"/>
+<m_sngMateAngle href="#ref-90"/>
+<m_sngMateCompensateAngle href="#ref-91"/>
+<m_intUnits>Metric</m_intUnits>
+<m_intInstance>0</m_intInstance>
+<m_intMateGroup>1</m_intMateGroup>
+<m_clrColor>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>59</knownColor>
+<state>1</state>
+</m_clrColor>
+<m_intMateType href="#ref-92"/>
+<m_strSpringUnits id="ref-93">lb/in</m_strSpringUnits>
+<m_strVelocityUnits id="ref-94">in/sec</m_strVelocityUnits>
+<m_strName href="#ref-28"/>
+<m_strFullPathName id="ref-95">File Not Saved</m_strFullPathName>
+<m_strInternalID id="ref-96"> 199235232</m_strInternalID>
+<m_strPassWord xsi:null="1"/>
+<m_strMate href="#ref-97"/>
+<Materials_x002B_m_sngServiceFactor>1</Materials_x002B_m_sngServiceFactor>
+<Materials_x002B_m_sngTensileStrengthUltimatePSI>0</Materials_x002B_m_sngTensileStrengthUltimatePSI>
+<Materials_x002B_m_sngSpecificWeightofMaterial>0</Materials_x002B_m_sngSpecificWeightofMaterial>
+<Materials_x002B_m_sngModulusOfElasticityKSI>2E+07</Materials_x002B_m_sngModulusOfElasticityKSI>
+<Materials_x002B_m_sngSafeBendingStressPSI>20000</Materials_x002B_m_sngSafeBendingStressPSI>
+<Materials_x002B_m_sngCompressiveYieldStrengthPSI>0</Materials_x002B_m_sngCompressiveYieldStrengthPSI>
+<Materials_x002B_m_sngPoissonsRatio>0.3</Materials_x002B_m_sngPoissonsRatio>
+<Materials_x002B_m_sngShrinkageRate>0</Materials_x002B_m_sngShrinkageRate>
+<Materials_x002B_m_sngBrinellHardness>150</Materials_x002B_m_sngBrinellHardness>
+<Materials_x002B_m_enmMaterial>0</Materials_x002B_m_enmMaterial>
+<Materials_x002B_m_blnBackLashNormalDirection href="#ref-88"/>
+<Materials_x002B_m_blnCreateWithArcs>false</Materials_x002B_m_blnCreateWithArcs>
+<Materials_x002B_m_IsLocked>false</Materials_x002B_m_IsLocked>
+<Materials_x002B_m_dblZDistance href="#ref-89"/>
+<Materials_x002B_m_sngMateAngle href="#ref-90"/>
+<Materials_x002B_m_sngMateCompensateAngle href="#ref-91"/>
+<Materials_x002B_m_intUnits>Metric</Materials_x002B_m_intUnits>
+<Materials_x002B_m_intInstance>0</Materials_x002B_m_intInstance>
+<Materials_x002B_m_intMateGroup>1</Materials_x002B_m_intMateGroup>
+<Materials_x002B_m_clrColor>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>59</knownColor>
+<state>1</state>
+</Materials_x002B_m_clrColor>
+<Materials_x002B_m_intMateType href="#ref-92"/>
+<Materials_x002B_m_strSpringUnits href="#ref-93"/>
+<Materials_x002B_m_strVelocityUnits href="#ref-94"/>
+<Materials_x002B_m_strName href="#ref-28"/>
+<Materials_x002B_m_strFullPathName href="#ref-95"/>
+<Materials_x002B_m_strInternalID href="#ref-96"/>
+<Materials_x002B_m_strPassWord xsi:null="1"/>
+<Materials_x002B_m_strMate href="#ref-97"/>
+<HubBore_x002B_intHub href="#ref-98"/>
+<HubBore_x002B_m_blnSS>false</HubBore_x002B_m_blnSS>
+<HubBore_x002B_m_intSpurPinionSetScrew>0</HubBore_x002B_m_intSpurPinionSetScrew>
+<HubBore_x002B_m_MountingStyle>None</HubBore_x002B_m_MountingStyle>
+<HubBore_x002B_m_BushingSide>Bushing_on_1st_Side</HubBore_x002B_m_BushingSide>
+<HubBore_x002B_m_Keyway>Bore_only</HubBore_x002B_m_Keyway>
+<HubBore_x002B_m_BushingModeling>Create_as_component_feature</HubBore_x002B_m_BushingModeling>
+<HubBore_x002B_m_strSS xsi:null="1"/>
+<HubBore_x002B_m_strTaperBushing xsi:null="1"/>
+<HubBore_x002B_m_dblHubDiameterSide href="#ref-99"/>
+<HubBore_x002B_m_dblHubProjectionSide href="#ref-100"/>
+<HubBore_x002B_m_dblHubFilletSide href="#ref-101"/>
+<HubBore_x002B_m_dblBore>3</HubBore_x002B_m_dblBore>
+<HubBore_x002B_m_dblBoreChamfer>0</HubBore_x002B_m_dblBoreChamfer>
+<HubBore_x002B_m_blnBackLashNormalDirection href="#ref-88"/>
+<HubBore_x002B_m_blnCreateWithArcs>false</HubBore_x002B_m_blnCreateWithArcs>
+<HubBore_x002B_m_IsLocked>false</HubBore_x002B_m_IsLocked>
+<HubBore_x002B_m_dblZDistance href="#ref-89"/>
+<HubBore_x002B_m_sngMateAngle href="#ref-90"/>
+<HubBore_x002B_m_sngMateCompensateAngle href="#ref-91"/>
+<HubBore_x002B_m_intUnits>Metric</HubBore_x002B_m_intUnits>
+<HubBore_x002B_m_intInstance>0</HubBore_x002B_m_intInstance>
+<HubBore_x002B_m_intMateGroup>1</HubBore_x002B_m_intMateGroup>
+<HubBore_x002B_m_clrColor>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>59</knownColor>
+<state>1</state>
+</HubBore_x002B_m_clrColor>
+<HubBore_x002B_m_intMateType href="#ref-92"/>
+<HubBore_x002B_m_strSpringUnits href="#ref-93"/>
+<HubBore_x002B_m_strVelocityUnits href="#ref-94"/>
+<HubBore_x002B_m_strName href="#ref-28"/>
+<HubBore_x002B_m_strFullPathName href="#ref-95"/>
+<HubBore_x002B_m_strInternalID href="#ref-96"/>
+<HubBore_x002B_m_strPassWord xsi:null="1"/>
+<HubBore_x002B_m_strMate href="#ref-97"/>
+<Mating_x002B_m_blnBackLashNormalDirection href="#ref-88"/>
+<Mating_x002B_m_blnCreateWithArcs>false</Mating_x002B_m_blnCreateWithArcs>
+<Mating_x002B_m_IsLocked>false</Mating_x002B_m_IsLocked>
+<Mating_x002B_m_dblZDistance href="#ref-89"/>
+<Mating_x002B_m_sngMateAngle href="#ref-90"/>
+<Mating_x002B_m_sngMateCompensateAngle href="#ref-91"/>
+<Mating_x002B_m_intUnits>Metric</Mating_x002B_m_intUnits>
+<Mating_x002B_m_intInstance>0</Mating_x002B_m_intInstance>
+<Mating_x002B_m_intMateGroup>1</Mating_x002B_m_intMateGroup>
+<Mating_x002B_m_clrColor>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>59</knownColor>
+<state>1</state>
+</Mating_x002B_m_clrColor>
+<Mating_x002B_m_intMateType href="#ref-92"/>
+<Mating_x002B_m_strSpringUnits href="#ref-93"/>
+<Mating_x002B_m_strVelocityUnits href="#ref-94"/>
+<Mating_x002B_m_strName href="#ref-28"/>
+<Mating_x002B_m_strFullPathName href="#ref-95"/>
+<Mating_x002B_m_strInternalID href="#ref-96"/>
+<Mating_x002B_m_strPassWord xsi:null="1"/>
+<Mating_x002B_m_strMate href="#ref-97"/>
+</a1:Spur>
+<a1:Spur id="ref-26" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<m_sngX href="#ref-102"/>
+<m_sngY href="#ref-103"/>
+<m_sngZ href="#ref-104"/>
+<m_intRackTeethOffset href="#ref-105"/>
+<m_blnFlipBackLash href="#ref-106"/>
+<m_enmToothModification href="#ref-107"/>
+<m_dblToothModification href="#ref-108"/>
+<m_dblToothLength href="#ref-109"/>
+<m_dblPitchDepthRack>19.049999999999997</m_dblPitchDepthRack>
+<m_dblFaceWidth>3.5</m_dblFaceWidth>
+<m_dblPinDiameter>0</m_dblPinDiameter>
+<m_dblToppingAdjustment>0</m_dblToppingAdjustment>
+<m_dblBacklash>0</m_dblBacklash>
+<m_dblCenterDistanceExtension href="#ref-110"/>
+<m_strAGMA_Class>AGMA_Q7</m_strAGMA_Class>
+<m_dblAddendumCoef>1</m_dblAddendumCoef>
+<m_dblClearanceCoef>0.25</m_dblClearanceCoef>
+<m_dblClearanceAdditional>0</m_dblClearanceAdditional>
+<m_dblFilletCoef>0.3</m_dblFilletCoef>
+<m_intNumberOfTeeth>49</m_intNumberOfTeeth>
+<m_intPlanetSerialized>3</m_intPlanetSerialized>
+<m_intInternalGear>External</m_intInternalGear>
+<m_dblNormalPitch>42.333333333333336</m_dblNormalPitch>
+<m_dblNormalPressureAngle>20</m_dblNormalPressureAngle>
+<m_dblRPM href="#ref-111"/>
+<m_dblInvoluteTrochoidRadius href="#ref-112"/>
+<m_dblHelicalAngle>0</m_dblHelicalAngle>
+<m_strHandOfHelix id="ref-113">1</m_strHandOfHelix>
+<m_intGearStandard>0</m_intGearStandard>
+<m_dblAddModCoef>0.12500000187731167</m_dblAddModCoef>
+<m_dblAddendum>0</m_dblAddendum>
+<m_dblDedendum>0</m_dblDedendum>
+<m_dblFilletRadius>0</m_dblFilletRadius>
+<m_dblToothThickness>0</m_dblToothThickness>
+<m_intGearType>not_defined</m_intGearType>
+<m_strManufacturingMethod>Hobbing</m_strManufacturingMethod>
+<m_KeywayPosition>On_Space_Center</m_KeywayPosition>
+<m_GearStandard>Fine_Pitch_Involute_20deg</m_GearStandard>
+<m_PlanetMode>None</m_PlanetMode>
+<m_blnLoadAtCenter>false</m_blnLoadAtCenter>
+<m_TeethToPattern>All</m_TeethToPattern>
+<Bushing href="#ref-114"/>
+<Annotation href="#ref-115"/>
+<m_dblT>299</m_dblT>
+<m_dblCp>0</m_dblCp>
+<m_dblWt>0</m_dblWt>
+<m_dblCf>1</m_dblCf>
+<m_dblCh>1</m_dblCh>
+<m_dblCsf>1</m_dblCsf>
+<m_dblI>0.001</m_dblI>
+<m_dblJ>0.5</m_dblJ>
+<m_dblKb>1</m_dblKb>
+<m_dblKm>1</m_dblKm>
+<m_dblKo>1</m_dblKo>
+<m_dblKr>0.99</m_dblKr>
+<m_dblKs>1</m_dblKs>
+<m_dblKsf>1</m_dblKsf>
+<m_dblKt>1</m_dblKt>
+<m_dblKv>1.5</m_dblKv>
+<m_dblSf>1</m_dblSf>
+<m_dblSh>1</m_dblSh>
+<m_dblYn>1</m_dblYn>
+<m_dblZn>1</m_dblZn>
+<m_dblAv>1</m_dblAv>
+<m_dblFd>1</m_dblFd>
+<m_dblFt>1</m_dblFt>
+<m_dblP>0.21258</m_dblP>
+<m_dblSac>195000</m_dblSac>
+<m_dblHPa>0</m_dblHPa>
+<m_dblHPac>0</m_dblHPac>
+<m_dblHPacu>0</m_dblHPacu>
+<m_dblHPat>0</m_dblHPat>
+<m_dblHPatu>0</m_dblHPatu>
+<m_intStream href="#ref-116"/>
+<m_dblStream href="#ref-117"/>
+<m_strStream0 xsi:null="1"/>
+<m_strStream1 id="ref-118">9000 0000 0016 9675</m_strStream1>
+<m_strStream2 xsi:null="1"/>
+<m_strStream3 xsi:null="1"/>
+<m_strStream4 xsi:null="1"/>
+<m_strStream5 xsi:null="1"/>
+<m_strStream6 xsi:null="1"/>
+<m_strStream7 xsi:null="1"/>
+<m_strStream8 xsi:null="1"/>
+<m_strStream9 xsi:null="1"/>
+<m_sngServiceFactor>1</m_sngServiceFactor>
+<m_sngTensileStrengthUltimatePSI>0</m_sngTensileStrengthUltimatePSI>
+<m_sngSpecificWeightofMaterial>0</m_sngSpecificWeightofMaterial>
+<m_sngModulusOfElasticityKSI>2E+07</m_sngModulusOfElasticityKSI>
+<m_sngSafeBendingStressPSI>20000</m_sngSafeBendingStressPSI>
+<m_sngCompressiveYieldStrengthPSI>0</m_sngCompressiveYieldStrengthPSI>
+<m_sngPoissonsRatio>0.3</m_sngPoissonsRatio>
+<m_sngShrinkageRate>0</m_sngShrinkageRate>
+<m_sngBrinellHardness>150</m_sngBrinellHardness>
+<m_enmMaterial>0</m_enmMaterial>
+<m_blnBackLashNormalDirection href="#ref-119"/>
+<m_blnCreateWithArcs>false</m_blnCreateWithArcs>
+<m_IsLocked>false</m_IsLocked>
+<m_dblZDistance href="#ref-120"/>
+<m_sngMateAngle href="#ref-121"/>
+<m_sngMateCompensateAngle href="#ref-122"/>
+<m_intUnits>Metric</m_intUnits>
+<m_intInstance>0</m_intInstance>
+<m_intMateGroup>1</m_intMateGroup>
+<m_clrColor>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>49</knownColor>
+<state>1</state>
+</m_clrColor>
+<m_intMateType href="#ref-123"/>
+<m_strSpringUnits href="#ref-93"/>
+<m_strVelocityUnits href="#ref-94"/>
+<m_strName href="#ref-34"/>
+<m_strFullPathName href="#ref-95"/>
+<m_strInternalID id="ref-124"> 199235232</m_strInternalID>
+<m_strPassWord xsi:null="1"/>
+<m_strMate href="#ref-125"/>
+<Materials_x002B_m_sngServiceFactor>1</Materials_x002B_m_sngServiceFactor>
+<Materials_x002B_m_sngTensileStrengthUltimatePSI>0</Materials_x002B_m_sngTensileStrengthUltimatePSI>
+<Materials_x002B_m_sngSpecificWeightofMaterial>0</Materials_x002B_m_sngSpecificWeightofMaterial>
+<Materials_x002B_m_sngModulusOfElasticityKSI>2E+07</Materials_x002B_m_sngModulusOfElasticityKSI>
+<Materials_x002B_m_sngSafeBendingStressPSI>20000</Materials_x002B_m_sngSafeBendingStressPSI>
+<Materials_x002B_m_sngCompressiveYieldStrengthPSI>0</Materials_x002B_m_sngCompressiveYieldStrengthPSI>
+<Materials_x002B_m_sngPoissonsRatio>0.3</Materials_x002B_m_sngPoissonsRatio>
+<Materials_x002B_m_sngShrinkageRate>0</Materials_x002B_m_sngShrinkageRate>
+<Materials_x002B_m_sngBrinellHardness>150</Materials_x002B_m_sngBrinellHardness>
+<Materials_x002B_m_enmMaterial>0</Materials_x002B_m_enmMaterial>
+<Materials_x002B_m_blnBackLashNormalDirection href="#ref-119"/>
+<Materials_x002B_m_blnCreateWithArcs>false</Materials_x002B_m_blnCreateWithArcs>
+<Materials_x002B_m_IsLocked>false</Materials_x002B_m_IsLocked>
+<Materials_x002B_m_dblZDistance href="#ref-120"/>
+<Materials_x002B_m_sngMateAngle href="#ref-121"/>
+<Materials_x002B_m_sngMateCompensateAngle href="#ref-122"/>
+<Materials_x002B_m_intUnits>Metric</Materials_x002B_m_intUnits>
+<Materials_x002B_m_intInstance>0</Materials_x002B_m_intInstance>
+<Materials_x002B_m_intMateGroup>1</Materials_x002B_m_intMateGroup>
+<Materials_x002B_m_clrColor>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>49</knownColor>
+<state>1</state>
+</Materials_x002B_m_clrColor>
+<Materials_x002B_m_intMateType href="#ref-123"/>
+<Materials_x002B_m_strSpringUnits href="#ref-93"/>
+<Materials_x002B_m_strVelocityUnits href="#ref-94"/>
+<Materials_x002B_m_strName href="#ref-34"/>
+<Materials_x002B_m_strFullPathName href="#ref-95"/>
+<Materials_x002B_m_strInternalID href="#ref-124"/>
+<Materials_x002B_m_strPassWord xsi:null="1"/>
+<Materials_x002B_m_strMate href="#ref-125"/>
+<HubBore_x002B_intHub href="#ref-126"/>
+<HubBore_x002B_m_blnSS>false</HubBore_x002B_m_blnSS>
+<HubBore_x002B_m_intSpurPinionSetScrew>0</HubBore_x002B_m_intSpurPinionSetScrew>
+<HubBore_x002B_m_MountingStyle>None</HubBore_x002B_m_MountingStyle>
+<HubBore_x002B_m_BushingSide>Bushing_on_1st_Side</HubBore_x002B_m_BushingSide>
+<HubBore_x002B_m_Keyway>Bore_only</HubBore_x002B_m_Keyway>
+<HubBore_x002B_m_BushingModeling>Create_as_component_feature</HubBore_x002B_m_BushingModeling>
+<HubBore_x002B_m_strSS xsi:null="1"/>
+<HubBore_x002B_m_strTaperBushing xsi:null="1"/>
+<HubBore_x002B_m_dblHubDiameterSide href="#ref-127"/>
+<HubBore_x002B_m_dblHubProjectionSide href="#ref-128"/>
+<HubBore_x002B_m_dblHubFilletSide href="#ref-129"/>
+<HubBore_x002B_m_dblBore>3</HubBore_x002B_m_dblBore>
+<HubBore_x002B_m_dblBoreChamfer>0</HubBore_x002B_m_dblBoreChamfer>
+<HubBore_x002B_m_blnBackLashNormalDirection href="#ref-119"/>
+<HubBore_x002B_m_blnCreateWithArcs>false</HubBore_x002B_m_blnCreateWithArcs>
+<HubBore_x002B_m_IsLocked>false</HubBore_x002B_m_IsLocked>
+<HubBore_x002B_m_dblZDistance href="#ref-120"/>
+<HubBore_x002B_m_sngMateAngle href="#ref-121"/>
+<HubBore_x002B_m_sngMateCompensateAngle href="#ref-122"/>
+<HubBore_x002B_m_intUnits>Metric</HubBore_x002B_m_intUnits>
+<HubBore_x002B_m_intInstance>0</HubBore_x002B_m_intInstance>
+<HubBore_x002B_m_intMateGroup>1</HubBore_x002B_m_intMateGroup>
+<HubBore_x002B_m_clrColor>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>49</knownColor>
+<state>1</state>
+</HubBore_x002B_m_clrColor>
+<HubBore_x002B_m_intMateType href="#ref-123"/>
+<HubBore_x002B_m_strSpringUnits href="#ref-93"/>
+<HubBore_x002B_m_strVelocityUnits href="#ref-94"/>
+<HubBore_x002B_m_strName href="#ref-34"/>
+<HubBore_x002B_m_strFullPathName href="#ref-95"/>
+<HubBore_x002B_m_strInternalID href="#ref-124"/>
+<HubBore_x002B_m_strPassWord xsi:null="1"/>
+<HubBore_x002B_m_strMate href="#ref-125"/>
+<Mating_x002B_m_blnBackLashNormalDirection href="#ref-119"/>
+<Mating_x002B_m_blnCreateWithArcs>false</Mating_x002B_m_blnCreateWithArcs>
+<Mating_x002B_m_IsLocked>false</Mating_x002B_m_IsLocked>
+<Mating_x002B_m_dblZDistance href="#ref-120"/>
+<Mating_x002B_m_sngMateAngle href="#ref-121"/>
+<Mating_x002B_m_sngMateCompensateAngle href="#ref-122"/>
+<Mating_x002B_m_intUnits>Metric</Mating_x002B_m_intUnits>
+<Mating_x002B_m_intInstance>0</Mating_x002B_m_intInstance>
+<Mating_x002B_m_intMateGroup>1</Mating_x002B_m_intMateGroup>
+<Mating_x002B_m_clrColor>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>49</knownColor>
+<state>1</state>
+</Mating_x002B_m_clrColor>
+<Mating_x002B_m_intMateType href="#ref-123"/>
+<Mating_x002B_m_strSpringUnits href="#ref-93"/>
+<Mating_x002B_m_strVelocityUnits href="#ref-94"/>
+<Mating_x002B_m_strName href="#ref-34"/>
+<Mating_x002B_m_strFullPathName href="#ref-95"/>
+<Mating_x002B_m_strInternalID href="#ref-124"/>
+<Mating_x002B_m_strPassWord xsi:null="1"/>
+<Mating_x002B_m_strMate href="#ref-125"/>
+</a1:Spur>
+<SOAP-ENC:Array id="ref-31" SOAP-ENC:arrayType="xsd:int[10]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-32" SOAP-ENC:arrayType="xsd:double[10]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-33" SOAP-ENC:arrayType="xsd:boolean[10]">
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-36" SOAP-ENC:arrayType="xsd:int[10]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-37" SOAP-ENC:arrayType="xsd:double[10]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-38" SOAP-ENC:arrayType="xsd:boolean[10]">
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+<item>False</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-41" SOAP-ENC:arrayType="xsd:int[1]">
+<item>3</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-42" SOAP-ENC:arrayType="xsd:int[1]">
+<item>3</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-55" SOAP-ENC:arrayType="xsd:string[10]">
+<item id="ref-130">0</item>
+<item id="ref-131">1</item>
+<item id="ref-132">2</item>
+<item id="ref-133">3</item>
+<item id="ref-134">4</item>
+<item id="ref-135">5</item>
+<item id="ref-136">6</item>
+<item id="ref-137">7</item>
+<item id="ref-138">8</item>
+<item id="ref-139">9</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-65" SOAP-ENC:arrayType="xsd:string[1]">
+<item id="ref-140">MMMM, yyyy</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-66" SOAP-ENC:arrayType="xsd:string[7]">
+<item id="ref-141">M/d/yyyy</item>
+<item id="ref-142">M/d/yy</item>
+<item id="ref-143">MM/dd/yy</item>
+<item id="ref-144">MM/dd/yyyy</item>
+<item id="ref-145">yy/MM/dd</item>
+<item id="ref-146">yyyy-MM-dd</item>
+<item id="ref-147">dd-MMM-yy</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-67" SOAP-ENC:arrayType="xsd:string[4]">
+<item id="ref-148">dddd, MMMM dd, yyyy</item>
+<item id="ref-149">MMMM dd, yyyy</item>
+<item id="ref-150">dddd, dd MMMM, yyyy</item>
+<item id="ref-151">dd MMMM, yyyy</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-68" SOAP-ENC:arrayType="xsd:string[4]">
+<item id="ref-152">h:mm tt</item>
+<item id="ref-153">hh:mm tt</item>
+<item id="ref-154">H:mm</item>
+<item id="ref-155">HH:mm</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-69" SOAP-ENC:arrayType="xsd:string[4]">
+<item id="ref-156">h:mm:ss tt</item>
+<item id="ref-157">hh:mm:ss tt</item>
+<item id="ref-158">H:mm:ss</item>
+<item id="ref-159">HH:mm:ss</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-70" SOAP-ENC:arrayType="xsd:int[2]">
+<item>1</item>
+<item>2</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-71" SOAP-ENC:arrayType="xsd:float[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-72" SOAP-ENC:arrayType="xsd:float[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-73" SOAP-ENC:arrayType="xsd:float[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-74" SOAP-ENC:arrayType="xsd:short[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-75" SOAP-ENC:arrayType="xsd:boolean[1]">
+<item>False</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-76" SOAP-ENC:arrayType="a1:ToothProfileModification[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item>None</item>
+<item>None</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-77" SOAP-ENC:arrayType="xsd:double[2]">
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-78" SOAP-ENC:arrayType="xsd:double[2]">
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-79" SOAP-ENC:arrayType="xsd:double[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-80" SOAP-ENC:arrayType="xsd:double[1]">
+<item>1000</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-81" SOAP-ENC:arrayType="xsd:double[2]">
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<a1:Bushing id="ref-83" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:Bushing>
+<a1:AnnotationSpur id="ref-84" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<m_blnDiameterPitch>true</m_blnDiameterPitch>
+<m_blnDiameterBase>false</m_blnDiameterBase>
+<m_blnDiameterForm>false</m_blnDiameterForm>
+<m_blnDiameterMajor>false</m_blnDiameterMajor>
+<m_blnDiameterMinor>false</m_blnDiameterMinor>
+<m_blnFilletRadius>false</m_blnFilletRadius>
+<m_blnNumberofTeeth>true</m_blnNumberofTeeth>
+<m_blnPitchDiametral>true</m_blnPitchDiametral>
+<m_blnPitchDiametralNormal>false</m_blnPitchDiametralNormal>
+<m_blnModuleTransverse>false</m_blnModuleTransverse>
+<m_blnModuleNormal>false</m_blnModuleNormal>
+<m_blnPressureAngle>true</m_blnPressureAngle>
+<m_blnPressureAngleNormal>true</m_blnPressureAngleNormal>
+<m_blnToothThickness>true</m_blnToothThickness>
+<m_blnToothThicknessNormal>false</m_blnToothThicknessNormal>
+<m_blnPitchCircular>false</m_blnPitchCircular>
+<m_blnAddendum>true</m_blnAddendum>
+<m_blnDedendum>true</m_blnDedendum>
+<m_blnWholeDepth>true</m_blnWholeDepth>
+<m_blnModificationAddendum>false</m_blnModificationAddendum>
+<m_blnModificationAddendumCoefficient>false</m_blnModificationAddendumCoefficient>
+<m_blnBacklash>true</m_blnBacklash>
+<m_blnMeasurementOverUnderPins>true</m_blnMeasurementOverUnderPins>
+<m_blnRunoutMax>false</m_blnRunoutMax>
+<m_blnVariationPitch>false</m_blnVariationPitch>
+<m_blnToleranceToothAlignment>false</m_blnToleranceToothAlignment>
+<m_blnToleranceTotalIndex>false</m_blnToleranceTotalIndex>
+<m_blnToleranceTotalComposite>false</m_blnToleranceTotalComposite>
+<m_blnToleranceToothThickness>false</m_blnToleranceToothThickness>
+<m_blnAGMAQualityClass>false</m_blnAGMAQualityClass>
+<m_blnToppingAdjustment>false</m_blnToppingAdjustment>
+<m_blnAlpha>false</m_blnAlpha>
+<m_blnBeta>false</m_blnBeta>
+<m_blnGamma>false</m_blnGamma>
+<m_blnDelta>false</m_blnDelta>
+<m_blnEpsilon>false</m_blnEpsilon>
+<m_blnZeta>false</m_blnZeta>
+<m_blnEta>false</m_blnEta>
+<m_blnTheta>false</m_blnTheta>
+<m_blnHelixAngle>false</m_blnHelixAngle>
+<m_blnHelixDirection>false</m_blnHelixDirection>
+<m_blnLead>false</m_blnLead>
+</a1:AnnotationSpur>
+<SOAP-ENC:Array id="ref-85" SOAP-ENC:arrayType="xsd:int[16]">
+<item>1</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-86" SOAP-ENC:arrayType="xsd:double[10]">
+<item>0</item>
+<item>0</item>
+<item>6.9049810298655272</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>5.6607630930428758</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-88" SOAP-ENC:arrayType="xsd:boolean[1]">
+<item>True</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-89" SOAP-ENC:arrayType="xsd:double[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-90" SOAP-ENC:arrayType="xsd:float[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-91" SOAP-ENC:arrayType="xsd:float[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-92" SOAP-ENC:arrayType="a1:MateType[1]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item>None</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-97" SOAP-ENC:arrayType="xsd:string[1]">
+<item href="#ref-30"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-98" SOAP-ENC:arrayType="xsd:boolean[3]">
+<item>False</item>
+<item>False</item>
+<item>False</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-99" SOAP-ENC:arrayType="xsd:double[5]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-100" SOAP-ENC:arrayType="xsd:double[3]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-101" SOAP-ENC:arrayType="xsd:double[3]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-102" SOAP-ENC:arrayType="xsd:float[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-103" SOAP-ENC:arrayType="xsd:float[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-104" SOAP-ENC:arrayType="xsd:float[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-105" SOAP-ENC:arrayType="xsd:short[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-106" SOAP-ENC:arrayType="xsd:boolean[1]">
+<item>False</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-107" SOAP-ENC:arrayType="a1:ToothProfileModification[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item>None</item>
+<item>None</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-108" SOAP-ENC:arrayType="xsd:double[2]">
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-109" SOAP-ENC:arrayType="xsd:double[2]">
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-110" SOAP-ENC:arrayType="xsd:double[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-111" SOAP-ENC:arrayType="xsd:double[1]">
+<item>1000</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-112" SOAP-ENC:arrayType="xsd:double[2]">
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<a1:Bushing id="ref-114" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:Bushing>
+<a1:AnnotationSpur id="ref-115" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<m_blnDiameterPitch>true</m_blnDiameterPitch>
+<m_blnDiameterBase>false</m_blnDiameterBase>
+<m_blnDiameterForm>false</m_blnDiameterForm>
+<m_blnDiameterMajor>false</m_blnDiameterMajor>
+<m_blnDiameterMinor>false</m_blnDiameterMinor>
+<m_blnFilletRadius>false</m_blnFilletRadius>
+<m_blnNumberofTeeth>true</m_blnNumberofTeeth>
+<m_blnPitchDiametral>true</m_blnPitchDiametral>
+<m_blnPitchDiametralNormal>false</m_blnPitchDiametralNormal>
+<m_blnModuleTransverse>false</m_blnModuleTransverse>
+<m_blnModuleNormal>false</m_blnModuleNormal>
+<m_blnPressureAngle>true</m_blnPressureAngle>
+<m_blnPressureAngleNormal>true</m_blnPressureAngleNormal>
+<m_blnToothThickness>true</m_blnToothThickness>
+<m_blnToothThicknessNormal>false</m_blnToothThicknessNormal>
+<m_blnPitchCircular>false</m_blnPitchCircular>
+<m_blnAddendum>true</m_blnAddendum>
+<m_blnDedendum>true</m_blnDedendum>
+<m_blnWholeDepth>true</m_blnWholeDepth>
+<m_blnModificationAddendum>false</m_blnModificationAddendum>
+<m_blnModificationAddendumCoefficient>false</m_blnModificationAddendumCoefficient>
+<m_blnBacklash>true</m_blnBacklash>
+<m_blnMeasurementOverUnderPins>true</m_blnMeasurementOverUnderPins>
+<m_blnRunoutMax>false</m_blnRunoutMax>
+<m_blnVariationPitch>false</m_blnVariationPitch>
+<m_blnToleranceToothAlignment>false</m_blnToleranceToothAlignment>
+<m_blnToleranceTotalIndex>false</m_blnToleranceTotalIndex>
+<m_blnToleranceTotalComposite>false</m_blnToleranceTotalComposite>
+<m_blnToleranceToothThickness>false</m_blnToleranceToothThickness>
+<m_blnAGMAQualityClass>false</m_blnAGMAQualityClass>
+<m_blnToppingAdjustment>false</m_blnToppingAdjustment>
+<m_blnAlpha>false</m_blnAlpha>
+<m_blnBeta>false</m_blnBeta>
+<m_blnGamma>false</m_blnGamma>
+<m_blnDelta>false</m_blnDelta>
+<m_blnEpsilon>false</m_blnEpsilon>
+<m_blnZeta>false</m_blnZeta>
+<m_blnEta>false</m_blnEta>
+<m_blnTheta>false</m_blnTheta>
+<m_blnHelixAngle>false</m_blnHelixAngle>
+<m_blnHelixDirection>false</m_blnHelixDirection>
+<m_blnLead>false</m_blnLead>
+</a1:AnnotationSpur>
+<SOAP-ENC:Array id="ref-116" SOAP-ENC:arrayType="xsd:int[16]">
+<item>1</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-117" SOAP-ENC:arrayType="xsd:double[10]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>28.422890722794552</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-119" SOAP-ENC:arrayType="xsd:boolean[1]">
+<item>True</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-120" SOAP-ENC:arrayType="xsd:double[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-121" SOAP-ENC:arrayType="xsd:float[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-122" SOAP-ENC:arrayType="xsd:float[1]">
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-123" SOAP-ENC:arrayType="a1:MateType[1]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GearTrax/GearTrax%2C%20Version%3D2015.23.0.156%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item>None</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-125" SOAP-ENC:arrayType="xsd:string[1]">
+<item href="#ref-30"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-126" SOAP-ENC:arrayType="xsd:boolean[3]">
+<item>False</item>
+<item>False</item>
+<item>False</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-127" SOAP-ENC:arrayType="xsd:double[5]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-128" SOAP-ENC:arrayType="xsd:double[3]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-129" SOAP-ENC:arrayType="xsd:double[3]">
+<item>0</item>
+<item>0</item>
+<item>0</item>
+</SOAP-ENC:Array>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

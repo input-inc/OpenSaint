@@ -14,3 +14,8 @@
 | ---  | ---     |
 | Author | hackmancoltaire |
 | Date | 09/02/2023 |
+# 1-Piece (Mirror)
+| Attribute | Value |
+| ---  | ---     |
+| Author | hackmancoltaire |
+| Date | 09/02/2023 |

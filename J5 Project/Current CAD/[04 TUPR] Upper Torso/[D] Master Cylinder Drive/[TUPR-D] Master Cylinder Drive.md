@@ -3,7 +3,7 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 09/09/2016 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2022 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # ASME-04B
 | Attribute | Value |
 | ---  | ---     |

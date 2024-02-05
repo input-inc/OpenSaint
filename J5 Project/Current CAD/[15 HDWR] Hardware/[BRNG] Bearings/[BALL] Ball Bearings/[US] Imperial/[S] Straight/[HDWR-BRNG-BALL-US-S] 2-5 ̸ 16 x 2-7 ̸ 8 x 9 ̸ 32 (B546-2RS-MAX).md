@@ -4,6 +4,7 @@
 | Description | Double-Sealed Ball Bearing 2-5/16&quot; ID x 2-7/8&quot; OD x 9/32&quot; W (B546-2RS-MAX) |
 | Author | SixWingedFreak |
 | Date | 09/29/2016 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # Default
 | Attribute | Value |
 | ---  | ---     |
