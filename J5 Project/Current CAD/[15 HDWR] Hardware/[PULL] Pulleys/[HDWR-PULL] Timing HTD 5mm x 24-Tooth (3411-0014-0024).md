@@ -7,7 +7,7 @@
 | Number | 3411-0014-0024 |
 | Part Type | Purchased |
 | Cost | 7.99 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # Default
 | Attribute | Value |
 | ---  | ---     |

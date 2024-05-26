@@ -6,7 +6,7 @@
 | Date | 02/21/2016 |
 | Number | 3461T474 |
 | Part Type | Purchased |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # Default
 | Attribute | Value |
 | ---  | ---     |

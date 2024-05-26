@@ -9,7 +9,7 @@
 | Material | 18-8 Stainless Steel |
 | Part Type | Purchased |
 | Cost | 2.62 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # Simple
 | Attribute | Value |
 | ---  | ---     |

@@ -9,7 +9,7 @@
 | Material | Steel |
 | Part Type | Purchased |
 | Cost | 4.90 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # 3434T21
 | Attribute | Value |
 | ---  | ---     |

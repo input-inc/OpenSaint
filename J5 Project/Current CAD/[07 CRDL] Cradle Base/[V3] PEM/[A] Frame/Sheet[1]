@@ -4,9 +4,16 @@
 | Description | Sheet |
 | Author | hackmancoltaire |
 | Date | 03/26/2023 |
-| Material | 5052-H32 |
+| Material | AISI 4130 Steel, normalized at 870C |
 # DefaultSM-FLAT-PATTERN
 | Attribute | Value |
 | ---  | ---     |
 | Description | Sheet |
-| Material | 5052-H32 |
+| Author | hackmancoltaire |
+| Date | 03/26/2023 |
+| Material | AISI 4130 Steel, normalized at 870C |
+# V2 to V3
+| Attribute | Value |
+| ---  | ---     |
+| Description | Sheet |
+| Material | AISI 4130 Steel, normalized at 870C |

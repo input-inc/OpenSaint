@@ -4,7 +4,12 @@
 | Author | SixWingedFreak |
 | Date | 07/24/2016 |
 | _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
-# Default
+# Left
+| Attribute | Value |
+| ---  | ---     |
+| Author | SixWingedFreak |
+| Date | 07/24/2016 |
+# Right
 | Attribute | Value |
 | ---  | ---     |
 | Author | SixWingedFreak |

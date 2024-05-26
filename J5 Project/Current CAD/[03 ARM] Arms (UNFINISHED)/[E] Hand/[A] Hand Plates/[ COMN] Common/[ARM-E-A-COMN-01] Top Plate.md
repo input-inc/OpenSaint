@@ -1,10 +1,15 @@
 # @
 | Attribute | Value |
 | ---  | ---     |
-| Author | SixWingedFreak |
-| Date | 09/19/2016 |
+| Project Name |  |
+| Author | hackmancoltaire |
+| Project number |  |
+| Date | 04/13/2024 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # Default
 | Attribute | Value |
 | ---  | ---     |
-| Author | SixWingedFreak |
-| Date | 09/19/2016 |
+| Project Name |  |
+| Author | hackmancoltaire |
+| Project number |  |
+| Date | 04/13/2024 |

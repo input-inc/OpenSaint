@@ -1,3 +1,19 @@
+# April 2024 (Released in May)
+
+* Added a number of drawings for arm parts
+* Added Left Arm
+* Added Flipped configurations of servo cable cages
+* Added wire guide for finger cables
+* Adjusted the angle of the cable paths for the fingers
+* Adjusted finger designs and knobs with inspiration  from work done by Kyle Dedonya
+* Switched out finger pulleys for those that can be purchased
+* Added a configuration for the cradle base strengthening plate to be used with V2 cradle bases
+* Added a series of drawings for hand / arm / wrist parts for production
+* Made small adjustments to hand parts in preparation for production
+* Added the new V3 Neck Assembly with the 3D printed neck block
+* Added a new servo tensioner design and covering
+* Material change on Master Cylinder Drive arm
+
 # January 2024 (Released in February)
 
 * Upper Half Speedpack Updates
