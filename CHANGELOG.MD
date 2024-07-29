@@ -1,3 +1,18 @@
+# July 2024
+
+* Updated neck slide design to a 2-piece 3D print and laser cut design
+* Added new Battery Door Mechanism to the Lower Torso Covering (STILL IN ALPHA)
+* Added new Console Door Mechanism to Lower Torso Covering (STILL IN ALPHA)
+* Updates the the Hand / Finger / Thumb design to use off the shelf pulleys and spacers
+* Added new Console Face Plate assembly to work with a new LCD Touchscreen and button design
+* Added new Shoulder shaft extension design to eliminate the set screws
+* Updated tolerances on Shoulder plates to fit within the laser cut tube (in optimal conditions)
+* Updates to arm design (Right arm might not be in sync with left arm) to accommodate fastener and hex standoff adjustments.
+* Added a cable sheathing spool spacer to the arm design to prevent the sheathed cables from pushing off the arm covering.
+* Small adjustments to the shoulder tube front covering. Extended it down so it hugs the tube better. Added a mount for magnetic attachment. (Still needs a small tweak to prevent collision)
+* Added adhesive tape to the Neck C-Channel and opened up the holes in the spring plate
+* Added part info to eye vent holding pin
+
 # April 2024 (Released in May)
 
 * Added a number of drawings for arm parts

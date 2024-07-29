@@ -1,0 +1,22 @@
+# @
+| Attribute | Value |
+| ---  | ---     |
+| Project Name |  |
+| Author | SixWingedFreak |
+| Project number |  |
+| Date | 05/19/2015 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
+# 3D Printable
+| Attribute | Value |
+| ---  | ---     |
+| Project Name |  |
+| Author | SixWingedFreak |
+| Project number |  |
+| Date | 05/19/2015 |
+# Standard
+| Attribute | Value |
+| ---  | ---     |
+| Project Name |  |
+| Author | SixWingedFreak |
+| Project number |  |
+| Date | 05/19/2015 |
