@@ -5,7 +5,7 @@
 | Author | SixWingedFreak |
 | Date | 01/29/2016 |
 | Material | AISI 304 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2021 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # Default
 | Attribute | Value |
 | ---  | ---     |

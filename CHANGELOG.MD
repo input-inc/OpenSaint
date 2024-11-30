@@ -1,3 +1,34 @@
+# October 2024 (Released in November)
+
+* Added drawings for finger linkages
+* Add drawing for finger hook
+* Small tolerance change to the twist pulley cable clamp
+* Added drawings for shoulder parts
+* Added drawing for neck 8MM D*Shaft
+* Added new Track drive Idler Tensioner Assembly
+* More rebuild of the lower torso covering
+  * Rebuild of entire console section into a main body and magnet attachable side portions
+  * A rebuild of the battery frame area where the new door mechs live
+  * Split frame area into multiple parts to aid in printing
+  * Finished console door mechanism, and mounting blocks
+  * Removed duplicate or out of date parts
+  * Completed section split and added mounting hardware to lower torso covering
+  * Added battery simulate and lugs
+  * Updated the pivot point covering to cover the entire metal section
+  * Updated Lower toro side plates to add a countersink where the covering mount brackets are
+* Updated Goodyear tire with custom design for upcoming manufacturing
+* Updated covering mount to align with differing configuring of existing tires
+* Added gimbal ring / rod drawings
+* Made small adjustments to neck rods and removed some superfluous features
+* Added drawings for neck rod ends
+* Added 3D printable sleeves for replacement spring spacers
+* Modified neck sprocket to match the keyway of the neck rods to minimize the key plate needs
+* Added drawing for socket
+* Updated the front idler sprocket to use a lock nut instead of a collar
+* Small adjustment to the cover plates on the neck rods
+* Increased the height of the neck rod potentiometer covering
+* Increased the wire passthrough on the neopixel retaining ring in the eye
+
 # July 2024
 
 * Updated neck slide design to a 2-piece 3D print and laser cut design

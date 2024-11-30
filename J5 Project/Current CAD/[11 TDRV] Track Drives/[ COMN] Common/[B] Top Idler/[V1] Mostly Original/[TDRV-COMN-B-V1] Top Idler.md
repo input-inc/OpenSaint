@@ -3,7 +3,7 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 01/30/2016 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # 1-Piece Idler Tube
 | Attribute | Value |
 | ---  | ---     |

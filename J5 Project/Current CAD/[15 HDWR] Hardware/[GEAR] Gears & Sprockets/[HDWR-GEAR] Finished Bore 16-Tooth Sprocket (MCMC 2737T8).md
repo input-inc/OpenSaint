@@ -17,7 +17,7 @@
 # TUPR Neck Drive
 | Attribute | Value |
 | ---  | ---     |
-| Description | BORED SPROCKET. 1/8X1/16&quot;Keyway, with Set Screws |
+| Description | BORED SPROCKET. 3/16&quot;Keyway, with Set Screws |
 | Comment | https://ametric.com/product/59430/25b1612 |
 | Author | hackmancoltaire |
 | Date | 09/27/2016 |

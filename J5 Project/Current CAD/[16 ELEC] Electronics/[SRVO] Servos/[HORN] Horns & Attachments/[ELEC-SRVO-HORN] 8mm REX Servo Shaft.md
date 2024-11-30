@@ -20,3 +20,10 @@
 | Date | 01/28/2024 |
 | Part Type | Purchased |
 | Cost | 9.99 |
+# Modified (Console Door)
+| Attribute | Value |
+| ---  | ---     |
+| Author | hackmancoltaire |
+| Date | 01/28/2024 |
+| Part Type | Purchased |
+| Cost | 9.99 |

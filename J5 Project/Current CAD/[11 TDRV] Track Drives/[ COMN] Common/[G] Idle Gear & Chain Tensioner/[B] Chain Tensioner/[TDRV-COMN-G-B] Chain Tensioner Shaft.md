@@ -4,7 +4,7 @@
 | Description | Interfaces with the outer side plate to provide a roller chain tensioning system. |
 | Author | SixWingedFreak |
 | Date | 07/06/2018 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2022 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # V2
 | Attribute | Value |
 | ---  | ---     |

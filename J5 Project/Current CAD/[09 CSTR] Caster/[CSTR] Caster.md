@@ -3,7 +3,7 @@
 | ---  | ---     |
 | Author | SixWingedFreak |
 | Date | 02/22/2016 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
 # v2 - Single piece
 | Attribute | Value |
 | ---  | ---     |
