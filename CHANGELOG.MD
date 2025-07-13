@@ -1,3 +1,56 @@
+# April 2025 (Released in July)
+
+* Added new Neck Cup Spanner Wrench (Thanks to John Saunders)
+* Added new V2 Upper Torso Frame for the PCB Cage Work
+  * New Quick Release Plates
+  * New Quick Release Plate Spacers
+  * Updated Wire Tunnel
+  * Updated Rear Hinge to full plate
+  * Adjustments to Flare Plates to accommodate new PCB Cage
+  * Updates to Side Plates
+* Adjusted Arm Side Plates to new locations as there is now a single mirrored part instead of different parts per side (Makes hole features work better)
+* Added a new Chest Carrier version (V4) for the PCB Cage Work
+* Added Covering Mounts for Master Cylinder Drive
+* Added new springs for PCB Cage
+* Adjusted Flare Plate with new Configuration for V2 Upper Torso Frame
+* Updates to Back Covering to increase thickness of lower section in preparation for new Upper Torso design
+* Swapped out out of production Servo Shafts in the Head for new shafts from Servo City
+* Added Servo Shaft Modification Jig for new head servo shafts
+* Added some new Nylon Hex nut for front idler
+* Fixed broken detail coverings that causes Head master file to improperly show instead of sub part
+* Added Heat shrink tubing to Battery Casing
+* Begun adding Loctite callouts for fasteners and adding material callouts and McMasterCarr part callouts for certain fasteners (More to come)
+* Added drawings for idler axles
+* Added a cut to the tip-toe potentiometer housing to make it easier to remove
+* Small adjustments to the lower torso battery simulate
+* Deleted old battery simulate
+* Adjustments to the console faceplate for wire routing
+* Added material callout for finger pulley parts
+* Small adjustment to arm side plates to add countersinks for fasteners that interfere with the servo mounts
+* Adjustment to the Neck spring spacer plate to allow mounting of adjusted neck covering
+* Exported Flat pattern for Neck spring spacer plate and rear mounting plate
+* Added magnet callouts to front and rear neck coverings
+* Fixed small bug in Head detail plates
+* Adjusted bottom eye flap servo attachment for new shaft
+* Added new servo screw
+* Added flat patterns for sliding plates
+* Added countersink to eye gimbal ring holes
+* Added new 8mm eye pop actuator
+  * New 3D printable frame
+  * Optical limit switches
+  * More Off the shelf components
+* Removed instances of fasteners from lower torso covering console section that were in there by mistake 
+* Increased size of middle torso potentiometer mount bracket
+* Fixed dimensions of HTD belt in middle torso
+* Update Vishay Potentiometer with newer model
+* Added Gear Mate to Pulleys in Middle Torso
+* Added 9mm x 3mm magnet, that is used in many places (more magnets coming to assemblies)
+* Fixed neck servo belt dimension and pulleys to correct dimensions
+* Added drawing for the Lower Torso Bearing Collar
+* Adjustment to Lower Torso Covering Battery Door
+* Adjusted Lower Torso Console Frame cutout to make more room for HDMI / USB connectors exiting frame
+* Fixed fastener skipping in console frame
+
 # January 2025 (Released in April)
 
 * Removed old Arm Servo Shroud
