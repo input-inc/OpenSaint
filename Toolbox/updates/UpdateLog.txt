@@ -1,0 +1,112 @@
+3/2/2022 10:42:20 PM: ################################
+3/2/2022 10:42:20 PM: Starting update
+3/2/2022 10:42:20 PM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+3/2/2022 10:42:20 PM: Toolbox folder: C:\SOLIDWORKS Data\
+3/2/2022 10:42:20 PM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2022 SP01\Toolbox\
+3/2/2022 10:42:20 PM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+3/2/2022 10:42:20 PM: Run from IM: True
+3/2/2022 10:42:20 PM: Processing: 1600_Install Ansi Inch.tbox
+3/2/2022 10:42:21 PM: Processing: 1600_Install Ansi Metric.tbox
+3/2/2022 10:42:22 PM: Processing: 1600_Install AS.tbox
+3/2/2022 10:42:22 PM: Processing: 1600_Install BSI.tbox
+3/2/2022 10:42:23 PM: Processing: 1600_Install CISC.tbox
+3/2/2022 10:42:23 PM: Processing: 1600_Install DIN.tbox
+3/2/2022 10:42:24 PM: Processing: 1600_Install GB.tbox
+3/2/2022 10:42:26 PM: Processing: 1600_Install IS.tbox
+3/2/2022 10:42:26 PM: Processing: 1600_Install ISO.tbox
+3/2/2022 10:42:27 PM: Processing: 1600_Install JIS.tbox
+3/2/2022 10:42:28 PM: Processing: 1600_Install KS.tbox
+3/2/2022 10:42:29 PM: Processing: 1600_Install MIL.tbox
+3/2/2022 10:42:29 PM: Processing: 1600_Install SKF.tbox
+3/2/2022 10:42:29 PM: Processing: 1600_Install Torrington Inch.tbox
+3/2/2022 10:42:29 PM: Processing: 1600_Install Torrington Metric.tbox
+3/2/2022 10:42:30 PM: Processing: 1600_Install Truarc.tbox
+3/2/2022 10:42:30 PM: Processing: 1600_Install Unistrut.tbox
+4/29/2022 4:41:07 PM: ################################
+4/29/2022 4:41:07 PM: Starting update
+4/29/2022 4:41:07 PM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+4/29/2022 4:41:07 PM: Toolbox folder: C:\SOLIDWORKS Data\
+4/29/2022 4:41:07 PM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2022 SP2.0\Toolbox\
+4/29/2022 4:41:07 PM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+4/29/2022 4:41:07 PM: Run from IM: True
+7/16/2022 12:32:38 PM: ################################
+7/16/2022 12:32:38 PM: Starting update
+7/16/2022 12:32:38 PM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+7/16/2022 12:32:38 PM: Toolbox folder: C:\SOLIDWORKS Data\
+7/16/2022 12:32:38 PM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2022 SP03.1\Toolbox\
+7/16/2022 12:32:38 PM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+7/16/2022 12:32:38 PM: Run from IM: True
+10/21/2022 2:37:05 PM: ################################
+10/21/2022 2:37:05 PM: Starting update
+10/21/2022 2:37:05 PM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+10/21/2022 2:37:05 PM: Toolbox folder: C:\SOLIDWORKS Data\
+10/21/2022 2:37:05 PM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2022 SP04\Toolbox\
+10/21/2022 2:37:05 PM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+10/21/2022 2:37:05 PM: Run from IM: True
+1/20/2023 5:38:57 PM: ################################
+1/20/2023 5:38:57 PM: Starting update
+1/20/2023 5:38:57 PM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+1/20/2023 5:38:57 PM: Toolbox folder: C:\SOLIDWORKS Data\
+1/20/2023 5:38:57 PM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2023 SP0.1\Toolbox\
+1/20/2023 5:38:57 PM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+1/20/2023 5:38:57 PM: Run from IM: True
+3/5/2023 1:05:17 PM: ################################
+3/5/2023 1:05:17 PM: Starting update
+3/5/2023 1:05:17 PM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+3/5/2023 1:05:17 PM: Toolbox folder: C:\SOLIDWORKS Data\
+3/5/2023 1:05:17 PM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2023 SP01\Toolbox\
+3/5/2023 1:05:17 PM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+3/5/2023 1:05:17 PM: Run from IM: True
+9/13/2023 12:01:40 PM: ################################
+9/13/2023 12:01:40 PM: Starting update
+9/13/2023 12:01:40 PM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+9/13/2023 12:01:40 PM: Toolbox folder: C:\SOLIDWORKS Data\
+9/13/2023 12:01:40 PM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2023 SP03\Toolbox\
+9/13/2023 12:01:40 PM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+9/13/2023 12:01:40 PM: Run from IM: True
+11/13/2023 10:58:16 AM: ################################
+11/13/2023 10:58:16 AM: Starting update
+11/13/2023 10:58:16 AM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+11/13/2023 10:58:16 AM: Toolbox folder: C:\SOLIDWORKS Data\
+11/13/2023 10:58:16 AM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2023 SP05\Toolbox\
+11/13/2023 10:58:16 AM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+11/13/2023 10:58:16 AM: Run from IM: True
+11/13/2023 10:58:16 AM: Processing: 2302_Analysis.tbox.gz
+11/13/2023 10:58:16 AM: Processing: 2303_Update.tbox.gz
+1/2/2024 2:44:03 PM: ################################
+1/2/2024 2:44:03 PM: Starting update
+1/2/2024 2:44:03 PM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+1/2/2024 2:44:03 PM: Toolbox folder: C:\SOLIDWORKS Data\
+1/2/2024 2:44:03 PM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2024 SP0.1\Toolbox\
+1/2/2024 2:44:03 PM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+1/2/2024 2:44:03 PM: Run from IM: True
+1/2/2024 2:44:03 PM: Processing: 2400_Analysis.tbox.gz
+1/2/2024 2:44:03 PM: Processing: 2401_Update.tbox.gz
+2/24/2024 3:08:28 PM: ################################
+2/24/2024 3:08:28 PM: Starting update
+2/24/2024 3:08:28 PM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+2/24/2024 3:08:28 PM: Toolbox folder: C:\SOLIDWORKS Data\
+2/24/2024 3:08:28 PM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2024 SP01\Toolbox\
+2/24/2024 3:08:28 PM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+2/24/2024 3:08:28 PM: Run from IM: True
+10/10/2024 10:46:16 AM: ################################
+10/10/2024 10:46:16 AM: Starting update
+10/10/2024 10:46:16 AM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+10/10/2024 10:46:16 AM: Toolbox folder: C:\SOLIDWORKS Data\
+10/10/2024 10:46:16 AM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2024 SP04\Toolbox\
+10/10/2024 10:46:16 AM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+10/10/2024 10:46:16 AM: Run from IM: True
+2/23/2025 4:36:29 PM: ################################
+2/23/2025 4:36:29 PM: Starting update
+2/23/2025 4:36:29 PM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+2/23/2025 4:36:29 PM: Toolbox folder: C:\SOLIDWORKS Data\
+2/23/2025 4:36:29 PM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2025 SP01.2\Toolbox\
+2/23/2025 4:36:29 PM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+2/23/2025 4:36:29 PM: Run from IM: True
+12/18/2025 8:56:13 PM: ################################
+12/18/2025 8:56:13 PM: Starting update
+12/18/2025 8:56:13 PM: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+12/18/2025 8:56:13 PM: Toolbox folder: C:\SOLIDWORKS Data\
+12/18/2025 8:56:13 PM: Installation Media Location: C:\Users\hackm\OneDrive\Documents\SOLIDWORKS Downloads\SOLIDWORKS 2026 SP0\Toolbox\
+12/18/2025 8:56:13 PM: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+12/18/2025 8:56:13 PM: Run from IM: True

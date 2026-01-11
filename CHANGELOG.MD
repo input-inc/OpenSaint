@@ -1,3 +1,18 @@
+# January 2026
+
+* Fixes to the Console Door Mechanism 
+* Added a V2 Angle Iron configuration to `[TLWR-COMN-01] Lower Shaft Support` so it can be used with older builds
+* New version of the Laser Hinge for wire passthrough
+* Updates to Laser Body to make it easy to 3D print
+* Added actuator to laser body assembly
+* Speedpak updates and mate fixes in upper torso
+* Adjustments to toolbox and vertical mount. We are standardizing this for easy swap outs
+* Updates to lower torso covering for wire passthrough
+* Updates to tire part in prep for manufacturing, added a drawing
+* Added PDM Toolbox which contains all Soldworks fasteners an Input-Inc’s internal DB of part references (Soon to be big)
+* Updates to ALL assemblies to point to new in-repo toolbox
+* Added BOM Export to repository
+
 # April 2025 (Released in July)
 
 * Added new Neck Cup Spanner Wrench (Thanks to John Saunders)

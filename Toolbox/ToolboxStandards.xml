@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ToolboxStandards>
+	<Standard>
+		<Name>Ansi Inch</Name>
+		<Source>ansi_inch.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>Ansi Metric</Name>
+		<Source>ansi_metric.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>AS</Name>
+		<Source>as.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>BSI</Name>
+		<Source>bsi.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>CISC</Name>
+		<Source>cisc.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>DIN</Name>
+		<Source>din.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>GB</Name>
+		<Source>gb.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>IS</Name>
+		<Source>is.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>ISO</Name>
+		<Source>iso.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>JIS</Name>
+		<Source>jis.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>KS</Name>
+		<Source>ks.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>MIL</Name>
+		<Source>mil.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>PEM Inch</Name>
+		<Source>pem_inch.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>PEM Metric</Name>
+		<Source>pem_metric.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>SKF</Name>
+		<Source>skf.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>Torrington Inch</Name>
+		<Source>torrington_inch.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>Torrington Metric</Name>
+		<Source>torrington_metric.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>Truarc</Name>
+		<Source>truarc.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+	<Standard>
+		<Name>Unistrut</Name>
+		<Source>unistrut.zip</Source>
+		<Install>Yes</Install>
+	</Standard>
+</ToolboxStandards>

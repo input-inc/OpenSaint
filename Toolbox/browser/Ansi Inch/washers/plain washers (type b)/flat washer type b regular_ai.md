@@ -1,0 +1,51 @@
+# @
+| Attribute | Value |
+| ---  | ---     |
+| Project Name |  |
+| Author | hackmancoltaire |
+| Project number |  |
+| Date | 01/05/2026 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
+| _SW_Last_Open_Time_ | 0:00 |
+# Default
+| Attribute | Value |
+| ---  | ---     |
+| Project Name |  |
+| Author | hackmancoltaire |
+| Project number |  |
+| Date | 01/05/2026 |
+# Regular FW 0.086
+| Attribute | Value |
+| ---  | ---     |
+| Project Name |  |
+| Author | hackmancoltaire |
+| Project number |  |
+| Date | 01/05/2026 |
+# Regular FW 0.112
+| Attribute | Value |
+| ---  | ---     |
+| Project Name |  |
+| Author | hackmancoltaire |
+| Project number |  |
+| Date | 01/05/2026 |
+# Regular FW 0.138
+| Attribute | Value |
+| ---  | ---     |
+| Project Name |  |
+| Author | hackmancoltaire |
+| Project number |  |
+| Date | 01/05/2026 |
+# Regular FW 0.19
+| Attribute | Value |
+| ---  | ---     |
+| Project Name |  |
+| Author | hackmancoltaire |
+| Project number |  |
+| Date | 01/05/2026 |
+# Regular FW 0.25
+| Attribute | Value |
+| ---  | ---     |
+| Project Name |  |
+| Author | hackmancoltaire |
+| Project number |  |
+| Date | 01/05/2026 |
