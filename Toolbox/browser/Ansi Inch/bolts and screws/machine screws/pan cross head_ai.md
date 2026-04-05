@@ -84,3 +84,13 @@
 | Author | hackmancoltaire |
 | Project number |  |
 | Date | 01/05/2026 |
+# CR-PHMS 0.086-56x0.875x0.875-N
+| Attribute | Value |
+| ---  | ---     |
+| Author | hackmancoltaire |
+| Date | 01/05/2026 |
+# CR-PHMS 0.06-80x0.9375x0.9375-N
+| Attribute | Value |
+| ---  | ---     |
+| Author | hackmancoltaire |
+| Date | 01/05/2026 |

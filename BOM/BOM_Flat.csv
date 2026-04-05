@@ -6,34 +6,34 @@ Item Number,Document,Configuration,Revision,Qty
 5,[HEAD-F-B-02] Arm.SLDPRT,0.0625 Hole,2,1
 6,[HDWR-FSTR-STND] Unthreaded Spacer 8mm x 10mm (Variable).SLDPRT,0.25mm,2,3
 7,[HDWR-FSTR-STND] Unthreaded Spacer 8mm x 10mm (Variable).SLDPRT,0.5,2,3
-8,[HDWR-FSTR-ROD] Fully Threaded Stud #2-56 x 1-1 ̸ 4.SLDPRT,"1""",2,1
-9,[TDRV-COMN-B-V1] Top Idler.SLDASM,1-Piece Idler Tube,12,1
-10,[TDRV-COMN-C] Rear Idler.SLDASM,1-Piece Idler Tube,6,1
-11,[TDRV-COMN-02] Idler Tube.SLDPRT,1-Piece System,4,2
-12,[HDWR-FSTR-ROD] Fully Threaded Stud #2-56 x 1-1 ̸ 4.SLDPRT,"1.125""",2,2
-13,[HDWR-FRAM] Extruded Aluminum Frame (25-5050).SLDPRT,104.14mm,4,1
-14,[HDWR-FRAM] Extruded Aluminum Frame (25-5050).SLDPRT,111.125mm,4,1
-15,[HDWR-FSTR-STND] Unthreaded Spacer 8mm x 10mm (Variable).SLDPRT,12mm,2,1
-16,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,1l,4,1
-17,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,1r,4,1
-18,[ELEC-CONN] Right Angle Header.SLDASM,1x10,3,2
-19,Body^[ELEC-CONN] Right Angle Header.sldprt,1x10,3,2
-20,Pin^[ELEC-CONN] Right Angle Header.sldprt,1x10,3,2
-21,[HEAD-F-B-02] Arm.SLDPRT,2.5mm Hole,2,1
-22,[HDWR-MISC] Convoluted Sleeving 1 ̸ 2'' ID.SLDPRT,"2.78"" Long (25 Ribs)",1,1
-23,[HDWR-GEAR] SuperDroids #25 10T (TD-199-010).SLDPRT,25-0.25P1ST10T10SN3.0H2.0L0.1250N,3,1
-24,[HDWR-BRNG-SLV] Flanged Sleeve Bearing 8mm x 14mm x 12mm (2934T122).SLDPRT,2934T122,2,6
-25,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,2L,4,1
-26,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,2r,4,1
-27,[TDRV-COMN-B-V1] Top Idler.SLDASM,3-Piece Idler Tube,12,1
-28,[TDRV-COMN-C] Rear Idler.SLDASM,3-Piece Idler Tube,6,1
-29,[TDRV-COMN-02] Idler Tube.SLDPRT,3-Piece System,4,2
-30,[HDWR-MISC] Convoluted Sleeving 1 ̸ 2'' ID.SLDPRT,"3.5"" Long (29 Ribs)",1,2
-31,[HDWR-PULL] 3 ̸ 64 Wire Rope Pulley 3 ̸ 8 ID (3434T21).SLDPRT,3434T21,3,4
-32,[NECK-A] Base.SLDASM,3D Printed Spacers,14,1
-33,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,3L,4,1
-34,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,3r,4,1
-35,[HDWR-MISC-OPENXRAIL] 6 inch Rail (565106).SLDPRT,"4.95"" Eye Pop Actuator",1,2
+8,[HDWR-FSTR-STND] Unthreaded Spacer 8mm x 10mm (Variable).SLDPRT,1,2,4
+9,[HDWR-FSTR-ROD] Fully Threaded Stud #2-56 x 1-1 ̸ 4.SLDPRT,"1""",2,1
+10,[TDRV-COMN-B-V1] Top Idler.SLDASM,1-Piece Idler Tube,12,1
+11,[TDRV-COMN-C] Rear Idler.SLDASM,1-Piece Idler Tube,6,1
+12,[TDRV-COMN-02] Idler Tube.SLDPRT,1-Piece System,4,2
+13,[HDWR-FSTR-ROD] Fully Threaded Stud #2-56 x 1-1 ̸ 4.SLDPRT,"1.125""",2,2
+14,[HDWR-FRAM] Extruded Aluminum Frame (25-5050).SLDPRT,104.14mm,4,1
+15,[HDWR-FRAM] Extruded Aluminum Frame (25-5050).SLDPRT,111.125mm,4,1
+16,[HDWR-FSTR-STND] Unthreaded Spacer 8mm x 10mm (Variable).SLDPRT,12mm,2,1
+17,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,1l,4,1
+18,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,1r,4,1
+19,[ELEC-CONN] Right Angle Header.SLDASM,1x10,3,2
+20,Body^[ELEC-CONN] Right Angle Header.sldprt,1x10,3,2
+21,Pin^[ELEC-CONN] Right Angle Header.sldprt,1x10,3,2
+22,[HEAD-F-B-02] Arm.SLDPRT,2.5mm Hole,2,1
+23,[HDWR-MISC] Convoluted Sleeving 1 ̸ 2'' ID.SLDPRT,"2.78"" Long (25 Ribs)",1,1
+24,[HDWR-GEAR] SuperDroids #25 10T (TD-199-010).SLDPRT,25-0.25P1ST10T10SN3.0H2.0L0.1250N,3,1
+25,[HDWR-BRNG-SLV] Flanged Sleeve Bearing 8mm x 14mm x 12mm (2934T122).SLDPRT,2934T122,2,6
+26,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,2L,4,1
+27,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,2r,4,1
+28,[TDRV-COMN-B-V1] Top Idler.SLDASM,3-Piece Idler Tube,12,1
+29,[TDRV-COMN-C] Rear Idler.SLDASM,3-Piece Idler Tube,6,1
+30,[TDRV-COMN-02] Idler Tube.SLDPRT,3-Piece System,4,2
+31,[HDWR-MISC] Convoluted Sleeving 1 ̸ 2'' ID.SLDPRT,"3.5"" Long (29 Ribs)",1,2
+32,[HDWR-PULL] 3 ̸ 64 Wire Rope Pulley 3 ̸ 8 ID (3434T21).SLDPRT,3434T21,3,4
+33,[NECK-A] Base.SLDASM,3D Printed Spacers,14,1
+34,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,3L,4,1
+35,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,3r,4,1
 36,[HDWR-FRAM] Extruded Aluminum Frame (25-5050).SLDPRT,49.149mm,4,1
 37,[ELEC-MOTR-BBPS-COMN-07] 16T Planet Gear.SLDPRT,4:1,3,8
 38,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,4L,4,1
@@ -47,102 +47,102 @@ Item Number,Document,Configuration,Revision,Qty
 46,[HDWR-FSTR-STND] Unthreaded Spacer 8mm x 10mm (Variable).SLDPRT,6,2,2
 47,[HDWR-BJNT] 5 ̸ 16-24 Male RH Ball Joint Rod End.SLDPRT,60645K822,2,2
 48,[HDWR-BELT] HKK Chain #25 Offset Link with Cotter Pin.SLDPRT,6264K3,2,1
-49,[HDWR-PULL] Timing 6mm Bore 20-Tooth (GT2).SLDPRT,6mm Bore,4,2
-50,[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,"7""",4,2
-51,[HDWR-BRNG-SLV] Sleeve Bearing 8mm x 11mm x 8mm (7095K129).SLDPRT,7095K129,2,2
-52,[HDWR-FSTR-GLU] Double Sided Acrylic Tape 15mm x 0.2mm.SLDPRT,70mm,2,2
-53,[HDWR-BRNG-BALL-UK-S] 6mm x 10mm x 3mm (106-2Z).SLDPRT,7804K111,1,4
-54,[HDWR-BRNG-SLV] Sleeve Bearing 8mm x 12mm x 12mm (7811K143).SLDPRT,7811K143,2,2
-55,[HDWR-BRNG-SLV] Sleeve Bearing 10mm x 12mm x 22mm (7811K153).SLDPRT,7811K153,2,2
-56,[HDWR-PLAT] Mount Plate 1 ̸ 4-20 (8875T911).SLDPRT,8875T911,2,6
-57,[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,"9""",4,4
-58,[HDWR-FSTR-NUT] NYHXNUT 1 ̸ 4-28-D Thin.SLDPRT,90101A235,2,2
-59,[HDWR-FSTR-WASH] 316 Stainless Steel Round Shim (90214A225).SLDPRT,90214A225,2,4
-60,[HDWR-FSTR-SHIM-US] 3 ̸ 4 x 1 1 ̸ 8 x 0.032.SLDPRT,90482A534,2,8
-61,[HDWR-FSTR-NUT] BRRLWLDNUT #4-40-D.SLDPRT,90596A111,2,8
-62,[HDWR-FSTR-NUT] NYTHNHXNUT #10-32-D.SLDPRT,90633A411,2,7
-63,[HDWR-FSTR-WASH] Oversized Flat Washer 1̸ 4 x 1 x 0.051.SLDPRT,91090A108,2,1
-64,[HDWR-FSTR-WASH] Oversized Flat Washer 1̸ 4 Screw Size.SLDPRT,91090A109,2,2
-65,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 3 ̸ 8 x 13 ̸ 16.SLDPRT,91115A781,2,4
-66,[HDWR-FSTR-SHIM-US] 3 ̸ 4 x 1 x 0.062.SLDPRT,91124A111,2,2
-67,[HDWR-FSTR-WASH] Flat Washer 3 ̸ 8 Screw Size (91525A329).SLDPRT,91525A329,2,2
-68,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 1 ̸ 4 x 1.SLDPRT,91780A198,2,4
-69,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 7 ̸ 16.SLDPRT,91780A464,2,4
-70,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff 1 ̸ 4-20 x 2-1 ̸ 2.SLDPRT,92230A340,2,1
-71,[HDWR-FSTR-STND] Unthreaded Spacer 5 ̸ 8 Screw Size x 1 x 1 ̸ 4 (92320A416).SLDPRT,92320A416,2,2
-72,[HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 3 ̸ 8.SLDPRT,92320A664,2,2
-73,[HDWR-FSTR-STND] Unthreaded Spacer #4 Screw Size x 3 ̸ 16 x 3 ̸ 16.SLDPRT,92320A689,2,3
-74,[HDWR-FSTR-STND] Unthreaded Spacer 5 ̸ 16 Screw Size x 3 ̸ 4 x 1 ̸ 2.SLDPRT,92415A125,2,2
-75,[HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 1 ̸ 8 Zinc-Plated Steel (92415A860).SLDPRT,92415A860,2,6
-76,[HDWR-FSTR-STND] Unthreaded Spacer #2 Screw Size x 5 ̸ 8 x 3 ̸ 16.SLDPRT,92510A019,2,1
-77,[HDWR-FSTR-STND] Unthreaded Spacer #2 Screw Size x 3 ̸ 4 x 3 ̸ 16.SLDPRT,92510A023,2,4
-78,[HDWR-FSTR-STND] Unthreaded Spacer #4 Screw Size x 3 ̸ 16 x 3 ̸ 4.SLDPRT,92510A024,2,2
-79,[HDWR-FSTR-STND] Unthreaded Spacer #4 Screw Size x 3 ̸ 16 x 1.SLDPRT,92510A028,2,4
-80,[HDWR-FSTR-STND] Unthreaded Spacer #8 Screw Size x 3 ̸ 8 x 7 ̸ 16.SLDPRT,92510A276,2,18
-81,[HDWR-FSTR-STND] Unthreaded Spacer #6 Screw Size x 3 ̸ 8 x 1 ̸ 16.SLDPRT,92510A389,2,2
-82,[HDWR-FSTR-STND] Unthreaded Spacer #6 Screw Size x 1 ̸ 4 x 5 ̸ 16.SLDPRT,92510A443,2,8
-83,[HDWR-FSTR-STND] Unthreaded Spacer #6 Screw Size x 5 ̸ 16 x 1 ̸ 8.SLDPRT,92510A520,2,12
-84,[HDWR-FSTR-STND] Unthreaded Spacer #8 Screw Size x 5 ̸ 16 x 5 ̸ 16.SLDPRT,92510A543,2,4
-85,[HDWR-FSTR-STND] Unthreaded Spacer 3 ̸ 4 Screw Size x 1 1 ̸ 2 x 1 ̸ 4.SLDPRT,92510A617,2,8
-86,[HDWR-FSTR-STND] Unthreaded Spacer #8 Screw Size x 1 ̸ 2 x 3 ̸ 16.SLDPRT,92510A721,2,8
-87,[HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 1.SLDPRT,92510A769,2,1
-88,[HDWR-FSTR-STND] Unthreaded Spacer 5 ̸ 16 Screw Size x 3 ̸ 4 x 3 ̸ 8.SLDPRT,92510A794,2,6
-89,[HDWR-FSTR-WASH] Rectangular Washer #6.SLDPRT,92516A120,2,6
-90,[HDWR-FSTR-STND] Unthreaded Spacer M3 Screw Size x 8mm x 2mm.SLDPRT,92871A029,2,1
-91,[HDWR-FSTR-STND] Unthreaded Spacer 3 ̸ 8 Screw Size x 1 ̸ 8 x 5 ̸ 8.SLDPRT,93320A102,2,2
-92,[HDWR-FSTR-STND] Unthreaded Spacer 3 ̸ 8 Screw Size x 1 ̸ 4 x 5 ̸ 8.SLDPRT,93320A104,2,2
-93,[HDWR-FSTR-SCRW] Precision Shoulder Screw #10-32 1 ̸ 4  x 1-1 ̸ 8.SLDPRT,94035A185,2,3
-94,[HDWR-SPNG] Utility Spring 1 x .187 x 0.023 (MCM 94135K1).SLDPRT,94135K1,2,3
-95,[HDWR-FSTR-SHIM-US] 3 ̸ 4 x 1 x 0.03.SLDPRT,94773A751,2,6
-96,[HDWR-FSTR-SHIM-US] 5 ̸ 8 x 1 x 0.025.SLDPRT,97022A261,2,2
-97,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 16 x 0.02.SLDPRT,97022A883,2,4
-98,[HDWR-FSTR-NUT] SQNUT M3-0.5-T.SLDPRT,97259A101,2,1
-99,[HDWR-FSTR-WASH] 18-8 Stainless Steel Round Shim (98089A389).SLDPRT,98089A389,2,4
-100,[HDWR-FSTR-PIN] Dowel Pin 1 ̸ 8 x 3 ̸ 4.SLDPRT,98381A473,2,2
-101,[HDWR-FSTR-NUT] Binding Barrel #10-24-D x 1 ̸ 4.SLDPRT,99637A179,2,9
-102,[TUPR-F] Tool Arm Mount.SLDASM,[V2] Electronics Carrier (With Coverings),21,1
-103,[ELEC-ACTR-LACT4P-D-00] Rear Mount.SLDPRT,Aesthetics,4,1
-104,[ELEC-SRVO-HORN] Servo Shaft Attachment (525140).SLDPRT,Antenna,2,1
-105,[HDWR-SHFT] Sonic Hub (HEX) 8mm REX x 32mm x 10mm (1309-0016-4008).SLDPRT,Arm - Inner,3,2
-106,[HDWR-SHFT] Sonic Hub (HEX) 8mm REX x 32mm x 10mm (1309-0016-4008).SLDPRT,Arm - Outer,3,2
-107,[HDWR-PULL] Timing T5 22-Tooth (A 6A34M022T16).SLDPRT,ARM Hug Output,9,2
-108,[HDWR-PULL] Timing T5 22-Tooth (A 6A34M022T16).SLDPRT,ARM Hug Servo,9,2
-109,ASME B18.8.2 - .03125x.3125,"Straight Pin 3125"" (03125"") dia x 3125"" (3125"")",1,10
-110,ASME B18.8.2 - 0.0627x0.25,"Straight Pin 0.0627"" dia x 1/4"" (0.25"")",1,1
-111,ASME B18.8.2 - 0.0627x0.75,"Straight Pin 0.0627"" dia x 3/4"" (0.75"")",1,2
-112,ASME B18.8.2 - 0.1875x0.5,"Straight Pin 3/16"" (0.1875"") dia x 1/2"" (0.5"")",1,1
-113,ASME B18.8.2 - 0.25x0.25,"Straight Pin 1/4"" (0.25"") dia x 1/4"" (0.25"")",1,1
-114,[ARM-A-V2-LEFT] Shoulder (Left).SLDASM,ASME-03B,23,1
-115,[ARM-A-V2-LEFT-OUTR] Outer Cuff Assembly (Left).SLDASM,ASME-03B,20,1
-116,[ARM-A-V2-LEFT-OUTR-COMN-00] Outer Cuff.SLDPRT,ASME-03B,6,1
-117,[ARM-A-V2-LEFT-OUTR-COMN-01] Servo Shroud.SLDPRT,ASME-03B,11,1
-118,[ARM-A-V2-RGHT] Shoulder (Right).SLDASM,ASME-04B,4,1
-119,[ARM-A-V2-RGHT-OUTR] Outer Cuff Assembly (Right).SLDASM,ASME-04B,6,1
-120,[ARM-A-V2-RGHT-OUTR-COMN-00] Outer Cuff.SLDPRT,ASME-04B,3,1
-121,[ARM-A-V2-RGHT-OUTR-COMN-01] Servo Shroud.SLDPRT,ASME-04B,1,1
-122,"B18.2.4.1M - Hex nut, Style 1,  M4 x 0.7 --D-N",Hex nut M4 x 0.7,1,4
-123,"B18.22M - Plain washer, 3 mm, narrow",Plain washer (narrow) M3,1,8
-124,B18.3.1M - 4 x 0.7 x 10 Hex SHCS -- 10NHX,Hex Socket Head Cap Screw M4 x 0.7 x 10mm,1,4
-125,B18.3.1M - 4 x 0.7 x 12 Hex SHCS -- 12NHX,Hex Socket Head Cap Screw M4 x 0.7 x 12mm,1,8
-126,B18.3.1M - 4 x 0.7 x 14 Hex SHCS -- 14NHX,Hex Socket Head Cap Screw M4 x 0.7 x 14mm,1,8
-127,B18.3.1M - 4 x 0.7 x 20 Hex SHCS -- 20NHX,Hex Socket Head Cap Screw M4 x 0.7 x 20mm,1,2
-128,B18.3.1M - 4 x 0.7 x 25 Hex SHCS -- 25NHX,Hex Socket Head Cap Screw M4 x 0.7 x 25mm,1,10
-129,B18.3.4M - 3 x 0.5 x 10 SBHCS --N,Socket Button Head Cap Screw M3 x 0.5 x 10mm,1,8
-130,B18.3.4M - 3 x 0.5 x 5 SBHCS --N,Socket Button Head Cap Screw M3 x 0.5 x 5mm,1,6
-131,B18.3.4M - 3 x 0.5 x 8 SBHCS --N,Socket Button Head Cap Screw M3 x 0.5 x 8mm,1,6
-132,B18.3.4M - 4 x 0.7 x 12 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 12mm,1,4
-133,B18.3.4M - 4 x 0.7 x 4 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 4mm,1,2
-134,B18.3.4M - 4 x 0.7 x 5 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 5mm,1,12
-135,B18.3.4M - 4 x 0.7 x 6 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 6mm,1,4
-136,B18.3.4M - 4 x 0.7 x 8 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 8mm,1,2
-137,B18.3.5M - 3 x 0.5 x 25 Socket FCHS  -- 25N,Socket Flat Countersunk Head Screw M3 x 0.5 x 25mm,1,2
-138,B18.3.5M - 3 x 0.5 x 30 Socket FCHS  -- 30N,Socket Flat Countersunk Head Screw M3 x 0.5 x 30mm,1,1
-139,B18.3.5M - 3 x 0.5 x 8 Socket FCHS  -- 8N,Socket Flat Countersunk Head Screw M3 x 0.5 x 8mm,1,1
-140,B18.3.5M - 4 x 0.7 x 10 Socket FCHS  -- 10N,Socket Flat Countersunk Head Screw M4 x 0.7 x 10mm,1,8
-141,B18.3.5M - 4 x 0.7 x 12 Socket FCHS  -- 12N,Socket Flat Countersunk Head Screw M4 x 0.7 x 12mm,1,8
-142,B18.3.5M - 5 x 0.8 x 16 Socket FCHS  -- 16N,Socket Flat Countersunk Head Screw M5 x 0.8 x 16mm,1,4
-143,B18.3.6M - M3 x 0.5 x 2 Hex Socket Flat Pt. SS --N,Hex Socket Flat Pt. SS M3 x 0.5 x 2mm,1,2
-144,B18.3.6M - M4 x 0.7 x 4 Hex Socket Flat Pt. SS --N,Hex Socket Flat Pt. SS M4 x 0.7 x 4mm,1,8
+49,[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,"7""",4,2
+50,[HDWR-BRNG-SLV] Sleeve Bearing 8mm x 11mm x 8mm (7095K129).SLDPRT,7095K129,2,2
+51,[HDWR-FSTR-GLU] Double Sided Acrylic Tape 15mm x 0.2mm.SLDPRT,70mm,2,2
+52,[HDWR-BRNG-SLV] Sleeve Bearing 8mm x 12mm x 12mm (7811K143).SLDPRT,7811K143,2,2
+53,[HDWR-BRNG-SLV] Sleeve Bearing 10mm x 12mm x 22mm (7811K153).SLDPRT,7811K153,2,2
+54,[HDWR-PLAT] Mount Plate 1 ̸ 4-20 (8875T911).SLDPRT,8875T911,2,6
+55,[HDWR-PULL] Timing 6mm Bore 20-Tooth (GT2).SLDPRT,8mm Bore,4,2
+56,[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,"9""",4,4
+57,[HDWR-FSTR-NUT] NYHXNUT 1 ̸ 4-28-D Thin.SLDPRT,90101A235,2,2
+58,[HDWR-FSTR-WASH] 316 Stainless Steel Round Shim (90214A225).SLDPRT,90214A225,2,4
+59,[HDWR-FSTR-SHIM-US] 3 ̸ 4 x 1 1 ̸ 8 x 0.032.SLDPRT,90482A534,2,8
+60,[HDWR-FSTR-NUT] BRRLWLDNUT #4-40-D.SLDPRT,90596A111,2,8
+61,[HDWR-FSTR-NUT] NYTHNHXNUT #10-32-D.SLDPRT,90633A411,2,7
+62,[HDWR-FSTR-WASH] Oversized Flat Washer 1̸ 4 x 1 x 0.051.SLDPRT,91090A108,2,1
+63,[HDWR-FSTR-WASH] Oversized Flat Washer 1̸ 4 Screw Size.SLDPRT,91090A109,2,2
+64,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 3 ̸ 8 x 13 ̸ 16.SLDPRT,91115A781,2,4
+65,[HDWR-FSTR-SHIM-US] 3 ̸ 4 x 1 x 0.062.SLDPRT,91124A111,2,2
+66,[HDWR-FSTR-WASH] Flat Washer 3 ̸ 8 Screw Size (91525A329).SLDPRT,91525A329,2,2
+67,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 1 ̸ 4 x 1.SLDPRT,91780A198,2,4
+68,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 7 ̸ 16.SLDPRT,91780A464,2,4
+69,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff 1 ̸ 4-20 x 2-1 ̸ 2.SLDPRT,92230A340,2,1
+70,[HDWR-FSTR-STND] Unthreaded Spacer 5 ̸ 8 Screw Size x 1 x 1 ̸ 4 (92320A416).SLDPRT,92320A416,2,2
+71,[HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 3 ̸ 8.SLDPRT,92320A664,2,2
+72,[HDWR-FSTR-STND] Unthreaded Spacer #4 Screw Size x 3 ̸ 16 x 3 ̸ 16.SLDPRT,92320A689,2,3
+73,[HDWR-FSTR-STND] Unthreaded Spacer 5 ̸ 16 Screw Size x 3 ̸ 4 x 1 ̸ 2.SLDPRT,92415A125,2,2
+74,[HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 1 ̸ 8 Zinc-Plated Steel (92415A860).SLDPRT,92415A860,2,6
+75,[HDWR-FSTR-STND] Unthreaded Spacer #2 Screw Size x 5 ̸ 8 x 3 ̸ 16.SLDPRT,92510A019,2,1
+76,[HDWR-FSTR-STND] Unthreaded Spacer #2 Screw Size x 3 ̸ 4 x 3 ̸ 16.SLDPRT,92510A023,2,4
+77,[HDWR-FSTR-STND] Unthreaded Spacer #4 Screw Size x 3 ̸ 16 x 3 ̸ 4.SLDPRT,92510A024,2,2
+78,[HDWR-FSTR-STND] Unthreaded Spacer #4 Screw Size x 3 ̸ 16 x 1.SLDPRT,92510A028,2,4
+79,[HDWR-FSTR-STND] Unthreaded Spacer #8 Screw Size x 3 ̸ 8 x 7 ̸ 16.SLDPRT,92510A276,2,18
+80,[HDWR-FSTR-STND] Unthreaded Spacer #6 Screw Size x 3 ̸ 8 x 1 ̸ 16.SLDPRT,92510A389,2,2
+81,[HDWR-FSTR-STND] Unthreaded Spacer #6 Screw Size x 1 ̸ 4 x 5 ̸ 16.SLDPRT,92510A443,2,8
+82,[HDWR-FSTR-STND] Unthreaded Spacer #6 Screw Size x 5 ̸ 16 x 1 ̸ 8.SLDPRT,92510A520,2,12
+83,[HDWR-FSTR-STND] Unthreaded Spacer #8 Screw Size x 5 ̸ 16 x 5 ̸ 16.SLDPRT,92510A543,2,4
+84,[HDWR-FSTR-STND] Unthreaded Spacer 3 ̸ 4 Screw Size x 1 1 ̸ 2 x 1 ̸ 4.SLDPRT,92510A617,2,8
+85,[HDWR-FSTR-STND] Unthreaded Spacer #8 Screw Size x 1 ̸ 2 x 3 ̸ 16.SLDPRT,92510A721,2,8
+86,[HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 1.SLDPRT,92510A769,2,1
+87,[HDWR-FSTR-STND] Unthreaded Spacer 5 ̸ 16 Screw Size x 3 ̸ 4 x 3 ̸ 8.SLDPRT,92510A794,2,6
+88,[HDWR-FSTR-WASH] Rectangular Washer #6.SLDPRT,92516A120,2,6
+89,[HDWR-FSTR-STND] Unthreaded Spacer M3 Screw Size x 8mm x 2mm.SLDPRT,92871A029,2,1
+90,[HDWR-FSTR-STND] Unthreaded Spacer 3 ̸ 8 Screw Size x 1 ̸ 8 x 5 ̸ 8.SLDPRT,93320A102,2,2
+91,[HDWR-FSTR-STND] Unthreaded Spacer 3 ̸ 8 Screw Size x 1 ̸ 4 x 5 ̸ 8.SLDPRT,93320A104,2,2
+92,[HDWR-FSTR-SCRW] Precision Shoulder Screw #10-32 1 ̸ 4  x 1-1 ̸ 8.SLDPRT,94035A185,2,3
+93,[HDWR-SPNG] Utility Spring 1 x .187 x 0.023 (MCM 94135K1).SLDPRT,94135K1,2,3
+94,[HDWR-FSTR-SHIM-US] 3 ̸ 4 x 1 x 0.03.SLDPRT,94773A751,2,6
+95,[HDWR-FSTR-SHIM-US] 5 ̸ 8 x 1 x 0.025.SLDPRT,97022A261,2,2
+96,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 16 x 0.02.SLDPRT,97022A883,2,4
+97,[HDWR-FSTR-NUT] SQNUT M3-0.5-T.SLDPRT,97259A101,2,1
+98,[HDWR-FSTR-WASH] 18-8 Stainless Steel Round Shim (98089A389).SLDPRT,98089A389,2,4
+99,[HDWR-FSTR-PIN] Dowel Pin 1 ̸ 8 x 3 ̸ 4.SLDPRT,98381A473,2,2
+100,[HDWR-FSTR-NUT] Binding Barrel #10-24-D x 1 ̸ 4.SLDPRT,99637A179,2,9
+101,[TUPR-F] Tool Arm Mount.SLDASM,[V2] Electronics Carrier (With Coverings),21,1
+102,[ELEC-ACTR-LACT4P-D-00] Rear Mount.SLDPRT,Aesthetics,4,1
+103,[ELEC-SRVO-HORN] Servo Shaft Attachment (525140).SLDPRT,Antenna,2,1
+104,[HDWR-SHFT] Sonic Hub (HEX) 8mm REX x 32mm x 10mm (1309-0016-4008).SLDPRT,Arm - Inner,3,2
+105,[HDWR-SHFT] Sonic Hub (HEX) 8mm REX x 32mm x 10mm (1309-0016-4008).SLDPRT,Arm - Outer,3,2
+106,[HDWR-PULL] Timing T5 22-Tooth (A 6A34M022T16).SLDPRT,ARM Hug Output,9,2
+107,[HDWR-PULL] Timing T5 22-Tooth (A 6A34M022T16).SLDPRT,ARM Hug Servo,9,2
+108,ASME B18.8.2 - .03125x.3125,"Straight Pin 3125"" (03125"") dia x 3125"" (3125"")",1,10
+109,ASME B18.8.2 - 0.0627x0.25,"Straight Pin 0.0627"" dia x 1/4"" (0.25"")",1,1
+110,ASME B18.8.2 - 0.0627x0.75,"Straight Pin 0.0627"" dia x 3/4"" (0.75"")",1,2
+111,ASME B18.8.2 - 0.1875x0.5,"Straight Pin 3/16"" (0.1875"") dia x 1/2"" (0.5"")",1,1
+112,ASME B18.8.2 - 0.25x0.25,"Straight Pin 1/4"" (0.25"") dia x 1/4"" (0.25"")",1,1
+113,[ARM-A-V2-LEFT] Shoulder (Left).SLDASM,ASME-03B,23,1
+114,[ARM-A-V2-LEFT-OUTR] Outer Cuff Assembly (Left).SLDASM,ASME-03B,20,1
+115,[ARM-A-V2-LEFT-OUTR-COMN-00] Outer Cuff.SLDPRT,ASME-03B,6,1
+116,[ARM-A-V2-LEFT-OUTR-COMN-01] Servo Shroud.SLDPRT,ASME-03B,11,1
+117,[ARM-A-V2-RGHT] Shoulder (Right).SLDASM,ASME-04B,4,1
+118,[ARM-A-V2-RGHT-OUTR] Outer Cuff Assembly (Right).SLDASM,ASME-04B,6,1
+119,[ARM-A-V2-RGHT-OUTR-COMN-00] Outer Cuff.SLDPRT,ASME-04B,3,1
+120,[ARM-A-V2-RGHT-OUTR-COMN-01] Servo Shroud.SLDPRT,ASME-04B,1,1
+121,"B18.2.4.1M - Hex nut, Style 1,  M4 x 0.7 --D-N",Hex nut M4 x 0.7,1,4
+122,"B18.22M - Plain washer, 3 mm, narrow",Plain washer (narrow) M3,1,8
+123,B18.3.1M - 4 x 0.7 x 10 Hex SHCS -- 10NHX,Hex Socket Head Cap Screw M4 x 0.7 x 10mm,1,4
+124,B18.3.1M - 4 x 0.7 x 12 Hex SHCS -- 12NHX,Hex Socket Head Cap Screw M4 x 0.7 x 12mm,1,14
+125,B18.3.1M - 4 x 0.7 x 14 Hex SHCS -- 14NHX,Hex Socket Head Cap Screw M4 x 0.7 x 14mm,1,8
+126,B18.3.1M - 4 x 0.7 x 20 Hex SHCS -- 20NHX,Hex Socket Head Cap Screw M4 x 0.7 x 20mm,1,2
+127,B18.3.1M - 4 x 0.7 x 25 Hex SHCS -- 25NHX,Hex Socket Head Cap Screw M4 x 0.7 x 25mm,1,10
+128,B18.3.4M - 3 x 0.5 x 10 SBHCS --N,Socket Button Head Cap Screw M3 x 0.5 x 10mm,1,8
+129,B18.3.4M - 3 x 0.5 x 5 SBHCS --N,Socket Button Head Cap Screw M3 x 0.5 x 5mm,1,6
+130,B18.3.4M - 3 x 0.5 x 8 SBHCS --N,Socket Button Head Cap Screw M3 x 0.5 x 8mm,1,6
+131,B18.3.4M - 4 x 0.7 x 12 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 12mm,1,4
+132,B18.3.4M - 4 x 0.7 x 4 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 4mm,1,2
+133,B18.3.4M - 4 x 0.7 x 5 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 5mm,1,12
+134,B18.3.4M - 4 x 0.7 x 6 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 6mm,1,4
+135,B18.3.4M - 4 x 0.7 x 8 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 8mm,1,2
+136,B18.3.5M - 3 x 0.5 x 25 Socket FCHS  -- 25N,Socket Flat Countersunk Head Screw M3 x 0.5 x 25mm,1,2
+137,B18.3.5M - 3 x 0.5 x 30 Socket FCHS  -- 30N,Socket Flat Countersunk Head Screw M3 x 0.5 x 30mm,1,1
+138,B18.3.5M - 3 x 0.5 x 8 Socket FCHS  -- 8N,Socket Flat Countersunk Head Screw M3 x 0.5 x 8mm,1,1
+139,B18.3.5M - 4 x 0.7 x 10 Socket FCHS  -- 10N,Socket Flat Countersunk Head Screw M4 x 0.7 x 10mm,1,8
+140,B18.3.5M - 4 x 0.7 x 12 Socket FCHS  -- 12N,Socket Flat Countersunk Head Screw M4 x 0.7 x 12mm,1,8
+141,B18.3.5M - 5 x 0.8 x 16 Socket FCHS  -- 16N,Socket Flat Countersunk Head Screw M5 x 0.8 x 16mm,1,4
+142,B18.3.6M - M3 x 0.5 x 2 Hex Socket Flat Pt. SS --N,Hex Socket Flat Pt. SS M3 x 0.5 x 2mm,1,2
+143,B18.3.6M - M4 x 0.7 x 4 Hex Socket Flat Pt. SS --N,Hex Socket Flat Pt. SS M4 x 0.7 x 4mm,1,4
+144,B18.3.6M - M5 x 0.8 x 3 Hex Socket Type I Cup Pt. SS --N,Hex Socket Type I Cup Pt. SS M5 x 0.8 x 3mm,1,2
 145,B18.6.7M - M2.5 x 0.45 x 20 Type I Cross Recessed FHMS --20N,Type I Cross Recessed FHMS M2.5 x 0.45 x 20mm,2,4
 146,B18.6.7M - M2.5 x 0.45 x 3 Type I Cross Recessed PHMS --3N,Pan Head Machine Screw (Cross Recessed) M2.5 x 0.45 x 3mm,1,2
 147,B18.6.7M - M3 x 0.5 x 13 Type I Cross Recessed PHMS --13N,Pan Head Machine Screw (Cross Recessed) M3 x 0.5 x 13mm,1,24
@@ -166,49 +166,49 @@ Item Number,Document,Configuration,Revision,Qty
 165,[ELEC-BULB-LED5] Kingbright Red LED.SLDPRT,Clipped 8.7mm,1,48
 166,[HDWR-FSTR-WASH] Split Lock Washer M4 (2809-0004-0007).SLDPRT,Compressed,2,4
 167,CR-BHMS 0.06-80x0.188x0.188-N,"Binding Head Machine Screw (Cross Recessed) #0-80 x 0.188""",1,2
-168,CR-FHMS 0.112-40x0.3125x0.3125-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 5/16"" (0.3125"")",1,16
-169,CR-FHMS 0.112-40x0.375x0.375-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 3/8"" (0.375"")",1,6
-170,CR-FHMS 0.164-32x0.625x0.625-N,"Flat Head Machine Screw (Cross Recessed) #8-32 x 5/8"" (0.625"")",1,10
-171,CR-FHMS 0.19-32x0.5x0.5-N,"Flat Head Machine Screw (Cross Recessed) #10-32 x 1/2"" (0.5"")",1,2
-172,CR-PHMS 0.06-80x0.75x0.75-N,"Pan Head Machine Screw (Cross Recessed) #0-80 x 3/4"" (0.75"")",2,4
-173,CR-PHMS 0.06-80x1.1875x0.375-N,"Pan Head Machine Screw (Cross Recessed) #0-80 x 1-3/16"" (1.1875"")",2,4
-174,CR-PHMS 0.073-72x0.375x0.375-N,"Pan Head Machine Screw (Cross Recessed) #1-72 x 3/8"" (0.375"")",2,8
-175,CR-PHMS 0.073-72x1x1-N,"Pan Head Machine Screw (Cross Recessed) #1-72 x 1"" (1"")",2,4
-176,CR-PHMS 0.112-40x0.75x0.75-N,"Pan Head Machine Screw (Cross Recessed) #4-40 x 3/4"" (0.75"")",2,1
-177,CR-PHMS 0.138-32x0.5625x0.5625-N,"Pan Head Machine Screw (Cross Recessed) #6-32 x 9/16"" (0.5625"")",2,4
-178,CR-PHMS 0.19-24x0.4375x0.4375-N,"Pan Head Machine Screw (Cross Recessed) #10-24 x 7/16"" (0.4375"")",2,2
-179,CR-PHMS 0.19-32x0.875x0.875-N,"Pan Head Machine Screw (Cross Recessed) #10-32 x 7/8"" (0.875"")",2,2
-180,[ARM-B-LEFT] Upper Arm (Left).SLDASM,Curvilinear Pulleys,31,1
-181,[ARM-C-LEFT] Lower Arm (Left).SLDASM,Curvilinear Pulleys,12,1
-182,"[ARM-C-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT",Curvilinear Pulleys,8,2
-183,"[ARM-C-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT",Curvilinear Pulleys,9,2
-184,[ARM-C-RGHT] Lower Arm (Right).SLDASM,Curvilinear Pulleys,2,1
-185,[ARM-LEFT] Arm (Left).SLDASM,Curvilinear Pulleys,26,1
-186,[ACC-TLBX] Toolbox.SLDASM,Default,5,1
-187,[ACC-TLBX-A-00] Shell.SLDPRT,Default,2,1
-188,[ACC-TLBX-A-01] Bottom.SLDPRT,Default,2,1
-189,[ACC-TLBX-A-02] Support.SLDPRT,Default,1,2
-190,[ACC-TLBX-A-03] Front Detail.SLDPRT,Default,2,1
-191,[ACC-TLBX-B] Hose Manifold.SLDASM,Default,1,1
-192,[ACC-TLBX-B-COMN-00] Hose Plate.SLDPRT,Default,1,1
-193,[ACC-TLBX-B-COMN-01] Hose Interconnect.SLDPRT,Default,1,8
-194,[ACC-TLBX-C] Hinge.SLDASM,Default,2,1
-195,[ACC-TLBX-C-COMN-00] Hinge Plate.SLDPRT,Default,1,1
-196,[ACC-TLBX-C-COMN-01] Lug (Tapped).SLDPRT,Default,1,1
-197,[ACC-TLBX-C-COMN-02] Lug (Countersunk).SLDPRT,Default,1,1
-198,[ACC-TLBX-D] Handle Assembly.SLDASM,Default,1,1
-199,[ACC-TLBX-D-COMN-00] Mounting Plate (H-012A).SLDPRT,Default,1,2
-200,[ACC-TLBX-D-COMN-01] Tubular Rivet.SLDPRT,Default,1,2
-201,[ACC-TLBX-D-COMN-02] Handle (H-041).SLDPRT,Default,1,1
-202,[AFRM-LWR-COMN-V2] Laser cut frame.SLDASM,Default,3,1
-203,[AFRM-LWR-COMN-V2-00] Rod Mount.SLDPRT,Default,2,2
-204,[AFRM-LWR-COMN-V2-01] Side Rod Mount.SLDPRT,Default,1,2
-205,[AFRM-LWR-COMN-V2-03] Frame Plate.SLDPRT,Default,3,2
-206,[AFRM-UPR-COMN-00] Bearing Cup.SLDPRT,Default,2,2
-207,[AFRM-UPR-COMN-01] Tiptoe Linkage Pivot Rod.SLDPRT,Default,1,1
-208,[AFRM-UPR-COMN-02] Bushing.SLDPRT,Default,3,2
-209,[AFRM-UPR-COMN-03] Caster Bushing.SLDPRT,Default,3,2
-210,[AFRM-UPR-COMN-05] Cable Duct.SLDPRT,Default,5,1
+168,CR-FHMS 0.112-40x0.3125x0.3125-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 5/16"" (0.3125"")",2,16
+169,CR-FHMS 0.112-40x0.375x0.375-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 3/8"" (0.375"")",2,6
+170,CR-FHMS 0.164-32x0.625x0.625-N,"Flat Head Machine Screw (Cross Recessed) #8-32 x 5/8"" (0.625"")",2,10
+171,CR-FHMS 0.19-32x0.5x0.5-N,"Flat Head Machine Screw (Cross Recessed) #10-32 x 1/2"" (0.5"")",2,2
+172,CR-PHMS 0.06-80x0.75x0.75-N,"Pan Head Machine Screw (Cross Recessed) #0-80 x 3/4"" (0.75"")",4,4
+173,CR-PHMS 0.06-80x1.1875x0.375-N,"Pan Head Machine Screw (Cross Recessed) #0-80 x 1-3/16"" (1.1875"")",4,4
+174,CR-PHMS 0.073-72x1x1-N,"Pan Head Machine Screw (Cross Recessed) #1-72 x 1"" (1"")",4,4
+175,CR-PHMS 0.112-40x0.75x0.75-N,"Pan Head Machine Screw (Cross Recessed) #4-40 x 3/4"" (0.75"")",4,1
+176,CR-PHMS 0.138-32x0.5625x0.5625-N,"Pan Head Machine Screw (Cross Recessed) #6-32 x 9/16"" (0.5625"")",4,4
+177,CR-PHMS 0.19-24x0.4375x0.4375-N,"Pan Head Machine Screw (Cross Recessed) #10-24 x 7/16"" (0.4375"")",4,2
+178,CR-PHMS 0.19-32x0.875x0.875-N,"Pan Head Machine Screw (Cross Recessed) #10-32 x 7/8"" (0.875"")",4,2
+179,[ARM-B-LEFT] Upper Arm (Left).SLDASM,Curvilinear Pulleys,31,1
+180,[ARM-C-LEFT] Lower Arm (Left).SLDASM,Curvilinear Pulleys,12,1
+181,"[ARM-C-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT",Curvilinear Pulleys,8,2
+182,"[ARM-C-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT",Curvilinear Pulleys,9,2
+183,[ARM-C-RGHT] Lower Arm (Right).SLDASM,Curvilinear Pulleys,2,1
+184,[ARM-LEFT] Arm (Left).SLDASM,Curvilinear Pulleys,26,1
+185,[ACC-TLBX] Toolbox.SLDASM,Default,5,1
+186,[ACC-TLBX-A-00] Shell.SLDPRT,Default,2,1
+187,[ACC-TLBX-A-01] Bottom.SLDPRT,Default,2,1
+188,[ACC-TLBX-A-02] Support.SLDPRT,Default,1,2
+189,[ACC-TLBX-A-03] Front Detail.SLDPRT,Default,2,1
+190,[ACC-TLBX-B] Hose Manifold.SLDASM,Default,1,1
+191,[ACC-TLBX-B-COMN-00] Hose Plate.SLDPRT,Default,1,1
+192,[ACC-TLBX-B-COMN-01] Hose Interconnect.SLDPRT,Default,1,8
+193,[ACC-TLBX-C] Hinge.SLDASM,Default,2,1
+194,[ACC-TLBX-C-COMN-00] Hinge Plate.SLDPRT,Default,1,1
+195,[ACC-TLBX-C-COMN-01] Lug (Tapped).SLDPRT,Default,1,1
+196,[ACC-TLBX-C-COMN-02] Lug (Countersunk).SLDPRT,Default,1,1
+197,[ACC-TLBX-D] Handle Assembly.SLDASM,Default,1,1
+198,[ACC-TLBX-D-COMN-00] Mounting Plate (H-012A).SLDPRT,Default,1,2
+199,[ACC-TLBX-D-COMN-01] Tubular Rivet.SLDPRT,Default,1,2
+200,[ACC-TLBX-D-COMN-02] Handle (H-041).SLDPRT,Default,1,1
+201,[AFRM-LWR-COMN-V2] Laser cut frame.SLDASM,Default,3,1
+202,[AFRM-LWR-COMN-V2-00] Rod Mount.SLDPRT,Default,2,2
+203,[AFRM-LWR-COMN-V2-01] Side Rod Mount.SLDPRT,Default,1,2
+204,[AFRM-LWR-COMN-V2-03] Frame Plate.SLDPRT,Default,3,2
+205,[AFRM-UPR-COMN-00] Bearing Cup.SLDPRT,Default,2,2
+206,[AFRM-UPR-COMN-01] Tiptoe Linkage Pivot Rod.SLDPRT,Default,1,1
+207,[AFRM-UPR-COMN-02] Bushing.SLDPRT,Default,3,2
+208,[AFRM-UPR-COMN-03] Caster Bushing.SLDPRT,Default,3,2
+209,[AFRM-UPR-COMN-05] Cable Duct.SLDPRT,Default,5,1
+210,[AFRM-UPR-COMN-06] Power Switch Mount Plate.SLDPRT,Default,1,1
 211,[AFRM-UPR-COVR-00] Upper Covering.SLDPRT,Default,2,1
 212,[ARM-A-COVR-00-L] Shoulder Covering (Left).SLDPRT,Default,7,1
 213,[ARM-A-COVR-00-R] Shoulder Covering (Right).SLDPRT,Default,3,1
@@ -329,7 +329,7 @@ Item Number,Document,Configuration,Revision,Qty
 328,"[CRDL-COMN-D-COMN-01-OUTR-LEFT] Side Plate (Outer, Left).SLDPRT",Default,3,1
 329,"[CRDL-COMN-D-COMN-01-OUTR-RGHT] Side Plate (Outer, Right).SLDPRT",Default,3,1
 330,[CRDL-COMN-D-COMN-02] 54-Tooth Sprocket Spacer.SLDPRT,Default,1,1
-331,[CRDL-COMN-D-COMN-03] Potentiometer Housing.SLDPRT,Default,4,1
+331,[CRDL-COMN-D-COMN-03] Potentiometer Housing.SLDPRT,Default,5,1
 332,[CRDL-COMN-D-COMN-03] Wire Passthrough.SLDPRT,Default,5,1
 333,[CRDL-COMN-D-COMN-04] Potentiometer Sprocket.SLDPRT,Default,4,1
 334,[CRDL-COMN-D-COMN-05] Wire Passthrough Cable Protector.SLDPRT,Default,2,2
@@ -357,10 +357,10 @@ Item Number,Document,Configuration,Revision,Qty
 356,[CSTR-C] Wheel.SLDASM,Default,13,2
 357,[CSTR-C-A] Rim with Bearings.SLDASM,Default,7,2
 358,[CSTR-C-B-00] Inner Tube.SLDPRT,Default,7,2
-359,[CSTR-C-B-01] Goodyear 2.80-4NHS Tire.SLDPRT,Default,8,2
+359,[CSTR-C-B-01] Goodyear 2.80-4NHS Tire.SLDPRT,Default,9,2
 360,[CSTR-C-C-COMN-00] Covering Mount.SLDPRT,Default,7,2
 361,[CSTR-C-COVR-00] Wheel Covering.SLDPRT,Default,8,2
-362,[CSTR-COMN-00] Axle.SLDPRT,Default,2,1
+362,[CSTR-COMN-00] Axle.SLDPRT,Default,3,1
 363,[CSTR-COMN-01] Triangular Support.SLDPRT,Default,3,1
 364,[CSTR-COMN-02] Curved Plate.SLDPRT,Default,3,1
 365,[CSTR-COMN-03] Curved Plate Support Bracket.SLDPRT,Default,5,1
@@ -477,88 +477,88 @@ Item Number,Document,Configuration,Revision,Qty
 476,[ELEC-SRVO-HS40] Hitec HS-40.SLDPRT,Default,1,3
 477,[ELEC-SWCH] Low Profile Cherry MX Red.SLDPRT,Default,1,1
 478,[ELEC-SWCH] Roller Lever 10A SPDT Snap-Action Switch.SLDASM,Default,1,2
-479,[ELEC-SWCH] SPDT Miniature Limit Switch (605628).SLDPRT,Default,1,4
-480,[ELEC-SWCH-COMN-00] Body.SLDPRT,Default,1,2
-481,[ELEC-SWCH-COMN-01] Arm.SLDPRT,Default,1,2
-482,[ELEC-SWCH-COMN-02] Roller.SLDPRT,Default,2,2
-483,[ELEC-SWCH-NKKJWS21RCA] Switch Assembly.SLDASM,Default,3,1
-484,[ELEC-SWCH-NKKJWS21RCA-COMN-00] Body (2AC).SLDPRT,Default,1,1
-485,[ELEC-SWCH-NKKJWS21RCA-COMN-01] Toggle Switch (C2A).SLDPRT,Default,1,1
-486,[ELEC-SWCH-NKKJWS21RCA-COMN-02] Electrical Contacts (2AAt).SLDPRT,Default,1,1
-487,[FULL-COMN] Lower Half.SLDASM,Default,20,1
-488,[FULL-COMN] Upper Half.SLDASM,Default,14,1
-489,[HDWR-BELT] HKK Chain #25 Inner Link.SLDPRT,Default,2,57
-490,[HDWR-BELT] HKK Chain #25 Master Link.SLDPRT,Default,2,2
-491,[HDWR-BELT] HKK Chain #25 Offset Link.SLDPRT,Default,2,1
-492,[HDWR-BELT] HKK Chain #25 Outer Link.SLDPRT,Default,2,56
-493,[HDWR-BELT] HKK Chain #35 Inner Link.SLDPRT,Default,3,63
-494,[HDWR-BELT] HKK Chain #35 Master Link.SLDPRT,Default,4,2
-495,[HDWR-BELT] HKK Chain #35 Offset Link.SLDPRT,Default,4,1
-496,[HDWR-BELT] HKK Chain #35 Outer Link.SLDPRT,Default,3,63
-497,[HDWR-BELT] HKK Chain #40 Inner Link.SLDPRT,Default,2,64
-498,[HDWR-BELT] HKK Chain #40 Master Link.SLDPRT,Default,2,2
-499,[HDWR-BELT] HKK Chain #40 Outer Link.SLDPRT,Default,2,64
-500,[HDWR-BELT-CRDL] HKK Chain #35 Assembly (62 Links).SLDASM,Default,2,1
-501,[HDWR-BELT-CRDL] HKK Chain #40 Assembly (64 Links).SLDASM,Default,1,2
-502,[HDWR-BELT-HEAD] Timing Belt 6mm x 103-Tooth (Gates GT 2MR103).SLDPRT,Default,2,2
-503,[HDWR-BELT-NECK] Timing Belt HTD 306mm (A 6R23M102060).SLDPRT,Default,5,1
-504,[HDWR-BELT-TDRV] HKK Chain #35 Assembly (65 Links).SLDASM,Default,6,2
-505,[HDWR-BELT-TMID] HKK Chain #25 Assembly (47 Links).SLDASM,Default,3,1
-506,[HDWR-BELT-TMID] Timing Belt HTD 168mm (A 6R23M056060).SLDPRT,Default,2,1
-507,[HDWR-BELT-TUPR] Timing Belt T5 185mm (POWGE T5x185x15).SLDPRT,Default,1,2
-508,[HDWR-BRNG-BALL-UK-F] 1 ̸ 4 x 14mm x 5mm (1611-0514-0250).SLDPRT,Default,2,4
-509,[HDWR-BRNG-BALL-UK-F] 32mm x 41mm x 5mm (1601-0039-0032).SLDPRT,Default,2,2
-510,[HDWR-BRNG-BALL-UK-F] 8mm REX ID x 14mm x 5mm.SLDPRT,Default,2,1
-511,[HDWR-BRNG-BALL-UK-F] 8mm x 14mm x 5mm.SLDPRT,Default,2,1
-512,[HDWR-BRNG-BALL-US-F] 1 ̸ 4 x 1 ̸ 2 x 3 ̸ 16 (FR188ZZ).SLDPRT,Default,1,6
-513,[HDWR-BRNG-BALL-US-F] 1 ̸ 4 x 3 ̸ 8 x 1 ̸ 8 (FR168ZZ).SLDPRT,Default,4,3
-514,[HDWR-BRNG-BALL-US-F] 1 ̸ 4 x 5 ̸ 8 x 0.196 (FR4-2RS).SLDPRT,Default,1,2
-515,[HDWR-BRNG-BALL-US-F] 3 ̸ 8 x 7 ̸ 8 x 9 ̸ 32 (FR6-2RS).SLDPRT,Default,2,1
-516,[HDWR-BRNG-BALL-US-F-EX] 3 ̸ 4 x 1-3 ̸ 8 x 7 ̸ 16 (HW-13C).SLDPRT,Default,1,4
-517,[HDWR-BRNG-BALL-US-S] 1 ̸ 2 x 1-1 ̸ 8 x 1 ̸ 4 (R8(X)).SLDPRT,Default,1,1
-518,[HDWR-BRNG-BALL-US-S] 1 ̸ 2 x 1-1 ̸ 8 x 3 ̸ 8 (1616-2RS).SLDPRT,Default,2,4
-519,[HDWR-BRNG-BALL-US-S] 1-1 ̸ 4 x 2-1 ̸ 4 x 1 ̸ 2 (R20-2RS).SLDPRT,Default,1,1
-520,[HDWR-BRNG-BALL-US-S] 2-5 ̸ 16 x 2-7 ̸ 8 x 9 ̸ 32 (B546-2RS-MAX).SLDPRT,Default,3,1
-521,[HDWR-BRNG-BALL-US-S] 3 ̸ 4 x 40mm x 12mm (6203-2RS-12).SLDPRT,Default,2,14
-522,[HDWR-BRNG-BALL-US-S] 3 ̸ 8 x 1-1 ̸ 8 x 3 ̸ 8 (1614-2RS).SLDPRT,Default,2,2
-523,[HDWR-BRNG-BALL-US-S] 3 x 3-1 ̸ 2 x 1 ̸ 4 (KA030XP0).SLDPRT,Default,1,4
-524,[HDWR-BRNG-BALL-US-S] 5 ̸ 8 x 1-3 ̸ 8 x 11 ̸ 32 (R10-2RS).SLDPRT,Default,1,2
-525,[HDWR-BRNG-BALL-US-S] 5 ̸ 8 x 7 ̸ 8 x 5 ̸ 32 (R1458-ZZ or ServoCity 535028).SLDPRT,Default,2,2
-526,[HDWR-BRNG-SLV] Sleeve Bearing 5 ̸ 8 x 3 ̸ 4 x 1 ̸ 2 (MCMC 6391K241).SLDPRT,Default,2,2
-527,[HDWR-CABL-ARM] Finger Cabling (External Half).SLDPRT,Default,4,3
-528,[HDWR-CABL-ARM] Lift Pulley Cabling.SLDPRT,Default,6,1
-529,[HDWR-CABL-ARM] Twist Pulley Cabling.SLDPRT,Default,5,1
-530,[HDWR-CABL-ARM-00] Lift & Twist Cable Casing.SLDPRT,Default,2,4
-531,[HDWR-FRAM] Extruded Aluminum Frame (20-4040).SLDPRT,Default,2,1
-532,[HDWR-FSTR-CLIP-UK] E-Style Retaining Ring 4 x 9.3 x 0.7.SLDPRT,Default,2,4
-533,[HDWR-FSTR-KEY-UK] 4mm x 20mm.SLDPRT,Default,1,1
-534,[HDWR-FSTR-MAG] Neodymium Disc Magnet 3 ̸ 16 x 1 ̸ 4.SLDPRT,Default,1,8
-535,[HDWR-FSTR-MAG] Neodymium Disc Magnet 3 ̸ 8 x 1 ̸ 8.SLDPRT,Default,1,6
-536,[HDWR-FSTR-MAG] Neodymium Disc Magnet 5mm x 3mm.SLDPRT,Default,1,8
-537,[HDWR-FSTR-MAG] Neodymium Disc Magnet 9mm x 3mm.SLDPRT,Default,2,6
-538,[HDWR-FSTR-PIN] Captive Pin 1.5mm x 4mm.SLDPRT,Default,1,2
-539,[HDWR-FSTR-PIN] Clevis Pin 5 ̸ 16 x 3 ̸ 4.SLDPRT,Default,1,2
-540,[HDWR-FSTR-PIN] Cotter Pin 1 ̸ 8 x 3 ̸ 4.SLDPRT,Default,1,2
-541,[HDWR-FSTR-PIN] Cotter Pin 3 ̸ 32 x 3 ̸ 4.SLDPRT,Default,1,4
-542,[HDWR-FSTR-PIN] Precision Clevis Pin 3 ̸ 8 x 1-3 ̸ 4.SLDPRT,Default,1,2
-543,[HDWR-FSTR-PIN] Precision Clevis Pin 3 ̸ 8 x 3 ̸ 4.SLDPRT,Default,1,2
-544,[HDWR-FSTR-PIN] Push-Button Quick-Release Pin 1 ̸ 4 x 5 ̸ 16.SLDPRT,Default,4,1
-545,[HDWR-FSTR-PIN] Quick-Release Pin 1 ̸ 4 x 4.SLDPRT,Default,2,1
-546,[HDWR-FSTR-ROD] Drop-In T-Slot Stud 5 ̸ 16-18 x 1.SLDPRT,Default,2,1
-547,[HDWR-FSTR-ROD] Fully Threaded Stud #10-24 x 2-3 ̸ 4.SLDPRT,Default,3,2
-548,[HDWR-FSTR-ROD] Fully Threaded Stud #4-40 x 1 ̸ 2.SLDPRT,Default,2,1
-549,[HDWR-FSTR-ROD] Fully Threaded Stud #8-32 x 3 ̸ 4.SLDPRT,Default,1,2
-550,[HDWR-FSTR-SCRW] Steel Pan Head Screw M2.3 x 0.4mm x 6mm.SLDPRT,Default,2,1
-551,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.032.SLDPRT,Default,3,2
-552,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.047.SLDPRT,Default,2,8
-553,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.062.SLDPRT,Default,1,4
-554,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 8.4mm x 0.01.SLDPRT,Default,2,10
-555,[HDWR-FSTR-SHIM-US] 1 ̸ 8 x 3 ̸ 16 x 0.01.SLDPRT,Default,3,16
-556,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4.SLDPRT,Default,3,2
-557,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 3 ̸ 16 x 1 ̸ 4.SLDPRT,Default,2,3
-558,[HDWR-FSTR-STND] Unthreaded Spacer #4 Screw Size x 1 ̸ 4 x 7 ̸ 16.SLDPRT,Default,4,2
-559,[HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 1 ̸ 4.SLDPRT,Default,3,5
-560,[HDWR-FSTR-STND] Unthreaded Spacer 6mm x 8mm x 1mm Acetal (1500-0010-0006).SLDPRT,Default,1,8
+479,[ELEC-SWCH-COMN-00] Body.SLDPRT,Default,1,2
+480,[ELEC-SWCH-COMN-01] Arm.SLDPRT,Default,1,2
+481,[ELEC-SWCH-COMN-02] Roller.SLDPRT,Default,2,2
+482,[ELEC-SWCH-NKKJWS21RCA] Switch Assembly.SLDASM,Default,3,1
+483,[ELEC-SWCH-NKKJWS21RCA-COMN-00] Body (2AC).SLDPRT,Default,1,1
+484,[ELEC-SWCH-NKKJWS21RCA-COMN-01] Toggle Switch (C2A).SLDPRT,Default,1,1
+485,[ELEC-SWCH-NKKJWS21RCA-COMN-02] Electrical Contacts (2AAt).SLDPRT,Default,1,1
+486,[ELEC-SWCH-OPB8] Optical Limit Switch (OPB841W51Z).SLDPRT,Default,2,4
+487,[ELEC-SWCH-RWOLF] Red Wolf 100A Breaker.SLDPRT,Default,2,2
+488,[FULL-COMN] Lower Half.SLDASM,Default,20,1
+489,[FULL-COMN] Upper Half.SLDASM,Default,14,1
+490,[HDWR-BELT] HKK Chain #25 Inner Link.SLDPRT,Default,2,57
+491,[HDWR-BELT] HKK Chain #25 Master Link.SLDPRT,Default,2,2
+492,[HDWR-BELT] HKK Chain #25 Offset Link.SLDPRT,Default,2,1
+493,[HDWR-BELT] HKK Chain #25 Outer Link.SLDPRT,Default,2,56
+494,[HDWR-BELT] HKK Chain #35 Inner Link.SLDPRT,Default,3,63
+495,[HDWR-BELT] HKK Chain #35 Master Link.SLDPRT,Default,4,2
+496,[HDWR-BELT] HKK Chain #35 Offset Link.SLDPRT,Default,4,1
+497,[HDWR-BELT] HKK Chain #35 Outer Link.SLDPRT,Default,3,63
+498,[HDWR-BELT] HKK Chain #40 Inner Link.SLDPRT,Default,2,64
+499,[HDWR-BELT] HKK Chain #40 Master Link.SLDPRT,Default,2,2
+500,[HDWR-BELT] HKK Chain #40 Outer Link.SLDPRT,Default,2,64
+501,[HDWR-BELT-CRDL] HKK Chain #35 Assembly (62 Links).SLDASM,Default,2,1
+502,[HDWR-BELT-CRDL] HKK Chain #40 Assembly (64 Links).SLDASM,Default,1,2
+503,[HDWR-BELT-HEAD] Timing Belt 6mm x 103-Tooth (Gates GT 2MR103).SLDPRT,Default,2,2
+504,[HDWR-BELT-NECK] Timing Belt HTD 306mm (A 6R23M102060).SLDPRT,Default,5,1
+505,[HDWR-BELT-TDRV] HKK Chain #35 Assembly (65 Links).SLDASM,Default,6,2
+506,[HDWR-BELT-TMID] HKK Chain #25 Assembly (47 Links).SLDASM,Default,3,1
+507,[HDWR-BELT-TMID] Timing Belt HTD 168mm (A 6R23M056060).SLDPRT,Default,2,1
+508,[HDWR-BELT-TUPR] Timing Belt T5 185mm (POWGE T5x185x15).SLDPRT,Default,1,2
+509,[HDWR-BRNG-BALL-UK-F] 1 ̸ 4 x 14mm x 5mm (1611-0514-0250).SLDPRT,Default,2,4
+510,[HDWR-BRNG-BALL-UK-F] 32mm x 41mm x 5mm (1601-0039-0032).SLDPRT,Default,2,2
+511,[HDWR-BRNG-BALL-UK-F] 8mm REX ID x 14mm x 5mm.SLDPRT,Default,2,1
+512,[HDWR-BRNG-BALL-UK-F] 8mm x 14mm x 5mm.SLDPRT,Default,2,1
+513,[HDWR-BRNG-BALL-UK-F-81235] 8mm x 12mm x 3.5mm.SLDPRT,Default,2,4
+514,[HDWR-BRNG-BALL-US-F] 1 ̸ 4 x 1 ̸ 2 x 3 ̸ 16 (FR188ZZ).SLDPRT,Default,1,6
+515,[HDWR-BRNG-BALL-US-F] 1 ̸ 4 x 3 ̸ 8 x 1 ̸ 8 (FR168ZZ).SLDPRT,Default,4,3
+516,[HDWR-BRNG-BALL-US-F] 1 ̸ 4 x 5 ̸ 8 x 0.196 (FR4-2RS).SLDPRT,Default,1,2
+517,[HDWR-BRNG-BALL-US-F] 3 ̸ 8 x 7 ̸ 8 x 9 ̸ 32 (FR6-2RS).SLDPRT,Default,2,1
+518,[HDWR-BRNG-BALL-US-F-EX] 3 ̸ 4 x 1-3 ̸ 8 x 7 ̸ 16 (HW-13C).SLDPRT,Default,1,4
+519,[HDWR-BRNG-BALL-US-S] 1 ̸ 2 x 1-1 ̸ 8 x 1 ̸ 4 (R8(X)).SLDPRT,Default,1,1
+520,[HDWR-BRNG-BALL-US-S] 1 ̸ 2 x 1-1 ̸ 8 x 3 ̸ 8 (1616-2RS).SLDPRT,Default,2,4
+521,[HDWR-BRNG-BALL-US-S] 1-1 ̸ 4 x 2-1 ̸ 4 x 1 ̸ 2 (R20-2RS).SLDPRT,Default,1,1
+522,[HDWR-BRNG-BALL-US-S] 2-5 ̸ 16 x 2-7 ̸ 8 x 9 ̸ 32 (B546-2RS-MAX).SLDPRT,Default,3,1
+523,[HDWR-BRNG-BALL-US-S] 3 ̸ 4 x 40mm x 12mm (6203-2RS-12).SLDPRT,Default,2,14
+524,[HDWR-BRNG-BALL-US-S] 3 ̸ 8 x 1-1 ̸ 8 x 3 ̸ 8 (1614-2RS).SLDPRT,Default,2,2
+525,[HDWR-BRNG-BALL-US-S] 3 x 3-1 ̸ 2 x 1 ̸ 4 (KA030XP0).SLDPRT,Default,1,4
+526,[HDWR-BRNG-BALL-US-S] 5 ̸ 8 x 1-3 ̸ 8 x 11 ̸ 32 (R10-2RS).SLDPRT,Default,1,2
+527,[HDWR-BRNG-BALL-US-S] 5 ̸ 8 x 7 ̸ 8 x 5 ̸ 32 (R1458-ZZ or ServoCity 535028).SLDPRT,Default,2,2
+528,[HDWR-BRNG-SLV] Sleeve Bearing 5 ̸ 8 x 3 ̸ 4 x 1 ̸ 2 (MCMC 6391K241).SLDPRT,Default,2,2
+529,[HDWR-CABL-ARM] Finger Cabling (External Half).SLDPRT,Default,4,3
+530,[HDWR-CABL-ARM] Lift Pulley Cabling.SLDPRT,Default,6,1
+531,[HDWR-CABL-ARM] Twist Pulley Cabling.SLDPRT,Default,5,1
+532,[HDWR-CABL-ARM-00] Lift & Twist Cable Casing.SLDPRT,Default,2,4
+533,[HDWR-FRAM] Extruded Aluminum Frame (20-4040).SLDPRT,Default,2,1
+534,[HDWR-FSTR-KEY-UK] 4mm x 20mm.SLDPRT,Default,1,1
+535,[HDWR-FSTR-MAG] Neodymium Disc Magnet 3 ̸ 16 x 1 ̸ 4.SLDPRT,Default,1,8
+536,[HDWR-FSTR-MAG] Neodymium Disc Magnet 3 ̸ 8 x 1 ̸ 8.SLDPRT,Default,1,6
+537,[HDWR-FSTR-MAG] Neodymium Disc Magnet 5mm x 3mm.SLDPRT,Default,1,8
+538,[HDWR-FSTR-MAG] Neodymium Disc Magnet 9mm x 3mm.SLDPRT,Default,2,6
+539,[HDWR-FSTR-PIN] Captive Pin 1.5mm x 4mm.SLDPRT,Default,1,2
+540,[HDWR-FSTR-PIN] Clevis Pin 5 ̸ 16 x 3 ̸ 4.SLDPRT,Default,1,2
+541,[HDWR-FSTR-PIN] Cotter Pin 1 ̸ 8 x 3 ̸ 4.SLDPRT,Default,1,2
+542,[HDWR-FSTR-PIN] Cotter Pin 3 ̸ 32 x 3 ̸ 4.SLDPRT,Default,1,4
+543,[HDWR-FSTR-PIN] Precision Clevis Pin 3 ̸ 8 x 1-3 ̸ 4.SLDPRT,Default,1,2
+544,[HDWR-FSTR-PIN] Precision Clevis Pin 3 ̸ 8 x 3 ̸ 4.SLDPRT,Default,1,2
+545,[HDWR-FSTR-PIN] Push-Button Quick-Release Pin 1 ̸ 4 x 5 ̸ 16.SLDPRT,Default,4,1
+546,[HDWR-FSTR-PIN] Quick-Release Pin 1 ̸ 4 x 4.SLDPRT,Default,2,1
+547,[HDWR-FSTR-ROD] Drop-In T-Slot Stud 5 ̸ 16-18 x 1.SLDPRT,Default,2,1
+548,[HDWR-FSTR-ROD] Fully Threaded Stud #10-24 x 2-3 ̸ 4.SLDPRT,Default,3,2
+549,[HDWR-FSTR-ROD] Fully Threaded Stud #4-40 x 1 ̸ 2.SLDPRT,Default,2,1
+550,[HDWR-FSTR-ROD] Fully Threaded Stud #8-32 x 3 ̸ 4.SLDPRT,Default,1,2
+551,[HDWR-FSTR-SCRW] Steel Pan Head Screw M2.3 x 0.4mm x 6mm.SLDPRT,Default,2,1
+552,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.032.SLDPRT,Default,3,2
+553,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.047.SLDPRT,Default,2,8
+554,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.062.SLDPRT,Default,1,4
+555,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 8.4mm x 0.01.SLDPRT,Default,2,10
+556,[HDWR-FSTR-SHIM-US] 1 ̸ 8 x 3 ̸ 16 x 0.01.SLDPRT,Default,3,16
+557,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4.SLDPRT,Default,3,2
+558,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 3 ̸ 16 x 1 ̸ 4.SLDPRT,Default,2,3
+559,[HDWR-FSTR-STND] Unthreaded Spacer #4 Screw Size x 1 ̸ 4 x 7 ̸ 16.SLDPRT,Default,4,2
+560,[HDWR-FSTR-STND] Unthreaded Spacer 1 ̸ 4 Screw Size x 1 ̸ 2 x 1 ̸ 4.SLDPRT,Default,3,5
 561,[HDWR-FSTR-WASH] Delrin Washer 6mm x 8mm x 1mm (1500-0010-0006).SLDPRT,Default,2,6
 562,[HDWR-FSTR-WASH] Delrin Washer 8mm x 10mm x 1mm (1500-0010-0008).SLDPRT,Default,2,8
 563,[HDWR-FSTR-WASH] Flat Washer #8 Screw Size (SAE Regular).SLDPRT,Default,3,2
@@ -603,975 +603,973 @@ Item Number,Document,Configuration,Revision,Qty
 602,[HDWR-MISC] White Delrin Acetal Resin Ball 025 inch.SLDPRT,Default,2,1
 603,[HDWR-MISC] White Delrin Acetal Resin Ball 0375 inch.SLDPRT,Default,1,2
 604,[HDWR-MISC] White Delrin Acetal Resin Ball.SLDPRT,Default,1,4
-605,[HDWR-MISC-OPENXRAIL] 6mm Lead Screw Nut (545308).SLDPRT,Default,2,2
-606,[HDWR-MISC-OPENXRAIL] Limit Switch Mount (D-605627).SLDPRT,Default,1,4
-607,[HDWR-MISC-OPENXRAIL] Screw Plate (585718).SLDPRT,Default,2,8
-608,[HDWR-NPRN-CRDL] Battery Tray Liner.SLDPRT,Default,2,1
-609,[HDWR-NPRN-TDRV] Lower Battery Box (Liner).SLDPRT,Default,5,1
-610,[HDWR-PULL] Timing Belt Idler 6mm x 12mm x 12mm (3413-0001-0001).SLDPRT,Default,3,2
-611,[HDWR-PULL] Timing HTD 5mm x 24-Tooth (3411-0014-0024).SLDPRT,Default,5,2
-612,[HDWR-PULL] Timing HTD 5mm x 24-Tooth Hex Bore (3417-4008-0024).SLDPRT,Default,4,2
-613,[HDWR-PULL] Uxcell 603U 3mm x 12mm x 3mm (1035707).SLDPRT,Default,2,6
-614,[HDWR-PULL-ARC] Arc Slot Bracket.SLDPRT,Default,2,2
-615,[HDWR-PULL-ARC] Screw Plate.SLDPRT,Default,2,2
-616,[HDWR-PULL-FIT] Cable Crimp 8mm x 2mm.SLDPRT,Default,3,2
-617,[HDWR-SHFT] 8mm REX Shaft with E-Clip 54mm.SLDPRT,Default,2,2
-618,[HDWR-SHFT] Clamping Hub 1 inch x 8mm (1302-0032-1000).SLDPRT,Default,2,2
-619,[HDWR-SHFT] D-Shaft 1 ̸ 4 x 4.SLDPRT,Default,2,2
-620,[HDWR-SHFT] Shaft 1 ̸ 8 x 7.SLDPRT,Default,2,1
-621,[HDWR-SHFT] Shaft Collar 1 ̸ 2 x 1 x 7 ̸ 16 (Zinc-Plated).SLDPRT,Default,2,4
-622,[HDWR-SHFT] Shaft Collar 3 ̸ 4 x 1-1 ̸ 4 x 9 ̸ 16.SLDPRT,Default,2,2
-623,[HDWR-SHFT] Sonic Hub 8mm x 32mm x 10mm (1309-0016-0008).SLDPRT,Default,2,2
-624,[HDWR-UJNT-COMN-01] Block.SLDPRT,Default,2,1
-625,[HDWR-UJNT-COMN-02] Main Pin.SLDPRT,Default,2,1
-626,[HDWR-UJNT-COMN-03] Half Pin (Countersunk).SLDPRT,Default,2,1
-627,[HDWR-UJNT-COMN-04] Half Pin (Flat).SLDPRT,Default,2,1
-628,[HDWR-UJNT-COMN-05] Rivet Pin.SLDPRT,Default,1,1
-629,[HDWR-ZERK] Grease Fitting 1 ̸ 4-28 (MCMC 1095K41).SLDPRT,Default,2,2
-630,[HEAD] Head.SLDASM,Default,56,1
-631,[HEAD-A] Bottom Shell.SLDASM,Default,41,1
-632,[HEAD-A] Nose Carrier.SLDASM,Default,18,1
-633,[HEAD-A] Top Shell.SLDASM,Default,43,1
-634,[HEAD-A-A-00] Center Section.SLDPRT,Default,33,1
-635,[HEAD-A-A-01-L] Rear Left.SLDPRT,Default,32,1
-636,[HEAD-A-A-01-R] Rear Right.SLDPRT,Default,33,1
-637,[HEAD-A-A-02-L] Front Left.SLDPRT,Default,29,1
-638,[HEAD-A-A-02-R] Front Right.SLDPRT,Default,30,1
-639,[HEAD-A-A-03] Mounting Block.SLDPRT,Default,31,2
-640,[HEAD-A-A-04] Vent Plate.SLDPRT,Default,31,1
-641,[HEAD-A-A-05] Faceplate Bottom.SLDPRT,Default,34,1
-642,[HEAD-A-A-06-L] Face Block Bottom Left.SLDPRT,Default,30,1
-643,[HEAD-A-A-06-R] Face Block Bottom Right.SLDPRT,Default,30,1
-644,[HEAD-A-B-00] Pocket Block.SLDPRT,Default,33,1
-645,[HEAD-A-B-01-L] Curve Left.SLDPRT,Default,32,1
-646,[HEAD-A-B-01-R] Curve Right.SLDPRT,Default,32,1
-647,[HEAD-A-B-02] Whip Antenna Top.SLDPRT,Default,32,1
-648,[HEAD-A-B-03-V1] Microphone Block (Combined).SLDPRT,Default,33,1
-649,[HEAD-A-B-04] MFRC Block.SLDPRT,Default,32,1
-650,[HEAD-A-B-05-L] Rear Vent Left.SLDPRT,Default,32,1
-651,[HEAD-A-B-05-R] Rear Vent Right.SLDPRT,Default,32,1
-652,[HEAD-A-B-06] Stepdown Block.SLDPRT,Default,32,1
-653,[HEAD-A-B-07] Slope Block.SLDPRT,Default,31,1
-654,[HEAD-A-B-09-L] Faceplate Top Left.SLDPRT,Default,31,1
-655,[HEAD-A-B-09-R] Faceplate Top Right.SLDPRT,Default,31,1
-656,[HEAD-A-B-10-L] Face Block Top Left.SLDPRT,Default,29,1
-657,[HEAD-A-B-10-R] Face Block Top Right.SLDPRT,Default,29,1
-658,[HEAD-A-B-11-L] Face Block Middle Left.SLDPRT,Default,29,1
-659,[HEAD-A-B-11-R] Face Block Middle Right.SLDPRT,Default,29,1
-660,[HEAD-A-B-12] Nose Bridge.SLDPRT,Default,17,1
-661,[HEAD-A-C-00] Frame.SLDPRT,Default,14,1
-662,[HEAD-A-C-01-L] Side Covering (Left).SLDPRT,Default,20,1
-663,[HEAD-A-C-01-R] Side Covering (Right).SLDPRT,Default,19,1
-664,[HEAD-A-D-00-L] Seam Strip - Curve Left.SLDPRT,Default,34,1
-665,[HEAD-A-D-00-R] Seam Strip - Curve Right.SLDPRT,Default,34,1
-666,[HEAD-A-D-01-L] Seam Strip - Rear Vent Left.SLDPRT,Default,34,1
-667,[HEAD-A-D-01-R] Seam Strip - Rear Vent Right.SLDPRT,Default,34,1
-668,[HEAD-A-E-00] Detail Plate L1 & R1.SLDPRT,Default,36,2
-669,[HEAD-A-E-01] Detail Plate L2 & R2.SLDPRT,Default,36,2
-670,[HEAD-A-E-02] Detail Plate L3.SLDPRT,Default,36,1
-671,[HEAD-A-E-03] Detail Plate L4.SLDPRT,Default,36,1
-672,[HEAD-A-E-04] Detail Plate L5.SLDPRT,Default,36,1
-673,[HEAD-A-E-05] Detail Plate L6.SLDPRT,Default,36,1
-674,[HEAD-A-E-06] Detail Plate R3.SLDPRT,Default,36,1
-675,[HEAD-A-E-07] Detail Plate R4.SLDPRT,Default,36,1
-676,[HEAD-A-E-08] Detail Plate R5.SLDPRT,Default,36,1
-677,[HEAD-A-E-09] Detail Plate R6.SLDPRT,Default,36,1
-678,[HEAD-A-E-10] Detail Plate R7.SLDPRT,Default,36,1
-679,[HEAD-A-E-11] Detail Plate CRV.SLDPRT,Default,39,1
-680,[HEAD-A-E-12] Detail Plate W1.SLDPRT,Default,36,1
-681,[HEAD-B-A-D-00] Diaphragm Ring.SLDPRT,Default,3,1
-682,[HEAD-B-A-D-02] Retaining Ring.SLDPRT,Default,3,1
-683,[HEAD-B-B-00] Gimbal Ring.SLDPRT,Default,4,2
-684,[HEAD-B-B-01] Gimbal Spacer.SLDPRT,Default,1,4
-685,[HEAD-B-B-02] Gimbal Bar.SLDPRT,Default,1,2
-686,[HEAD-B-C] Iris Rotator.SLDASM,Default,8,2
-687,[HEAD-B-C-COMN-00] Iris Rotation Cup.SLDPRT,Default,3,1
-688,[HEAD-B-C-COMN-01] NeoPixel Retaining Ring.SLDPRT,Default,3,1
-689,[HEAD-B-C-COMN-02] Rear Cap.SLDPRT,Default,3,1
-690,[HEAD-B-C-COMN-03] White Diffuser (With Hole).SLDPRT,Default,2,1
-691,[HEAD-B-C-COMN-04] White Diffuser (Without Hole).SLDPRT,Default,2,1
-692,[HEAD-B-C-COMN-05] Black Diffuser Window Tint Film.SLDPRT,Default,2,1
-693,[HEAD-B-C-COMN-06] Iris Ring Pin.SLDPRT,Default,2,1
-694,[HEAD-B-D-COMN-03] Vertical Slide Plate.SLDPRT,Default,3,1
-695,[HEAD-B-D-COMN-05] Vertical Rack 32P.SLDPRT,Default,1,1
-696,[HEAD-B-D-COMN-06] Horizontal Slide Rod.SLDPRT,Default,2,2
-697,[HEAD-B-D-L] XY Eye Articulator (Left).SLDASM,Default,5,1
-698,[HEAD-C-COMN-A-02] Pivot Strut.SLDPRT,Default,2,2
-699,[HEAD-C-LEFT] Eye Tube Assembly (Left).SLDASM,Default,12,1
-700,[HEAD-C-LEFT-COMN-00-L] Eye Tube (Left).SLDPRT,Default,33,1
-701,[HEAD-COVR-00-FF] Rear Covering (Form-Fitting).SLDPRT,Default,1,1
-702,[HEAD-COVR-MIL1] Facemask & Mouthguard Assembly.SLDASM,Default,7,1
-703,[HEAD-COVR-MIL1-COMN-01] Facemask.SLDPRT,Default,7,1
-704,[HEAD-COVR-MIL1-COMN-02] Mouthguard.SLDPRT,Default,6,1
-705,[HEAD-C-RGHT] Eye Tube Assembly (Right).SLDASM,Default,11,1
-706,[HEAD-C-RGHT-COMN-00-R] Eye Tube (Right).SLDPRT,Default,34,1
-707,[HEAD-D-LWR-A] Retaining Bracket Assembly.SLDASM,Default,4,2
-708,[HEAD-D-LWR-A-COMN-00] Retaining Bracket.SLDPRT,Default,3,2
-709,[HEAD-D-LWR-COMN-00-L] Lower Eye Flap Arm (Left).SLDPRT,Default,4,1
-710,[HEAD-D-LWR-COMN-00-R] Lower Eye Flap Arm (Right).SLDPRT,Default,4,1
-711,[HEAD-D-LWR-COMN-01-L] Lower Eye Flap (Left).SLDPRT,Default,4,1
-712,[HEAD-D-LWR-COMN-01-R] Lower Eye Flap (Right).SLDPRT,Default,4,1
-713,[HEAD-D-LWR-L] Lower Eye Flap Assembly (Left).SLDASM,Default,9,1
-714,[HEAD-D-LWR-R] Lower Eye Flap Assembly (Right).SLDASM,Default,9,1
-715,[HEAD-D-UPR-A] Servo Arm.SLDASM,Default,6,2
-716,[HEAD-D-UPR-A-COMN-00] Rod.SLDPRT,Default,4,1
-717,[HEAD-D-UPR-COMN-00] Servo Bracket.SLDPRT,Default,2,2
-718,[HEAD-D-UPR-COMN-01-L] Upper Eye Flap (Left).SLDPRT,Default,4,1
-719,[HEAD-D-UPR-COMN-01-R] Upper Eye Flap (Right).SLDPRT,Default,4,1
-720,[HEAD-D-UPR-L] Upper Eye Flap Assembly (Left).SLDASM,Default,9,1
-721,[HEAD-D-UPR-R] Upper Eye Flap Assembly (Right).SLDASM,Default,9,1
-722,[HEAD-E-V2] 3D Printable Nose.SLDASM,Default,17,1
-723,[HEAD-E-V2-B-00] Main Section.SLDPRT,Default,4,1
-724,[HEAD-E-V2-B-02] Pin.SLDPRT,Default,1,1
-725,[HEAD-E-V2-B-03] Spacer.SLDPRT,Default,3,2
-726,[HEAD-E-V2-B-04] Servo Arm Extension.SLDPRT,Default,4,1
-727,[HEAD-E-V2-C] Basket.SLDASM,Default,6,1
-728,[HEAD-E-V2-C-COMN-01] Middle Block.SLDPRT,Default,3,1
-729,[HEAD-E-V2-C-COMN-03] Rear Plate.SLDPRT,Default,3,1
-730,[HEAD-F] Microphone & Mechanics.SLDASM,Default,11,1
-731,[HEAD-F] Microphone.SLDASM,Default,4,1
-732,[HEAD-F-A-00] Tube.SLDPRT,Default,3,1
-733,[HEAD-F-A-01] Front Cap.SLDPRT,Default,2,1
-734,[HEAD-F-A-02] Mesh.SLDPRT,Default,2,1
-735,[HEAD-F-A-03] Rear Cap.SLDPRT,Default,1,1
-736,[HEAD-F-A-04] Wire Passthrough.SLDPRT,Default,3,1
-737,[HEAD-F-A-05] Spacer.SLDPRT,Default,3,2
-738,[HEAD-F-B-01] Hinge.SLDPRT,Default,2,2
-739,[HEAD-F-B-03] Arm Spacer.SLDPRT,Default,2,1
-740,[HEAD-G] MFRC & Mechanics.SLDASM,Default,13,1
-741,[HEAD-G] MFRC.SLDASM,Default,5,1
-742,[HEAD-G-A-00] Outer Tube.SLDPRT,Default,2,1
-743,[HEAD-G-A-01] Inner Tube.SLDPRT,Default,1,1
-744,[HEAD-G-A-02] Wideband Dish.SLDPRT,Default,3,1
-745,[HEAD-G-A-03] Shortband Dish.SLDPRT,Default,3,1
-746,[HEAD-G-A-04] Feedhorn.SLDPRT,Default,3,1
-747,[HEAD-G-A-05] Top Hat.SLDPRT,Default,2,1
-748,[HEAD-G-A-06] Upper Tube.SLDPRT,Default,1,1
-749,[HEAD-G-B-00] Elevator Guide.SLDPRT,Default,4,1
-750,[HEAD-G-B-01] Primary Arm.SLDPRT,Default,4,1
-751,[HEAD-G-B-02] Servo Carriage.SLDPRT,Default,3,1
-752,[HEAD-H] Whip Antenna & Mechanics.SLDASM,Default,17,1
-753,[HEAD-H] Whip Antenna.SLDASM,Default,8,1
-754,[HEAD-H-B-00-LWR] Linkage (Lower).SLDPRT,Default,4,1
-755,[HEAD-H-B-00-UPR] Linkage (Upper).SLDPRT,Default,3,1
-756,[HEAD-H-C-00] Elevator Guide.SLDPRT,Default,4,1
-757,[HEAD-H-C-01] Guide Rod.SLDPRT,Default,1,1
-758,[HEAD-H-C-02] Servo Spacer.SLDPRT,Default,4,1
-759,[HEAD-H-C-03] Servo Arm Extension.SLDPRT,Default,6,1
-760,[HEAD-H-C-04] Servo Carriage.SLDPRT,Default,2,1
-761,[HEAD-I-00] Sliding Plate.SLDPRT,Default,1,1
-762,[HEAD-J] Eye Pop.SLDASM,Default,6,1
-763,[HEAD-J-A-00] Mount Plate.SLDPRT,Default,4,1
-764,[HEAD-J-A-01] Stepper Motor Mount.SLDPRT,Default,2,1
-765,[HEAD-J-B] Actuator.SLDASM,Default,5,2
-766,[HEAD-J-B-00] End Cap.SLDPRT,Default,1,4
-767,[HEAD-J-B-01] Actuator Bar.SLDPRT,Default,2,1
-768,[HEAD-J-C-01] Arm.SLDPRT,Default,2,2
-769,[NECK-A-COMN-05] Spring Spacer Plate.SLDPRT,Default,4,1
-770,[NECK-A-COMN-06] Spring Bushing Standoff Sleeve.SLDPRT,Default,1,1
-771,[NECK-A-COMN-07] Spring Bushing Spacer Sleeve.SLDPRT,Default,1,1
-772,[NECK-B-V2] Servo Tensioner.SLDASM,Default,5,1
-773,[NECK-B-V2-COMN-00] Adjustment Plate.SLDPRT,Default,4,1
-774,[NECK-B-V2-COMN-01] 18 Tooth Timing Pulley.SLDPRT,Default,2,1
-775,[NECK-B-V2-COMN-03] Adjustment Plate Top.SLDPRT,Default,2,1
-776,[NECK-B-V2-COVR-00] Futaba FP-S110 (Sail Winch) Simulate.SLDPRT,Default,4,1
-777,[NECK-COMN-00] Bottom Ball Mounting Plate.SLDPRT,Default,4,2
-778,[NECK-COVR-01] Front Covering.SLDPRT,Default,3,1
-779,[NECK-COVR-02] Rear Covering.SLDPRT,Default,8,1
-780,[NECK-C-UPR-COMN-02] Ball Cup (1-Piece).SLDPRT,Default,3,4
-781,[NECK-C-UPR-COMN-03] Ball Retaining Ring.SLDPRT,Default,3,4
-782,[NECK-D-V3] Dual Material Rotation Assembly.SLDASM,Default,5,1
-783,[NECK-D-V3-COMN-00] Disc.SLDPRT,Default,2,1
-784,[NECK-D-V3-COMN-02] Compression Plate.SLDPRT,Default,1,1
-785,[NECK-D-V3-COMN-03] Concave Block.SLDPRT,Default,2,1
-786,[NECK-D-V3-COMN-04] Neck Shaft.SLDPRT,Default,4,1
-787,[NECK-E] Head Mount.SLDASM,Default,13,1
-788,[NECK-E-COMN-00] Base Plate.SLDPRT,Default,2,1
-789,[NECK-E-COMN-06] U-Joint Compression Plate.SLDPRT,Default,1,1
-790,[NECK-F-FRNT] Front Rod.SLDASM,Default,5,1
-791,[NECK-F-FRNT-COMN-00] Upper Block.SLDPRT,Default,2,1
-792,[NECK-F-FRNT-COMN-01] Lower Block.SLDPRT,Default,2,1
-793,[NECK-F-FRNT-COMN-02] Collar.SLDPRT,Default,4,1
-794,[NECK-F-LEFT-COMN-00] Upper Block.SLDPRT,Default,2,1
-795,[NECK-F-RGHT-COMN-00] Upper Block.SLDPRT,Default,2,1
-796,[TDRV-COMN-00] Front Spacer.SLDPRT,Default,5,2
-797,[TDRV-COMN-03] Idler Tube Collar.SLDPRT,Default,4,4
-798,[TDRV-COMN-04] Quick-Release Collar.SLDPRT,Default,6,2
-799,[TDRV-COMN-05] Quick-Release Collar Bushing.SLDPRT,Default,6,2
-800,[TDRV-COMN-06] Shield & Accessory Covering Mounting Plate.SLDPRT,Default,13,2
-801,[TDRV-COMN-10] Motor Covering Mount.SLDPRT,Default,3,2
-802,[TDRV-COMN-11] Outer Wire Channel.SLDPRT,Default,12,1
-803,[TDRV-COMN-12] Accessory Mounting Plate.SLDPRT,Default,4,1
-804,[TDRV-COMN-A-COMN-00] Axle.SLDPRT,Default,6,1
-805,[TDRV-COMN-A-COMN-01] Bushing.SLDPRT,Default,3,2
-806,[TDRV-COMN-A-COMN-02] 7-Inch Disc.SLDPRT,Default,2,2
-807,[TDRV-COMN-A-COMN-05] Printed Sprocket Spacer.SLDPRT,Default,2,2
-808,[TDRV-COMN-B-COMN-00] 10-Inch Disc.SLDPRT,Default,2,4
-809,[TDRV-COMN-B-V1-COMN-00] Bearing Axle.SLDPRT,Default,5,2
-810,[TDRV-COMN-C-COMN-00] Bearing Axle.SLDPRT,Default,4,2
-811,[TDRV-COMN-C-COMN-01] 7-Inch Disc.SLDPRT,Default,2,4
-812,"[TDRV-COMN-D-OUTR-01] Bearing Cup (Outer, Tapped).SLDPRT",Default,5,4
-813,[TDRV-COMN-E] Track Tensioner.SLDASM,Default,4,4
-814,[TDRV-COMN-E-COMN-00] Tension Adjustment Block.SLDPRT,Default,3,4
-815,[TDRV-COMN-E-COMN-01] Tension Adjustment Washer.SLDPRT,Default,3,2
-816,[TDRV-COMN-F-EV105] Battery Case.SLDASM,Default,8,1
-817,[TDRV-COMN-F-EV105-COMN] Full Case.SLDPRT,Default,6,1
-818,[TDRV-COMN-F-EV105-COMN] Mylar Spacer.SLDPRT,Default,1,2
-819,[TDRV-COMN-F-EV105-COMN] Overkill Solar BMS Case.SLDPRT,Default,4,1
-820,[TDRV-COMN-F-LWRV3] Lower Battery Box.SLDASM,Default,5,2
-821,[TDRV-COMN-F-LWRV3-COMN-00] Outer Shell.SLDPRT,Default,4,1
-822,[TDRV-COMN-F-LWRV3-COMN-01] Front Plate.SLDPRT,Default,4,1
-823,[TDRV-COMN-F-LWRV3-COMN-02] Side Wall.SLDPRT,Default,2,2
-824,[TDRV-COMN-G-B-COMN-02] Idler Lockdown Plate.SLDPRT,Default,1,1
-825,[TDRV-COMN-H-A-A-00-ACT] Link (Actual).SLDPRT,Default,4,45
-826,[TDRV-COMN-H-A-A-01] Pin.SLDPRT,Default,3,45
-827,[TDRV-COMN-H-A-ACT] Track Link (With Pad; Actual).SLDASM,Default,7,45
-828,[TDRV-COMN-H-A-B-00-ACT] Pad (Actual).SLDPRT,Default,4,45
-829,[TDRV-COMN-J] TIP Connector Bar.SLDASM,Default,3,2
-830,[TDRV-COMN-J-COMN-00] TIP Connection Bar.SLDPRT,Default,4,1
-831,[TDRV-COMN-K] Accessory Bundle.SLDASM,Default,2,2
-832,[TDRV-COVR-01-L] Shield Covering (Left).SLDPRT,Default,11,1
-833,[TDRV-COVR-01-R] Shield Covering (Right).SLDPRT,Default,5,1
-834,[TDRV-COVR-02-L] Accessory Covering (Left).SLDPRT,Default,3,1
-835,[TDRV-COVR-02-R] Accessory Covering (Right).SLDPRT,Default,2,1
-836,[TDRV-COVR-03] TDRV Motor Covering.SLDPRT,Default,7,1
-837,"[TDRV-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT",Default,10,1
-838,"[TDRV-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT",Default,16,1
-839,"[TDRV-RGHT-A-INNR-00] Side Plate (Right, Inner).SLDPRT",Default,12,1
-840,"[TDRV-RGHT-A-OUTR-00] Side Plate (Right, Outer).SLDPRT",Default,17,1
-841,[TIP-A-V3] A-Frame Linkage (Solid).SLDPRT,Default,1,2
-842,[TIP-COMN-01] Collar.SLDPRT,Default,1,2
-843,[TIP-COMN-02-V2] Cam (Eccentric Drive).SLDPRT,Default,2,2
-844,[TIP-COMN-03] Center Spacer.SLDPRT,Default,4,1
-845,[TIP-COMN-04] Side Spacer.SLDPRT,Default,3,2
-846,[TIP-COMN-08] 24V Flexable Busbar.SLDPRT,Default,3,2
-847,[TIP-COMN-09] Cable Saver Holder.SLDPRT,Default,1,1
-848,[TIP-COMN-10] Cable Saver.SLDPRT,Default,1,1
-849,[TLWR] Lower Torso.SLDASM,Default,13,1
-850,[TLWR-A-V2-A] Tie Bar Assembly.SLDASM,Default,5,2
-851,[TLWR-A-V2-A-COMN-00] Tie Bar.SLDPRT,Default,4,2
-852,[TLWR-A-V3-B-COMN-00] Banana Plate.SLDPRT,Default,4,1
-853,[TLWR-A-V3-COMN-00] Base Block.SLDPRT,Default,1,1
-854,[TLWR-A-V3-COMN-02] L-Shaped Bracket.SLDPRT,Default,3,2
-855,[TLWR-B-A-COMN-05] Status Plate.SLDPRT,Default,2,1
-856,[TLWR-B-A-V2] Faceplate Assembly.SLDASM,Default,6,1
-857,[TLWR-B-A-V2-COMN-02] Ring.SLDPRT,Default,2,1
-858,[TLWR-B-A-V2-COMN-03] Button.SLDPRT,Default,1,1
-859,[TLWR-B-A-V2-COMN-04] Waveshare 5.5 Inch Display (23112).SLDPRT,Default,2,1
-860,[TLWR-B-B-04] Console Door Servo Coupler.SLDPRT,Default,2,1
-861,[TLWR-C-COMN-00] Lift Frame.SLDPRT,Default,5,2
-862,[TLWR-C-COMN-01] Rod Lift Rack.SLDPRT,Default,5,2
-863,[TLWR-C-COMN-02] Door Pivot Hinge.SLDPRT,Default,4,2
-864,[TLWR-COMN-00] Bearing Collar.SLDPRT,Default,3,2
-865,[TLWR-COMN-02] Covering Mount Plate.SLDPRT,Default,1,2
-866,[TLWR-COMN-03] Raspberry Mount.SLDPRT,Default,2,1
-867,[TLWR-COVR-01] Pivot Point Covering.SLDPRT,Default,3,2
-868,[TLWR-COVR-02] Lithium-Argon Liquid Battery.SLDPRT,Default,4,1
-869,[TLWR-COVR-03] Lug Terminal.SLDPRT,Default,1,2
-870,[TLWR-COVR-A] Top Section.SLDASM,Default,3,1
-871,[TLWR-COVR-A-COMN-00] Top Section.SLDPRT,Default,7,1
-872,[TLWR-COVR-B-COMN-00] Console Case.SLDPRT,Default,6,1
-873,[TLWR-COVR-B-COMN-01] Bottom Console Mechanism Mount.SLDPRT,Default,6,1
-874,[TLWR-COVR-B-COMN-02] Top Console Mechanism Mount.SLDPRT,Default,6,1
-875,[TLWR-COVR-B-COMN-03] Console Right Detail.SLDPRT,Default,6,1
-876,[TLWR-COVR-B-COMN-04] Console Left Detail.SLDPRT,Default,6,1
-877,[TLWR-COVR-D] Battery Section Assembly.SLDASM,Default,9,1
-878,[TLWR-COVR-D-00] Right Door.SLDPRT,Default,9,1
-879,[TLWR-COVR-D-01] Left Door.SLDPRT,Default,9,1
-880,[TLWR-COVR-D-02] Battery Door Frame (Center).SLDPRT,Default,7,1
-881,[TLWR-COVR-D-03] Battery Door Frame (Left).SLDPRT,Default,7,1
-882,[TLWR-COVR-D-04] Battery Door Frame (Right).SLDPRT,Default,7,1
-883,[TLWR-COVR-D-05] Cradle Base Curve.SLDPRT,Default,6,1
-884,[TLWR-V3] Main Structure.SLDASM,Default,6,1
-885,[TLWR-V3-A-01] Bottom Panel.SLDPRT,Default,2,1
-886,[TLWR-V3-A-02] Front Panel.SLDPRT,Default,3,1
-887,[TMID-A] Cage.SLDASM,Default,2,1
-888,[TMID-A-COMN-00-L] Side Plate (Left).SLDPRT,Default,1,1
-889,[TMID-A-COMN-00-R] Side Plate (Right).SLDPRT,Default,1,1
-890,[TMID-A-COMN-01] Top Plate.SLDPRT,Default,1,1
-891,[TMID-A-COMN-02] Bottom Plate.SLDPRT,Default,1,1
-892,[TMID-A-COMN-03] Pivot Bushing.SLDPRT,Default,2,2
-893,[TMID-B] Feedback Potentiometer.SLDASM,Default,5,1
-894,[TMID-B-COMN-00] Mounting Bracket.SLDPRT,Default,4,1
-895,[TMID-C] Motor Tensioner.SLDASM,Default,2,1
-896,[TMID-C-COMN-00] Adjustment Plate.SLDPRT,Default,1,1
-897,[TMID-C-COMN-01] Adjustment Block.SLDPRT,Default,1,1
-898,[TMID-COVR-00] TMID Motor Covering.SLDPRT,Default,2,1
-899,[TMID-D] Rotation Shaft.SLDASM,Default,5,1
-900,[TMID-D-COMN-00] Rotation Shaft.SLDPRT,Default,2,1
-901,[TMID-E] Safety Switch.SLDASM,Default,3,1
-902,[TMID-E-COMN-00] Mounting Plate.SLDPRT,Default,1,1
-903,[TMID-E-COMN-01] Cam.SLDPRT,Default,2,1
-904,[TMID-E-COMN-02] Bushing.SLDPRT,Default,2,1
-905,[TMID-F-COMN-02] Bearing Collar.SLDPRT,Default,5,2
-906,[TMID-F-COMN-03] Actuator Rear Mount Bushing.SLDPRT,Default,2,2
-907,[TMID-F-COMN-04] Bearing Collar Bushing.SLDPRT,Default,5,4
-908,[TMID-F-V2-COMN-00] Quick Release Plate.SLDPRT,Default,2,1
-909,[TMID-F-V2-COMN-01-L] Side Plate (Left).SLDPRT,Default,2,1
-910,[TMID-F-V2-COMN-01-R] Side Plate (Right).SLDPRT,Default,3,1
-911,[TMID-F-V2-COMN-02] Bottom Plate.SLDPRT,Default,1,1
-912,[TUPR-A-A-COMN-02] Printable Bearing Spacer.SLDPRT,Default,3,1
-913,[TUPR-A-A-COMN-03] Shaft.SLDPRT,Default,1,1
-914,[TUPR-A-COMN-01] Front Plate.SLDPRT,Default,7,1
-915,[TUPR-A-COMN-02-L] Flare Plate (Left).SLDPRT,Default,8,1
-916,[TUPR-A-COMN-02-R] Flare Plate (Right).SLDPRT,Default,8,1
-917,[TUPR-A-COMN-03] Stiffener.SLDPRT,Default,4,2
-918,[TUPR-A-COMN-04] Quick-Release Plate.SLDPRT,Default,3,2
-919,[TUPR-A-COMN-05] Rear Hinge.SLDPRT,Default,4,2
-920,[TUPR-A-COMN-06] Thrust Rod Spacer.SLDPRT,Default,1,2
-921,[TUPR-A-COMN-08] Wire Tunnel.SLDPRT,Default,2,1
-922,[TUPR-A-COMN-09] Wire Passthrough Plug.SLDPRT,Default,1,2
-923,[TUPR-B-A-V2-COMN-02] Cord Grip Nut.SLDPRT,Default,1,2
-924,[TUPR-B-A-V2-COMN-03] Cord Grip Cap.SLDPRT,Default,1,2
-925,[TUPR-B-A-V2-COMN-04-LWR] Insert (Lower) .SLDPRT,Default,2,2
-926,[TUPR-B-A-V2-COMN-04-UPR] Insert (Upper).SLDPRT,Default,2,2
-927,[TUPR-B-A-V2-COMN-05] Lower Insert Plug.SLDPRT,Default,1,2
-928,[TUPR-B-A-V2-COMN-05] Servo Shim.SLDPRT,Default,2,2
-929,[TUPR-B-COMN-00-V2.0] Shoulder Tube (Input-Inc).SLDPRT,Default,7,1
-930,[TUPR-B-COMN-02] Pivot Lug.SLDPRT,Default,5,2
-931,[TUPR-B-COMN-03] Lug Spacer.SLDPRT,Default,3,2
-932,[TUPR-B-COMN-04] Neck Rod Mount Block.SLDPRT,Default,2,2
-933,[TUPR-B-COMN-06] Printable Bushing.SLDPRT,Default,1,1
-934,[TUPR-B-COVR-00] Center Covering.SLDPRT,Default,4,1
-935,[TUPR-B-COVR-01] Potentiometer Covering.SLDPRT,Default,2,1
-936,[TUPR-C-A] Drive Sprocket.SLDASM,Default,18,1
-937,[TUPR-C-A-COMN-00] D-Profile Rotary Shaft 8mm.SLDPRT,Default,9,1
-938,[TUPR-C-A-COMN-04] D-Profile Neck Block Key Plate.SLDPRT,Default,2,14
-939,[TUPR-COVR-00] Triangle.SLDPRT,Default,9,1
-940,[TUPR-C-V2] Neck Drive.SLDASM,Default,3,1
-941,[TUPR-C-V2-COMN-00] Side Plate.SLDPRT,Default,2,2
-942,[TUPR-C-V2-COMN-01] Front Cross Bar.SLDPRT,Default,2,2
-943,[TUPR-C-V2-COMN-02] Rear Cross Bar.SLDPRT,Default,2,2
-944,[TUPR-C-V2-COMN-06] D-Shaft Shim.SLDPRT,Default,2,1
-945,[TUPR-C-V2-COMN-07] Cover Plate.SLDPRT,Default,2,1
-946,[TUPR-C-V2-COMN-08] PCB Mount.SLDPRT,Default,2,1
-947,[TUPR-D-A-COMN-02] Manifold Mount for Simplified Manifold.SLDPRT,Default,9,1
-948,[TUPR-D-A-V2] Simplified Manifold Assembly.SLDASM,Default,8,1
-949,[TUPR-D-COMN-00] Side Plate.SLDPRT,Default,6,2
-950,[TUPR-D-COMN-01] Servo Arm.SLDPRT,Default,5,2
-951,[TUPR-D-COMN-02] Back Cover Mount Block - Right.SLDPRT,Default,1,1
-952,[TUPR-D-COMN-03] Back Cover Mount Block - Left.SLDPRT,Default,1,1
-953,[TUPR-E-COMN-00] Base Plate.SLDPRT,Default,5,2
-954,[TUPR-E-COMN-06] Clamp Bracket.SLDPRT,Default,1,1
-955,[TUPR-E-COMN-07] Plug Plate.SLDPRT,Default,1,1
-956,[TUPR-E-COVR-01] Disc.SLDPRT,Default,3,1
-957,[TUPR-E-COVR-02-LASR] SKF Actuator Simulate (Laser).SLDPRT,Default,3,1
-958,[TUPR-E-LASR-COMN-00] Vertical Tube.SLDPRT,Default,5,1
-959,[TUPR-E-LASR-COMN-01] Hinge Plug.SLDPRT,Default,5,1
-960,[TUPR-E-LASR-COMN-03] Shaft Coupling.SLDPRT,Default,4,1
-961,[TUPR-E-TLBX-COMN-02] Hinge.SLDPRT,Default,4,1
-962,[TUPR-F-COVR-01-INNR] Tool Arm Covering (Inner).SLDPRT,Default,7,1
-963,[TUPR-F-COVR-01-OUTR] Tool Arm Covering (Outer).SLDPRT,Default,8,1
-964,[TUPR-F-COVR-02-V1] Lid (Hero).SLDPRT,Default,2,1
-965,[TUPR-F-COVR-03] Rear Cap.SLDPRT,Default,3,1
-966,[TUPR-F-COVR-04] Tool Arm Pivot Covering.SLDPRT,Default,4,1
-967,[TUPR-F-V2] Electronics Carrier.SLDASM,Default,9,1
-968,[TUPR-F-V2-COMN-00-L] Side Plate (Left).SLDPRT,Default,4,1
-969,[TUPR-F-V2-COMN-00-R] Side Plate (Right).SLDPRT,Default,4,1
-970,[TUPR-G-COMN-00] Spacer.SLDPRT,Default,2,1
-971,[TUPR-G-COMN-01] Threaded Bar.SLDPRT,Default,3,1
-972,[TUPR-G-COMN-02] Sandwiched Plate.SLDPRT,Default,3,1
-973,[TUPR-G-COVR-00] Chest Covering.SLDPRT,Default,12,1
-974,[TUPR-G-COVR-01] Side Covering.SLDPRT,Default,3,1
-975,[TUPR-G-COVR-02] Back Covering.SLDPRT,Default,11,1
-976,[TUPR-G-COVR-03] Screw Cover Plate.SLDPRT,Default,2,1
-977,[TUPR-G-V2-A-00] Front Panel.SLDPRT,Default,3,1
-978,[TUPR-G-V2-A-01-L] Side Panel (Left).SLDPRT,Default,3,1
-979,[TUPR-G-V2-A-01-R] Side Panel (Right).SLDPRT,Default,3,1
-980,[TUPR-G-V2-A-02-LONG] Angle Iron (Long).SLDPRT,Default,2,2
-981,[TUPR-G-V2-A-02-MED] Angle Iron (Medium).SLDPRT,Default,2,2
-982,[TUPR-G-V2-A-02-SHRT] Angle Iron (Short).SLDPRT,Default,3,2
-983,[TUPR-H-COMN-00] Housing.SLDPRT,Default,3,1
-984,[TUPR-H-COMN-01] Rocker Switch.SLDPRT,Default,2,1
-985,[TUPR-I] PCB Mount.SLDASM,Default,2,1
-986,[TUPR-I-COMN-00] Lock Bracket.SLDPRT,Default,1,2
-987,[TUPR-I-COMN-01] PCB Sled.SLDPRT,Default,3,1
-988,Belt1-1^[ARM-B-LEFT] Upper Arm (Left).SLDPRT,Default,31,1
-989,Belt1-1^[ARM-B-RGHT] Upper Arm (Right).SLDPRT,Default,4,1
-990,Cable^[ARM-E-B-A-R] Finger (Right).SLDPRT,Default,9,2
-991,Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,12,1
-992,Harness_1^[TDRV-RGHT] Main Structure (Right).SLDASM,Default,12,1
-993,Part1^[ARM-B-B] Wrist Servo Cable Cage.SLDPRT,Default,5,2
-994,Part3^[ARM-B-B] Wrist Servo Cable Cage.SLDPRT,Default,5,2
-995,Pull Cable^[ARM-E-B-B] Thumb.SLDPRT,Default,7,1
-996,Tube_1-[TUPR-D] Master Cylinder Drive.sldasm,Default,7,1
-997,[HDWR-FSTR-SHIM-US] 3 ̸ 8 x 5 ̸ 8 x 0.02.SLDPRT,Default (.02),2,2
-998,[AFRM-UPR-A-00-L] Side Plate (Left).SLDPRT,Default<As Machined>,5,1
-999,[AFRM-UPR-A-00-R] Side Plate (Right).SLDPRT,Default<As Machined>,5,1
-1000,[AFRM-UPR-A-01] Top Plate.SLDPRT,Default<As Machined>,2,1
-1001,[AFRM-UPR-A-02] Bottom Plate.SLDPRT,Default<As Machined>,5,1
-1002,[CRDL-COMN-C-COMN-00] Battery Tray.SLDPRT,Default<As Machined>,6,1
-1003,[AFRM-UPR] Upper A-Frame.SLDASM,Default_speedpak,16,1
-1004,[TDRV-COMN-H] Track Assembly.SLDASM,Default_speedpak,14,2
-1005,[TIP] Tiptoe Tube.SLDASM,Default_speedpak,18,1
-1006,[TLWR-A-V3] Mid Torso Linkage.SLDASM,Default_speedpak,7,1
-1007,[TMID] Middle Torso.SLDASM,Default_speedpak,16,1
-1008,[TUPR-H] Tracking Beacon.SLDASM,Default_speedpak,5,1
-1009,DPM 0.0625x0.25,"Dowel Pin 1/16"" (0.0625"") dia x 1/4"" (0.25"")",1,6
-1010,DPM 0.0625x0.5,"Dowel Pin 1/16"" (0.0625"") dia x 1/2"" (0.5"")",1,1
-1011,DPM 0.0938x0.375,"Dowel Pin 3/32"" (0.0938"") dia x 3/8"" (0.375"")",1,2
-1012,DPM 0.125x0.375,"Dowel Pin 1/8"" (0.125"") dia x 3/8"" (0.375"")",1,2
-1013,DPM 0.125x4,"Dowel Pin 1/8"" (0.125"") dia x 4"" (4"")",1,4
-1014,[HDWR-SHFT] K&S Precision Metals Brass Rod (8127).SLDPRT,Eye Articulator,2,2
-1015,[HDWR-MISC-OPENXRAIL] Surface Adaptor Bracket (585072).SLDPRT,Eye Pop Articulator,2,4
-1016,[ARM-D-C-COMN-01] Triangle Plate.SLDPRT,Flat,4,2
-1017,FLATCKT 0.164-19-type I-AB-1.25-N,Flat Countersunk Tapping Screw #8-19,1,6
-1018,[TUPR-B] Shoulder Tube Assembly.SLDASM,Flipped motor nuts (Screen Accurate),22,1
-1019,[ELEC-SRVO-ASME04B] WINGXINE ASME-04B.SLDASM,Flipped Shaft,5,5
-1020,[HDWR-FSTR-CLIP-UK] E-Style Retaining Ring 8.32 x 19.7 x 1.2.SLDPRT,For Groove,1,1
-1021,HBOLT 0.2500-20x0.25x0.25-N,"Hex Bolt 1/4""-20 x 1/4"" (0.25"")",2,2
-1022,HBOLT 0.2500-20x0.5x0.5-N,"Hex Bolt 1/4""-20 x 1/2"" (0.5"")",2,2
-1023,HBOLT 0.2500-20x1.25x0.75-N,"Hex Bolt 1/4""-20 x 1-1/4"" (1.25"")",2,4
-1024,HBOLT 0.3125-18x1x0.875-N,"Hex Bolt 5/16""-18 x 1"" (1"")",2,6
-1025,HBOLT 0.3125-24x2.5x0.875-N,"Hex Bolt 5/16""-24 x 2-1/2"" (2.5"")",2,2
-1026,HBOLT 0.3750-24x1.125x1.125-N,"Hex Bolt 3/8""-24 x 1-1/8"" (1.125"")",2,6
-1027,[ELEC-SRVO-HORN] Round Horn (HMSH-02).SLDPRT,HEAD Nose,7,1
-1028,[ELEC-MOTR-BBPS-COMN-04] 4-1 Output Stage Carrier Plate.SLDPRT,Heavy Duty,3,2
-1029,[ELEC-MOTR-BBPS-COMN-06] 16T Sun Gear.SLDPRT,Heavy Duty,3,2
-1030,[ELEC-MOTR-BBPS-COMN-07] 16T Planet Gear.SLDPRT,Heavy Duty,3,8
-1031,[ELEC-MOTR-BBPS] 16-1 Sport Gearbox.SLDASM,Heavy Duty (PSH-44),7,1
-1032,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4 x 3 ̸ 8.SLDPRT,Hidden Thread,2,4
-1033,HJNUT 0.2500-28-D-N,"Hex Jam Nut 1/4""-28",2,4
-1034,HJNUT 0.3750-24-D-N,"Hex Jam Nut 3/8""-24",2,12
-1035,HNUT 0.2500-20-D-N,"Hex Nut 1/4""-20",1,4
-1036,HNUT 0.2500-28-D-N,"Hex Nut 1/4""-28",1,2
-1037,HNUT 0.3125-24-D-N,"Hex Nut 5/16""-24",1,2
-1038,HX-SHCS 0.073-64x0.188x0.188-N,"Hex Socket Head Cap Screw #1-64 x 0.188""",7,49
-1039,HX-SHCS 0.073-64x0.3125x0.3125-N,"Hex Socket Head Cap Screw #1-64 x 5/16"" (0.3125"")",7,14
-1040,HX-SHCS 0.086-56x0.125x0.125-N,"Hex Socket Head Cap Screw #2-56 x 1/8"" (0.125"")",7,6
-1041,HX-SHCS 0.086-56x0.188x0.188-N,"Hex Socket Head Cap Screw #2-56 x 0.188""",7,2
-1042,HX-SHCS 0.086-56x0.25x0.25-N,"Hex Socket Head Cap Screw #2-56 x 1/4"" (0.25"")",7,8
-1043,HX-SHCS 0.086-56x0.3125x0.3125-N,"Hex Socket Head Cap Screw #2-56 x 5/16"" (0.3125"")",7,26
-1044,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",7,61
-1045,HX-SHCS 0.086-56x0.4375x0.4375-N,"Hex Socket Head Cap Screw #2-56 x 7/16"" (0.4375"")",7,2
-1046,HX-SHCS 0.086-56x0.5625x0.5625-N,"Hex Socket Head Cap Screw #2-56 x 9/16"" (0.5625"")",7,5
-1047,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",7,13
-1048,HX-SHCS 0.086-56x0.75x0.75-N,"Hex Socket Head Cap Screw #2-56 x 3/4"" (0.75"")",7,4
-1049,HX-SHCS 0.112-40x0.25x0.25-N,"Hex Socket Head Cap Screw #4-40 x 1/4"" (0.25"")",7,8
-1050,HX-SHCS 0.112-40x0.3125x0.3125-N,"Hex Socket Head Cap Screw #4-40 x 5/16"" (0.3125"")",7,4
-1051,HX-SHCS 0.112-40x0.375x0.375-N,"Hex Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",7,86
-1052,HX-SHCS 0.112-40x0.4375x0.4375-N,"Hex Socket Head Cap Screw #4-40 x 7/16"" (0.4375"")",7,6
-1053,HX-SHCS 0.112-40x0.5625x0.5625-N,"Hex Socket Head Cap Screw #4-40 x 9/16"" (0.5625"")",7,2
-1054,HX-SHCS 0.112-40x0.5x0.5-N,"Hex Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",7,4
-1055,HX-SHCS 0.112-40x0.625x0.625-N,"Hex Socket Head Cap Screw #4-40 x 5/8"" (0.625"")",7,4
-1056,HX-SHCS 0.112-40x0.75x0.75-N,"Hex Socket Head Cap Screw #4-40 x 3/4"" (0.75"")",7,7
-1057,HX-SHCS 0.112-40x0.875x0.875-N,"Hex Socket Head Cap Screw #4-40 x 7/8"" (0.875"")",7,5
-1058,HX-SHCS 0.112-40x1.125x0.875-N,"Hex Socket Head Cap Screw #4-40 x 1-1/8"" (1.125"")",7,4
-1059,HX-SHCS 0.112-40x1.25x1-N,"Hex Socket Head Cap Screw #4-40 x 1-1/4"" (1.25"")",7,6
-1060,HX-SHCS 0.112-40x2.25x1-N,"Hex Socket Head Cap Screw #4-40 x 2-1/4"" (2.25"")",7,1
-1061,HX-SHCS 0.138-32x0.25x0.25-N,"Hex Socket Head Cap Screw #6-32 x 1/4"" (0.25"")",7,8
-1062,HX-SHCS 0.138-32x0.375x0.375-N,"Hex Socket Head Cap Screw #6-32 x 3/8"" (0.375"")",7,12
-1063,HX-SHCS 0.138-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #6-32 x 7/16"" (0.4375"")",7,2
-1064,HX-SHCS 0.138-32x0.5x0.5-N,"Hex Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",7,6
-1065,HX-SHCS 0.138-32x0.625x0.625-N,"Hex Socket Head Cap Screw #6-32 x 5/8"" (0.625"")",7,10
-1066,HX-SHCS 0.138-32x0.875x0.875-N,"Hex Socket Head Cap Screw #6-32 x 7/8"" (0.875"")",7,1
-1067,HX-SHCS 0.164-32x0.3125x0.3125-N,"Hex Socket Head Cap Screw #8-32 x 5/16"" (0.3125"")",7,8
-1068,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",7,10
-1069,HX-SHCS 0.164-32x0.5625x0.5625-N,"Hex Socket Head Cap Screw #8-32 x 9/16"" (0.5625"")",7,2
-1070,HX-SHCS 0.164-32x0.5x0.5-N,"Hex Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",7,3
-1071,HX-SHCS 0.164-32x0.625x0.625-N,"Hex Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",7,4
-1072,HX-SHCS 0.164-32x0.625x0.625-S,"Hex Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",7,1
-1073,HX-SHCS 0.164-32x0.75x0.75-N,"Hex Socket Head Cap Screw #8-32 x 3/4"" (0.75"")",7,4
-1074,HX-SHCS 0.164-32x0.875x0.875-N,"Hex Socket Head Cap Screw #8-32 x 7/8"" (0.875"")",7,4
-1075,HX-SHCS 0.19-24x.125x.125-N,"Hex Socket Head Cap Screw #10-24 x 1/8"" (.125"")",7,2
-1076,HX-SHCS 0.19-24x0.5x0.5-N,"Hex Socket Head Cap Screw #10-24 x 1/2"" (0.5"")",7,1
-1077,HX-SHCS 0.19-24x1.25x1.25-N,"Hex Socket Head Cap Screw #10-24 x 1-1/4"" (1.25"")",7,4
-1078,HX-SHCS 0.19-24x5.25x.875-N,"Hex Socket Head Cap Screw #10-24 x 5-1/4"" (5.25"")",7,9
-1079,HX-SHCS 0.25-20x0.625x0.625-N,"Hex Socket Head Cap Screw 1/4""-20 x 5/8"" (0.625"")",7,1
-1080,HX-SHCS 0.25-20x0.75x0.75-N,"Hex Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",7,4
-1081,HX-SHCS 0.25-20x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-20 x 1-1/8"" (1.125"")",7,10
-1082,HX-SHCS 0.25-20x1.625x1.125-N,"Hex Socket Head Cap Screw 1/4""-20 x 1-5/8"" (1.625"")",7,1
-1083,HX-SHCS 0.25-20x2.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-20 x 2-1/4"" (2.25"")",7,1
-1084,HX-SHCS 0.25-20x3.5x1-N,"Hex Socket Head Cap Screw 1/4""-20 x 3-1/2"" (3.5"")",7,1
-1085,HX-SHCS 0.25-28x0.5625x0.5625-N,"Hex Socket Head Cap Screw 1/4""-28 x 9/16"" (0.5625"")",7,4
-1086,HX-SHCS 0.25-28x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",7,12
-1087,HX-SHCS 0.25-28x2.5x2.5-N,"Hex Socket Head Cap Screw 1/4""-28 x 2-1/2"" (2.5"")",7,1
-1088,HX-SHCS 0.25-28x2.75x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 2-3/4"" (2.75"")",7,1
-1089,HX-SHCS 0.25-28x3.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 3-1/4"" (3.25"")",7,1
-1090,HX-SHCS 0.25-28x3x1-N,"Hex Socket Head Cap Screw 1/4""-28 x 3"" (3"")",7,1
-1091,HX-SHCS 0.25-28x4.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 4-1/4"" (4.25"")",7,1
-1092,HX-SHCS 0.375-24x1.25x1.25-N,"Hex Socket Head Cap Screw 3/8""-24 x 1-1/4"" (1.25"")",7,1
-1093,IN-HHMS 0.112-40x0.875x0.875-N,"Indented Hex Head Machine Screw #4-40 x 7/8"" (0.875"")",1,2
-1094,IN-HHMS 0.138-32x0.375x0.375-N,"Indented Hex Head Machine Screw #6-32 x 3/8"" (0.375"")",1,2
-1095,IN-HHMS 0.164-32x1x1-N,"Indented Hex Head Machine Screw #8-32 x 1"" (1"")",1,1
-1096,IN-HHMS 0.25-28x0.5x0.5-N,"Indented Hex Head Machine Screw 1/4""-28 x 1/2"" (0.5"")",1,1
-1097,[HEAD-B-D-COMN-04] Horizontal Rack 32P.SLDPRT,Inch - Rack-spur - rectangular 32DP 20PA 0.1250FW 0.39PH 1.3L---SAll,1,1
-1098,Internal Tooth LW Type A-0.375,"Internal Tooth Lock Washer Type A 3/8"" (0.375"")",1,1
-1099,JIS B 1111 Binding head screw M2.3 x 5 --5N,Binding head screw M2.3 x 5mm,1,3
-1100,JIS B 1111 Binding head screw M2.6 x 8 --8N,Binding head screw M2.6 x 8mm,1,1
-1101,Key B17.1 0.125x0.125x.72,"Square Key 1/8"" (0.125"") sq x .72""",1,1
-1102,Key B17.1 0.1875x0.1875x.5,"Square Key 3/16"" (0.1875"") sq x 1/2"" (.5"")",1,1
-1103,Key B17.1 0.1875x0.1875x1,"Square Key 3/16"" (0.1875"") sq x 1"" (1"")",1,1
-1104,Key B17.1 0.25x0.25x1.66,"Square Key 1/4"" (0.25"") sq x 1"" (1.66"")",1,1
-1105,[NECK-F-LEFT] Left Rod.SLDASM,Key Plate,9,1
-1106,[NECK-F-LEFT-COMN-01] Lower Block.SLDPRT,Key Plate,5,1
-1107,[NECK-F-RGHT] Right Rod.SLDASM,Key Plate,9,1
-1108,[NECK-F-RGHT-COMN-01] Lower Block.SLDPRT,Key Plate,5,1
-1109,[ELEC-MOTR-BBPS] 16-1 Sport Gearbox.SLDASM,Keyed Shaft,7,1
-1110,[TLWR-B-B-02] Secondary Arm.SLDPRT,Laser Cut,3,1
-1111,[TLWR-B-B-02] Secondary Arm.SLDPRT,Laser Cut (Flip),3,1
-1112,[TLWR-COVR-C-MSTR-00] Console Door Master.SLDPRT,Laser Cut Arms,2,1
-1113,[TUPR] Upper Torso.SLDASM,LASR,27,1
-1114,[TUPR] Upper Torso (Main Structure).SLDASM,LASR (With Coverings),44,1
-1115,[ARM-A-V2-COMN-LWR] Lower Cuff Assembly.SLDASM,Left,6,1
-1116,[ARM-A-V2-COMN-LWR-COMN-00] Lower Cuff.SLDPRT,Left,4,1
-1117,[ARM-B-COMN-04] Core.SLDPRT,Left,11,1
-1118,[ARM-B-COMN-09] Side Plate (Inner).SLDPRT,Left,2,1
-1119,[ARM-B-COMN-10] Side Plate (Outer).SLDPRT,Left,2,1
-1120,[ARM-E-B-A-A-R] Knuckle Assembly (Right).SLDASM,Left,4,1
-1121,[ARM-E-B-A-R] Finger (Right).SLDASM,Left,9,1
-1122,[CRDL-V3-A-02] Side Plate.SLDPRT,Left,3,1
-1123,[HDWR-HYDR-SLAVEFIT-LWR] Lower Fittings.SLDASM,Left,3,1
-1124,[HDWR-HYDR-SLAVEFIT-UPR] Upper Fittings.SLDASM,Left,3,1
-1125,[HEAD-B] Eye.SLDASM,Left,14,1
-1126,[HEAD-B-D-COMN-01] Frame.SLDPRT,Left,2,1
-1127,[HEAD-B-D-COMN-02] Mid Plate.SLDPRT,Left,3,1
-1128,[HEAD-C-COMN-A-00] Frame.SLDPRT,Left,2,1
-1129,[HEAD-C-COMN-A-01] Pivot Pin.SLDPRT,Left,3,5
-1130,[HEAD-C-COMN-A-05] Holding Pin.SLDPRT,Left,3,1
-1131,[HEAD-C-LEFT-A-00-L] Eye Vent (Left).SLDASM,Left,6,1
-1132,[NECK-F-COMN-02] Countersunk End Cap.SLDPRT,Left,3,1
-1133,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Left,4,2
-1134,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Left,3,2
-1135,[TDRV-COVR-01] Shield Covering Assembly.SLDASM,Left,5,1
-1136,[TDRV-COVR-COMN-00] Shield Covering Stiffening Plate.SLDPRT,Left,5,1
-1137,[TIP-COMN-05] Wire Tunnel.SLDPRT,Left,2,1
-1138,[TIP-COMN-07] Wire Tunnel Cap.SLDPRT,Left,2,1
-1139,[TLWR-C] Battery Door Mechanism.SLDASM,Left,7,1
-1140,[TUPR-B-A-V2-COMN-00] Hug Housing.SLDPRT,Left,1,1
-1141,[TUPR-E-COVR-00] Tube.SLDPRT,Left,4,1
-1142,[TUPR-B-A-V2] Hug Motion Assembly.SLDASM,Left (Screen Accurate),7,1
-1143,[HEAD-D-UPR-A-COMN-01] Servo Collar.SLDPRT,Left - Upper Eye Flaps,2,1
-1144,[ARM-D-D] Hand Mounting Block.SLDASM,Left Hand,4,1
-1145,[HDWR-HYDR-FABK5X] Fabco K-5-X Master Cylinder (V2).SLDASM,Left Side,9,1
-1146,[HDWR-HYDR-FABK5X] Fabco K-5-X with Fittings & Balls.SLDASM,Left Side,10,1
-1147,[TDRV-COVR-00] Side Covering.SLDPRT,Left Side,15,1
-1148,[ELEC-SRVO-HORN] Servo Shaft Attachment (525140).SLDPRT,Lower Eye Flaps,2,2
-1149,[ELEC-SRVO-HORN] Servo Shaft Attachment (525140).SLDPRT,Microphone,2,1
-1150,[ELEC-SRVO-HORN] Servo Shaft Coupler 1 ̸ 4 Bore H25T (4010-0025-0250).SLDPRT,Microphone Collar,3,1
-1151,[ARM-E] Hand.SLDASM,Middle,8,2
-1152,[CRDL-COMN-D-COMN-03] Wire Passthrough.SLDPRT,Mirror,5,1
-1153,[TUPR-I] PCB Mount.SLDASM,Mirror,2,1
-1154,[TUPR-I-COMN-01] PCB Sled.SLDPRT,Mirror,3,1
-1155,[TDRV-COVR-03] TDRV Motor Covering.SLDPRT,Mirrored,7,1
-1156,[TLWR-A-V3-B-COMN-00] Banana Plate.SLDPRT,Mirrored,4,1
-1157,[DTL-BRNS3252W] Bourns Trimpot Potentiometer (3252W).SLDPRT,Modified,3,3
-1158,[DTL-RE65] Pacific Resistor Co. RE65 Resistor.SLDPRT,Modified,3,2
-1159,[DTL-RH25] Vishay Dale RH-25 Resistor.SLDPRT,Modified,3,1
-1160,[DTL-RH50] Vishay Dale RH-50 Resistor.SLDPRT,Modified,2,1
-1161,[DTL-TO127] TO-127 Package.SLDPRT,Modified,2,5
-1162,[DTL-TO220] TO-220 Package.SLDPRT,Modified,3,6
-1163,[DTL-TO92] TO-92 Package.SLDPRT,Modified,3,3
-1164,[ELEC-ACTR-SKF-COMN-02] Limit Switch Dust Cover.SLDPRT,Modified,3,1
-1165,[ELEC-BULB-PNLLAMP] Square Panel-Mount Indicator.SLDPRT,Modified,2,2
-1166,[ELEC-SRVO-HORN] Hitec Standard Spline Single Arm (55701).SLDPRT,Modified,2,3
-1167,[HDWR-BJNT] M8 x 1.25 Female RH Ball Joint Rod End.SLDPRT,Modified,3,2
-1168,[HDWR-BRNG-SLV] Sleeve Bearing 3 ̸ 8 x 3 ̸ 4 x 1 (MCMC 2868T87).SLDPRT,Modified,1,2
-1169,[HDWR-FSTR-PIN] Precision Perforator Pin 0.030 x 2-1 ̸ 2.SLDPRT,Modified,2,1
-1170,[HDWR-FSTR-ROD] Partially Threaded Stud 3 ̸ 8-16 (6516K391) x 1.SLDPRT,Modified,2,1
-1171,[HDWR-FSTR-SCRW] Hex Bolt 1 ̸ 2-13 x 11.SLDPRT,Modified,3,1
-1172,[HDWR-FSTR-SCRW] Hex Bolt 1 ̸ 4-28 x 1.SLDPRT,Modified,2,2
-1173,[HDWR-FSTR-SCRW] Socket Head Cap Screw 5 ̸ 8-18 x 3 ̸ 4.SLDPRT,Modified,5,1
-1174,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.01.SLDPRT,Modified,3,1
-1175,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 2.SLDPRT,Modified,1,4
-1176,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff 1 ̸ 4-20 x 1 ̸ 2.SLDPRT,Modified,3,2
-1177,[HDWR-MISC] Round Rubber Cap (9753K35).SLDPRT,Modified,2,2
-1178,[HDWR-MISC] Rubber Bellows 52mm ID (BS-5054).SLDPRT,Modified,1,2
-1179,[HDWR-MISC-HINGE01] A-Frame Piano Hinge.SLDASM,Modified,8,1
-1180,[HDWR-MISC-HINGE01-COMN-00] Bottom Half.SLDPRT,Modified,7,1
-1181,[HDWR-MISC-HINGE01-COMN-01] Top Half.SLDPRT,Modified,6,1
-1182,[HDWR-MISC-HINGE01-COMN-02] Pin.SLDPRT,Modified,3,1
-1183,[HDWR-PULL] Timing HTD 12-Tooth (A 6A23M012DF0604).SLDPRT,Modified,1,1
-1184,[HDWR-PULL] Timing HTD 44-Tooth (A 6A23M044DF0606).SLDPRT,Modified,3,1
-1185,[HDWR-SHFT] Keyed Drive Shaft 5 ̸ 8 x 18.SLDPRT,Modified,2,1
-1186,[HDWR-UJNT] Lovejoy D-Type Solid U-Joint 1 ̸ 2 x 2.SLDASM,Modified,2,1
-1187,[HDWR-UJNT-COMN-00-LWR] Lower Yoke.SLDPRT,Modified,2,1
-1188,[HDWR-UJNT-COMN-00-UPR] Upper Yoke.SLDPRT,Modified,2,1
-1189,[HEAD-B-A] Wollensak Raptar 209mm Copy Lens.SLDASM,Modified,11,2
-1190,[HEAD-B-A-A-00] Barrel.SLDPRT,Modified,5,1
-1191,[HEAD-B-A-B-00] Front Lens.SLDPRT,Modified,5,1
-1192,[HEAD-B-A-B-01] Filter Ring.SLDPRT,Modified,5,1
-1193,[NECK-D-V3-COMN-01] 3D Printable Timing Pulley HTD 72-Tooth.SLDPRT,Modified,3,1
-1194,[HDWR-FSTR-STND] Female-Female Coupling Nut 1 ̸ 4-20 x 1-3 ̸ 4.SLDPRT,"Modified (1.25"")",3,12
-1195,[HDWR-FSTR-STND] Female-Female Coupling Nut 1 ̸ 4-20 x 1-3 ̸ 4.SLDPRT,Modified (1.325),3,3
-1196,[DTL-CARRY8] 8-Pin Carrier.SLDPRT,Modified (Circle),2,1
-1197,[ELEC-SRVO-HORN] 8mm REX Servo Shaft.SLDPRT,Modified (Console Door),5,1
-1198,[HDWR-GEAR] Tsubaki 44-Tooth Sprocket (40A44).SLDPRT,Modified (CRDL Tiptoe Eccentric Drive),4,2
-1199,[DTL-BRNS3292X] Bourns Trimpot Potentiometer (3292X).SLDPRT,Modified (Curved Bottom),2,2
-1200,[HDWR-SPNG] Torsion Spring 0.135 x 1.102 (9271K593).SLDPRT,Modified (Left),2,1
-1201,[HDWR-SPNG] Torsion Spring 0.135 x 1.102 (9271K593).SLDPRT,Modified (RIght),2,1
-1202,[DTL-CARRY10] 10-Pin Carrier.SLDPRT,Modified (Star),1,1
-1203,[ELEC-ACTR-SKF-CAR32-C-00] Limit Switch Sleeve (CAXB32).SLDPRT,Modified (Static & Dynamic LASR Mount),6,1
-1204,[HDWR-FSTR-ROD] Fully Threaded Rod 1 ̸ 4-28 x 12.SLDPRT,Modified (TUPR Neck Drive; Lower),5,2
-1205,[HDWR-FSTR-ROD] Fully Threaded Rod M8 x 1m.SLDPRT,Modified (TUPR Neck Drive; Upper),4,2
-1206,MSHXNUT 0.073-64-D-N,Machine Screw Hex Nut #1-64,2,14
-1207,MSHXNUT 0.086-56-D-N,Machine Screw Hex Nut #2-56,2,2
-1208,MSHXNUT 0.086-56-S-N,Machine Screw Hex Nut #2-56,2,1
-1209,MSHXNUT 0.112-40-S-N,Machine Screw Hex Nut #4-40,2,2
-1210,MSHXNUT 0.138-32-S-N,Machine Screw Hex Nut #6-32,2,4
-1211,MSHXNUT 0.164-32-D-N,Machine Screw Hex Nut #8-32,2,20
-1212,MSSQNUT 0.086-56-N,Machine Screw Square Nut #2-56,2,123
-1213,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,32
-1214,MSSQNUT 0.138-32-N,Machine Screw Square Nut #6-32,2,53
-1215,MSSQNUT 0.164-32-N,Machine Screw Square Nut #8-32,2,11
-1216,MSSQNUT 0.190-24-N,Machine Screw Square Nut #10-24,2,4
-1217,[HDWR-FSTR-ROD] RH to LH Thread Adapting Stud 1 ̸ 2-13 x 5.SLDPRT,NECK Front Rod,1,1
-1218,[HDWR-FSTR-ROD] RH to LH Thread Adapting Stud 1 ̸ 2-13 x 5.SLDPRT,NECK Rear Rods,1,2
-1219,[ELEC-SRVO-GB25] GoBuilda 25-502 (2000-0025-0502).SLDPRT,No Ears,2,1
-1220,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDASM,No Ears,3,3
-1221,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDPRT,No Ears,2,1
-1222,[ELEC-SRVO-HS85MG] Hitec HS-85MG.SLDASM,No Ears,1,1
-1223,[ELEC-SRVO-HS85MG] Hitec HS-85MG.SLDPRT,No Ears,1,1
-1224,[CSTR-C-C] Covering Mount Assembly.SLDASM,Offset,7,2
-1225,[CSTR-C-A-COMN-00] 4-Inch Split Rim.SLDPRT,Offset Bolt Placement,4,2
-1226,[HEAD-B-A-D-01A] Diaphragm Leaf.SLDPRT,Painted,6,20
-1227,parallel pin unhardened_iso.sldprt,Parallel Pin ISO 2338 - 3 m6 x 14 - A1,1,12
-1228,PEM FH-832-10 X--N,PEM Flush Head Stud #8-32,1,16
-1229,PEM S-0420-1 ZI--N,PEM Self-Clinching Nut #4-20,1,11
-1230,PEM S-632-0 ZI--N,PEM Self-Clinching Nut #6-32,1,40
-1231,PEM S-632-1 ZI--N,PEM Self-Clinching Nut #6-32,1,40
-1232,Preferred Narrow FW 0.094,"Preferred Narrow Flat Washer 0.094""",2,2
-1233,Preferred Narrow FW 0.125,"Preferred Narrow Flat Washer 1/8"" (0.125"")",2,4
-1234,Preferred Narrow FW 0.138,"Preferred Narrow Flat Washer 0.138""",2,8
-1235,Preferred Narrow FW 0.164,"Preferred Narrow Flat Washer 0.164""",2,21
-1236,Preferred Narrow FW 0.25,"Preferred Narrow Flat Washer 1/4"" (0.25"")",2,20
-1237,Preferred Narrow FW 0.3125,"Preferred Narrow Flat Washer 5/16"" (0.3125"")",2,4
-1238,Preferred Narrow FW 0.375,"Preferred Narrow Flat Washer 3/8"" (0.375"")",2,1
-1239,[ELEC-TUBE-019] Heatshrink Tubing .019-.09.SLDPRT,PreShrunk,2,4
-1240,Regular FW 0.086,"Regular Flat Washer 0.086""",1,4
-1241,Regular FW 0.19,"Regular Flat Washer 0.19""",1,1
-1242,Regular FW 0.25,"Regular Flat Washer 1/4"" (0.25"")",1,6
-1243,Regular LW 0.375,"Regular Spring Lock Washer 3/8"" (0.375"")",1,6
-1244,[HDWR-SPNG] Precision Compression Spring 1 ̸ 4 x .12 x 0.016.SLDPRT,Relaxed,1,1
-1245,[ARM-A-V2-COMN-LWR] Lower Cuff Assembly.SLDASM,Right,6,1
-1246,[ARM-A-V2-COMN-LWR-COMN-00] Lower Cuff.SLDPRT,Right,4,1
-1247,[ARM-B-COMN-04] Core.SLDPRT,Right,11,1
-1248,[ARM-B-COMN-09] Side Plate (Inner).SLDPRT,Right,2,1
-1249,[ARM-B-COMN-10] Side Plate (Outer).SLDPRT,Right,2,1
-1250,[ARM-D] Wrist.SLDASM,Right,9,2
-1251,[ARM-E-B-A-A-R] Knuckle Assembly (Right).SLDASM,Right,4,1
-1252,[ARM-E-B-A-R] Finger (Right).SLDASM,Right,9,1
-1253,[CRDL-V3-A-02] Side Plate.SLDPRT,Right,3,1
-1254,[HDWR-HYDR-SLAVEFIT-LWR] Lower Fittings.SLDASM,Right,3,1
-1255,[HDWR-HYDR-SLAVEFIT-UPR] Upper Fittings.SLDASM,Right,3,1
-1256,[HEAD-B] Eye.SLDASM,Right,14,1
-1257,[HEAD-C-COMN-A-00] Frame.SLDPRT,Right,2,1
-1258,[HEAD-C-COMN-A-01] Pivot Pin.SLDPRT,Right,3,5
-1259,[HEAD-C-COMN-A-05] Holding Pin.SLDPRT,Right,3,1
-1260,[HEAD-C-RGHT-A-00-R] Eye Vent (Right).SLDASM,Right,6,1
-1261,[NECK-F-COMN-02] Countersunk End Cap.SLDPRT,Right,3,1
-1262,[TDRV-COMN-11] Outer Wire Channel (Front).SLDPRT,Right,4,1
-1263,[TDRV-COMN-11] Outer Wire Channel (Rear).SLDPRT,Right,4,1
-1264,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Right,4,2
-1265,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Right,3,2
-1266,[TDRV-COVR-01] Shield Covering Assembly.SLDASM,Right,5,1
-1267,[TDRV-COVR-COMN-00] Shield Covering Stiffening Plate.SLDPRT,Right,5,1
-1268,[TIP-COMN-05] Wire Tunnel.SLDPRT,Right,2,1
-1269,[TIP-COMN-06] Wire Tunnel Core.SLDPRT,Right,2,2
-1270,[TIP-COMN-07] Wire Tunnel Cap.SLDPRT,Right,2,1
-1271,[TLWR-C] Battery Door Mechanism.SLDASM,Right,7,1
-1272,[TLWR-V3-A-00-L] Side Panel (Left).SLDPRT,Right,4,1
-1273,[TLWR-V3-A-00-R] Side Panel (Right).SLDPRT,Right,4,1
-1274,[TUPR-B-A-V2] Hug Motion Assembly.SLDASM,Right,7,1
-1275,[TUPR-B-A-V2-COMN-00] Hug Housing.SLDPRT,Right,1,1
-1276,[TUPR-B-A-V2-COMN-01] Tonegawa SSPS-102 Simulate.SLDPRT,Right,1,2
-1277,[TUPR-E-COVR-00] Tube.SLDPRT,Right,4,1
-1278,[HEAD-D-UPR-A-COMN-01] Servo Collar.SLDPRT,Right - Upper Eye Flaps,2,1
-1279,[HDWR-HYDR-FABK5X] Fabco K-5-X Master Cylinder (V2).SLDASM,Right Side,9,1
-1280,[HDWR-HYDR-FABK5X] Fabco K-5-X with Fittings & Balls.SLDASM,Right Side,10,1
-1281,[TDRV-COVR-00] Side Covering.SLDPRT,Right Side,15,1
-1282,[DTL-UNKN] Unknown Component.SLDPRT,Rounded Corners,1,2
-1283,SBHCSCREW 0.073-72x0.375-HX-N,"Socket Button Head Cap Screw #1-72 x 3/8"" (0.375"")",1,4
-1284,SBHCSCREW 0.086-56x0.188-HX-N,"Socket Button Head Cap Screw #2-56 x 0.188""",1,9
-1285,SBHCSCREW 0.086-56x0.25-HX-N,"Socket Button Head Cap Screw #2-56 x 1/4"" (0.25"")",1,7
-1286,SBHCSCREW 0.086-56x0.3125-HX-N,"Socket Button Head Cap Screw #2-56 x 5/16"" (0.3125"")",1,7
-1287,SBHCSCREW 0.086-56x0.5-HX-N,"Socket Button Head Cap Screw #2-56 x 1/2"" (0.5"")",1,11
-1288,SBHCSCREW 0.086-56x0.5625-HX-N,"Socket Button Head Cap Screw #2-56 x 9/16"" (0.5625"")",1,8
-1289,SBHCSCREW 0.112-40x0.125-HX-N,"Socket Button Head Cap Screw #4-40 x 1/8"" (0.125"")",1,7
-1290,SBHCSCREW 0.112-40x0.188-HX-N,"Socket Button Head Cap Screw #4-40 x 0.188""",1,10
-1291,SBHCSCREW 0.112-40x0.25-HX-N,"Socket Button Head Cap Screw #4-40 x 1/4"" (0.25"")",1,17
-1292,SBHCSCREW 0.112-40x0.3125-HX-N,"Socket Button Head Cap Screw #4-40 x 5/16"" (0.3125"")",1,12
-1293,SBHCSCREW 0.112-40x0.375-HX-N,"Socket Button Head Cap Screw #4-40 x 3/8"" (0.375"")",1,4
-1294,SBHCSCREW 0.112-40x0.4375-HX-N,"Socket Button Head Cap Screw #4-40 x 7/16"" (0.4375"")",1,2
-1295,SBHCSCREW 0.112-40x0.5-HX-N,"Socket Button Head Cap Screw #4-40 x 1/2"" (0.5"")",1,8
-1296,SBHCSCREW 0.112-40x0.5625-HX-N,"Socket Button Head Cap Screw #4-40 x 9/16"" (0.5625"")",1,2
-1297,SBHCSCREW 0.112-40x0.75-HX-N,"Socket Button Head Cap Screw #4-40 x 3/4"" (0.75"")",1,2
-1298,SBHCSCREW 0.112-40x1.125-HX-N,"Socket Button Head Cap Screw #4-40 x 1-1/8"" (1.125"")",1,6
-1299,SBHCSCREW 0.125-40x0.4375-HX-N,"Socket Button Head Cap Screw #5-40 x 7/16"" (0.4375"")",1,2
-1300,SBHCSCREW 0.138-32x0.25-HX-N,"Socket Button Head Cap Screw #6-32 x 1/4"" (0.25"")",1,4
-1301,SBHCSCREW 0.138-32x0.3125-HX-N,"Socket Button Head Cap Screw #6-32 x 5/16"" (0.3125"")",1,360
-1302,SBHCSCREW 0.138-32x0.375-HX-N,"Socket Button Head Cap Screw #6-32 x 3/8"" (0.375"")",1,24
-1303,SBHCSCREW 0.138-32x0.4375-HX-N,"Socket Button Head Cap Screw #6-32 x 7/16"" (0.4375"")",1,50
-1304,SBHCSCREW 0.138-32x0.5-HX-N,"Socket Button Head Cap Screw #6-32 x 1/2"" (0.5"")",1,37
-1305,SBHCSCREW 0.138-32x0.625-HX-N,"Socket Button Head Cap Screw #6-32 x 5/8"" (0.625"")",1,1
-1306,SBHCSCREW 0.138-32x0.75-HX-N,"Socket Button Head Cap Screw #6-32 x 3/4"" (0.75"")",1,8
-1307,SBHCSCREW 0.138-32x0.875-HX-N,"Socket Button Head Cap Screw #6-32 x 7/8"" (0.875"")",1,2
-1308,SBHCSCREW 0.138-32x1-HX-N,"Socket Button Head Cap Screw #6-32 x 1"" (1"")",1,4
-1309,SBHCSCREW 0.138-32x1.25-HX-N,"Socket Button Head Cap Screw #6-32 x 1-1/4"" (1.25"")",1,12
-1310,SBHCSCREW 0.164-32x0.188-HX-N,"Socket Button Head Cap Screw #8-32 x 0.188""",1,8
-1311,SBHCSCREW 0.164-32x0.25-HX-N,"Socket Button Head Cap Screw #8-32 x 1/4"" (0.25"")",1,2
-1312,SBHCSCREW 0.164-32x0.375-HX-N,"Socket Button Head Cap Screw #8-32 x 3/8"" (0.375"")",1,4
-1313,SBHCSCREW 0.164-32x0.4375-HX-N,"Socket Button Head Cap Screw #8-32 x 7/16"" (0.4375"")",1,20
-1314,SBHCSCREW 0.164-32x0.5-HX-N,"Socket Button Head Cap Screw #8-32 x 1/2"" (0.5"")",1,11
-1315,SBHCSCREW 0.164-32x0.5-HX-N-ZPA,"Socket Button Head Cap Screw #8-32 x 1/2"" (0.5"")",1,3
-1316,SBHCSCREW 0.164-32x0.5625-HX-N,"Socket Button Head Cap Screw #8-32 x 9/16"" (0.5625"")",1,25
-1317,SBHCSCREW 0.164-32x0.625-HX-N,"Socket Button Head Cap Screw #8-32 x 5/8"" (0.625"")",1,14
-1318,SBHCSCREW 0.164-32x0.75-HX-N,"Socket Button Head Cap Screw #8-32 x 3/4"" (0.75"")",1,4
-1319,SBHCSCREW 0.164-32x0.875-HX-N,"Socket Button Head Cap Screw #8-32 x 7/8"" (0.875"")",1,26
-1320,SBHCSCREW 0.164-32x1-HX-N,"Socket Button Head Cap Screw #8-32 x 1"" (1"")",1,4
-1321,SBHCSCREW 0.164-36x0.375-HX-N,"Socket Button Head Cap Screw #8-36 x 3/8"" (0.375"")",1,8
-1322,SBHCSCREW 0.19-24x0.4375-HX-N,"Socket Button Head Cap Screw #10-24 x 7/16"" (0.4375"")",1,1
-1323,SBHCSCREW 0.19-24x0.5-HX-N,"Socket Button Head Cap Screw #10-24 x 1/2"" (0.5"")",1,8
-1324,SBHCSCREW 0.19-24x0.5625-HX-N,"Socket Button Head Cap Screw #10-24 x 9/16"" (0.5625"")",1,4
-1325,SBHCSCREW 0.19-24x1-HX-N,"Socket Button Head Cap Screw #10-24 x 1"" (1"")",1,1
-1326,SBHCSCREW 0.19-24x1.625-HX-N,"Socket Button Head Cap Screw #10-24 x 1-5/8"" (1.625"")",1,2
-1327,SBHCSCREW 0.19-32x1.125-HX-N,"Socket Button Head Cap Screw #10-32 x 1-1/8"" (1.125"")",1,2
-1328,SBHCSCREW 0.19-32x1.5-HX-N,"Socket Button Head Cap Screw #10-32 x 1-1/2"" (1.5"")",1,4
-1329,SBHCSCREW 0.25-20x0.375-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 3/8"" (0.375"")",1,11
-1330,SBHCSCREW 0.25-20x0.5-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 1/2"" (0.5"")",1,6
-1331,SBHCSCREW 0.25-20x0.75-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",1,76
-1332,SBHCSCREW 0.25-20x0.75-HX-N-18-8SS,"Socket Button Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",1,6
-1333,SBHCSCREW 0.25-20x1-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 1"" (1"")",1,4
-1334,SBHCSCREW 0.25-20x1.125-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 1-1/8"" (1.125"")",1,4
-1335,SBHCSCREW 0.25-20x1.625-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 1-5/8"" (1.625"")",1,2
-1336,SBHCSCREW 0.25-20x2-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 2"" (2"")",1,3
-1337,SBHCSCREW 0.25-28x0.75-HX-N,"Socket Button Head Cap Screw 1/4""-28 x 3/4"" (0.75"")",1,2
-1338,SBHCSCREW 0.25-28x0.875-HX-N,"Socket Button Head Cap Screw 1/4""-28 x 7/8"" (0.875"")",1,3
-1339,SBHCSCREW 0.25-28x1-HX-N,"Socket Button Head Cap Screw 1/4""-28 x 1"" (1"")",1,6
-1340,SBHCSCREW 0.25-28x1.125-HX-N,"Socket Button Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",1,2
-1341,SBHCSCREW 0.25-28x1.25-HX-N,"Socket Button Head Cap Screw 1/4""-28 x 1-1/4"" (1.25"")",1,2
-1342,SBHCSCREW 0.3125-24x1.25-HX-N,"Socket Button Head Cap Screw 5/16""-24 x 1-1/4"" (1.25"")",1,2
-1343,SBHCSCREW 0.375-16x1-HX-N,"Socket Button Head Cap Screw 3/8""-16 x 1"" (1"")",1,4
-1344,SBHCSCREW 0.375-24x0.5-HX-N,"Socket Button Head Cap Screw 3/8""-24 x 1/2"" (0.5"")",1,6
-1345,SCHCSCREW 0.086-56x0.125x0.125-HX-N,"Socket Head Cap Screw #2-56 x 1/8"" (0.125"")",3,4
-1346,SCHCSCREW 0.086-56x0.188x0.188-HX-N,"Socket Head Cap Screw #2-56 x 0.188""",3,3
-1347,SCHCSCREW 0.086-56x0.25x0.25-HX-N,"Socket Head Cap Screw #2-56 x 1/4"" (0.25"")",3,28
-1348,SCHCSCREW 0.086-56x0.3125x0.3125-HX-N,"Socket Head Cap Screw #2-56 x 5/16"" (0.3125"")",3,34
-1349,SCHCSCREW 0.086-56x0.375x0.375-HX-N,"Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",3,14
-1350,SCHCSCREW 0.086-56x0.5x0.5-HX-N,"Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",3,5
-1351,SCHCSCREW 0.112-40x0.3125x0.3125-HX-N,"Socket Head Cap Screw #4-40 x 5/16"" (0.3125"")",3,5
-1352,SCHCSCREW 0.112-40x0.375x0.375-HX-N,"Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",3,36
-1353,SCHCSCREW 0.112-40x0.4375x0.4375-HX-N,"Socket Head Cap Screw #4-40 x 7/16"" (0.4375"")",3,15
-1354,SCHCSCREW 0.112-40x0.5625x0.5625-HX-N,"Socket Head Cap Screw #4-40 x 9/16"" (0.5625"")",3,2
-1355,SCHCSCREW 0.112-40x0.5x0.5-HX-N,"Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",3,16
-1356,SCHCSCREW 0.112-40x0.75x0.75-HX-N,"Socket Head Cap Screw #4-40 x 3/4"" (0.75"")",3,10
-1357,SCHCSCREW 0.112-40x1.125x1.125-HX-N,"Socket Head Cap Screw #4-40 x 1-1/8"" (1.125"")",3,4
-1358,SCHCSCREW 0.112-40x1.5x1.5-HX-N,"Socket Head Cap Screw #4-40 x 1-1/2"" (1.5"")",3,4
-1359,SCHCSCREW 0.112-40x1x1-HX-N,"Socket Head Cap Screw #4-40 x 1"" (1"")",3,4
-1360,SCHCSCREW 0.125-40x0.75x0.75-HX-N,"Socket Head Cap Screw #5-40 x 3/4"" (0.75"")",3,2
-1361,SCHCSCREW 0.138-32x0.3125x0.3125-HX-N,"Socket Head Cap Screw #6-32 x 5/16"" (0.3125"")",3,83
-1362,SCHCSCREW 0.138-32x0.375x0.375-HX-N,"Socket Head Cap Screw #6-32 x 3/8"" (0.375"")",3,8
-1363,SCHCSCREW 0.138-32x0.4375x0.4375-HX-N,"Socket Head Cap Screw #6-32 x 7/16"" (0.4375"")",3,22
-1364,SCHCSCREW 0.138-32x0.5625x0.5625-HX-N,"Socket Head Cap Screw #6-32 x 9/16"" (0.5625"")",3,18
-1365,SCHCSCREW 0.138-32x0.5x0.5-HX-N,"Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",3,8
-1366,SCHCSCREW 0.138-32x0.75x0.75-HX-N,"Socket Head Cap Screw #6-32 x 3/4"" (0.75"")",3,14
-1367,SCHCSCREW 0.138-32x1.125x1.125-HX-N,"Socket Head Cap Screw #6-32 x 1-1/8"" (1.125"")",3,2
-1368,SCHCSCREW 0.138-32x1.5x1.5-HX-N,"Socket Head Cap Screw #6-32 x 1-1/2"" (1.5"")",3,2
-1369,SCHCSCREW 0.164-32x0.25x0.25-HX-N,"Socket Head Cap Screw #8-32 x 1/4"" (0.25"")",3,4
-1370,SCHCSCREW 0.164-32x0.375x0.375-HX-N,"Socket Head Cap Screw #8-32 x 3/8"" (0.375"")",3,8
-1371,SCHCSCREW 0.164-32x0.4375x0.4375-HX-N,"Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",3,18
-1372,SCHCSCREW 0.164-32x0.5625x0.5625-HX-N,"Socket Head Cap Screw #8-32 x 9/16"" (0.5625"")",3,16
-1373,SCHCSCREW 0.164-32x0.5x0.5-HX-N,"Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",3,25
-1374,SCHCSCREW 0.164-32x0.5x0.5-HX-N-ZPA,"Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",3,3
-1375,SCHCSCREW 0.164-32x0.625x0.625-HX-N,"Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",3,16
-1376,SCHCSCREW 0.164-32x0.75x0.75-HX-N,"Socket Head Cap Screw #8-32 x 3/4"" (0.75"")",3,8
-1377,SCHCSCREW 0.164-32x0.875x0.875-HX-N,"Socket Head Cap Screw #8-32 x 7/8"" (0.875"")",3,8
-1378,SCHCSCREW 0.164-32x2x2-HX-N,"Socket Head Cap Screw #8-32 x 2"" (2"")",3,12
-1379,SCHCSCREW 0.19-24x0.5x0.5-HX-N,"Socket Head Cap Screw #10-24 x 1/2"" (0.5"")",3,10
-1380,SCHCSCREW 0.19-24x0.75x0.75-HX-N,"Socket Head Cap Screw #10-24 x 3/4"" (0.75"")",3,14
-1381,SCHCSCREW 0.19-24x0.875x0.875-HX-N,"Socket Head Cap Screw #10-24 x 7/8"" (0.875"")",3,12
-1382,SCHCSCREW 0.19-24x1.25x1.25-HX-N,"Socket Head Cap Screw #10-24 x 1-1/4"" (1.25"")",3,2
-1383,SCHCSCREW 0.19-32x0.5625x0.5625-HX-N,"Socket Head Cap Screw #10-32 x 9/16"" (0.5625"")",3,6
-1384,SCHCSCREW 0.19-32x3x3-HX-N,"Socket Head Cap Screw #10-32 x 3"" (3"")",3,6
-1385,SCHCSCREW 0.25-20x0.75x0.75-HX-N,"Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",3,25
-1386,SCHCSCREW 0.25-20x0.875x0.875-HX-N,"Socket Head Cap Screw 1/4""-20 x 7/8"" (0.875"")",3,10
-1387,SCHCSCREW 0.25-20x1.25x1.25-HX-N,"Socket Head Cap Screw 1/4""-20 x 1-1/4"" (1.25"")",3,4
-1388,SCHCSCREW 0.25-20x2x1.25-HX-N,"Socket Head Cap Screw 1/4""-20 x 2"" (2"")",3,4
-1389,SCHCSCREW 0.25-28x0.625x0.625-HX-N,"Socket Head Cap Screw 1/4""-28 x 5/8"" (0.625"")",3,2
-1390,SCHCSCREW 0.3125-24x0.75x0.75-HX-N,"Socket Head Cap Screw 5/16""-24 x 3/4"" (0.75"")",3,1
-1391,[HDWR-HYDR-SLAVEFIT-COMN-00] 1 ̸ 16 Barb Fitting (1016  ̸  Clippard 11752-5).SLDPRT,Schematic,4,4
-1392,Selected Narrow FW 0.094,"Selected Narrow Flat Washer 0.094""",2,66
-1393,Selected Narrow FW 0.125,"Selected Narrow Flat Washer 1/8"" (0.125"")",2,10
-1394,Selected Narrow FW 0.156,"Selected Narrow Flat Washer 0.156""",2,2
-1395,Selected Narrow FW 0.172,"Selected Narrow Flat Washer 0.172""",2,14
-1396,Selected Narrow FW 0.188,"Selected Narrow Flat Washer 0.188""",2,8
-1397,Selected Narrow FW 0.203,"Selected Narrow Flat Washer 0.203""",2,4
-1398,SHSSCREW 0.5x0.625-N,"Socket Head Shoulder Screw 1/2"" (0.5"") dia x 5/8"" (0.625"")",2,2
-1399,SHSSCREW 0.5x1.25-N,"Socket Head Shoulder Screw 1/2"" (0.5"") dia x 1-1/4"" (1.25"")",2,4
-1400,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Side Mount - Left,5,1
-1401,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Side Mount - Left,4,1
-1402,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Side Mount - Right,5,1
-1403,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Side Mount - Right,4,1
-1404,[HDWR-FSTR-NUT] NYHXNUT M3.SLDPRT,Simple,2,12
-1405,[HDWR-FSTR-NUT] NYTHNHXNUT 3 ̸ 4-10-D.SLDPRT,Simple,2,2
-1406,[HDWR-FSTR-ROD] Fully Threaded Stud #2-56 x 1.SLDPRT,Simple,2,1
-1407,[HDWR-FSTR-SCRW] Same-Size Shoulder Bolt 3 ̸ 8-24 x 1-1 ̸ 2.SLDPRT,Simple,2,2
-1408,[HDWR-FSTR-SCRW] Steel Pan Head Screw M3 x 25mm.SLDPRT,Simple,2,12
-1409,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 5 ̸ 8.SLDPRT,Simple,3,4
-1410,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 7 ̸ 8.SLDPRT,Simple,2,56
-1411,[HDWR-MISC-OPENXRAIL] 350mm 6mm Lead Screw (3501-0606-0350).SLDPRT,Simple,3,2
-1412,[TLWR-A-V3-COMN-01] Linkage Rod.SLDPRT,Simple,2,2
-1413,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 1 ̸ 4 x 2.SLDPRT,Simple Thread,2,6
-1414,[HDWR-BJNT] 1 ̸ 4-28 Female RH Ball Joint Rod End.SLDPRT,Simplified,3,2
-1415,[HDWR-FSTR-NUT] Binding Barrel #8-32-D.SLDPRT,Simplified,2,16
-1416,[HDWR-FSTR-NUT] HJNUT M3-D.SLDPRT,Simplified,1,8
-1417,[HDWR-FSTR-NUT] HJNUT M8-D.SLDPRT,Simplified,1,4
-1418,[HDWR-FSTR-NUT] HXNUT #8-32-D.SLDPRT,Simplified,3,12
-1419,[HDWR-FSTR-NUT] HXNUT 1 ̸ 2-13-D.SLDPRT,Simplified,1,1
-1420,[HDWR-FSTR-NUT] MSTHNHXNUT #4-40-D.SLDPRT,Simplified,1,4
-1421,[HDWR-FSTR-NUT] NYHXNUT #10-24-D.SLDPRT,Simplified,3,6
-1422,[HDWR-FSTR-NUT] NYHXNUT #10-32-D.SLDPRT,Simplified,2,2
-1423,[HDWR-FSTR-NUT] NYHXNUT #2-56-D.SLDPRT,Simplified,2,10
-1424,[HDWR-FSTR-NUT] NYHXNUT #4-40-D.SLDPRT,Simplified,2,8
-1425,[HDWR-FSTR-NUT] NYHXNUT #6-32-D.SLDPRT,Simplified,3,31
-1426,[HDWR-FSTR-NUT] NYHXNUT #8-32-D.SLDPRT,Simplified,3,26
-1427,[HDWR-FSTR-NUT] NYHXNUT 1 ̸ 4-20-D.SLDPRT,Simplified,1,11
-1428,[HDWR-FSTR-NUT] NYHXNUT 1 ̸ 4-28-D.SLDPRT,Simplified,1,7
-1429,[HDWR-FSTR-NUT] NYHXNUT 3 ̸ 8-16-D.SLDPRT,Simplified,1,2
-1430,[HDWR-FSTR-NUT] NYHXNUT 3 ̸ 8-24-D.SLDPRT,Simplified,1,2
-1431,[HDWR-FSTR-NUT] NYHXNUT 5 ̸ 16-18-D.SLDPRT,Simplified,1,1
-1432,[HDWR-FSTR-NUT] NYHXNUT 5 ̸ 16-24-D.SLDPRT,Simplified,1,2
-1433,[HDWR-FSTR-NUT] NYTHNHXNUT #6-32-D.SLDPRT,Simplified,2,51
-1434,[HDWR-FSTR-NUT] NYTHNHXNUT #8-32-D.SLDPRT,Simplified,4,82
-1435,[HDWR-FSTR-NUT] NYTHNHXNUT 1 ̸ 4-20-D.SLDPRT,Simplified,2,8
-1436,[HDWR-FSTR-NUT] PANLHXNUT 3 ̸ 8-32-D.SLDPRT,Simplified,1,2
-1437,[HDWR-FSTR-SCRW] Flanged Hex Bolt #8-32 x 3 ̸ 8.SLDPRT,Simplified,2,4
-1438,[HDWR-FSTR-SCRW] Low-Profile Socket Head Cap Screw 3 ̸ 8-16 x 1-1 ̸ 2.SLDPRT,Simplified,1,2
-1439,[HDWR-FSTR-SCRW] Set Screw Cup Point #2-56 x 1 ̸ 16.SLDPRT,Simplified,5,4
-1440,[HDWR-FSTR-SCRW] Thread-Locking Socket Button Head Cap Screw 1 ̸ 4-20 x 3 ̸ 8.SLDPRT,Simplified,1,6
-1441,[HDWR-FSTR-STND] Female Threaded Round Standoff #8-32 x 3-1 ̸ 2.SLDPRT,Simplified,2,5
-1442,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 1 ̸ 4.SLDPRT,Simplified,1,8
-1443,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff 1 ̸ 4-20 x 1.SLDPRT,Simplified,3,5
-1444,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff 1 ̸ 4-20 x 5 ̸ 8.SLDPRT,Simplified,3,2
-1445,[HDWR-FSTR-STND] Male-Female Threaded Hex Standoff #2-56 x 3 ̸ 16.SLDPRT,Simplified,2,4
-1446,[HDWR-FSTR-STND] Male-Female Threaded Hex Standoff #6-32 x 1.SLDPRT,Simplified,1,1
-1447,[HDWR-HYDR-MASTFIT] Universal Hose Fitting Banjo Bolt (UT0-4004-PKG).SLDPRT,Simplified,2,4
-1448,[HDWR-HYDR-SLAVEFIT-COMN-00] 1 ̸ 16 Barb Fitting (1016  ̸  Clippard 11752-5).SLDPRT,Simplified,4,6
-1449,[HDWR-HYDR-SLAVEFIT-COMN-02-V1] Swivel Tee Fitting Banjo Bolt (SFT-10).SLDPRT,Simplified,2,4
-1450,[HDWR-HYDR-SLAVEFIT-LWR-COMN-00] Needle Valve (FN-32).SLDPRT,Simplified,3,6
-1451,[HDWR-HYDR-SLAVEFIT-UPR-COMN-01] Legris Fitting Banjo Bolt (3118-54-20).SLDPRT,Simplified,3,2
-1452,[HDWR-SHFT] Clamping Shaft Coupling 5 ̸ 8 x 5 ̸ 8 x 1-5 ̸ 16.SLDPRT,Simplified,2,1
-1453,[HDWR-SHFT] Shaft Collar 5 ̸ 8 x 1-5 ̸ 16 x 7 ̸ 16.SLDPRT,Simplified,2,1
-1454,[HEAD-B-A-E-05] Fillister Head Screw #0-80.SLDPRT,Simplified,2,1
-1455,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",1,32
-1456,SL-FHMS 0.073-64x0.25x0.25-N,"Flat Head Machine Screw (Slotted) #1-64 x 1/4"" (0.25"")",1,8
-1457,SL-RHMS 0.06-80x0.125x0.125-N,"Round Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",1,1
-1458,[AFRM-LWR-COVR-00] Lower Covering.SLDPRT,Slotted,3,1
-1459,[TUPR-A-COMN-00-L] Side Plate (Left).SLDPRT,Smooth,10,1
-1460,[TUPR-A-COMN-00-R] Side Plate (Right).SLDPRT,Smooth,10,1
-1461,SPS 0.0625x0.375,"Slotted Spring Pin 1/16"" (0.0625"") dia x 3/8"" (0.375"")",1,1
-1462,SPS 0.0938x0.875,"Slotted Spring Pin 3/32"" (0.0938"") dia x 7/8"" (0.875"")",1,1
-1463,SPS 0.125x0.5,"Slotted Spring Pin 1/8"" (0.125"") dia x 1/2"" (0.5"")",1,2
-1464,SSCUPSKT 0.086-56x0.125-HX-N,"Socket Set Screw Cup Point #2-56 x 1/8"" (0.125"")",2,4
-1465,SSCUPSKT 0.086-64x0.09375-HX-N,"Socket Set Screw Cup Point #2-64 x 3/32"" (0.09375"")",2,4
-1466,SSCUPSKT 0.112-40x0.125-HX-N,"Socket Set Screw Cup Point #4-40 x 1/8"" (0.125"")",2,4
-1467,SSCUPSKT 0.112-40x0.1875-HX-N,"Socket Set Screw Cup Point #4-40 x 3/16"" (0.1875"")",2,5
-1468,SSCUPSKT 0.112-40x0.25-HX-N,"Socket Set Screw Cup Point #4-40 x 1/4"" (0.25"")",2,1
-1469,SSCUPSKT 0.138-32x.094-HX-N,"Socket Set Screw Cup Point #6-32 x .094""",2,1
-1470,SSCUPSKT 0.138-32x0.125-HX-N,"Socket Set Screw Cup Point #6-32 x 1/8"" (0.125"")",2,2
-1471,SSCUPSKT 0.138-32x0.375-HX-N,"Socket Set Screw Cup Point #6-32 x 3/8"" (0.375"")",2,3
-1472,SSCUPSKT 0.164-32x0.1875-HX-N,"Socket Set Screw Cup Point #8-32 x 3/16"" (0.1875"")",2,2
-1473,SSCUPSKT 0.19-24x0.25-HX-N,"Socket Set Screw Cup Point #10-24 x 1/4"" (0.25"")",2,2
-1474,SSCUPSKT 0.19-32x0.25-HX-N,"Socket Set Screw Cup Point #10-32 x 1/4"" (0.25"")",2,4
-1475,SSCUPSKT 0.25-20x0.25-HX-N,"Socket Set Screw Cup Point 1/4""-20 x 1/4"" (0.25"")",2,4
-1476,SSCUPSKT 0.25-20x1.125-HX-N,"Socket Set Screw Cup Point 1/4""-20 x 1-1/8"" (1.125"")",2,2
-1477,SSCUPSKT 0.3125-18x0.25-HX-N,"Socket Set Screw Cup Point 5/16""-18 x 1/4"" (0.25"")",2,4
-1478,SSFLATSKT 0.086-56x0.25-HX-N,"Socket Set Screw Flat Point #2-56 x 1/4"" (0.25"")",2,8
-1479,SSFLATSKT 0.112-40x0.125-HX-N,"Socket Set Screw Flat Point #4-40 x 1/8"" (0.125"")",2,6
-1480,SSFLATSKT 0.138-32x0.125-HX-N,"Socket Set Screw Flat Point #6-32 x 1/8"" (0.125"")",2,1
-1481,SSFLATSKT 0.138-32x0.25-HX-N,"Socket Set Screw Flat Point #6-32 x 1/4"" (0.25"")",2,2
-1482,SSFLATSKT 0.19-24x0.1875-HX-N,"Socket Set Screw Flat Point #10-24 x 3/16"" (0.1875"")",2,3
-1483,SSFLATSKT 0.19-32x0.1875-HX-N,"Socket Set Screw Flat Point #10-32 x 3/16"" (0.1875"")",2,2
-1484,SSFLATSKT 0.25-20x0.5-HX-N,"Socket Set Screw Flat Point 1/4""-20 x 1/2"" (0.5"")",2,12
-1485,SSFLATSKT 0.25-20x0.75-HX-N,"Socket Set Screw Flat Point 1/4""-20 x 3/4"" (0.75"")",2,12
-1486,[ELEC-SRVO-ASME03B] WINGXINE ASME-03B.SLDASM,Standard,2,1
-1487,[ELEC-SRVO-ASME04B] WINGXINE ASME-04B.SLDASM,Standard,5,3
-1488,[HEAD-A-B-08] Slope Panels.SLDPRT,Standard,7,1
-1489,[HEAD-E-V2-B-01-L] Side Panel (Left).SLDPRT,Standard,9,1
-1490,[HEAD-E-V2-B-01-R] Side Panel (Right).SLDPRT,Standard,11,1
-1491,[HEAD-E-V2-C-COMN-00] Bottom Plate.SLDPRT,Standard,3,1
-1492,[HEAD-E-V2-C-COMN-02] Top Plate.SLDPRT,Standard,3,1
-1493,[HEAD-E-V2-C-MSTR-00] Basket Master.SLDPRT,Standard,8,1
-1494,[HEAD-H-A-00] Skirt.SLDPRT,Standard,5,1
-1495,[NECK-COVR-00] Lip Light Box.SLDPRT,Standard,7,1
-1496,[NECK-E-COMN-07] Side & Rear Slide Plate.SLDPRT,Standard,2,1
-1497,[TLWR-B-A-V2-COMN-00] Faceplate.SLDPRT,Standard,4,1
-1498,[TLWR-B-A-V2-COMN-01] Electronics Enclosure.SLDPRT,Standard,4,1
-1499,[ELEC-ACTR-SKF-COMN-00] Limit Switch Cover.SLDPRT,Static & Dynamic LASR Mount,3,1
-1500,[TUPR-E-COMN-05] Filler Tube.SLDPRT,Static & Dynamic LASR Mount,3,1
-1501,[DTL-APP] Anderson Powerpole Connector (PP15).SLDPRT,Stock,4,9
-1502,[DTL-BRNSTRMT] Bourns TRIMIT Potentiometer (271-1-502).SLDPRT,Stock,3,8
-1503,[ELEC-BULB-LED5] Kingbright Green Diffused LED.SLDPRT,Stock,2,1
-1504,[ELEC-BULB-LED5] Kingbright White LED.SLDPRT,Stock,1,2
-1505,[ELEC-MOTR-BB150-B-COMN-00] Shaft.SLDPRT,Stock,3,1
-1506,[HDWR-BRNG-TAPR] 1 ̸ 2 x 1.377 x 0.47 (A4050 & A4138).SLDPRT,Stock,2,2
-1507,[HDWR-BRNG-TAPR] 1-1 ̸ 4 x 2-21 ̸ 64 x 0.66 (MCMC 5709K24 & 5709K61).SLDPRT,Stock,1,1
-1508,[HDWR-BRNG-TRST] 1-1 ̸ 2 x 2-3 ̸ 16 x 0.142125 (MCMC 5909K41 & 5909K54).SLDPRT,Stock,2,1
-1509,[HDWR-BRNG-TRST] 1-1 ̸ 8 x 1-3 ̸ 4 x 0.142125 (MCMC 5909K37 & 5909K51).SLDPRT,Stock,3,1
-1510,[HDWR-GEAR] Azusa 8-Tooth #40 Sprocket (1901-K).SLDPRT,Stock,3,2
-1511,[HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400).SLDPRT,Stock,4,1
-1512,[HDWR-GEAR] Machinable Bore 9-Tooth Sprocket (MCMC 6793K100).SLDPRT,Stock,4,2
-1513,[HDWR-GEAR] Tsubaki 10-Tooth Sprocket (35B10FH).SLDPRT,Stock,2,1
-1514,[HDWR-GEAR] Tsubaki 54-Tooth Sprocket (35B54FJ).SLDPRT,Stock,7,1
-1515,[HDWR-HYDR-MASTFIT] 1 ̸ 16 Universal Hose Fitting (UT0-2002-PKG).SLDPRT,Stock,2,4
-1516,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Surface Mount - Left,5,1
-1517,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Surface Mount - Left,4,1
-1518,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Surface Mount - Right,5,1
-1519,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Surface Mount - Right,4,1
-1520,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Surface Mount Extended - Left,5,1
-1521,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Surface Mount Extended - Left,4,1
-1522,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Surface Mount Extended - Right,5,1
-1523,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Surface Mount Extended - Right,4,1
-1524,[HDWR-GEAR] Martin 40-Tooth Sprocket (35BS40 3 ̸ 4).SLDPRT,TDRV Front Idler (BB150) Without Outer Cap,3,1
-1525,[HDWR-GEAR] Martin 9-Tooth Sprocket (35B9).SLDPRT,TDRV Tensioner (BB150),6,1
-1526,[TUPR-E] Accessory Mount.SLDASM,TLBX (With Coverings),17,1
-1527,[ELEC-ACTR-N2HYBRID] IDC N2 Series Hybrid Actuator.SLDASM,TLWR - V3 PEM,10,1
-1528,[HDWR-GEAR] Martin 15-Tooth Sprocket (25B15).SLDPRT,TMID Motor,1,1
-1529,[HDWR-GEAR] Martin 30-Tooth Sprocket (25A30).SLDPRT,TMID Shaft,3,1
-1530,[TUPR-E-LASR] Laser Vertical Support.SLDASM,Toolbox,10,1
-1531,[TLWR-B-B-03] Console Gear Arm.SLDPRT,Top,4,1
-1532,[ELEC-MOTR-BBPS-COMN-02] 1 Inch Hex Output Shaft.SLDPRT,Track drive,4,1
-1533,Tube-125X035_2-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
-1534,Tube-125X035_3-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
-1535,Tube-125X035_4-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
-1536,Tube-125X035_5-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
-1537,Tube-125X035_6-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
-1538,Tube-125X035_7-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
-1539,[HDWR-GEAR] Finished Bore 16-Tooth Sprocket (MCMC 2737T8).SLDPRT,TUPR Neck Drive,7,1
-1540,[CRDL-COMN-00] 3-Inch Bearing Collar Assembly.SLDASM,Two Piece,2,2
-1541,[CRDL-COMN-00] 3-Inch Bearing Collar.SLDPRT,Two Piece,3,2
-1542,[NECK-A-COMN-00] C-Channel.SLDPRT,V2,2,1
-1543,[NECK-E-COMN-01] Front Slide.SLDPRT,V2,2,1
-1544,[TDRV-COMN-G-B] Chain Tensioner Shaft.SLDASM,V2,6,2
-1545,[TDRV-COMN-G-B-COMN-00-MALE] Shaft (Male).SLDPRT,V2,4,1
-1546,[TDRV-COMN-G-COMN-00-FEML] Shaft (Female).SLDPRT,V2,6,1
-1547,[TMID-F] Upper Torso Hinge.SLDASM,V2,18,1
-1548,[TUPR-A] Frame.SLDASM,V2,24,1
-1549,[AFRM-LWR] Lower A-Frame.SLDASM,v2 - Laser cut_speedpak,13,1
-1550,[CSTR] Main Structure.SLDASM,v2 - Single piece,7,1
-1551,[CSTR] Caster.SLDASM,v2 - Single Piece_speedpak,22,1
-1552,[TLWR-COVR-B] Console Section.SLDASM,V2 -Laser Cut Arms and Waveshare 23112,11,1
-1553,[TDRV-LEFT] Main Structure (Left).SLDASM,v2 Bearing Cup Layout,31,1
-1554,[TDRV-RGHT] Main Structure (Right).SLDASM,v2 Bearing Cup Layout,12,1
-1555,[TUPR-D] Master Cylinder Drive.SLDASM,V2 Simple Manifold,29,1
-1556,[NECK] Neck Assembly.SLDASM,V3,42,1
-1557,[TLWR-COMN-01] Lower Shaft Support.SLDPRT,V3 PEM,7,1
-1558,Wide FW 0.19,"Wide Flat Washer 0.19""",1,1
-1559,Wide FW 0.25,"Wide Flat Washer 1/4"" (0.25"")",1,1
-1560,[TIP-COMN-00] Tube.SLDPRT,Wiring tunnel compatible,8,1
-1561,[TDRV-COMN-A] Front Idler.SLDASM,with 3-Piece Sprocket,25,2
-1562,[TUPR-G-V2] Chest Carrier Assembly.SLDASM,With Coverings_speedpak,7,1
-1563,[ELEC-SRVO-HS5496MH] Hitec HS-5496MH.SLDASM,With Ears,2,1
-1564,[ELEC-SRVO-HS5496MH] Hitec HS-5496MH.SLDPRT,With Ears,1,1
-1565,[ELEC-SRVO-HS5645MG] Hitec HS-5645MG.SLDASM,With Ears,3,1
-1566,[ELEC-SRVO-HS5645MG] Hitec HS-5645MG.SLDPRT,With Ears,4,1
-1567,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDASM,With Ears,3,1
-1568,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDPRT,With Ears,2,1
-1569,[ELEC-SRVO-HS85MG] Hitec HS-85MG.SLDASM,With Ears,1,2
-1570,[ELEC-SRVO-HS85MG] Hitec HS-85MG.SLDPRT,With Ears,1,3
-1571,[TDRV-LEFT] Track Drive (Left).SLDASM,With EV105 Batteries_speedpak,47,1
-1572,[TDRV-RGHT] Track Drive (Right).SLDASM,With EV105 Battery_speedpak,17,1
-1573,[TLWR-V3-A-03] Internal Support.SLDPRT,With wiring space,6,2
-1574,[HDWR-FSTR-PIN] Heavy Duty Quick-Release Pin 3 ̸ 8 x 3.SLDPRT,Without Ring,4,2
-1575,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDASM,Without Sticker,3,2
-1576,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDPRT,Without Sticker,2,4
+605,[HDWR-MISC-8LN] 8mm Lead Screw Lock Nut.SLDPRT,Default,2,2
+606,[HDWR-NPRN-CRDL] Battery Tray Liner.SLDPRT,Default,2,1
+607,[HDWR-NPRN-TDRV] Lower Battery Box (Liner).SLDPRT,Default,5,1
+608,[HDWR-PULL] Timing Belt Idler 6mm x 12mm x 12mm (3413-0001-0001).SLDPRT,Default,3,2
+609,[HDWR-PULL] Timing HTD 5mm x 24-Tooth (3411-0014-0024).SLDPRT,Default,5,2
+610,[HDWR-PULL] Timing HTD 5mm x 24-Tooth Hex Bore (3417-4008-0024).SLDPRT,Default,4,2
+611,[HDWR-PULL] Uxcell 603U 3mm x 12mm x 3mm (1035707).SLDPRT,Default,2,6
+612,[HDWR-PULL-ARC] Arc Slot Bracket.SLDPRT,Default,2,2
+613,[HDWR-PULL-ARC] Screw Plate.SLDPRT,Default,2,2
+614,[HDWR-PULL-FIT] Cable Crimp 8mm x 2mm.SLDPRT,Default,3,2
+615,[HDWR-SHFT] 8mm REX Shaft with E-Clip 54mm.SLDPRT,Default,2,2
+616,[HDWR-SHFT] Clamping Hub 1 inch x 8mm (1302-0032-1000).SLDPRT,Default,2,2
+617,[HDWR-SHFT] D-Shaft 1 ̸ 4 x 4.SLDPRT,Default,2,2
+618,[HDWR-SHFT] Shaft 1 ̸ 8 x 7.SLDPRT,Default,2,1
+619,[HDWR-SHFT] Shaft Collar 1 ̸ 2 x 1 x 7 ̸ 16 (Zinc-Plated).SLDPRT,Default,2,4
+620,[HDWR-SHFT] Shaft Collar 3 ̸ 4 x 1-1 ̸ 4 x 9 ̸ 16.SLDPRT,Default,2,2
+621,[HDWR-SHFT] Sonic Hub 8mm x 32mm x 10mm (1309-0016-0008).SLDPRT,Default,2,2
+622,[HDWR-UJNT-COMN-01] Block.SLDPRT,Default,2,1
+623,[HDWR-UJNT-COMN-02] Main Pin.SLDPRT,Default,2,1
+624,[HDWR-UJNT-COMN-03] Half Pin (Countersunk).SLDPRT,Default,2,1
+625,[HDWR-UJNT-COMN-04] Half Pin (Flat).SLDPRT,Default,2,1
+626,[HDWR-UJNT-COMN-05] Rivet Pin.SLDPRT,Default,1,1
+627,[HDWR-ZERK] Grease Fitting 1 ̸ 4-28 (MCMC 1095K41).SLDPRT,Default,2,2
+628,[HEAD] Head.SLDASM,Default,57,1
+629,[HEAD-A] Bottom Shell.SLDASM,Default,42,1
+630,[HEAD-A] Nose Carrier.SLDASM,Default,18,1
+631,[HEAD-A] Top Shell.SLDASM,Default,43,1
+632,[HEAD-A-A-00] Center Section.SLDPRT,Default,34,1
+633,[HEAD-A-A-01-L] Rear Left.SLDPRT,Default,33,1
+634,[HEAD-A-A-01-R] Rear Right.SLDPRT,Default,34,1
+635,[HEAD-A-A-02-L] Front Left.SLDPRT,Default,30,1
+636,[HEAD-A-A-02-R] Front Right.SLDPRT,Default,31,1
+637,[HEAD-A-A-03] Mounting Block.SLDPRT,Default,32,2
+638,[HEAD-A-A-04] Vent Plate.SLDPRT,Default,32,1
+639,[HEAD-A-A-05] Faceplate Bottom.SLDPRT,Default,35,1
+640,[HEAD-A-A-06-L] Face Block Bottom Left.SLDPRT,Default,31,1
+641,[HEAD-A-A-06-R] Face Block Bottom Right.SLDPRT,Default,31,1
+642,[HEAD-A-B-00] Pocket Block.SLDPRT,Default,33,1
+643,[HEAD-A-B-01-L] Curve Left.SLDPRT,Default,32,1
+644,[HEAD-A-B-01-R] Curve Right.SLDPRT,Default,32,1
+645,[HEAD-A-B-02] Whip Antenna Top.SLDPRT,Default,32,1
+646,[HEAD-A-B-03-V1] Microphone Block (Combined).SLDPRT,Default,33,1
+647,[HEAD-A-B-04] MFRC Block.SLDPRT,Default,32,1
+648,[HEAD-A-B-05-L] Rear Vent Left.SLDPRT,Default,32,1
+649,[HEAD-A-B-05-R] Rear Vent Right.SLDPRT,Default,32,1
+650,[HEAD-A-B-06] Stepdown Block.SLDPRT,Default,32,1
+651,[HEAD-A-B-07] Slope Block.SLDPRT,Default,31,1
+652,[HEAD-A-B-09-L] Faceplate Top Left.SLDPRT,Default,31,1
+653,[HEAD-A-B-09-R] Faceplate Top Right.SLDPRT,Default,31,1
+654,[HEAD-A-B-10-L] Face Block Top Left.SLDPRT,Default,29,1
+655,[HEAD-A-B-10-R] Face Block Top Right.SLDPRT,Default,29,1
+656,[HEAD-A-B-11-L] Face Block Middle Left.SLDPRT,Default,29,1
+657,[HEAD-A-B-11-R] Face Block Middle Right.SLDPRT,Default,29,1
+658,[HEAD-A-B-12] Nose Bridge.SLDPRT,Default,17,1
+659,[HEAD-A-C-00] Frame.SLDPRT,Default,14,1
+660,[HEAD-A-C-01-L] Side Covering (Left).SLDPRT,Default,21,1
+661,[HEAD-A-C-01-R] Side Covering (Right).SLDPRT,Default,19,1
+662,[HEAD-A-D-00-L] Seam Strip - Curve Left.SLDPRT,Default,34,1
+663,[HEAD-A-D-00-R] Seam Strip - Curve Right.SLDPRT,Default,34,1
+664,[HEAD-A-D-01-L] Seam Strip - Rear Vent Left.SLDPRT,Default,34,1
+665,[HEAD-A-D-01-R] Seam Strip - Rear Vent Right.SLDPRT,Default,34,1
+666,[HEAD-A-E-00] Detail Plate L1 & R1.SLDPRT,Default,37,2
+667,[HEAD-A-E-01] Detail Plate L2 & R2.SLDPRT,Default,37,2
+668,[HEAD-A-E-02] Detail Plate L3.SLDPRT,Default,37,1
+669,[HEAD-A-E-03] Detail Plate L4.SLDPRT,Default,37,1
+670,[HEAD-A-E-04] Detail Plate L5.SLDPRT,Default,37,1
+671,[HEAD-A-E-05] Detail Plate L6.SLDPRT,Default,37,1
+672,[HEAD-A-E-06] Detail Plate R3.SLDPRT,Default,37,1
+673,[HEAD-A-E-07] Detail Plate R4.SLDPRT,Default,37,1
+674,[HEAD-A-E-08] Detail Plate R5.SLDPRT,Default,37,1
+675,[HEAD-A-E-09] Detail Plate R6.SLDPRT,Default,37,1
+676,[HEAD-A-E-10] Detail Plate R7.SLDPRT,Default,37,1
+677,[HEAD-A-E-11] Detail Plate CRV.SLDPRT,Default,39,1
+678,[HEAD-A-E-12] Detail Plate W1.SLDPRT,Default,36,1
+679,[HEAD-B-A-D-00] Diaphragm Ring.SLDPRT,Default,3,1
+680,[HEAD-B-A-D-02] Retaining Ring.SLDPRT,Default,3,1
+681,[HEAD-B-B-00] Gimbal Ring.SLDPRT,Default,4,2
+682,[HEAD-B-B-01] Gimbal Spacer.SLDPRT,Default,1,4
+683,[HEAD-B-B-02] Gimbal Bar.SLDPRT,Default,1,2
+684,[HEAD-B-C] Iris Rotator.SLDASM,Default,8,2
+685,[HEAD-B-C-COMN-00] Iris Rotation Cup.SLDPRT,Default,3,1
+686,[HEAD-B-C-COMN-01] NeoPixel Retaining Ring.SLDPRT,Default,3,1
+687,[HEAD-B-C-COMN-02] Rear Cap.SLDPRT,Default,3,1
+688,[HEAD-B-C-COMN-03] White Diffuser (With Hole).SLDPRT,Default,2,1
+689,[HEAD-B-C-COMN-04] White Diffuser (Without Hole).SLDPRT,Default,2,1
+690,[HEAD-B-C-COMN-05] Black Diffuser Window Tint Film.SLDPRT,Default,2,1
+691,[HEAD-B-C-COMN-06] Iris Ring Pin.SLDPRT,Default,2,1
+692,[HEAD-B-D-COMN-03] Vertical Slide Plate.SLDPRT,Default,3,1
+693,[HEAD-B-D-COMN-05] Vertical Rack 32P.SLDPRT,Default,1,1
+694,[HEAD-B-D-COMN-06] Horizontal Slide Rod.SLDPRT,Default,2,2
+695,[HEAD-B-D-L] XY Eye Articulator (Left).SLDASM,Default,5,1
+696,[HEAD-C-COMN-A-02] Pivot Strut.SLDPRT,Default,2,2
+697,[HEAD-C-LEFT] Eye Tube Assembly (Left).SLDASM,Default,12,1
+698,[HEAD-C-LEFT-COMN-00-L] Eye Tube (Left).SLDPRT,Default,33,1
+699,[HEAD-COVR-00-FF] Rear Covering (Form-Fitting).SLDPRT,Default,2,1
+700,[HEAD-COVR-MIL1] Facemask & Mouthguard Assembly.SLDASM,Default,7,1
+701,[HEAD-COVR-MIL1-COMN-01] Facemask.SLDPRT,Default,7,1
+702,[HEAD-COVR-MIL1-COMN-02] Mouthguard.SLDPRT,Default,6,1
+703,[HEAD-C-RGHT] Eye Tube Assembly (Right).SLDASM,Default,11,1
+704,[HEAD-C-RGHT-COMN-00-R] Eye Tube (Right).SLDPRT,Default,34,1
+705,[HEAD-D-LWR-A] Retaining Bracket Assembly.SLDASM,Default,4,2
+706,[HEAD-D-LWR-A-COMN-00] Retaining Bracket.SLDPRT,Default,3,2
+707,[HEAD-D-LWR-COMN-00-L] Lower Eye Flap Arm (Left).SLDPRT,Default,4,1
+708,[HEAD-D-LWR-COMN-00-R] Lower Eye Flap Arm (Right).SLDPRT,Default,4,1
+709,[HEAD-D-LWR-COMN-01-L] Lower Eye Flap (Left).SLDPRT,Default,4,1
+710,[HEAD-D-LWR-COMN-01-R] Lower Eye Flap (Right).SLDPRT,Default,4,1
+711,[HEAD-D-LWR-L] Lower Eye Flap Assembly (Left).SLDASM,Default,10,1
+712,[HEAD-D-LWR-R] Lower Eye Flap Assembly (Right).SLDASM,Default,10,1
+713,[HEAD-D-UPR-A] Servo Arm.SLDASM,Default,6,2
+714,[HEAD-D-UPR-A-COMN-00] Rod.SLDPRT,Default,4,1
+715,[HEAD-D-UPR-COMN-00] Servo Bracket.SLDPRT,Default,3,2
+716,[HEAD-D-UPR-COMN-01-L] Upper Eye Flap (Left).SLDPRT,Default,4,1
+717,[HEAD-D-UPR-COMN-01-R] Upper Eye Flap (Right).SLDPRT,Default,4,1
+718,[HEAD-D-UPR-L] Upper Eye Flap Assembly (Left).SLDASM,Default,9,1
+719,[HEAD-D-UPR-R] Upper Eye Flap Assembly (Right).SLDASM,Default,9,1
+720,[HEAD-E-V2] 3D Printable Nose.SLDASM,Default,17,1
+721,[HEAD-E-V2-B-00] Main Section.SLDPRT,Default,4,1
+722,[HEAD-E-V2-B-02] Pin.SLDPRT,Default,1,1
+723,[HEAD-E-V2-B-03] Spacer.SLDPRT,Default,3,2
+724,[HEAD-E-V2-B-04] Servo Arm Extension.SLDPRT,Default,4,1
+725,[HEAD-E-V2-C] Basket.SLDASM,Default,7,1
+726,[HEAD-E-V2-C-COMN-01] Middle Block.SLDPRT,Default,3,1
+727,[HEAD-E-V2-C-COMN-03] Rear Plate.SLDPRT,Default,3,1
+728,[HEAD-F] Microphone & Mechanics.SLDASM,Default,11,1
+729,[HEAD-F] Microphone.SLDASM,Default,4,1
+730,[HEAD-F-A-00] Tube.SLDPRT,Default,3,1
+731,[HEAD-F-A-01] Front Cap.SLDPRT,Default,2,1
+732,[HEAD-F-A-02] Mesh.SLDPRT,Default,2,1
+733,[HEAD-F-A-03] Rear Cap.SLDPRT,Default,1,1
+734,[HEAD-F-A-04] Wire Passthrough.SLDPRT,Default,3,1
+735,[HEAD-F-A-05] Spacer.SLDPRT,Default,3,2
+736,[HEAD-F-B-01] Hinge.SLDPRT,Default,2,2
+737,[HEAD-F-B-03] Arm Spacer.SLDPRT,Default,2,1
+738,[HEAD-G] MFRC & Mechanics.SLDASM,Default,13,1
+739,[HEAD-G] MFRC.SLDASM,Default,5,1
+740,[HEAD-G-A-00] Outer Tube.SLDPRT,Default,2,1
+741,[HEAD-G-A-01] Inner Tube.SLDPRT,Default,1,1
+742,[HEAD-G-A-02] Wideband Dish.SLDPRT,Default,3,1
+743,[HEAD-G-A-03] Shortband Dish.SLDPRT,Default,3,1
+744,[HEAD-G-A-04] Feedhorn.SLDPRT,Default,3,1
+745,[HEAD-G-A-05] Top Hat.SLDPRT,Default,2,1
+746,[HEAD-G-A-06] Upper Tube.SLDPRT,Default,1,1
+747,[HEAD-G-B-00] Elevator Guide.SLDPRT,Default,4,1
+748,[HEAD-G-B-01] Primary Arm.SLDPRT,Default,4,1
+749,[HEAD-G-B-02] Servo Carriage.SLDPRT,Default,3,1
+750,[HEAD-H] Whip Antenna & Mechanics.SLDASM,Default,17,1
+751,[HEAD-H] Whip Antenna.SLDASM,Default,8,1
+752,[HEAD-H-B-00-LWR] Linkage (Lower).SLDPRT,Default,4,1
+753,[HEAD-H-B-00-UPR] Linkage (Upper).SLDPRT,Default,3,1
+754,[HEAD-H-C-00] Elevator Guide.SLDPRT,Default,4,1
+755,[HEAD-H-C-01] Guide Rod.SLDPRT,Default,1,1
+756,[HEAD-H-C-02] Servo Spacer.SLDPRT,Default,4,1
+757,[HEAD-H-C-03] Servo Arm Extension.SLDPRT,Default,6,1
+758,[HEAD-H-C-04] Servo Carriage.SLDPRT,Default,2,1
+759,[HEAD-I-00] Sliding Plate.SLDPRT,Default,1,1
+760,[HEAD-J-A-00] Mount Plate.SLDPRT,Default,5,1
+761,[HEAD-J-A-01] Stepper Motor Mount.SLDPRT,Default,2,1
+762,[HEAD-J-B-01] Actuator Bar.SLDPRT,Default,2,1
+763,[HEAD-J-B-V2] 8mm Lead Screw Actuator.SLDASM,Default,3,2
+764,[HEAD-J-B-V2-00] Actuator Bar.SLDPRT,Default,2,2
+765,[HEAD-J-B-V2-01] Slide Housing.SLDPRT,Default,1,2
+766,[HEAD-J-C-02] Optical Switch Block.SLDPRT,Default,2,2
+767,[NECK-A-COMN-05] Spring Spacer Plate.SLDPRT,Default,5,1
+768,[NECK-A-COMN-06] Spring Bushing Standoff Sleeve.SLDPRT,Default,1,1
+769,[NECK-A-COMN-07] Spring Bushing Spacer Sleeve.SLDPRT,Default,1,1
+770,[NECK-B-V2] Servo Tensioner.SLDASM,Default,5,1
+771,[NECK-B-V2-COMN-00] Adjustment Plate.SLDPRT,Default,4,1
+772,[NECK-B-V2-COMN-01] 18 Tooth Timing Pulley.SLDPRT,Default,2,1
+773,[NECK-B-V2-COMN-03] Adjustment Plate Top.SLDPRT,Default,2,1
+774,[NECK-B-V2-COVR-00] Futaba FP-S110 (Sail Winch) Simulate.SLDPRT,Default,4,1
+775,[NECK-COMN-00] Bottom Ball Mounting Plate.SLDPRT,Default,4,2
+776,[NECK-COVR-01] Front Covering.SLDPRT,Default,3,1
+777,[NECK-COVR-02] Rear Covering.SLDPRT,Default,8,1
+778,[NECK-C-UPR-COMN-02] Ball Cup (1-Piece).SLDPRT,Default,3,4
+779,[NECK-C-UPR-COMN-03] Ball Retaining Ring.SLDPRT,Default,3,4
+780,[NECK-D-V3] Dual Material Rotation Assembly.SLDASM,Default,5,1
+781,[NECK-D-V3-COMN-00] Disc.SLDPRT,Default,2,1
+782,[NECK-D-V3-COMN-02] Compression Plate.SLDPRT,Default,1,1
+783,[NECK-D-V3-COMN-03] Concave Block.SLDPRT,Default,2,1
+784,[NECK-D-V3-COMN-04] Neck Shaft.SLDPRT,Default,4,1
+785,[NECK-E] Head Mount.SLDASM,Default,13,1
+786,[NECK-E-COMN-00] Base Plate.SLDPRT,Default,2,1
+787,[NECK-E-COMN-06] U-Joint Compression Plate.SLDPRT,Default,1,1
+788,[NECK-F-FRNT] Front Rod.SLDASM,Default,5,1
+789,[NECK-F-FRNT-COMN-00] Upper Block.SLDPRT,Default,2,1
+790,[NECK-F-FRNT-COMN-01] Lower Block.SLDPRT,Default,2,1
+791,[NECK-F-FRNT-COMN-02] Collar.SLDPRT,Default,4,1
+792,[NECK-F-LEFT-COMN-00] Upper Block.SLDPRT,Default,2,1
+793,[NECK-F-RGHT-COMN-00] Upper Block.SLDPRT,Default,2,1
+794,[TDRV-COMN-00] Front Spacer.SLDPRT,Default,5,2
+795,[TDRV-COMN-03] Idler Tube Collar.SLDPRT,Default,4,4
+796,[TDRV-COMN-04] Quick-Release Collar.SLDPRT,Default,6,2
+797,[TDRV-COMN-05] Quick-Release Collar Bushing.SLDPRT,Default,6,2
+798,[TDRV-COMN-06] Shield & Accessory Covering Mounting Plate.SLDPRT,Default,13,2
+799,[TDRV-COMN-08] Breaker Cover.SLDPRT,Default,1,2
+800,[TDRV-COMN-10] Motor Covering Mount.SLDPRT,Default,3,2
+801,[TDRV-COMN-11] Outer Wire Channel.SLDPRT,Default,12,1
+802,[TDRV-COMN-12] Accessory Mounting Plate.SLDPRT,Default,4,1
+803,[TDRV-COMN-A-COMN-00] Axle.SLDPRT,Default,6,1
+804,[TDRV-COMN-A-COMN-01] Bushing.SLDPRT,Default,3,2
+805,[TDRV-COMN-A-COMN-02] 7-Inch Disc.SLDPRT,Default,2,2
+806,[TDRV-COMN-A-COMN-05] Printed Sprocket Spacer.SLDPRT,Default,2,2
+807,[TDRV-COMN-B-COMN-00] 10-Inch Disc.SLDPRT,Default,2,4
+808,[TDRV-COMN-B-V1-COMN-00] Bearing Axle.SLDPRT,Default,5,2
+809,[TDRV-COMN-C-COMN-00] Bearing Axle.SLDPRT,Default,4,2
+810,[TDRV-COMN-C-COMN-01] 7-Inch Disc.SLDPRT,Default,2,4
+811,"[TDRV-COMN-D-OUTR-01] Bearing Cup (Outer, Tapped).SLDPRT",Default,5,4
+812,[TDRV-COMN-E] Track Tensioner.SLDASM,Default,4,4
+813,[TDRV-COMN-E-COMN-00] Tension Adjustment Block.SLDPRT,Default,3,4
+814,[TDRV-COMN-E-COMN-01] Tension Adjustment Washer.SLDPRT,Default,3,2
+815,[TDRV-COMN-F-EV105] Battery Case.SLDASM,Default,8,1
+816,[TDRV-COMN-F-EV105-COMN] Full Case.SLDPRT,Default,7,1
+817,[TDRV-COMN-F-EV105-COMN] Mylar Spacer.SLDPRT,Default,1,2
+818,[TDRV-COMN-F-EV105-COMN] Overkill Solar BMS Case.SLDPRT,Default,4,1
+819,[TDRV-COMN-F-LWRV3] Lower Battery Box.SLDASM,Default,5,2
+820,[TDRV-COMN-F-LWRV3-COMN-00] Outer Shell.SLDPRT,Default,4,1
+821,[TDRV-COMN-F-LWRV3-COMN-01] Front Plate.SLDPRT,Default,5,1
+822,[TDRV-COMN-F-LWRV3-COMN-02] Side Wall.SLDPRT,Default,2,2
+823,[TDRV-COMN-G-B-COMN-02] Idler Lockdown Plate.SLDPRT,Default,1,1
+824,[TDRV-COMN-H-A-A-00-ACT] Link (Actual).SLDPRT,Default,4,45
+825,[TDRV-COMN-H-A-A-01] Pin.SLDPRT,Default,3,45
+826,[TDRV-COMN-H-A-ACT] Track Link (With Pad; Actual).SLDASM,Default,7,45
+827,[TDRV-COMN-H-A-B-00-ACT] Pad (Actual).SLDPRT,Default,4,45
+828,[TDRV-COMN-J] TIP Connector Bar.SLDASM,Default,3,2
+829,[TDRV-COMN-J-COMN-00] TIP Connection Bar.SLDPRT,Default,4,1
+830,[TDRV-COMN-K] Accessory Bundle.SLDASM,Default,2,2
+831,[TDRV-COVR-01-L] Shield Covering (Left).SLDPRT,Default,11,1
+832,[TDRV-COVR-01-R] Shield Covering (Right).SLDPRT,Default,5,1
+833,[TDRV-COVR-02-L] Accessory Covering (Left).SLDPRT,Default,3,1
+834,[TDRV-COVR-02-R] Accessory Covering (Right).SLDPRT,Default,2,1
+835,[TDRV-COVR-03] TDRV Motor Covering.SLDPRT,Default,7,1
+836,"[TDRV-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT",Default,10,1
+837,"[TDRV-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT",Default,16,1
+838,"[TDRV-RGHT-A-INNR-00] Side Plate (Right, Inner).SLDPRT",Default,12,1
+839,"[TDRV-RGHT-A-OUTR-00] Side Plate (Right, Outer).SLDPRT",Default,17,1
+840,[TIP-A-V3] A-Frame Linkage (Solid).SLDPRT,Default,1,2
+841,[TIP-COMN-01] Collar.SLDPRT,Default,1,2
+842,[TIP-COMN-02-V2] Cam (Eccentric Drive).SLDPRT,Default,2,2
+843,[TIP-COMN-03] Center Spacer.SLDPRT,Default,5,1
+844,[TIP-COMN-04] Side Spacer.SLDPRT,Default,3,2
+845,[TIP-COMN-08] 24V Flexable Busbar.SLDPRT,Default,3,2
+846,[TIP-COMN-09] Cable Saver Holder.SLDPRT,Default,1,1
+847,[TIP-COMN-10] Cable Saver.SLDPRT,Default,1,1
+848,[TLWR] Lower Torso.SLDASM,Default,13,1
+849,[TLWR-A-V2-A] Tie Bar Assembly.SLDASM,Default,5,2
+850,[TLWR-A-V2-A-COMN-00] Tie Bar.SLDPRT,Default,4,2
+851,[TLWR-A-V3-B-COMN-00] Banana Plate.SLDPRT,Default,4,1
+852,[TLWR-A-V3-COMN-00] Base Block.SLDPRT,Default,1,1
+853,[TLWR-A-V3-COMN-02] L-Shaped Bracket.SLDPRT,Default,3,2
+854,[TLWR-B-A-COMN-05] Status Plate.SLDPRT,Default,2,1
+855,[TLWR-B-A-V2] Faceplate Assembly.SLDASM,Default,6,1
+856,[TLWR-B-A-V2-COMN-02] Ring.SLDPRT,Default,2,1
+857,[TLWR-B-A-V2-COMN-03] Button.SLDPRT,Default,1,1
+858,[TLWR-B-A-V2-COMN-04] Waveshare 5.5 Inch Display (23112).SLDPRT,Default,2,1
+859,[TLWR-B-B-04] Console Door Servo Coupler.SLDPRT,Default,2,1
+860,[TLWR-C-COMN-00] Lift Frame.SLDPRT,Default,5,2
+861,[TLWR-C-COMN-01] Rod Lift Rack.SLDPRT,Default,5,2
+862,[TLWR-C-COMN-02] Door Pivot Hinge.SLDPRT,Default,4,2
+863,[TLWR-COMN-00] Bearing Collar.SLDPRT,Default,3,2
+864,[TLWR-COMN-02] Covering Mount Plate.SLDPRT,Default,1,2
+865,[TLWR-COMN-03] Raspberry Mount.SLDPRT,Default,2,1
+866,[TLWR-COVR-01] Pivot Point Covering.SLDPRT,Default,3,2
+867,[TLWR-COVR-02] Lithium-Argon Liquid Battery.SLDPRT,Default,4,1
+868,[TLWR-COVR-03] Lug Terminal.SLDPRT,Default,1,2
+869,[TLWR-COVR-A] Top Section.SLDASM,Default,3,1
+870,[TLWR-COVR-A-COMN-00] Top Section.SLDPRT,Default,7,1
+871,[TLWR-COVR-B-COMN-00] Console Case.SLDPRT,Default,6,1
+872,[TLWR-COVR-B-COMN-01] Bottom Console Mechanism Mount.SLDPRT,Default,6,1
+873,[TLWR-COVR-B-COMN-02] Top Console Mechanism Mount.SLDPRT,Default,6,1
+874,[TLWR-COVR-B-COMN-03] Console Right Detail.SLDPRT,Default,6,1
+875,[TLWR-COVR-B-COMN-04] Console Left Detail.SLDPRT,Default,6,1
+876,[TLWR-COVR-D] Battery Section Assembly.SLDASM,Default,9,1
+877,[TLWR-COVR-D-00] Right Door.SLDPRT,Default,9,1
+878,[TLWR-COVR-D-01] Left Door.SLDPRT,Default,9,1
+879,[TLWR-COVR-D-02] Battery Door Frame (Center).SLDPRT,Default,7,1
+880,[TLWR-COVR-D-03] Battery Door Frame (Left).SLDPRT,Default,7,1
+881,[TLWR-COVR-D-04] Battery Door Frame (Right).SLDPRT,Default,7,1
+882,[TLWR-COVR-D-05] Cradle Base Curve.SLDPRT,Default,6,1
+883,[TLWR-V3] Main Structure.SLDASM,Default,6,1
+884,[TLWR-V3-A-01] Bottom Panel.SLDPRT,Default,2,1
+885,[TLWR-V3-A-02] Front Panel.SLDPRT,Default,3,1
+886,[TMID-A] Cage.SLDASM,Default,2,1
+887,[TMID-A-COMN-00-L] Side Plate (Left).SLDPRT,Default,1,1
+888,[TMID-A-COMN-00-R] Side Plate (Right).SLDPRT,Default,1,1
+889,[TMID-A-COMN-01] Top Plate.SLDPRT,Default,1,1
+890,[TMID-A-COMN-02] Bottom Plate.SLDPRT,Default,1,1
+891,[TMID-A-COMN-03] Pivot Bushing.SLDPRT,Default,2,2
+892,[TMID-B] Feedback Potentiometer.SLDASM,Default,5,1
+893,[TMID-B-COMN-00] Mounting Bracket.SLDPRT,Default,4,1
+894,[TMID-C] Motor Tensioner.SLDASM,Default,2,1
+895,[TMID-C-COMN-00] Adjustment Plate.SLDPRT,Default,1,1
+896,[TMID-C-COMN-01] Adjustment Block.SLDPRT,Default,1,1
+897,[TMID-COVR-00] TMID Motor Covering.SLDPRT,Default,2,1
+898,[TMID-D] Rotation Shaft.SLDASM,Default,5,1
+899,[TMID-D-COMN-00] Rotation Shaft.SLDPRT,Default,2,1
+900,[TMID-E] Safety Switch.SLDASM,Default,3,1
+901,[TMID-E-COMN-00] Mounting Plate.SLDPRT,Default,1,1
+902,[TMID-E-COMN-01] Cam.SLDPRT,Default,2,1
+903,[TMID-E-COMN-02] Bushing.SLDPRT,Default,2,1
+904,[TMID-F-COMN-02] Bearing Collar.SLDPRT,Default,5,2
+905,[TMID-F-COMN-03] Actuator Rear Mount Bushing.SLDPRT,Default,2,2
+906,[TMID-F-COMN-04] Bearing Collar Bushing.SLDPRT,Default,5,4
+907,[TMID-F-V2-COMN-00] Quick Release Plate.SLDPRT,Default,2,1
+908,[TMID-F-V2-COMN-01-L] Side Plate (Left).SLDPRT,Default,2,1
+909,[TMID-F-V2-COMN-01-R] Side Plate (Right).SLDPRT,Default,3,1
+910,[TMID-F-V2-COMN-02] Bottom Plate.SLDPRT,Default,1,1
+911,[TUPR-A-A-COMN-02] Printable Bearing Spacer.SLDPRT,Default,3,1
+912,[TUPR-A-A-COMN-03] Shaft.SLDPRT,Default,1,1
+913,[TUPR-A-COMN-01] Front Plate.SLDPRT,Default,7,1
+914,[TUPR-A-COMN-02-L] Flare Plate (Left).SLDPRT,Default,8,1
+915,[TUPR-A-COMN-02-R] Flare Plate (Right).SLDPRT,Default,9,1
+916,[TUPR-A-COMN-03] Stiffener.SLDPRT,Default,4,2
+917,[TUPR-A-COMN-04] Quick-Release Plate.SLDPRT,Default,3,2
+918,[TUPR-A-COMN-05] Rear Hinge.SLDPRT,Default,4,2
+919,[TUPR-A-COMN-06] Thrust Rod Spacer.SLDPRT,Default,1,2
+920,[TUPR-A-COMN-08] Wire Tunnel.SLDPRT,Default,2,1
+921,[TUPR-A-COMN-09] Wire Passthrough Plug.SLDPRT,Default,1,2
+922,[TUPR-B-A-V2-COMN-02] Cord Grip Nut.SLDPRT,Default,1,2
+923,[TUPR-B-A-V2-COMN-03] Cord Grip Cap.SLDPRT,Default,1,2
+924,[TUPR-B-A-V2-COMN-04-LWR] Insert (Lower) .SLDPRT,Default,2,2
+925,[TUPR-B-A-V2-COMN-04-UPR] Insert (Upper).SLDPRT,Default,2,2
+926,[TUPR-B-A-V2-COMN-05] Lower Insert Plug.SLDPRT,Default,1,2
+927,[TUPR-B-A-V2-COMN-05] Servo Shim.SLDPRT,Default,2,2
+928,[TUPR-B-COMN-00-V2.0] Shoulder Tube (Input-Inc).SLDPRT,Default,7,1
+929,[TUPR-B-COMN-02] Pivot Lug.SLDPRT,Default,6,2
+930,[TUPR-B-COMN-03] Lug Spacer.SLDPRT,Default,3,2
+931,[TUPR-B-COMN-04] Neck Rod Mount Block.SLDPRT,Default,2,2
+932,[TUPR-B-COMN-06] Printable Bushing.SLDPRT,Default,1,1
+933,[TUPR-B-COVR-00] Center Covering.SLDPRT,Default,4,1
+934,[TUPR-B-COVR-01] Potentiometer Covering.SLDPRT,Default,2,1
+935,[TUPR-C-A] Drive Sprocket.SLDASM,Default,18,1
+936,[TUPR-C-A-COMN-00] D-Profile Rotary Shaft 8mm.SLDPRT,Default,9,1
+937,[TUPR-C-A-COMN-04] D-Profile Neck Block Key Plate.SLDPRT,Default,2,14
+938,[TUPR-COVR-00] Triangle.SLDPRT,Default,9,1
+939,[TUPR-C-V2] Neck Drive.SLDASM,Default,3,1
+940,[TUPR-C-V2-COMN-00] Side Plate.SLDPRT,Default,2,2
+941,[TUPR-C-V2-COMN-01] Front Cross Bar.SLDPRT,Default,2,2
+942,[TUPR-C-V2-COMN-02] Rear Cross Bar.SLDPRT,Default,2,2
+943,[TUPR-C-V2-COMN-06] D-Shaft Shim.SLDPRT,Default,2,1
+944,[TUPR-C-V2-COMN-07] Cover Plate.SLDPRT,Default,2,1
+945,[TUPR-C-V2-COMN-08] PCB Mount.SLDPRT,Default,2,1
+946,[TUPR-D-A-COMN-02] Manifold Mount for Simplified Manifold.SLDPRT,Default,9,1
+947,[TUPR-D-A-V2] Simplified Manifold Assembly.SLDASM,Default,8,1
+948,[TUPR-D-COMN-00] Side Plate.SLDPRT,Default,6,2
+949,[TUPR-D-COMN-01] Servo Arm.SLDPRT,Default,5,2
+950,[TUPR-D-COMN-02] Back Cover Mount Block - Right.SLDPRT,Default,1,1
+951,[TUPR-D-COMN-03] Back Cover Mount Block - Left.SLDPRT,Default,1,1
+952,[TUPR-E-COMN-00] Base Plate.SLDPRT,Default,5,2
+953,[TUPR-E-COMN-06] Clamp Bracket.SLDPRT,Default,1,1
+954,[TUPR-E-COMN-07] Plug Plate.SLDPRT,Default,1,1
+955,[TUPR-E-COVR-01] Disc.SLDPRT,Default,3,1
+956,[TUPR-E-COVR-02-LASR] SKF Actuator Simulate (Laser).SLDPRT,Default,3,1
+957,[TUPR-E-LASR-COMN-00] Vertical Tube.SLDPRT,Default,5,1
+958,[TUPR-E-LASR-COMN-01] Hinge Plug.SLDPRT,Default,5,1
+959,[TUPR-E-LASR-COMN-03] Shaft Coupling.SLDPRT,Default,4,1
+960,[TUPR-E-TLBX-COMN-02] Hinge.SLDPRT,Default,5,1
+961,[TUPR-F-COVR-01-INNR] Tool Arm Covering (Inner).SLDPRT,Default,7,1
+962,[TUPR-F-COVR-01-OUTR] Tool Arm Covering (Outer).SLDPRT,Default,8,1
+963,[TUPR-F-COVR-02-V1] Lid (Hero).SLDPRT,Default,2,1
+964,[TUPR-F-COVR-03] Rear Cap.SLDPRT,Default,3,1
+965,[TUPR-F-COVR-04] Tool Arm Pivot Covering.SLDPRT,Default,4,1
+966,[TUPR-F-V2] Electronics Carrier.SLDASM,Default,9,1
+967,[TUPR-F-V2-COMN-00-L] Side Plate (Left).SLDPRT,Default,4,1
+968,[TUPR-F-V2-COMN-00-R] Side Plate (Right).SLDPRT,Default,4,1
+969,[TUPR-G-COMN-00] Spacer.SLDPRT,Default,2,1
+970,[TUPR-G-COMN-01] Threaded Bar.SLDPRT,Default,3,1
+971,[TUPR-G-COMN-02] Sandwiched Plate.SLDPRT,Default,3,1
+972,[TUPR-G-COVR-00] Chest Covering.SLDPRT,Default,12,1
+973,[TUPR-G-COVR-01] Side Covering.SLDPRT,Default,3,1
+974,[TUPR-G-COVR-02] Back Covering.SLDPRT,Default,11,1
+975,[TUPR-G-COVR-03] Screw Cover Plate.SLDPRT,Default,2,1
+976,[TUPR-G-V2-A-00] Front Panel.SLDPRT,Default,3,1
+977,[TUPR-G-V2-A-01-L] Side Panel (Left).SLDPRT,Default,3,1
+978,[TUPR-G-V2-A-01-R] Side Panel (Right).SLDPRT,Default,3,1
+979,[TUPR-G-V2-A-02-LONG] Angle Iron (Long).SLDPRT,Default,2,2
+980,[TUPR-G-V2-A-02-MED] Angle Iron (Medium).SLDPRT,Default,2,2
+981,[TUPR-G-V2-A-02-SHRT] Angle Iron (Short).SLDPRT,Default,3,2
+982,[TUPR-H-COMN-00] Housing.SLDPRT,Default,3,1
+983,[TUPR-H-COMN-01] Rocker Switch.SLDPRT,Default,2,1
+984,[TUPR-I] PCB Mount.SLDASM,Default,2,1
+985,[TUPR-I-COMN-00] Lock Bracket.SLDPRT,Default,1,2
+986,[TUPR-I-COMN-01] PCB Sled.SLDPRT,Default,3,1
+987,Belt1-1^[ARM-B-LEFT] Upper Arm (Left).SLDPRT,Default,31,1
+988,Belt1-1^[ARM-B-RGHT] Upper Arm (Right).SLDPRT,Default,4,1
+989,Cable^[ARM-E-B-A-R] Finger (Right).SLDPRT,Default,9,2
+990,Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,13,1
+991,Harness_1^[TDRV-RGHT] Main Structure (Right).SLDASM,Default,13,1
+992,Part1^[ARM-B-B] Wrist Servo Cable Cage.SLDPRT,Default,5,2
+993,Part3^[ARM-B-B] Wrist Servo Cable Cage.SLDPRT,Default,5,2
+994,Pull Cable^[ARM-E-B-B] Thumb.SLDPRT,Default,7,1
+995,Tube_1-[TUPR-D] Master Cylinder Drive.sldasm,Default,7,1
+996,[HDWR-FSTR-SHIM-US] 3 ̸ 8 x 5 ̸ 8 x 0.02.SLDPRT,Default (.02),2,2
+997,[AFRM-UPR-A-00-L] Side Plate (Left).SLDPRT,Default<As Machined>,5,1
+998,[AFRM-UPR-A-00-R] Side Plate (Right).SLDPRT,Default<As Machined>,5,1
+999,[AFRM-UPR-A-01] Top Plate.SLDPRT,Default<As Machined>,3,1
+1000,[AFRM-UPR-A-02] Bottom Plate.SLDPRT,Default<As Machined>,5,1
+1001,[CRDL-COMN-C-COMN-00] Battery Tray.SLDPRT,Default<As Machined>,6,1
+1002,[AFRM-UPR] Upper A-Frame.SLDASM,Default_speedpak,17,1
+1003,[TDRV-COMN-H] Track Assembly.SLDASM,Default_speedpak,14,2
+1004,[TIP] Tiptoe Tube.SLDASM,Default_speedpak,19,1
+1005,[TLWR-A-V3] Mid Torso Linkage.SLDASM,Default_speedpak,7,1
+1006,[TMID] Middle Torso.SLDASM,Default_speedpak,16,1
+1007,[TUPR-H] Tracking Beacon.SLDASM,Default_speedpak,5,1
+1008,DPM 0.0625x0.25,"Dowel Pin 1/16"" (0.0625"") dia x 1/4"" (0.25"")",1,6
+1009,DPM 0.0625x0.5,"Dowel Pin 1/16"" (0.0625"") dia x 1/2"" (0.5"")",1,1
+1010,DPM 0.0938x0.375,"Dowel Pin 3/32"" (0.0938"") dia x 3/8"" (0.375"")",1,2
+1011,DPM 0.125x0.375,"Dowel Pin 1/8"" (0.125"") dia x 3/8"" (0.375"")",1,2
+1012,DPM 0.125x4,"Dowel Pin 1/8"" (0.125"") dia x 4"" (4"")",1,4
+1013,[HDWR-SHFT] K&S Precision Metals Brass Rod (8127).SLDPRT,Eye Articulator,2,2
+1014,[HDWR-MISC-OPENXRAIL] Surface Adaptor Bracket (585072).SLDPRT,Eye Pop Articulator,2,4
+1015,[ARM-D-C-COMN-01] Triangle Plate.SLDPRT,Flat,4,2
+1016,FLATCKT 0.164-19-type I-AB-1.25-N,Flat Countersunk Tapping Screw #8-19,1,6
+1017,[TUPR-B] Shoulder Tube Assembly.SLDASM,Flipped motor nuts (Screen Accurate),23,1
+1018,[ELEC-SRVO-ASME04B] WINGXINE ASME-04B.SLDASM,Flipped Shaft,5,5
+1019,[HDWR-FSTR-CLIP-UK] E-Style Retaining Ring 8.32 x 19.7 x 1.2.SLDPRT,For Groove,1,1
+1020,HBOLT 0.2500-20x0.25x0.25-N,"Hex Bolt 1/4""-20 x 1/4"" (0.25"")",2,2
+1021,HBOLT 0.2500-20x0.5x0.5-N,"Hex Bolt 1/4""-20 x 1/2"" (0.5"")",2,2
+1022,HBOLT 0.2500-20x1.25x0.75-N,"Hex Bolt 1/4""-20 x 1-1/4"" (1.25"")",2,4
+1023,HBOLT 0.3125-18x1x0.875-N,"Hex Bolt 5/16""-18 x 1"" (1"")",2,6
+1024,HBOLT 0.3125-24x2.5x0.875-N,"Hex Bolt 5/16""-24 x 2-1/2"" (2.5"")",2,2
+1025,HBOLT 0.3750-24x1.125x1.125-N,"Hex Bolt 3/8""-24 x 1-1/8"" (1.125"")",2,6
+1026,[ELEC-SRVO-HORN] Round Horn (HMSH-02).SLDPRT,HEAD Nose,7,1
+1027,[ELEC-MOTR-BBPS-COMN-04] 4-1 Output Stage Carrier Plate.SLDPRT,Heavy Duty,3,2
+1028,[ELEC-MOTR-BBPS-COMN-06] 16T Sun Gear.SLDPRT,Heavy Duty,3,2
+1029,[ELEC-MOTR-BBPS-COMN-07] 16T Planet Gear.SLDPRT,Heavy Duty,3,8
+1030,[ELEC-MOTR-BBPS] 16-1 Sport Gearbox.SLDASM,Heavy Duty (PSH-44),7,1
+1031,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4 x 3 ̸ 8.SLDPRT,Hidden Thread,2,4
+1032,HJNUT 0.2500-28-D-N,"Hex Jam Nut 1/4""-28",2,4
+1033,HJNUT 0.3750-24-D-N,"Hex Jam Nut 3/8""-24",2,12
+1034,HNUT 0.2500-20-D-N,"Hex Nut 1/4""-20",1,4
+1035,HNUT 0.2500-28-D-N,"Hex Nut 1/4""-28",1,2
+1036,HNUT 0.3125-24-D-N,"Hex Nut 5/16""-24",1,2
+1037,HX-SHCS 0.073-64x0.188x0.188-N,"Hex Socket Head Cap Screw #1-64 x 0.188""",11,49
+1038,HX-SHCS 0.073-64x0.3125x0.3125-N,"Hex Socket Head Cap Screw #1-64 x 5/16"" (0.3125"")",11,14
+1039,HX-SHCS 0.086-56x0.125x0.125-N,"Hex Socket Head Cap Screw #2-56 x 1/8"" (0.125"")",11,6
+1040,HX-SHCS 0.086-56x0.188x0.188-N,"Hex Socket Head Cap Screw #2-56 x 0.188""",11,2
+1041,HX-SHCS 0.086-56x0.25x0.25-N,"Hex Socket Head Cap Screw #2-56 x 1/4"" (0.25"")",11,8
+1042,HX-SHCS 0.086-56x0.3125x0.3125-N,"Hex Socket Head Cap Screw #2-56 x 5/16"" (0.3125"")",11,26
+1043,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",11,61
+1044,HX-SHCS 0.086-56x0.4375x0.4375-N,"Hex Socket Head Cap Screw #2-56 x 7/16"" (0.4375"")",11,2
+1045,HX-SHCS 0.086-56x0.5625x0.5625-N,"Hex Socket Head Cap Screw #2-56 x 9/16"" (0.5625"")",11,5
+1046,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",11,13
+1047,HX-SHCS 0.086-56x0.75x0.75-N,"Hex Socket Head Cap Screw #2-56 x 3/4"" (0.75"")",11,4
+1048,HX-SHCS 0.112-40x0.25x0.25-N,"Hex Socket Head Cap Screw #4-40 x 1/4"" (0.25"")",11,8
+1049,HX-SHCS 0.112-40x0.3125x0.3125-N,"Hex Socket Head Cap Screw #4-40 x 5/16"" (0.3125"")",11,4
+1050,HX-SHCS 0.112-40x0.375x0.375-N,"Hex Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",11,86
+1051,HX-SHCS 0.112-40x0.4375x0.4375-N,"Hex Socket Head Cap Screw #4-40 x 7/16"" (0.4375"")",11,6
+1052,HX-SHCS 0.112-40x0.5625x0.5625-N,"Hex Socket Head Cap Screw #4-40 x 9/16"" (0.5625"")",11,2
+1053,HX-SHCS 0.112-40x0.5x0.5-N,"Hex Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",11,4
+1054,HX-SHCS 0.112-40x0.625x0.625-N,"Hex Socket Head Cap Screw #4-40 x 5/8"" (0.625"")",11,4
+1055,HX-SHCS 0.112-40x0.75x0.75-N,"Hex Socket Head Cap Screw #4-40 x 3/4"" (0.75"")",11,7
+1056,HX-SHCS 0.112-40x0.875x0.875-N,"Hex Socket Head Cap Screw #4-40 x 7/8"" (0.875"")",11,5
+1057,HX-SHCS 0.112-40x1.125x0.875-N,"Hex Socket Head Cap Screw #4-40 x 1-1/8"" (1.125"")",11,4
+1058,HX-SHCS 0.112-40x1.25x1-N,"Hex Socket Head Cap Screw #4-40 x 1-1/4"" (1.25"")",11,6
+1059,HX-SHCS 0.112-40x2.25x1-N,"Hex Socket Head Cap Screw #4-40 x 2-1/4"" (2.25"")",11,1
+1060,HX-SHCS 0.138-32x0.375x0.375-N,"Hex Socket Head Cap Screw #6-32 x 3/8"" (0.375"")",11,12
+1061,HX-SHCS 0.138-32x0.5x0.5-N,"Hex Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",11,6
+1062,HX-SHCS 0.138-32x0.625x0.625-N,"Hex Socket Head Cap Screw #6-32 x 5/8"" (0.625"")",11,10
+1063,HX-SHCS 0.138-32x0.875x0.875-N,"Hex Socket Head Cap Screw #6-32 x 7/8"" (0.875"")",11,1
+1064,HX-SHCS 0.164-32x0.3125x0.3125-N,"Hex Socket Head Cap Screw #8-32 x 5/16"" (0.3125"")",11,8
+1065,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",11,10
+1066,HX-SHCS 0.164-32x0.5625x0.5625-N,"Hex Socket Head Cap Screw #8-32 x 9/16"" (0.5625"")",11,2
+1067,HX-SHCS 0.164-32x0.5x0.5-N,"Hex Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",11,3
+1068,HX-SHCS 0.164-32x0.625x0.625-N,"Hex Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",11,4
+1069,HX-SHCS 0.164-32x0.625x0.625-S,"Hex Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",11,1
+1070,HX-SHCS 0.164-32x0.75x0.75-N,"Hex Socket Head Cap Screw #8-32 x 3/4"" (0.75"")",11,4
+1071,HX-SHCS 0.164-32x0.875x0.875-N,"Hex Socket Head Cap Screw #8-32 x 7/8"" (0.875"")",11,4
+1072,HX-SHCS 0.19-24x.125x.125-N,"Hex Socket Head Cap Screw #10-24 x 1/8"" (.125"")",11,2
+1073,HX-SHCS 0.19-24x0.5x0.5-N,"Hex Socket Head Cap Screw #10-24 x 1/2"" (0.5"")",11,1
+1074,HX-SHCS 0.19-24x5.25x.875-N,"Hex Socket Head Cap Screw #10-24 x 5-1/4"" (5.25"")",11,9
+1075,HX-SHCS 0.19-32x1.25x1.25-N,"Hex Socket Head Cap Screw #10-32 x 1-1/4"" (1.25"")",11,4
+1076,HX-SHCS 0.25-20x0.625x0.625-N,"Hex Socket Head Cap Screw 1/4""-20 x 5/8"" (0.625"")",11,1
+1077,HX-SHCS 0.25-20x0.75x0.75-N,"Hex Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",11,4
+1078,HX-SHCS 0.25-20x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-20 x 1-1/8"" (1.125"")",11,10
+1079,HX-SHCS 0.25-20x1.625x1.125-N,"Hex Socket Head Cap Screw 1/4""-20 x 1-5/8"" (1.625"")",11,1
+1080,HX-SHCS 0.25-20x2.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-20 x 2-1/4"" (2.25"")",11,1
+1081,HX-SHCS 0.25-20x3.5x1-N,"Hex Socket Head Cap Screw 1/4""-20 x 3-1/2"" (3.5"")",11,1
+1082,HX-SHCS 0.25-28x0.5625x0.5625-N,"Hex Socket Head Cap Screw 1/4""-28 x 9/16"" (0.5625"")",11,4
+1083,HX-SHCS 0.25-28x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",11,12
+1084,HX-SHCS 0.25-28x2.5x2.5-N,"Hex Socket Head Cap Screw 1/4""-28 x 2-1/2"" (2.5"")",11,1
+1085,HX-SHCS 0.25-28x2.75x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 2-3/4"" (2.75"")",11,1
+1086,HX-SHCS 0.25-28x3.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 3-1/4"" (3.25"")",11,1
+1087,HX-SHCS 0.25-28x3x1-N,"Hex Socket Head Cap Screw 1/4""-28 x 3"" (3"")",11,1
+1088,HX-SHCS 0.25-28x4.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 4-1/4"" (4.25"")",11,1
+1089,HX-SHCS 0.375-24x1.25x1.25-N,"Hex Socket Head Cap Screw 3/8""-24 x 1-1/4"" (1.25"")",11,1
+1090,IN-HHMS 0.112-40x0.875x0.875-N,"Indented Hex Head Machine Screw #4-40 x 7/8"" (0.875"")",1,2
+1091,IN-HHMS 0.138-32x0.375x0.375-N,"Indented Hex Head Machine Screw #6-32 x 3/8"" (0.375"")",1,2
+1092,IN-HHMS 0.164-32x1x1-N,"Indented Hex Head Machine Screw #8-32 x 1"" (1"")",1,1
+1093,IN-HHMS 0.25-28x0.5x0.5-N,"Indented Hex Head Machine Screw 1/4""-28 x 1/2"" (0.5"")",1,1
+1094,[HEAD-B-D-COMN-04] Horizontal Rack 32P.SLDPRT,Inch - Rack-spur - rectangular 32DP 20PA 0.1250FW 0.39PH 1.3L---SAll,1,1
+1095,Internal Tooth LW Type A-0.375,"Internal Tooth Lock Washer Type A 3/8"" (0.375"")",1,1
+1096,JIS B 1111 Binding head screw M2.3 x 5 --5N,Binding head screw M2.3 x 5mm,1,3
+1097,JIS B 1111 Binding head screw M2.6 x 8 --8N,Binding head screw M2.6 x 8mm,1,1
+1098,Key B17.1 0.125x0.125x.72,"Square Key 1/8"" (0.125"") sq x .72""",1,1
+1099,Key B17.1 0.1875x0.1875x.5,"Square Key 3/16"" (0.1875"") sq x 1/2"" (.5"")",1,1
+1100,Key B17.1 0.1875x0.1875x1,"Square Key 3/16"" (0.1875"") sq x 1"" (1"")",1,1
+1101,Key B17.1 0.25x0.25x1.66,"Square Key 1/4"" (0.25"") sq x 1"" (1.66"")",1,1
+1102,[NECK-F-LEFT] Left Rod.SLDASM,Key Plate,9,1
+1103,[NECK-F-LEFT-COMN-01] Lower Block.SLDPRT,Key Plate,5,1
+1104,[NECK-F-RGHT] Right Rod.SLDASM,Key Plate,9,1
+1105,[NECK-F-RGHT-COMN-01] Lower Block.SLDPRT,Key Plate,5,1
+1106,[ELEC-MOTR-BBPS] 16-1 Sport Gearbox.SLDASM,Keyed Shaft,7,1
+1107,[TLWR-B-B-02] Secondary Arm.SLDPRT,Laser Cut,3,1
+1108,[TLWR-B-B-02] Secondary Arm.SLDPRT,Laser Cut (Flip),3,1
+1109,[TLWR-COVR-C-MSTR-00] Console Door Master.SLDPRT,Laser Cut Arms,2,1
+1110,[TUPR] Upper Torso.SLDASM,LASR,27,1
+1111,[TUPR] Upper Torso (Main Structure).SLDASM,LASR (With Coverings),44,1
+1112,[ARM-A-V2-COMN-LWR] Lower Cuff Assembly.SLDASM,Left,6,1
+1113,[ARM-A-V2-COMN-LWR-COMN-00] Lower Cuff.SLDPRT,Left,4,1
+1114,[ARM-B-COMN-04] Core.SLDPRT,Left,11,1
+1115,[ARM-B-COMN-09] Side Plate (Inner).SLDPRT,Left,2,1
+1116,[ARM-B-COMN-10] Side Plate (Outer).SLDPRT,Left,2,1
+1117,[ARM-E-B-A-A-R] Knuckle Assembly (Right).SLDASM,Left,4,1
+1118,[ARM-E-B-A-R] Finger (Right).SLDASM,Left,9,1
+1119,[CRDL-V3-A-02] Side Plate.SLDPRT,Left,3,1
+1120,[HDWR-HYDR-SLAVEFIT-LWR] Lower Fittings.SLDASM,Left,3,1
+1121,[HDWR-HYDR-SLAVEFIT-UPR] Upper Fittings.SLDASM,Left,3,1
+1122,[HEAD-B] Eye.SLDASM,Left,14,1
+1123,[HEAD-B-D-COMN-01] Frame.SLDPRT,Left,2,1
+1124,[HEAD-B-D-COMN-02] Mid Plate.SLDPRT,Left,3,1
+1125,[HEAD-C-COMN-A-00] Frame.SLDPRT,Left,2,1
+1126,[HEAD-C-COMN-A-01] Pivot Pin.SLDPRT,Left,3,5
+1127,[HEAD-C-COMN-A-05] Holding Pin.SLDPRT,Left,3,1
+1128,[HEAD-C-LEFT-A-00-L] Eye Vent (Left).SLDASM,Left,6,1
+1129,[NECK-F-COMN-02] Countersunk End Cap.SLDPRT,Left,3,1
+1130,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Left,4,2
+1131,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Left,3,2
+1132,[TDRV-COVR-01] Shield Covering Assembly.SLDASM,Left,5,1
+1133,[TDRV-COVR-COMN-00] Shield Covering Stiffening Plate.SLDPRT,Left,5,1
+1134,[TIP-COMN-05] Wire Tunnel.SLDPRT,Left,2,1
+1135,[TIP-COMN-07] Wire Tunnel Cap.SLDPRT,Left,2,1
+1136,[TLWR-C] Battery Door Mechanism.SLDASM,Left,7,1
+1137,[TUPR-B-A-V2-COMN-00] Hug Housing.SLDPRT,Left,1,1
+1138,[TUPR-E-COVR-00] Tube.SLDPRT,Left,4,1
+1139,[TUPR-B-A-V2] Hug Motion Assembly.SLDASM,Left (Screen Accurate),7,1
+1140,[HEAD-D-UPR-A-COMN-01] Servo Collar.SLDPRT,Left - Upper Eye Flaps,2,1
+1141,[ARM-D-D] Hand Mounting Block.SLDASM,Left Hand,4,1
+1142,[HDWR-HYDR-FABK5X] Fabco K-5-X Master Cylinder (V2).SLDASM,Left Side,9,1
+1143,[HDWR-HYDR-FABK5X] Fabco K-5-X with Fittings & Balls.SLDASM,Left Side,10,1
+1144,[TDRV-COVR-00] Side Covering.SLDPRT,Left Side,15,1
+1145,[ELEC-SRVO-HORN] Servo Shaft Attachment (525140).SLDPRT,Lower Eye Flaps,2,2
+1146,[ELEC-SRVO-HORN] Servo Shaft Attachment (525140).SLDPRT,Microphone,2,1
+1147,[ELEC-SRVO-HORN] Servo Shaft Coupler 1 ̸ 4 Bore H25T (4010-0025-0250).SLDPRT,Microphone Collar,3,1
+1148,[ARM-E] Hand.SLDASM,Middle,8,2
+1149,[CRDL-COMN-D-COMN-03] Wire Passthrough.SLDPRT,Mirror,5,1
+1150,[TUPR-I] PCB Mount.SLDASM,Mirror,2,1
+1151,[TUPR-I-COMN-01] PCB Sled.SLDPRT,Mirror,3,1
+1152,[TDRV-COVR-03] TDRV Motor Covering.SLDPRT,Mirrored,7,1
+1153,[TLWR-A-V3-B-COMN-00] Banana Plate.SLDPRT,Mirrored,4,1
+1154,[DTL-BRNS3252W] Bourns Trimpot Potentiometer (3252W).SLDPRT,Modified,3,3
+1155,[DTL-RE65] Pacific Resistor Co. RE65 Resistor.SLDPRT,Modified,3,2
+1156,[DTL-RH25] Vishay Dale RH-25 Resistor.SLDPRT,Modified,3,1
+1157,[DTL-RH50] Vishay Dale RH-50 Resistor.SLDPRT,Modified,2,1
+1158,[DTL-TO127] TO-127 Package.SLDPRT,Modified,2,5
+1159,[DTL-TO220] TO-220 Package.SLDPRT,Modified,3,6
+1160,[DTL-TO92] TO-92 Package.SLDPRT,Modified,3,3
+1161,[ELEC-ACTR-SKF-COMN-02] Limit Switch Dust Cover.SLDPRT,Modified,3,1
+1162,[ELEC-BULB-PNLLAMP] Square Panel-Mount Indicator.SLDPRT,Modified,2,2
+1163,[ELEC-SRVO-HORN] Hitec Standard Spline Single Arm (55701).SLDPRT,Modified,2,3
+1164,[HDWR-BJNT] M8 x 1.25 Female RH Ball Joint Rod End.SLDPRT,Modified,3,2
+1165,[HDWR-BRNG-SLV] Sleeve Bearing 3 ̸ 8 x 3 ̸ 4 x 1 (MCMC 2868T87).SLDPRT,Modified,1,2
+1166,[HDWR-FSTR-PIN] Precision Perforator Pin 0.030 x 2-1 ̸ 2.SLDPRT,Modified,2,1
+1167,[HDWR-FSTR-ROD] Partially Threaded Stud 3 ̸ 8-16 (6516K391) x 1.SLDPRT,Modified,2,1
+1168,[HDWR-FSTR-SCRW] Hex Bolt 1 ̸ 2-13 x 11.SLDPRT,Modified,3,1
+1169,[HDWR-FSTR-SCRW] Hex Bolt 1 ̸ 4-28 x 1.SLDPRT,Modified,2,2
+1170,[HDWR-FSTR-SCRW] Socket Head Cap Screw 5 ̸ 8-18 x 3 ̸ 4.SLDPRT,Modified,5,1
+1171,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 8 x 0.01.SLDPRT,Modified,3,1
+1172,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 2.SLDPRT,Modified,1,4
+1173,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff 1 ̸ 4-20 x 1 ̸ 2.SLDPRT,Modified,3,2
+1174,[HDWR-MISC] Round Rubber Cap (9753K35).SLDPRT,Modified,2,2
+1175,[HDWR-MISC] Rubber Bellows 52mm ID (BS-5054).SLDPRT,Modified,1,2
+1176,[HDWR-MISC-HINGE01] A-Frame Piano Hinge.SLDASM,Modified,8,1
+1177,[HDWR-MISC-HINGE01-COMN-00] Bottom Half.SLDPRT,Modified,7,1
+1178,[HDWR-MISC-HINGE01-COMN-01] Top Half.SLDPRT,Modified,6,1
+1179,[HDWR-MISC-HINGE01-COMN-02] Pin.SLDPRT,Modified,3,1
+1180,[HDWR-MISC-OPENXRAIL] 8mm Lead Screw Nut (3503-0804-0038).SLDPRT,Modified,2,2
+1181,[HDWR-PULL] Timing HTD 12-Tooth (A 6A23M012DF0604).SLDPRT,Modified,1,1
+1182,[HDWR-PULL] Timing HTD 44-Tooth (A 6A23M044DF0606).SLDPRT,Modified,3,1
+1183,[HDWR-SHFT] Keyed Drive Shaft 5 ̸ 8 x 18.SLDPRT,Modified,2,1
+1184,[HDWR-UJNT] Lovejoy D-Type Solid U-Joint 1 ̸ 2 x 2.SLDASM,Modified,2,1
+1185,[HDWR-UJNT-COMN-00-LWR] Lower Yoke.SLDPRT,Modified,2,1
+1186,[HDWR-UJNT-COMN-00-UPR] Upper Yoke.SLDPRT,Modified,2,1
+1187,[HEAD-B-A] Wollensak Raptar 209mm Copy Lens.SLDASM,Modified,11,2
+1188,[HEAD-B-A-A-00] Barrel.SLDPRT,Modified,5,1
+1189,[HEAD-B-A-B-00] Front Lens.SLDPRT,Modified,5,1
+1190,[HEAD-B-A-B-01] Filter Ring.SLDPRT,Modified,5,1
+1191,[NECK-D-V3-COMN-01] 3D Printable Timing Pulley HTD 72-Tooth.SLDPRT,Modified,3,1
+1192,[HDWR-FSTR-STND] Female-Female Coupling Nut 1 ̸ 4-20 x 1-3 ̸ 4.SLDPRT,"Modified (1.25"")",3,12
+1193,[HDWR-FSTR-STND] Female-Female Coupling Nut 1 ̸ 4-20 x 1-3 ̸ 4.SLDPRT,Modified (1.325),3,3
+1194,[DTL-CARRY8] 8-Pin Carrier.SLDPRT,Modified (Circle),2,1
+1195,[ELEC-SRVO-HORN] 8mm REX Servo Shaft.SLDPRT,Modified (Console Door),5,1
+1196,[HDWR-GEAR] Tsubaki 44-Tooth Sprocket (40A44).SLDPRT,Modified (CRDL Tiptoe Eccentric Drive),4,2
+1197,[DTL-BRNS3292X] Bourns Trimpot Potentiometer (3292X).SLDPRT,Modified (Curved Bottom),2,2
+1198,[HDWR-SPNG] Torsion Spring 0.135 x 1.102 (9271K593).SLDPRT,Modified (Left),2,1
+1199,[HDWR-SPNG] Torsion Spring 0.135 x 1.102 (9271K593).SLDPRT,Modified (RIght),2,1
+1200,[DTL-CARRY10] 10-Pin Carrier.SLDPRT,Modified (Star),1,1
+1201,[ELEC-ACTR-SKF-CAR32-C-00] Limit Switch Sleeve (CAXB32).SLDPRT,Modified (Static & Dynamic LASR Mount),6,1
+1202,[HDWR-FSTR-ROD] Fully Threaded Rod 1 ̸ 4-28 x 12.SLDPRT,Modified (TUPR Neck Drive; Lower),5,2
+1203,[HDWR-FSTR-ROD] Fully Threaded Rod M8 x 1m.SLDPRT,Modified (TUPR Neck Drive; Upper),4,2
+1204,MSHXNUT 0.073-64-D-N,Machine Screw Hex Nut #1-64,2,14
+1205,MSHXNUT 0.086-56-D-N,Machine Screw Hex Nut #2-56,2,2
+1206,MSHXNUT 0.086-56-S-N,Machine Screw Hex Nut #2-56,2,1
+1207,MSHXNUT 0.112-40-S-N,Machine Screw Hex Nut #4-40,2,2
+1208,MSHXNUT 0.138-32-S-N,Machine Screw Hex Nut #6-32,2,4
+1209,MSHXNUT 0.164-32-D-N,Machine Screw Hex Nut #8-32,2,20
+1210,MSSQNUT 0.086-56-N,Machine Screw Square Nut #2-56,2,123
+1211,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,32
+1212,MSSQNUT 0.138-32-N,Machine Screw Square Nut #6-32,2,53
+1213,MSSQNUT 0.164-32-N,Machine Screw Square Nut #8-32,2,7
+1214,MSSQNUT 0.190-24-N,Machine Screw Square Nut #10-24,2,8
+1215,[HDWR-FSTR-ROD] RH to LH Thread Adapting Stud 1 ̸ 2-13 x 5.SLDPRT,NECK Front Rod,1,1
+1216,[HDWR-FSTR-ROD] RH to LH Thread Adapting Stud 1 ̸ 2-13 x 5.SLDPRT,NECK Rear Rods,1,2
+1217,[ELEC-SRVO-GB25] GoBuilda 25-502 (2000-0025-0502).SLDPRT,No Ears,2,1
+1218,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDASM,No Ears,3,3
+1219,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDPRT,No Ears,2,1
+1220,[ELEC-SRVO-HS85MG] Hitec HS-85MG.SLDASM,No Ears,1,1
+1221,[ELEC-SRVO-HS85MG] Hitec HS-85MG.SLDPRT,No Ears,1,1
+1222,[CSTR-C-C] Covering Mount Assembly.SLDASM,Offset,7,2
+1223,[CSTR-C-A-COMN-00] 4-Inch Split Rim.SLDPRT,Offset Bolt Placement,4,2
+1224,[HEAD-B-A-D-01A] Diaphragm Leaf.SLDPRT,Painted,6,20
+1225,parallel pin unhardened_iso.sldprt,Parallel Pin ISO 2338 - 3 m6 x 14 - A1,1,12
+1226,PEM FH-832-10 X--N,PEM Flush Head Stud #8-32,1,16
+1227,PEM S-0420-1 ZI--N,PEM Self-Clinching Nut #4-20,1,11
+1228,PEM S-632-0 ZI--N,PEM Self-Clinching Nut #6-32,1,40
+1229,PEM S-632-1 ZI--N,PEM Self-Clinching Nut #6-32,1,40
+1230,Preferred Narrow FW 0.094,"Preferred Narrow Flat Washer 0.094""",2,2
+1231,Preferred Narrow FW 0.125,"Preferred Narrow Flat Washer 1/8"" (0.125"")",2,4
+1232,Preferred Narrow FW 0.138,"Preferred Narrow Flat Washer 0.138""",2,9
+1233,Preferred Narrow FW 0.164,"Preferred Narrow Flat Washer 0.164""",2,21
+1234,Preferred Narrow FW 0.25,"Preferred Narrow Flat Washer 1/4"" (0.25"")",2,20
+1235,Preferred Narrow FW 0.3125,"Preferred Narrow Flat Washer 5/16"" (0.3125"")",2,4
+1236,[ELEC-TUBE-019] Heatshrink Tubing .019-.09.SLDPRT,PreShrunk,2,4
+1237,Regular FW 0.086,"Regular Flat Washer 0.086""",1,4
+1238,Regular FW 0.19,"Regular Flat Washer 0.19""",1,1
+1239,Regular FW 0.25,"Regular Flat Washer 1/4"" (0.25"")",1,6
+1240,Regular LW 0.375,"Regular Spring Lock Washer 3/8"" (0.375"")",1,6
+1241,[HDWR-SPNG] Precision Compression Spring 1 ̸ 4 x .12 x 0.016.SLDPRT,Relaxed,1,1
+1242,[ARM-A-V2-COMN-LWR] Lower Cuff Assembly.SLDASM,Right,6,1
+1243,[ARM-A-V2-COMN-LWR-COMN-00] Lower Cuff.SLDPRT,Right,4,1
+1244,[ARM-B-COMN-04] Core.SLDPRT,Right,11,1
+1245,[ARM-B-COMN-09] Side Plate (Inner).SLDPRT,Right,2,1
+1246,[ARM-B-COMN-10] Side Plate (Outer).SLDPRT,Right,2,1
+1247,[ARM-D] Wrist.SLDASM,Right,9,2
+1248,[ARM-E-B-A-A-R] Knuckle Assembly (Right).SLDASM,Right,4,1
+1249,[ARM-E-B-A-R] Finger (Right).SLDASM,Right,9,1
+1250,[CRDL-V3-A-02] Side Plate.SLDPRT,Right,3,1
+1251,[HDWR-HYDR-SLAVEFIT-LWR] Lower Fittings.SLDASM,Right,3,1
+1252,[HDWR-HYDR-SLAVEFIT-UPR] Upper Fittings.SLDASM,Right,3,1
+1253,[HEAD-B] Eye.SLDASM,Right,14,1
+1254,[HEAD-C-COMN-A-00] Frame.SLDPRT,Right,2,1
+1255,[HEAD-C-COMN-A-01] Pivot Pin.SLDPRT,Right,3,5
+1256,[HEAD-C-COMN-A-05] Holding Pin.SLDPRT,Right,3,1
+1257,[HEAD-C-RGHT-A-00-R] Eye Vent (Right).SLDASM,Right,6,1
+1258,[NECK-F-COMN-02] Countersunk End Cap.SLDPRT,Right,3,1
+1259,[TDRV-COMN-11] Outer Wire Channel (Front).SLDPRT,Right,4,1
+1260,[TDRV-COMN-11] Outer Wire Channel (Rear).SLDPRT,Right,4,1
+1261,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Right,4,2
+1262,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Right,3,2
+1263,[TDRV-COVR-01] Shield Covering Assembly.SLDASM,Right,5,1
+1264,[TDRV-COVR-COMN-00] Shield Covering Stiffening Plate.SLDPRT,Right,5,1
+1265,[TIP-COMN-05] Wire Tunnel.SLDPRT,Right,2,1
+1266,[TIP-COMN-06] Wire Tunnel Core.SLDPRT,Right,2,2
+1267,[TIP-COMN-07] Wire Tunnel Cap.SLDPRT,Right,2,1
+1268,[TLWR-C] Battery Door Mechanism.SLDASM,Right,7,1
+1269,[TLWR-V3-A-00-L] Side Panel (Left).SLDPRT,Right,4,1
+1270,[TLWR-V3-A-00-R] Side Panel (Right).SLDPRT,Right,4,1
+1271,[TUPR-B-A-V2] Hug Motion Assembly.SLDASM,Right,7,1
+1272,[TUPR-B-A-V2-COMN-00] Hug Housing.SLDPRT,Right,1,1
+1273,[TUPR-B-A-V2-COMN-01] Tonegawa SSPS-102 Simulate.SLDPRT,Right,1,2
+1274,[TUPR-E-COVR-00] Tube.SLDPRT,Right,4,1
+1275,[HEAD-D-UPR-A-COMN-01] Servo Collar.SLDPRT,Right - Upper Eye Flaps,2,1
+1276,[HDWR-HYDR-FABK5X] Fabco K-5-X Master Cylinder (V2).SLDASM,Right Side,9,1
+1277,[HDWR-HYDR-FABK5X] Fabco K-5-X with Fittings & Balls.SLDASM,Right Side,10,1
+1278,[TDRV-COVR-00] Side Covering.SLDPRT,Right Side,15,1
+1279,[DTL-UNKN] Unknown Component.SLDPRT,Rounded Corners,1,2
+1280,SBHCSCREW 0.073-72x0.375-HX-N,"Socket Button Head Cap Screw #1-72 x 3/8"" (0.375"")",1,4
+1281,SBHCSCREW 0.086-56x0.188-HX-N,"Socket Button Head Cap Screw #2-56 x 0.188""",1,9
+1282,SBHCSCREW 0.086-56x0.25-HX-N,"Socket Button Head Cap Screw #2-56 x 1/4"" (0.25"")",1,7
+1283,SBHCSCREW 0.086-56x0.3125-HX-N,"Socket Button Head Cap Screw #2-56 x 5/16"" (0.3125"")",1,7
+1284,SBHCSCREW 0.086-56x0.5-HX-N,"Socket Button Head Cap Screw #2-56 x 1/2"" (0.5"")",1,11
+1285,SBHCSCREW 0.086-56x0.5625-HX-N,"Socket Button Head Cap Screw #2-56 x 9/16"" (0.5625"")",1,8
+1286,SBHCSCREW 0.112-40x0.125-HX-N,"Socket Button Head Cap Screw #4-40 x 1/8"" (0.125"")",1,7
+1287,SBHCSCREW 0.112-40x0.188-HX-N,"Socket Button Head Cap Screw #4-40 x 0.188""",1,18
+1288,SBHCSCREW 0.112-40x0.25-HX-N,"Socket Button Head Cap Screw #4-40 x 1/4"" (0.25"")",1,17
+1289,SBHCSCREW 0.112-40x0.3125-HX-N,"Socket Button Head Cap Screw #4-40 x 5/16"" (0.3125"")",1,12
+1290,SBHCSCREW 0.112-40x0.375-HX-N,"Socket Button Head Cap Screw #4-40 x 3/8"" (0.375"")",1,4
+1291,SBHCSCREW 0.112-40x0.4375-HX-N,"Socket Button Head Cap Screw #4-40 x 7/16"" (0.4375"")",1,2
+1292,SBHCSCREW 0.112-40x0.5-HX-N,"Socket Button Head Cap Screw #4-40 x 1/2"" (0.5"")",1,8
+1293,SBHCSCREW 0.112-40x0.5625-HX-N,"Socket Button Head Cap Screw #4-40 x 9/16"" (0.5625"")",1,2
+1294,SBHCSCREW 0.112-40x0.75-HX-N,"Socket Button Head Cap Screw #4-40 x 3/4"" (0.75"")",1,2
+1295,SBHCSCREW 0.112-40x1.125-HX-N,"Socket Button Head Cap Screw #4-40 x 1-1/8"" (1.125"")",1,6
+1296,SBHCSCREW 0.125-40x0.4375-HX-N,"Socket Button Head Cap Screw #5-40 x 7/16"" (0.4375"")",1,2
+1297,SBHCSCREW 0.138-32x0.25-HX-N,"Socket Button Head Cap Screw #6-32 x 1/4"" (0.25"")",1,4
+1298,SBHCSCREW 0.138-32x0.3125-HX-N,"Socket Button Head Cap Screw #6-32 x 5/16"" (0.3125"")",1,360
+1299,SBHCSCREW 0.138-32x0.375-HX-N,"Socket Button Head Cap Screw #6-32 x 3/8"" (0.375"")",1,24
+1300,SBHCSCREW 0.138-32x0.4375-HX-N,"Socket Button Head Cap Screw #6-32 x 7/16"" (0.4375"")",1,54
+1301,SBHCSCREW 0.138-32x0.5-HX-N,"Socket Button Head Cap Screw #6-32 x 1/2"" (0.5"")",1,21
+1302,SBHCSCREW 0.138-32x0.625-HX-N,"Socket Button Head Cap Screw #6-32 x 5/8"" (0.625"")",1,1
+1303,SBHCSCREW 0.138-32x0.75-HX-N,"Socket Button Head Cap Screw #6-32 x 3/4"" (0.75"")",1,8
+1304,SBHCSCREW 0.138-32x0.875-HX-N,"Socket Button Head Cap Screw #6-32 x 7/8"" (0.875"")",1,2
+1305,SBHCSCREW 0.138-32x1-HX-N,"Socket Button Head Cap Screw #6-32 x 1"" (1"")",1,4
+1306,SBHCSCREW 0.138-32x1.25-HX-N,"Socket Button Head Cap Screw #6-32 x 1-1/4"" (1.25"")",1,12
+1307,SBHCSCREW 0.164-32x0.188-HX-N,"Socket Button Head Cap Screw #8-32 x 0.188""",1,8
+1308,SBHCSCREW 0.164-32x0.25-HX-N,"Socket Button Head Cap Screw #8-32 x 1/4"" (0.25"")",1,2
+1309,SBHCSCREW 0.164-32x0.375-HX-N,"Socket Button Head Cap Screw #8-32 x 3/8"" (0.375"")",1,4
+1310,SBHCSCREW 0.164-32x0.4375-HX-N,"Socket Button Head Cap Screw #8-32 x 7/16"" (0.4375"")",1,20
+1311,SBHCSCREW 0.164-32x0.5-HX-N,"Socket Button Head Cap Screw #8-32 x 1/2"" (0.5"")",1,11
+1312,SBHCSCREW 0.164-32x0.5-HX-N-ZPA,"Socket Button Head Cap Screw #8-32 x 1/2"" (0.5"")",1,3
+1313,SBHCSCREW 0.164-32x0.5625-HX-N,"Socket Button Head Cap Screw #8-32 x 9/16"" (0.5625"")",1,25
+1314,SBHCSCREW 0.164-32x0.625-HX-N,"Socket Button Head Cap Screw #8-32 x 5/8"" (0.625"")",1,14
+1315,SBHCSCREW 0.164-32x0.75-HX-N,"Socket Button Head Cap Screw #8-32 x 3/4"" (0.75"")",1,4
+1316,SBHCSCREW 0.164-32x0.875-HX-N,"Socket Button Head Cap Screw #8-32 x 7/8"" (0.875"")",1,26
+1317,SBHCSCREW 0.164-32x1-HX-N,"Socket Button Head Cap Screw #8-32 x 1"" (1"")",1,4
+1318,SBHCSCREW 0.164-36x0.375-HX-N,"Socket Button Head Cap Screw #8-36 x 3/8"" (0.375"")",1,8
+1319,SBHCSCREW 0.19-24x0.4375-HX-N,"Socket Button Head Cap Screw #10-24 x 7/16"" (0.4375"")",1,1
+1320,SBHCSCREW 0.19-24x0.5-HX-N,"Socket Button Head Cap Screw #10-24 x 1/2"" (0.5"")",1,8
+1321,SBHCSCREW 0.19-24x0.5625-HX-N,"Socket Button Head Cap Screw #10-24 x 9/16"" (0.5625"")",1,4
+1322,SBHCSCREW 0.19-24x1-HX-N,"Socket Button Head Cap Screw #10-24 x 1"" (1"")",1,1
+1323,SBHCSCREW 0.19-24x1.625-HX-N,"Socket Button Head Cap Screw #10-24 x 1-5/8"" (1.625"")",1,2
+1324,SBHCSCREW 0.19-32x1.125-HX-N,"Socket Button Head Cap Screw #10-32 x 1-1/8"" (1.125"")",1,2
+1325,SBHCSCREW 0.19-32x1.5-HX-N,"Socket Button Head Cap Screw #10-32 x 1-1/2"" (1.5"")",1,4
+1326,SBHCSCREW 0.25-20x0.375-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 3/8"" (0.375"")",1,11
+1327,SBHCSCREW 0.25-20x0.5-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 1/2"" (0.5"")",1,6
+1328,SBHCSCREW 0.25-20x0.75-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",1,78
+1329,SBHCSCREW 0.25-20x0.75-HX-N-18-8SS,"Socket Button Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",1,6
+1330,SBHCSCREW 0.25-20x1-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 1"" (1"")",1,4
+1331,SBHCSCREW 0.25-20x1.125-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 1-1/8"" (1.125"")",1,4
+1332,SBHCSCREW 0.25-20x1.625-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 1-5/8"" (1.625"")",1,2
+1333,SBHCSCREW 0.25-20x2-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 2"" (2"")",1,3
+1334,SBHCSCREW 0.25-28x0.75-HX-N,"Socket Button Head Cap Screw 1/4""-28 x 3/4"" (0.75"")",1,2
+1335,SBHCSCREW 0.25-28x0.875-HX-N,"Socket Button Head Cap Screw 1/4""-28 x 7/8"" (0.875"")",1,3
+1336,SBHCSCREW 0.25-28x1-HX-N,"Socket Button Head Cap Screw 1/4""-28 x 1"" (1"")",1,6
+1337,SBHCSCREW 0.25-28x1.125-HX-N,"Socket Button Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",1,2
+1338,SBHCSCREW 0.25-28x1.25-HX-N,"Socket Button Head Cap Screw 1/4""-28 x 1-1/4"" (1.25"")",1,2
+1339,SBHCSCREW 0.3125-24x1.25-HX-N,"Socket Button Head Cap Screw 5/16""-24 x 1-1/4"" (1.25"")",1,2
+1340,SBHCSCREW 0.375-16x1-HX-N,"Socket Button Head Cap Screw 3/8""-16 x 1"" (1"")",1,4
+1341,SBHCSCREW 0.375-24x0.5-HX-N,"Socket Button Head Cap Screw 3/8""-24 x 1/2"" (0.5"")",1,6
+1342,SCHCSCREW 0.086-56x0.125x0.125-HX-N,"Socket Head Cap Screw #2-56 x 1/8"" (0.125"")",3,4
+1343,SCHCSCREW 0.086-56x0.188x0.188-HX-N,"Socket Head Cap Screw #2-56 x 0.188""",3,3
+1344,SCHCSCREW 0.086-56x0.25x0.25-HX-N,"Socket Head Cap Screw #2-56 x 1/4"" (0.25"")",3,28
+1345,SCHCSCREW 0.086-56x0.3125x0.3125-HX-N,"Socket Head Cap Screw #2-56 x 5/16"" (0.3125"")",3,34
+1346,SCHCSCREW 0.086-56x0.375x0.375-HX-N,"Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",3,14
+1347,SCHCSCREW 0.086-56x0.5x0.5-HX-N,"Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",3,5
+1348,SCHCSCREW 0.112-40x0.3125x0.3125-HX-N,"Socket Head Cap Screw #4-40 x 5/16"" (0.3125"")",3,5
+1349,SCHCSCREW 0.112-40x0.375x0.375-HX-N,"Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",3,36
+1350,SCHCSCREW 0.112-40x0.4375x0.4375-HX-N,"Socket Head Cap Screw #4-40 x 7/16"" (0.4375"")",3,15
+1351,SCHCSCREW 0.112-40x0.5625x0.5625-HX-N,"Socket Head Cap Screw #4-40 x 9/16"" (0.5625"")",3,2
+1352,SCHCSCREW 0.112-40x0.5x0.5-HX-N,"Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",3,16
+1353,SCHCSCREW 0.112-40x0.75x0.75-HX-N,"Socket Head Cap Screw #4-40 x 3/4"" (0.75"")",3,10
+1354,SCHCSCREW 0.112-40x1.125x1.125-HX-N,"Socket Head Cap Screw #4-40 x 1-1/8"" (1.125"")",3,4
+1355,SCHCSCREW 0.112-40x1.5x1.5-HX-N,"Socket Head Cap Screw #4-40 x 1-1/2"" (1.5"")",3,4
+1356,SCHCSCREW 0.112-40x1x1-HX-N,"Socket Head Cap Screw #4-40 x 1"" (1"")",3,4
+1357,SCHCSCREW 0.125-40x0.75x0.75-HX-N,"Socket Head Cap Screw #5-40 x 3/4"" (0.75"")",3,2
+1358,SCHCSCREW 0.138-32x0.3125x0.3125-HX-N,"Socket Head Cap Screw #6-32 x 5/16"" (0.3125"")",3,83
+1359,SCHCSCREW 0.138-32x0.375x0.375-HX-N,"Socket Head Cap Screw #6-32 x 3/8"" (0.375"")",3,8
+1360,SCHCSCREW 0.138-32x0.4375x0.4375-HX-N,"Socket Head Cap Screw #6-32 x 7/16"" (0.4375"")",3,22
+1361,SCHCSCREW 0.138-32x0.5625x0.5625-HX-N,"Socket Head Cap Screw #6-32 x 9/16"" (0.5625"")",3,18
+1362,SCHCSCREW 0.138-32x0.5x0.5-HX-N,"Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",3,8
+1363,SCHCSCREW 0.138-32x0.75x0.75-HX-N,"Socket Head Cap Screw #6-32 x 3/4"" (0.75"")",3,14
+1364,SCHCSCREW 0.138-32x1.125x1.125-HX-N,"Socket Head Cap Screw #6-32 x 1-1/8"" (1.125"")",3,2
+1365,SCHCSCREW 0.138-32x1.5x1.5-HX-N,"Socket Head Cap Screw #6-32 x 1-1/2"" (1.5"")",3,2
+1366,SCHCSCREW 0.164-32x0.25x0.25-HX-N,"Socket Head Cap Screw #8-32 x 1/4"" (0.25"")",3,4
+1367,SCHCSCREW 0.164-32x0.375x0.375-HX-N,"Socket Head Cap Screw #8-32 x 3/8"" (0.375"")",3,8
+1368,SCHCSCREW 0.164-32x0.4375x0.4375-HX-N,"Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",3,18
+1369,SCHCSCREW 0.164-32x0.5625x0.5625-HX-N,"Socket Head Cap Screw #8-32 x 9/16"" (0.5625"")",3,16
+1370,SCHCSCREW 0.164-32x0.5x0.5-HX-N,"Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",3,25
+1371,SCHCSCREW 0.164-32x0.5x0.5-HX-N-ZPA,"Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",3,3
+1372,SCHCSCREW 0.164-32x0.625x0.625-HX-N,"Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",3,16
+1373,SCHCSCREW 0.164-32x0.75x0.75-HX-N,"Socket Head Cap Screw #8-32 x 3/4"" (0.75"")",3,8
+1374,SCHCSCREW 0.164-32x0.875x0.875-HX-N,"Socket Head Cap Screw #8-32 x 7/8"" (0.875"")",3,8
+1375,SCHCSCREW 0.164-32x2x2-HX-N,"Socket Head Cap Screw #8-32 x 2"" (2"")",3,12
+1376,SCHCSCREW 0.19-24x0.5x0.5-HX-N,"Socket Head Cap Screw #10-24 x 1/2"" (0.5"")",3,10
+1377,SCHCSCREW 0.19-24x0.75x0.75-HX-N,"Socket Head Cap Screw #10-24 x 3/4"" (0.75"")",3,14
+1378,SCHCSCREW 0.19-24x0.875x0.875-HX-N,"Socket Head Cap Screw #10-24 x 7/8"" (0.875"")",3,12
+1379,SCHCSCREW 0.19-24x1.25x1.25-HX-N,"Socket Head Cap Screw #10-24 x 1-1/4"" (1.25"")",3,2
+1380,SCHCSCREW 0.19-32x0.5625x0.5625-HX-N,"Socket Head Cap Screw #10-32 x 9/16"" (0.5625"")",3,6
+1381,SCHCSCREW 0.19-32x3x3-HX-N,"Socket Head Cap Screw #10-32 x 3"" (3"")",3,6
+1382,SCHCSCREW 0.25-20x0.75x0.75-HX-N,"Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",3,25
+1383,SCHCSCREW 0.25-20x0.875x0.875-HX-N,"Socket Head Cap Screw 1/4""-20 x 7/8"" (0.875"")",3,10
+1384,SCHCSCREW 0.25-20x1.25x1.25-HX-N,"Socket Head Cap Screw 1/4""-20 x 1-1/4"" (1.25"")",3,4
+1385,SCHCSCREW 0.25-20x2x1.25-HX-N,"Socket Head Cap Screw 1/4""-20 x 2"" (2"")",3,4
+1386,SCHCSCREW 0.25-28x0.625x0.625-HX-N,"Socket Head Cap Screw 1/4""-28 x 5/8"" (0.625"")",3,2
+1387,SCHCSCREW 0.3125-24x0.75x0.75-HX-N,"Socket Head Cap Screw 5/16""-24 x 3/4"" (0.75"")",3,1
+1388,[HDWR-HYDR-SLAVEFIT-COMN-00] 1 ̸ 16 Barb Fitting (1016  ̸  Clippard 11752-5).SLDPRT,Schematic,4,4
+1389,Selected Narrow FW 0.094,"Selected Narrow Flat Washer 0.094""",2,66
+1390,Selected Narrow FW 0.125,"Selected Narrow Flat Washer 1/8"" (0.125"")",2,10
+1391,Selected Narrow FW 0.156,"Selected Narrow Flat Washer 0.156""",2,2
+1392,Selected Narrow FW 0.172,"Selected Narrow Flat Washer 0.172""",2,14
+1393,Selected Narrow FW 0.188,"Selected Narrow Flat Washer 0.188""",2,8
+1394,Selected Narrow FW 0.203,"Selected Narrow Flat Washer 0.203""",2,4
+1395,SHSSCREW 0.5x0.625-N,"Socket Head Shoulder Screw 1/2"" (0.5"") dia x 5/8"" (0.625"")",2,2
+1396,SHSSCREW 0.5x1.25-N,"Socket Head Shoulder Screw 1/2"" (0.5"") dia x 1-1/4"" (1.25"")",2,4
+1397,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Side Mount - Left,5,1
+1398,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Side Mount - Left,4,1
+1399,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Side Mount - Right,5,1
+1400,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Side Mount - Right,4,1
+1401,[HDWR-FSTR-NUT] NYHXNUT M3.SLDPRT,Simple,2,12
+1402,[HDWR-FSTR-NUT] NYTHNHXNUT 3 ̸ 4-10-D.SLDPRT,Simple,2,2
+1403,[HDWR-FSTR-ROD] Fully Threaded Stud #2-56 x 1.SLDPRT,Simple,2,1
+1404,[HDWR-FSTR-SCRW] Same-Size Shoulder Bolt 3 ̸ 8-24 x 1-1 ̸ 2.SLDPRT,Simple,2,2
+1405,[HDWR-FSTR-SCRW] Steel Pan Head Screw M3 x 25mm.SLDPRT,Simple,2,12
+1406,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 5 ̸ 8.SLDPRT,Simple,3,4
+1407,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 7 ̸ 8.SLDPRT,Simple,2,56
+1408,[HDWR-MISC-OPENXRAIL] 150mm 8mm Lead Screw (3501-0804-0150).SLDPRT,Simple,2,2
+1409,[TLWR-A-V3-COMN-01] Linkage Rod.SLDPRT,Simple,2,2
+1410,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #8-32 x 1 ̸ 4 x 2.SLDPRT,Simple Thread,2,6
+1411,[HDWR-BJNT] 1 ̸ 4-28 Female RH Ball Joint Rod End.SLDPRT,Simplified,3,2
+1412,[HDWR-FSTR-NUT] Binding Barrel #8-32-D.SLDPRT,Simplified,2,16
+1413,[HDWR-FSTR-NUT] HJNUT M3-D.SLDPRT,Simplified,1,8
+1414,[HDWR-FSTR-NUT] HJNUT M8-D.SLDPRT,Simplified,1,4
+1415,[HDWR-FSTR-NUT] HXNUT #8-32-D.SLDPRT,Simplified,3,12
+1416,[HDWR-FSTR-NUT] HXNUT 1 ̸ 2-13-D.SLDPRT,Simplified,1,1
+1417,[HDWR-FSTR-NUT] MSTHNHXNUT #4-40-D.SLDPRT,Simplified,1,4
+1418,[HDWR-FSTR-NUT] NYHXNUT #10-24-D.SLDPRT,Simplified,3,6
+1419,[HDWR-FSTR-NUT] NYHXNUT #10-32-D.SLDPRT,Simplified,2,2
+1420,[HDWR-FSTR-NUT] NYHXNUT #2-56-D.SLDPRT,Simplified,2,10
+1421,[HDWR-FSTR-NUT] NYHXNUT #4-40-D.SLDPRT,Simplified,2,8
+1422,[HDWR-FSTR-NUT] NYHXNUT #6-32-D.SLDPRT,Simplified,3,37
+1423,[HDWR-FSTR-NUT] NYHXNUT #8-32-D.SLDPRT,Simplified,3,26
+1424,[HDWR-FSTR-NUT] NYHXNUT 1 ̸ 4-20-D.SLDPRT,Simplified,1,11
+1425,[HDWR-FSTR-NUT] NYHXNUT 1 ̸ 4-28-D.SLDPRT,Simplified,1,7
+1426,[HDWR-FSTR-NUT] NYHXNUT 3 ̸ 8-16-D.SLDPRT,Simplified,1,2
+1427,[HDWR-FSTR-NUT] NYHXNUT 3 ̸ 8-24-D.SLDPRT,Simplified,1,2
+1428,[HDWR-FSTR-NUT] NYHXNUT 5 ̸ 16-18-D.SLDPRT,Simplified,1,1
+1429,[HDWR-FSTR-NUT] NYHXNUT 5 ̸ 16-24-D.SLDPRT,Simplified,1,2
+1430,[HDWR-FSTR-NUT] NYTHNHXNUT #6-32-D.SLDPRT,Simplified,2,51
+1431,[HDWR-FSTR-NUT] NYTHNHXNUT #8-32-D.SLDPRT,Simplified,4,82
+1432,[HDWR-FSTR-NUT] NYTHNHXNUT 1 ̸ 4-20-D.SLDPRT,Simplified,2,10
+1433,[HDWR-FSTR-NUT] PANLHXNUT 3 ̸ 8-32-D.SLDPRT,Simplified,1,2
+1434,[HDWR-FSTR-SCRW] Flanged Hex Bolt #8-32 x 3 ̸ 8.SLDPRT,Simplified,2,4
+1435,[HDWR-FSTR-SCRW] Low-Profile Socket Head Cap Screw 3 ̸ 8-16 x 1-1 ̸ 2.SLDPRT,Simplified,1,2
+1436,[HDWR-FSTR-SCRW] Set Screw Cup Point #2-56 x 1 ̸ 16.SLDPRT,Simplified,5,4
+1437,[HDWR-FSTR-SCRW] Thread-Locking Socket Button Head Cap Screw 1 ̸ 4-20 x 3 ̸ 8.SLDPRT,Simplified,1,6
+1438,[HDWR-FSTR-STND] Female Threaded Round Standoff #8-32 x 3-1 ̸ 2.SLDPRT,Simplified,2,5
+1439,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #4-40 x 1 ̸ 4.SLDPRT,Simplified,1,8
+1440,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff 1 ̸ 4-20 x 1.SLDPRT,Simplified,3,5
+1441,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff 1 ̸ 4-20 x 5 ̸ 8.SLDPRT,Simplified,3,2
+1442,[HDWR-FSTR-STND] Male-Female Threaded Hex Standoff #2-56 x 3 ̸ 16.SLDPRT,Simplified,2,4
+1443,[HDWR-FSTR-STND] Male-Female Threaded Hex Standoff #6-32 x 1.SLDPRT,Simplified,1,1
+1444,[HDWR-HYDR-MASTFIT] Universal Hose Fitting Banjo Bolt (UT0-4004-PKG).SLDPRT,Simplified,2,4
+1445,[HDWR-HYDR-SLAVEFIT-COMN-00] 1 ̸ 16 Barb Fitting (1016  ̸  Clippard 11752-5).SLDPRT,Simplified,4,6
+1446,[HDWR-HYDR-SLAVEFIT-COMN-02-V1] Swivel Tee Fitting Banjo Bolt (SFT-10).SLDPRT,Simplified,2,4
+1447,[HDWR-HYDR-SLAVEFIT-LWR-COMN-00] Needle Valve (FN-32).SLDPRT,Simplified,3,6
+1448,[HDWR-HYDR-SLAVEFIT-UPR-COMN-01] Legris Fitting Banjo Bolt (3118-54-20).SLDPRT,Simplified,3,2
+1449,[HDWR-SHFT] Clamping Shaft Coupling 5 ̸ 8 x 5 ̸ 8 x 1-5 ̸ 16.SLDPRT,Simplified,2,1
+1450,[HDWR-SHFT] Shaft Collar 5 ̸ 8 x 1-5 ̸ 16 x 7 ̸ 16.SLDPRT,Simplified,2,1
+1451,[HEAD-B-A-E-05] Fillister Head Screw #0-80.SLDPRT,Simplified,2,1
+1452,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",2,28
+1453,SL-FHMS 0.06-80x0.25x0.25-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/4"" (0.25"")",2,4
+1454,SL-FHMS 0.073-64x0.25x0.25-N,"Flat Head Machine Screw (Slotted) #1-64 x 1/4"" (0.25"")",2,8
+1455,SL-RHMS 0.06-80x0.125x0.125-N,"Round Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",1,1
+1456,[AFRM-LWR-COVR-00] Lower Covering.SLDPRT,Slotted,3,1
+1457,[TUPR-A-COMN-00-L] Side Plate (Left).SLDPRT,Smooth,10,1
+1458,[TUPR-A-COMN-00-R] Side Plate (Right).SLDPRT,Smooth,10,1
+1459,SPS 0.0625x0.375,"Slotted Spring Pin 1/16"" (0.0625"") dia x 3/8"" (0.375"")",1,1
+1460,SPS 0.0938x0.875,"Slotted Spring Pin 3/32"" (0.0938"") dia x 7/8"" (0.875"")",1,1
+1461,SPS 0.125x0.5,"Slotted Spring Pin 1/8"" (0.125"") dia x 1/2"" (0.5"")",1,2
+1462,SSCUPSKT 0.086-56x0.125-HX-N,"Socket Set Screw Cup Point #2-56 x 1/8"" (0.125"")",2,8
+1463,SSCUPSKT 0.112-40x0.125-HX-N,"Socket Set Screw Cup Point #4-40 x 1/8"" (0.125"")",2,4
+1464,SSCUPSKT 0.112-40x0.1875-HX-N,"Socket Set Screw Cup Point #4-40 x 3/16"" (0.1875"")",2,5
+1465,SSCUPSKT 0.112-40x0.25-HX-N,"Socket Set Screw Cup Point #4-40 x 1/4"" (0.25"")",2,1
+1466,SSCUPSKT 0.138-32x.094-HX-N,"Socket Set Screw Cup Point #6-32 x .094""",2,1
+1467,SSCUPSKT 0.138-32x0.125-HX-N,"Socket Set Screw Cup Point #6-32 x 1/8"" (0.125"")",2,2
+1468,SSCUPSKT 0.138-32x0.375-HX-N,"Socket Set Screw Cup Point #6-32 x 3/8"" (0.375"")",2,3
+1469,SSCUPSKT 0.164-32x0.1875-HX-N,"Socket Set Screw Cup Point #8-32 x 3/16"" (0.1875"")",2,2
+1470,SSCUPSKT 0.19-24x0.25-HX-N,"Socket Set Screw Cup Point #10-24 x 1/4"" (0.25"")",2,2
+1471,SSCUPSKT 0.19-32x0.25-HX-N,"Socket Set Screw Cup Point #10-32 x 1/4"" (0.25"")",2,4
+1472,SSCUPSKT 0.25-20x0.25-HX-N,"Socket Set Screw Cup Point 1/4""-20 x 1/4"" (0.25"")",2,4
+1473,SSCUPSKT 0.25-20x1.125-HX-N,"Socket Set Screw Cup Point 1/4""-20 x 1-1/8"" (1.125"")",2,2
+1474,SSCUPSKT 0.3125-18x0.25-HX-N,"Socket Set Screw Cup Point 5/16""-18 x 1/4"" (0.25"")",2,4
+1475,SSFLATSKT 0.086-56x0.25-HX-N,"Socket Set Screw Flat Point #2-56 x 1/4"" (0.25"")",2,8
+1476,SSFLATSKT 0.112-40x0.125-HX-N,"Socket Set Screw Flat Point #4-40 x 1/8"" (0.125"")",2,6
+1477,SSFLATSKT 0.138-32x0.125-HX-N,"Socket Set Screw Flat Point #6-32 x 1/8"" (0.125"")",2,1
+1478,SSFLATSKT 0.138-32x0.25-HX-N,"Socket Set Screw Flat Point #6-32 x 1/4"" (0.25"")",2,2
+1479,SSFLATSKT 0.19-24x0.1875-HX-N,"Socket Set Screw Flat Point #10-24 x 3/16"" (0.1875"")",2,3
+1480,SSFLATSKT 0.19-32x0.1875-HX-N,"Socket Set Screw Flat Point #10-32 x 3/16"" (0.1875"")",2,2
+1481,SSFLATSKT 0.25-20x0.5-HX-N,"Socket Set Screw Flat Point 1/4""-20 x 1/2"" (0.5"")",2,12
+1482,SSFLATSKT 0.25-20x0.75-HX-N,"Socket Set Screw Flat Point 1/4""-20 x 3/4"" (0.75"")",2,12
+1483,[ELEC-SRVO-ASME03B] WINGXINE ASME-03B.SLDASM,Standard,2,1
+1484,[ELEC-SRVO-ASME04B] WINGXINE ASME-04B.SLDASM,Standard,5,3
+1485,[HEAD-A-B-08] Slope Panels.SLDPRT,Standard,7,1
+1486,[HEAD-E-V2-B-01-L] Side Panel (Left).SLDPRT,Standard,9,1
+1487,[HEAD-E-V2-B-01-R] Side Panel (Right).SLDPRT,Standard,11,1
+1488,[HEAD-E-V2-C-COMN-00] Bottom Plate.SLDPRT,Standard,3,1
+1489,[HEAD-E-V2-C-COMN-02] Top Plate.SLDPRT,Standard,3,1
+1490,[HEAD-E-V2-C-MSTR-00] Basket Master.SLDPRT,Standard,8,1
+1491,[HEAD-H-A-00] Skirt.SLDPRT,Standard,5,1
+1492,[NECK-COVR-00] Lip Light Box.SLDPRT,Standard,7,1
+1493,[NECK-E-COMN-07] Side & Rear Slide Plate.SLDPRT,Standard,2,1
+1494,[TLWR-B-A-V2-COMN-00] Faceplate.SLDPRT,Standard,4,1
+1495,[TLWR-B-A-V2-COMN-01] Electronics Enclosure.SLDPRT,Standard,4,1
+1496,[ELEC-ACTR-SKF-COMN-00] Limit Switch Cover.SLDPRT,Static & Dynamic LASR Mount,3,1
+1497,[TUPR-E-COMN-05] Filler Tube.SLDPRT,Static & Dynamic LASR Mount,3,1
+1498,[DTL-APP] Anderson Powerpole Connector (PP15).SLDPRT,Stock,4,9
+1499,[DTL-BRNSTRMT] Bourns TRIMIT Potentiometer (271-1-502).SLDPRT,Stock,3,8
+1500,[ELEC-BULB-LED5] Kingbright Green Diffused LED.SLDPRT,Stock,2,1
+1501,[ELEC-BULB-LED5] Kingbright White LED.SLDPRT,Stock,1,2
+1502,[ELEC-MOTR-BB150-B-COMN-00] Shaft.SLDPRT,Stock,3,1
+1503,[HDWR-BRNG-TAPR] 1 ̸ 2 x 1.377 x 0.47 (A4050 & A4138).SLDPRT,Stock,2,2
+1504,[HDWR-BRNG-TAPR] 1-1 ̸ 4 x 2-21 ̸ 64 x 0.66 (MCMC 5709K24 & 5709K61).SLDPRT,Stock,1,1
+1505,[HDWR-BRNG-TRST] 1-1 ̸ 2 x 2-3 ̸ 16 x 0.142125 (MCMC 5909K41 & 5909K54).SLDPRT,Stock,2,1
+1506,[HDWR-BRNG-TRST] 1-1 ̸ 8 x 1-3 ̸ 4 x 0.142125 (MCMC 5909K37 & 5909K51).SLDPRT,Stock,3,1
+1507,[HDWR-GEAR] Azusa 8-Tooth #40 Sprocket (1901-K).SLDPRT,Stock,3,2
+1508,[HDWR-GEAR] Machinable Bore 12-Tooth Sprocket (MCMC 6793K400).SLDPRT,Stock,4,1
+1509,[HDWR-GEAR] Machinable Bore 9-Tooth Sprocket (MCMC 6793K100).SLDPRT,Stock,4,2
+1510,[HDWR-GEAR] Tsubaki 10-Tooth Sprocket (35B10FH).SLDPRT,Stock,2,1
+1511,[HDWR-GEAR] Tsubaki 54-Tooth Sprocket (35B54FJ).SLDPRT,Stock,7,1
+1512,[HDWR-HYDR-MASTFIT] 1 ̸ 16 Universal Hose Fitting (UT0-2002-PKG).SLDPRT,Stock,2,4
+1513,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Surface Mount - Left,5,1
+1514,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Surface Mount - Left,4,1
+1515,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Surface Mount - Right,5,1
+1516,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Surface Mount - Right,4,1
+1517,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Surface Mount Extended - Left,5,1
+1518,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Surface Mount Extended - Left,4,1
+1519,[ARM-B-A] Finger Servo Cable Cage.SLDASM,Surface Mount Extended - Right,5,1
+1520,[ARM-B-A-COMN-01] Pull Plate.SLDPRT,Surface Mount Extended - Right,4,1
+1521,[HDWR-GEAR] Martin 40-Tooth Sprocket (35BS40 3 ̸ 4).SLDPRT,TDRV Front Idler (BB150) Without Outer Cap,3,1
+1522,[HDWR-GEAR] Martin 9-Tooth Sprocket (35B9).SLDPRT,TDRV Tensioner (BB150),6,1
+1523,[TUPR-E] Accessory Mount.SLDASM,TLBX (With Coverings),17,1
+1524,[ELEC-ACTR-N2HYBRID] IDC N2 Series Hybrid Actuator.SLDASM,TLWR - V3 PEM,10,1
+1525,[HDWR-GEAR] Martin 15-Tooth Sprocket (25B15).SLDPRT,TMID Motor,1,1
+1526,[HDWR-GEAR] Martin 30-Tooth Sprocket (25A30).SLDPRT,TMID Shaft,3,1
+1527,[TUPR-E-LASR] Laser Vertical Support.SLDASM,Toolbox,10,1
+1528,[TLWR-B-B-03] Console Gear Arm.SLDPRT,Top,4,1
+1529,[ELEC-MOTR-BBPS-COMN-02] 1 Inch Hex Output Shaft.SLDPRT,Track drive,4,1
+1530,Tube-125X035_2-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
+1531,Tube-125X035_3-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
+1532,Tube-125X035_4-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
+1533,Tube-125X035_5-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
+1534,Tube-125X035_6-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
+1535,Tube-125X035_7-Tube_1-[TUPR-D] Master Cylinder Drive.sldprt,Tube .125in OD X .035in Wall,3,1
+1536,[HDWR-GEAR] Finished Bore 16-Tooth Sprocket (MCMC 2737T8).SLDPRT,TUPR Neck Drive,7,1
+1537,[CRDL-COMN-00] 3-Inch Bearing Collar Assembly.SLDASM,Two Piece,2,2
+1538,[CRDL-COMN-00] 3-Inch Bearing Collar.SLDPRT,Two Piece,3,2
+1539,[NECK-A-COMN-00] C-Channel.SLDPRT,V2,2,1
+1540,[NECK-E-COMN-01] Front Slide.SLDPRT,V2,2,1
+1541,[TDRV-COMN-G-B] Chain Tensioner Shaft.SLDASM,V2,6,2
+1542,[TDRV-COMN-G-B-COMN-00-MALE] Shaft (Male).SLDPRT,V2,4,1
+1543,[TDRV-COMN-G-COMN-00-FEML] Shaft (Female).SLDPRT,V2,6,1
+1544,[TMID-F] Upper Torso Hinge.SLDASM,V2,18,1
+1545,[TUPR-A] Frame.SLDASM,V2,24,1
+1546,[AFRM-LWR] Lower A-Frame.SLDASM,v2 - Laser cut_speedpak,13,1
+1547,[CSTR] Main Structure.SLDASM,v2 - Single piece,8,1
+1548,[CSTR] Caster.SLDASM,v2 - Single Piece_speedpak,23,1
+1549,[TLWR-COVR-B] Console Section.SLDASM,V2 -Laser Cut Arms and Waveshare 23112,11,1
+1550,[HEAD-J] Eye Pop.SLDASM,v2 Actuator,7,1
+1551,[TDRV-LEFT] Main Structure (Left).SLDASM,v2 Bearing Cup Layout,32,1
+1552,[TDRV-RGHT] Main Structure (Right).SLDASM,v2 Bearing Cup Layout,13,1
+1553,[TUPR-D] Master Cylinder Drive.SLDASM,V2 Simple Manifold,29,1
+1554,[NECK] Neck Assembly.SLDASM,V3,42,1
+1555,[TLWR-COMN-01] Lower Shaft Support.SLDPRT,V3 PEM,7,1
+1556,Wide FW 0.19,"Wide Flat Washer 0.19""",1,1
+1557,Wide FW 0.25,"Wide Flat Washer 1/4"" (0.25"")",1,1
+1558,[TIP-COMN-00] Tube.SLDPRT,Wiring tunnel compatible,8,1
+1559,[TDRV-COMN-A] Front Idler.SLDASM,with 3-Piece Sprocket,25,2
+1560,[TUPR-G-V2] Chest Carrier Assembly.SLDASM,With Coverings_speedpak,7,1
+1561,[ELEC-SRVO-HS5496MH] Hitec HS-5496MH.SLDASM,With Ears,2,1
+1562,[ELEC-SRVO-HS5496MH] Hitec HS-5496MH.SLDPRT,With Ears,1,1
+1563,[ELEC-SRVO-HS5645MG] Hitec HS-5645MG.SLDASM,With Ears,3,1
+1564,[ELEC-SRVO-HS5645MG] Hitec HS-5645MG.SLDPRT,With Ears,4,1
+1565,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDASM,With Ears,3,1
+1566,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDPRT,With Ears,2,1
+1567,[ELEC-SRVO-HS85MG] Hitec HS-85MG.SLDASM,With Ears,1,2
+1568,[ELEC-SRVO-HS85MG] Hitec HS-85MG.SLDPRT,With Ears,1,3
+1569,[TDRV-LEFT] Track Drive (Left).SLDASM,With EV105 Batteries_speedpak,48,1
+1570,[TDRV-RGHT] Track Drive (Right).SLDASM,With EV105 Battery_speedpak,18,1
+1571,[TLWR-V3-A-03] Internal Support.SLDPRT,With wiring space,6,2
+1572,[HDWR-FSTR-PIN] Heavy Duty Quick-Release Pin 3 ̸ 8 x 3.SLDPRT,Without Ring,4,2
+1573,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDASM,Without Sticker,3,2
+1574,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDPRT,Without Sticker,2,4

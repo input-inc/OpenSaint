@@ -1,3 +1,25 @@
+# April 2026
+
+* New Red Wolf Breaker and Cover in Track Drives
+* Elongated holes in Battery Case to allow multiple lengths
+* Updated tip toe tube center spacer to add a hole so the part is reversible
+* Fixed mates in the cater assembly
+* Added new power switch mount plate for safety switch and power buttons
+* Updated Upper A-Frame top plate to add holes for switch plate
+* Updated potentiometer housing in the track tip assembly to prevent arms from hitting
+* Added Drill Guide Configuration for V2 Cradle Base Side Plates to allow updating V1 plates
+* Renamed Lower Torso folder
+* Added Drill Guide configuration for shoulder pivot lugs
+* Added Drill Guide for upper torso flare plate to add cross hole
+* Renamed Arms folder
+* Added a configuration to Neck Spring Spacer to allow 3D printing
+* Renamed Head folder
+* Adjusted head base to allow easier screw adjustment
+* Thickened head back cover to 0.125”
+* Added V2 actuator to eye pop assembly
+* Added wire passthrough to V2 cradle base plates
+* More Toolbox checkin
+
 # January 2026
 
 * Fixes to the Console Door Mechanism 

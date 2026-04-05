@@ -1,8 +1,8 @@
 Item Number,Document,Configuration,Revision,Qty
 1,[FULL-COMN] Upper Half.SLDASM,Default,14,1
-1.1,[HEAD] Head.SLDASM,Default,56,1
+1.1,[HEAD] Head.SLDASM,Default,57,1
 1.1.1,[HDWR-FSTR-NUT] NYHXNUT #2-56-D.SLDPRT,Simplified,2,2
-1.1.2,[HEAD-COVR-00-FF] Rear Covering (Form-Fitting).SLDPRT,Default,1,1
+1.1.2,[HEAD-COVR-00-FF] Rear Covering (Form-Fitting).SLDPRT,Default,2,1
 1.1.3,[HEAD-F] Microphone & Mechanics.SLDASM,Default,11,1
 1.1.3.1,[HDWR-FSTR-PIN] Captive Pin 1.5mm x 4mm.SLDPRT,Default,1,2
 1.1.3.2,[ELEC-SRVO-HORN] Servo Shaft Attachment (525140).SLDPRT,Microphone,2,1
@@ -47,7 +47,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.4.10,SBHCSCREW 0.086-56x0.188-HX-N,"Socket Button Head Cap Screw #2-56 x 0.188""",1,1
 1.1.4.11,SBHCSCREW 0.086-56x0.25-HX-N,"Socket Button Head Cap Screw #2-56 x 1/4"" (0.25"")",1,1
 1.1.4.12,SBHCSCREW 0.112-40x0.375-HX-N,"Socket Button Head Cap Screw #4-40 x 3/8"" (0.375"")",1,2
-1.1.4.13,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",7,2
+1.1.4.13,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",11,2
 1.1.4.14,MSSQNUT 0.086-56-N,Machine Screw Square Nut #2-56,2,2
 1.1.4.15,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,2
 1.1.4.16,DPM 0.125x0.375,"Dowel Pin 1/8"" (0.125"") dia x 3/8"" (0.375"")",1,2
@@ -83,8 +83,8 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.5.14,SSCUPSKT 0.138-32x.094-HX-N,"Socket Set Screw Cup Point #6-32 x .094""",2,1
 1.1.5.15,SBHCSCREW 0.086-56x0.188-HX-N,"Socket Button Head Cap Screw #2-56 x 0.188""",1,2
 1.1.5.16,SBHCSCREW 0.112-40x0.5-HX-N,"Socket Button Head Cap Screw #4-40 x 1/2"" (0.5"")",1,2
-1.1.5.17,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",7,2
-1.1.5.18,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",7,1
+1.1.5.17,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",11,2
+1.1.5.18,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",11,1
 1.1.5.19,MSSQNUT 0.086-56-N,Machine Screw Square Nut #2-56,2,3
 1.1.5.20,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,2
 1.1.5.21,DPM 0.0938x0.375,"Dowel Pin 3/32"" (0.0938"") dia x 3/8"" (0.375"")",1,1
@@ -93,47 +93,46 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.6.1,[HDWR-BRNG-BALL-US-F] 1 ̸ 4 x 3 ̸ 8 x 1 ̸ 8 (FR168ZZ).SLDPRT,Default,4,1
 1.1.6.2,[HEAD-A-C-00] Frame.SLDPRT,Default,14,1
 1.1.6.3,[HEAD-A-C-01-R] Side Covering (Right).SLDPRT,Default,19,1
-1.1.6.4,[HEAD-A-C-01-L] Side Covering (Left).SLDPRT,Default,20,1
-1.1.6.5,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",7,4
+1.1.6.4,[HEAD-A-C-01-L] Side Covering (Left).SLDPRT,Default,21,1
+1.1.6.5,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",11,4
 1.1.6.6,MSSQNUT 0.086-56-N,Machine Screw Square Nut #2-56,2,4
 1.1.6.7,Selected Narrow FW 0.094,"Selected Narrow Flat Washer 0.094""",2,4
-1.1.7,[HEAD-A] Bottom Shell.SLDASM,Default,41,1
+1.1.7,[HEAD-A] Bottom Shell.SLDASM,Default,42,1
 1.1.7.1,[HEAD-I-00] Sliding Plate.SLDPRT,Default,1,1
-1.1.7.2,[HEAD-A-A-02-L] Front Left.SLDPRT,Default,29,1
-1.1.7.3,[HEAD-A-A-02-R] Front Right.SLDPRT,Default,30,1
-1.1.7.4,[HEAD-A-A-06-L] Face Block Bottom Left.SLDPRT,Default,30,1
-1.1.7.5,[HEAD-A-A-06-R] Face Block Bottom Right.SLDPRT,Default,30,1
-1.1.7.6,[HEAD-A-A-03] Mounting Block.SLDPRT,Default,31,2
-1.1.7.7,[HEAD-A-A-04] Vent Plate.SLDPRT,Default,31,1
-1.1.7.8,[HEAD-A-A-01-L] Rear Left.SLDPRT,Default,32,1
-1.1.7.9,[HEAD-A-A-00] Center Section.SLDPRT,Default,33,1
-1.1.7.10,[HEAD-A-A-01-R] Rear Right.SLDPRT,Default,33,1
-1.1.7.11,[HEAD-A-A-05] Faceplate Bottom.SLDPRT,Default,34,1
-1.1.7.12,[HEAD-A-E-00] Detail Plate L1 & R1.SLDPRT,Default,36,2
-1.1.7.13,[HEAD-A-E-01] Detail Plate L2 & R2.SLDPRT,Default,36,2
-1.1.7.14,[HEAD-A-E-02] Detail Plate L3.SLDPRT,Default,36,1
-1.1.7.15,[HEAD-A-E-03] Detail Plate L4.SLDPRT,Default,36,1
-1.1.7.16,[HEAD-A-E-04] Detail Plate L5.SLDPRT,Default,36,1
-1.1.7.17,[HEAD-A-E-05] Detail Plate L6.SLDPRT,Default,36,1
-1.1.7.18,[HEAD-A-E-06] Detail Plate R3.SLDPRT,Default,36,1
-1.1.7.19,[HEAD-A-E-07] Detail Plate R4.SLDPRT,Default,36,1
-1.1.7.20,[HEAD-A-E-08] Detail Plate R5.SLDPRT,Default,36,1
-1.1.7.21,[HEAD-A-E-09] Detail Plate R6.SLDPRT,Default,36,1
-1.1.7.22,[HEAD-A-E-10] Detail Plate R7.SLDPRT,Default,36,1
+1.1.7.2,[HEAD-A-A-02-L] Front Left.SLDPRT,Default,30,1
+1.1.7.3,[HEAD-A-A-02-R] Front Right.SLDPRT,Default,31,1
+1.1.7.4,[HEAD-A-A-06-L] Face Block Bottom Left.SLDPRT,Default,31,1
+1.1.7.5,[HEAD-A-A-06-R] Face Block Bottom Right.SLDPRT,Default,31,1
+1.1.7.6,[HEAD-A-A-03] Mounting Block.SLDPRT,Default,32,2
+1.1.7.7,[HEAD-A-A-04] Vent Plate.SLDPRT,Default,32,1
+1.1.7.8,[HEAD-A-A-01-L] Rear Left.SLDPRT,Default,33,1
+1.1.7.9,[HEAD-A-A-00] Center Section.SLDPRT,Default,34,1
+1.1.7.10,[HEAD-A-A-01-R] Rear Right.SLDPRT,Default,34,1
+1.1.7.11,[HEAD-A-A-05] Faceplate Bottom.SLDPRT,Default,35,1
+1.1.7.12,[HEAD-A-E-00] Detail Plate L1 & R1.SLDPRT,Default,37,2
+1.1.7.13,[HEAD-A-E-01] Detail Plate L2 & R2.SLDPRT,Default,37,2
+1.1.7.14,[HEAD-A-E-02] Detail Plate L3.SLDPRT,Default,37,1
+1.1.7.15,[HEAD-A-E-03] Detail Plate L4.SLDPRT,Default,37,1
+1.1.7.16,[HEAD-A-E-04] Detail Plate L5.SLDPRT,Default,37,1
+1.1.7.17,[HEAD-A-E-05] Detail Plate L6.SLDPRT,Default,37,1
+1.1.7.18,[HEAD-A-E-06] Detail Plate R3.SLDPRT,Default,37,1
+1.1.7.19,[HEAD-A-E-07] Detail Plate R4.SLDPRT,Default,37,1
+1.1.7.20,[HEAD-A-E-08] Detail Plate R5.SLDPRT,Default,37,1
+1.1.7.21,[HEAD-A-E-09] Detail Plate R6.SLDPRT,Default,37,1
+1.1.7.22,[HEAD-A-E-10] Detail Plate R7.SLDPRT,Default,37,1
 1.1.7.23,SCHCSCREW 0.19-24x0.875x0.875-HX-N,"Socket Head Cap Screw #10-24 x 7/8"" (0.875"")",3,4
-1.1.7.24,HX-SHCS 0.073-64x0.3125x0.3125-N,"Hex Socket Head Cap Screw #1-64 x 5/16"" (0.3125"")",7,13
-1.1.7.25,HX-SHCS 0.086-56x0.3125x0.3125-N,"Hex Socket Head Cap Screw #2-56 x 5/16"" (0.3125"")",7,4
-1.1.7.26,HX-SHCS 0.086-56x0.4375x0.4375-N,"Hex Socket Head Cap Screw #2-56 x 7/16"" (0.4375"")",7,2
-1.1.7.27,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",7,4
-1.1.7.28,HX-SHCS 0.073-64x0.188x0.188-N,"Hex Socket Head Cap Screw #1-64 x 0.188""",7,40
-1.1.7.29,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",7,21
-1.1.7.30,HX-SHCS 0.112-40x0.625x0.625-N,"Hex Socket Head Cap Screw #4-40 x 5/8"" (0.625"")",7,4
-1.1.7.31,MSHXNUT 0.073-64-D-N,Machine Screw Hex Nut #1-64,2,13
-1.1.7.32,MSSQNUT 0.086-56-N,Machine Screw Square Nut #2-56,2,36
-1.1.7.33,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,6
-1.1.7.34,MSSQNUT 0.164-32-N,Machine Screw Square Nut #8-32,2,4
-1.1.7.35,MSSQNUT 0.190-24-N,Machine Screw Square Nut #10-24,2,4
-1.1.7.36,Selected Narrow FW 0.094,"Selected Narrow Flat Washer 0.094""",2,25
+1.1.7.24,HX-SHCS 0.073-64x0.3125x0.3125-N,"Hex Socket Head Cap Screw #1-64 x 5/16"" (0.3125"")",11,13
+1.1.7.25,HX-SHCS 0.086-56x0.3125x0.3125-N,"Hex Socket Head Cap Screw #2-56 x 5/16"" (0.3125"")",11,4
+1.1.7.26,HX-SHCS 0.086-56x0.4375x0.4375-N,"Hex Socket Head Cap Screw #2-56 x 7/16"" (0.4375"")",11,2
+1.1.7.27,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",11,4
+1.1.7.28,HX-SHCS 0.073-64x0.188x0.188-N,"Hex Socket Head Cap Screw #1-64 x 0.188""",11,40
+1.1.7.29,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",11,21
+1.1.7.30,HX-SHCS 0.112-40x0.625x0.625-N,"Hex Socket Head Cap Screw #4-40 x 5/8"" (0.625"")",11,4
+1.1.7.31,MSSQNUT 0.086-56-N,Machine Screw Square Nut #2-56,2,36
+1.1.7.32,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,6
+1.1.7.33,MSSQNUT 0.190-24-N,Machine Screw Square Nut #10-24,2,8
+1.1.7.34,MSHXNUT 0.073-64-D-N,Machine Screw Hex Nut #1-64,2,13
+1.1.7.35,Selected Narrow FW 0.094,"Selected Narrow Flat Washer 0.094""",2,25
 1.1.8,[HEAD-A] Top Shell.SLDASM,Default,43,1
 1.1.8.1,[DTL-UNKN] Unknown Component.SLDPRT,Chamfered Corners,1,1
 1.1.8.2,[DTL-UNKN] Unknown Component.SLDPRT,Rounded Corners,1,2
@@ -185,16 +184,16 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.8.48,[HEAD-A-D-01-R] Seam Strip - Rear Vent Right.SLDPRT,Default,34,1
 1.1.8.49,SSCUPSKT 0.112-40x0.25-HX-N,"Socket Set Screw Cup Point #4-40 x 1/4"" (0.25"")",2,1
 1.1.8.50,SBHCSCREW 0.086-56x0.5625-HX-N,"Socket Button Head Cap Screw #2-56 x 9/16"" (0.5625"")",1,4
-1.1.8.51,HX-SHCS 0.073-64x0.3125x0.3125-N,"Hex Socket Head Cap Screw #1-64 x 5/16"" (0.3125"")",7,1
-1.1.8.52,HX-SHCS 0.086-56x0.125x0.125-N,"Hex Socket Head Cap Screw #2-56 x 1/8"" (0.125"")",7,6
-1.1.8.53,HX-SHCS 0.086-56x0.188x0.188-N,"Hex Socket Head Cap Screw #2-56 x 0.188""",7,2
-1.1.8.54,HX-SHCS 0.086-56x0.25x0.25-N,"Hex Socket Head Cap Screw #2-56 x 1/4"" (0.25"")",7,6
-1.1.8.55,HX-SHCS 0.086-56x0.3125x0.3125-N,"Hex Socket Head Cap Screw #2-56 x 5/16"" (0.3125"")",7,18
-1.1.8.56,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",7,1
-1.1.8.57,HX-SHCS 0.086-56x0.75x0.75-N,"Hex Socket Head Cap Screw #2-56 x 3/4"" (0.75"")",7,2
-1.1.8.58,HX-SHCS 0.073-64x0.188x0.188-N,"Hex Socket Head Cap Screw #1-64 x 0.188""",7,9
-1.1.8.59,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",7,29
-1.1.8.60,HX-SHCS 0.086-56x0.5625x0.5625-N,"Hex Socket Head Cap Screw #2-56 x 9/16"" (0.5625"")",7,1
+1.1.8.51,HX-SHCS 0.073-64x0.3125x0.3125-N,"Hex Socket Head Cap Screw #1-64 x 5/16"" (0.3125"")",11,1
+1.1.8.52,HX-SHCS 0.086-56x0.125x0.125-N,"Hex Socket Head Cap Screw #2-56 x 1/8"" (0.125"")",11,6
+1.1.8.53,HX-SHCS 0.086-56x0.188x0.188-N,"Hex Socket Head Cap Screw #2-56 x 0.188""",11,2
+1.1.8.54,HX-SHCS 0.086-56x0.25x0.25-N,"Hex Socket Head Cap Screw #2-56 x 1/4"" (0.25"")",11,6
+1.1.8.55,HX-SHCS 0.086-56x0.3125x0.3125-N,"Hex Socket Head Cap Screw #2-56 x 5/16"" (0.3125"")",11,18
+1.1.8.56,HX-SHCS 0.086-56x0.5x0.5-N,"Hex Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",11,1
+1.1.8.57,HX-SHCS 0.086-56x0.75x0.75-N,"Hex Socket Head Cap Screw #2-56 x 3/4"" (0.75"")",11,2
+1.1.8.58,HX-SHCS 0.073-64x0.188x0.188-N,"Hex Socket Head Cap Screw #1-64 x 0.188""",11,9
+1.1.8.59,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",11,29
+1.1.8.60,HX-SHCS 0.086-56x0.5625x0.5625-N,"Hex Socket Head Cap Screw #2-56 x 9/16"" (0.5625"")",11,1
 1.1.8.61,MSHXNUT 0.073-64-D-N,Machine Screw Hex Nut #1-64,2,1
 1.1.8.62,MSSQNUT 0.086-56-N,Machine Screw Square Nut #2-56,2,55
 1.1.8.63,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,2
@@ -223,7 +222,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.9.4.10,[HEAD-B-C-COMN-00] Iris Rotation Cup.SLDPRT,Default,3,1
 1.1.9.4.11,[HEAD-B-C-COMN-02] Rear Cap.SLDPRT,Default,3,1
 1.1.9.4.12,SCHCSCREW 0.086-56x0.5x0.5-HX-N,"Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",3,1
-1.1.9.4.13,HX-SHCS 0.086-56x0.25x0.25-N,"Hex Socket Head Cap Screw #2-56 x 1/4"" (0.25"")",7,2
+1.1.9.4.13,HX-SHCS 0.086-56x0.25x0.25-N,"Hex Socket Head Cap Screw #2-56 x 1/4"" (0.25"")",11,2
 1.1.9.4.14,MSHXNUT 0.086-56-S-N,Machine Screw Hex Nut #2-56,2,1
 1.1.9.5,[HEAD-B-D-L] XY Eye Articulator (Left).SLDASM,Default,5,1
 1.1.9.5.1,[HDWR-GEAR] ServoCity 20-Tooth 32P Spline Servo Mount Gear (615282).SLDPRT,Default,1,2
@@ -240,9 +239,9 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.9.5.12,[HEAD-J-B-01] Actuator Bar.SLDPRT,Default,2,1
 1.1.9.5.13,SBHCSCREW 0.086-56x0.25-HX-N,"Socket Button Head Cap Screw #2-56 x 1/4"" (0.25"")",1,2
 1.1.9.5.14,SBHCSCREW 0.086-56x0.3125-HX-N,"Socket Button Head Cap Screw #2-56 x 5/16"" (0.3125"")",1,2
-1.1.9.5.15,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",7,6
-1.1.9.5.16,HX-SHCS 0.112-40x0.75x0.75-N,"Hex Socket Head Cap Screw #4-40 x 3/4"" (0.75"")",7,1
-1.1.9.5.17,HX-SHCS 0.112-40x2.25x1-N,"Hex Socket Head Cap Screw #4-40 x 2-1/4"" (2.25"")",7,1
+1.1.9.5.15,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",11,6
+1.1.9.5.16,HX-SHCS 0.112-40x0.75x0.75-N,"Hex Socket Head Cap Screw #4-40 x 3/4"" (0.75"")",11,1
+1.1.9.5.17,HX-SHCS 0.112-40x2.25x1-N,"Hex Socket Head Cap Screw #4-40 x 2-1/4"" (2.25"")",11,1
 1.1.9.5.18,ASME B18.8.2 - 0.0627x0.75,"Straight Pin 0.0627"" dia x 3/4"" (0.75"")",1,2
 1.1.9.5.19,Preferred Narrow FW 0.094,"Preferred Narrow Flat Washer 0.094""",2,2
 1.1.9.5.20,Regular FW 0.086,"Regular Flat Washer 0.086""",1,4
@@ -273,63 +272,63 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.10.4.10,[HEAD-B-C-COMN-00] Iris Rotation Cup.SLDPRT,Default,3,1
 1.1.10.4.11,[HEAD-B-C-COMN-02] Rear Cap.SLDPRT,Default,3,1
 1.1.10.4.12,SCHCSCREW 0.086-56x0.5x0.5-HX-N,"Socket Head Cap Screw #2-56 x 1/2"" (0.5"")",3,1
-1.1.10.4.13,HX-SHCS 0.086-56x0.25x0.25-N,"Hex Socket Head Cap Screw #2-56 x 1/4"" (0.25"")",7,2
+1.1.10.4.13,HX-SHCS 0.086-56x0.25x0.25-N,"Hex Socket Head Cap Screw #2-56 x 1/4"" (0.25"")",11,2
 1.1.10.4.14,MSHXNUT 0.086-56-S-N,Machine Screw Hex Nut #2-56,2,1
 1.1.10.5,SCHCSCREW 0.086-56x0.125x0.125-HX-N,"Socket Head Cap Screw #2-56 x 1/8"" (0.125"")",3,2
 1.1.10.6,SCHCSCREW 0.086-56x0.375x0.375-HX-N,"Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",3,2
-1.1.11,[HEAD-D-LWR-L] Lower Eye Flap Assembly (Left).SLDASM,Default,9,1
+1.1.11,[HEAD-D-LWR-L] Lower Eye Flap Assembly (Left).SLDASM,Default,10,1
 1.1.11.1,[HDWR-FSTR-STND] Unthreaded Spacer #4 Screw Size x 1 ̸ 4 x 7 ̸ 16.SLDPRT,Default,4,1
 1.1.11.2,[ELEC-SRVO-HORN] Servo Shaft Attachment (525140).SLDPRT,Lower Eye Flaps,2,1
 1.1.11.3,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDASM,No Ears,3,1
 1.1.11.3.1,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDPRT,No Ears,2,1
 1.1.11.4,[HEAD-D-LWR-COMN-00-L] Lower Eye Flap Arm (Left).SLDPRT,Default,4,1
 1.1.11.5,[HEAD-D-LWR-COMN-01-L] Lower Eye Flap (Left).SLDPRT,Default,4,1
-1.1.11.6,CR-PHMS 0.112-40x0.75x0.75-N,"Pan Head Machine Screw (Cross Recessed) #4-40 x 3/4"" (0.75"")",2,1
-1.1.11.7,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",1,2
-1.1.12,[HEAD-D-LWR-R] Lower Eye Flap Assembly (Right).SLDASM,Default,9,1
+1.1.11.6,CR-PHMS 0.112-40x0.75x0.75-N,"Pan Head Machine Screw (Cross Recessed) #4-40 x 3/4"" (0.75"")",4,1
+1.1.11.7,SL-FHMS 0.06-80x0.25x0.25-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/4"" (0.25"")",2,2
+1.1.12,[HEAD-D-LWR-R] Lower Eye Flap Assembly (Right).SLDASM,Default,10,1
 1.1.12.1,[HDWR-FSTR-STND] Unthreaded Spacer #4 Screw Size x 1 ̸ 4 x 7 ̸ 16.SLDPRT,Default,4,1
 1.1.12.2,[ELEC-SRVO-HORN] Servo Shaft Attachment (525140).SLDPRT,Lower Eye Flaps,2,1
 1.1.12.3,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDASM,No Ears,3,1
 1.1.12.3.1,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDPRT,No Ears,2,1
 1.1.12.4,[HEAD-D-LWR-COMN-00-R] Lower Eye Flap Arm (Right).SLDPRT,Default,4,1
 1.1.12.5,[HEAD-D-LWR-COMN-01-R] Lower Eye Flap (Right).SLDPRT,Default,4,1
-1.1.12.6,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",1,2
+1.1.12.6,SL-FHMS 0.06-80x0.25x0.25-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/4"" (0.25"")",2,2
 1.1.12.7,B18.6.7M - M3 x 0.5 x 16 Type I Cross Recessed PHMS --16N,Pan Head Machine Screw (Cross Recessed) M3 x 0.5 x 16mm,1,1
 1.1.13,[HEAD-E-V2] 3D Printable Nose.SLDASM,Default,17,1
 1.1.13.1,[ELEC-SRVO-HORN] Hitec Standard Spline Single Arm (55701).SLDPRT,Modified,2,1
 1.1.13.2,[ELEC-SRVO-HORN] Round Horn (HMSH-02).SLDPRT,HEAD Nose,7,1
 1.1.13.3,[ELEC-SRVO-HS5496MH] Hitec HS-5496MH.SLDASM,With Ears,2,1
 1.1.13.3.1,[ELEC-SRVO-HS5496MH] Hitec HS-5496MH.SLDPRT,With Ears,1,1
-1.1.13.3.2,CR-PHMS 0.06-80x1.1875x0.375-N,"Pan Head Machine Screw (Cross Recessed) #0-80 x 1-3/16"" (1.1875"")",2,4
+1.1.13.3.2,CR-PHMS 0.06-80x1.1875x0.375-N,"Pan Head Machine Screw (Cross Recessed) #0-80 x 1-3/16"" (1.1875"")",4,4
 1.1.13.4,[ELEC-SRVO-HS5645MG] Hitec HS-5645MG.SLDASM,With Ears,3,1
 1.1.13.4.1,[ELEC-SRVO-HS5645MG] Hitec HS-5645MG.SLDPRT,With Ears,4,1
 1.1.13.5,[HEAD-D-UPR-L] Upper Eye Flap Assembly (Left).SLDASM,Default,9,1
 1.1.13.5.1,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDPRT,Without Sticker,2,1
-1.1.13.5.2,[HEAD-D-UPR-COMN-00] Servo Bracket.SLDPRT,Default,2,1
+1.1.13.5.2,[HEAD-D-UPR-COMN-00] Servo Bracket.SLDPRT,Default,3,1
 1.1.13.5.3,[HEAD-D-UPR-COMN-01-L] Upper Eye Flap (Left).SLDPRT,Default,4,1
 1.1.13.5.4,[HEAD-D-UPR-A] Servo Arm.SLDASM,Default,6,1
 1.1.13.5.4.1,[HEAD-D-UPR-A-COMN-01] Servo Collar.SLDPRT,Left - Upper Eye Flaps,2,1
 1.1.13.5.4.2,[HEAD-D-UPR-A-COMN-01] Servo Collar.SLDPRT,Right - Upper Eye Flaps,2,1
 1.1.13.5.4.3,[HEAD-D-UPR-A-COMN-00] Rod.SLDPRT,Default,4,1
 1.1.13.5.4.4,SSCUPSKT 0.138-32x0.125-HX-N,"Socket Set Screw Cup Point #6-32 x 1/8"" (0.125"")",2,2
-1.1.13.5.5,CR-PHMS 0.06-80x0.75x0.75-N,"Pan Head Machine Screw (Cross Recessed) #0-80 x 3/4"" (0.75"")",2,2
-1.1.13.5.6,CR-PHMS 0.073-72x1x1-N,"Pan Head Machine Screw (Cross Recessed) #1-72 x 1"" (1"")",2,2
-1.1.13.5.7,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",1,4
-1.1.13.5.8,HX-SHCS 0.112-40x0.3125x0.3125-N,"Hex Socket Head Cap Screw #4-40 x 5/16"" (0.3125"")",7,2
+1.1.13.5.5,CR-PHMS 0.06-80x0.75x0.75-N,"Pan Head Machine Screw (Cross Recessed) #0-80 x 3/4"" (0.75"")",4,2
+1.1.13.5.6,CR-PHMS 0.073-72x1x1-N,"Pan Head Machine Screw (Cross Recessed) #1-72 x 1"" (1"")",4,2
+1.1.13.5.7,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",2,4
+1.1.13.5.8,HX-SHCS 0.112-40x0.3125x0.3125-N,"Hex Socket Head Cap Screw #4-40 x 5/16"" (0.3125"")",11,2
 1.1.13.6,[HEAD-D-UPR-R] Upper Eye Flap Assembly (Right).SLDASM,Default,9,1
 1.1.13.6.1,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDPRT,Without Sticker,2,1
-1.1.13.6.2,[HEAD-D-UPR-COMN-00] Servo Bracket.SLDPRT,Default,2,1
+1.1.13.6.2,[HEAD-D-UPR-COMN-00] Servo Bracket.SLDPRT,Default,3,1
 1.1.13.6.3,[HEAD-D-UPR-COMN-01-R] Upper Eye Flap (Right).SLDPRT,Default,4,1
 1.1.13.6.4,[HEAD-D-UPR-A] Servo Arm.SLDASM,Default,6,1
 1.1.13.6.4.1,[HEAD-D-UPR-A-COMN-01] Servo Collar.SLDPRT,Left - Upper Eye Flaps,2,1
 1.1.13.6.4.2,[HEAD-D-UPR-A-COMN-01] Servo Collar.SLDPRT,Right - Upper Eye Flaps,2,1
 1.1.13.6.4.3,[HEAD-D-UPR-A-COMN-00] Rod.SLDPRT,Default,4,1
 1.1.13.6.4.4,SSCUPSKT 0.138-32x0.125-HX-N,"Socket Set Screw Cup Point #6-32 x 1/8"" (0.125"")",2,2
-1.1.13.6.5,CR-PHMS 0.06-80x0.75x0.75-N,"Pan Head Machine Screw (Cross Recessed) #0-80 x 3/4"" (0.75"")",2,2
-1.1.13.6.6,CR-PHMS 0.073-72x1x1-N,"Pan Head Machine Screw (Cross Recessed) #1-72 x 1"" (1"")",2,2
-1.1.13.6.7,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",1,4
-1.1.13.6.8,HX-SHCS 0.112-40x0.3125x0.3125-N,"Hex Socket Head Cap Screw #4-40 x 5/16"" (0.3125"")",7,2
-1.1.13.7,[HEAD-E-V2-C] Basket.SLDASM,Default,6,1
+1.1.13.6.5,CR-PHMS 0.06-80x0.75x0.75-N,"Pan Head Machine Screw (Cross Recessed) #0-80 x 3/4"" (0.75"")",4,2
+1.1.13.6.6,CR-PHMS 0.073-72x1x1-N,"Pan Head Machine Screw (Cross Recessed) #1-72 x 1"" (1"")",4,2
+1.1.13.6.7,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",2,4
+1.1.13.6.8,HX-SHCS 0.112-40x0.3125x0.3125-N,"Hex Socket Head Cap Screw #4-40 x 5/16"" (0.3125"")",11,2
+1.1.13.7,[HEAD-E-V2-C] Basket.SLDASM,Default,7,1
 1.1.13.7.1,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDASM,Without Sticker,3,2
 1.1.13.7.1.1,[ELEC-SRVO-HS85BB] Hitec HS-85BB.SLDPRT,Without Sticker,2,1
 1.1.13.7.2,[HEAD-E-V2-C-COMN-00] Bottom Plate.SLDPRT,Standard,3,1
@@ -337,7 +336,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.13.7.4,[HEAD-E-V2-C-COMN-02] Top Plate.SLDPRT,Standard,3,1
 1.1.13.7.5,[HEAD-E-V2-C-COMN-03] Rear Plate.SLDPRT,Default,3,1
 1.1.13.7.6,[HEAD-E-V2-C-MSTR-00] Basket Master.SLDPRT,Standard,8,1
-1.1.13.7.7,SSCUPSKT 0.086-64x0.09375-HX-N,"Socket Set Screw Cup Point #2-64 x 3/32"" (0.09375"")",2,4
+1.1.13.7.7,SSCUPSKT 0.086-56x0.125-HX-N,"Socket Set Screw Cup Point #2-56 x 1/8"" (0.125"")",2,4
 1.1.13.7.8,SBHCSCREW 0.086-56x0.25-HX-N,"Socket Button Head Cap Screw #2-56 x 1/4"" (0.25"")",1,4
 1.1.13.7.9,SCHCSCREW 0.086-56x0.25x0.25-HX-N,"Socket Head Cap Screw #2-56 x 1/4"" (0.25"")",3,8
 1.1.13.7.10,DPM 0.0938x0.375,"Dowel Pin 3/32"" (0.0938"") dia x 3/8"" (0.375"")",1,1
@@ -347,7 +346,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.13.11,[HEAD-E-V2-B-04] Servo Arm Extension.SLDPRT,Default,4,1
 1.1.13.12,[HEAD-E-V2-B-01-L] Side Panel (Left).SLDPRT,Standard,9,1
 1.1.13.13,[HEAD-E-V2-B-01-R] Side Panel (Right).SLDPRT,Standard,11,1
-1.1.13.14,SL-FHMS 0.073-64x0.25x0.25-N,"Flat Head Machine Screw (Slotted) #1-64 x 1/4"" (0.25"")",1,8
+1.1.13.14,SL-FHMS 0.073-64x0.25x0.25-N,"Flat Head Machine Screw (Slotted) #1-64 x 1/4"" (0.25"")",2,8
 1.1.13.15,SBHCSCREW 0.086-56x0.188-HX-N,"Socket Button Head Cap Screw #2-56 x 0.188""",1,2
 1.1.13.16,SBHCSCREW 0.112-40x0.3125-HX-N,"Socket Button Head Cap Screw #4-40 x 5/16"" (0.3125"")",1,8
 1.1.13.17,ASME B18.8.2 - 0.25x0.25,"Straight Pin 1/4"" (0.25"") dia x 1/4"" (0.25"")",1,1
@@ -366,8 +365,8 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.14.2.9,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,4L,4,1
 1.1.14.2.10,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,5L,4,1
 1.1.14.2.11,CR-BHMS 0.06-80x0.188x0.188-N,"Binding Head Machine Screw (Cross Recessed) #0-80 x 0.188""",1,1
-1.1.14.2.12,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",1,10
-1.1.14.2.13,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",7,2
+1.1.14.2.12,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",2,10
+1.1.14.2.13,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",11,2
 1.1.14.2.14,ASME B18.8.2 - .03125x.3125,"Straight Pin 3125"" (03125"") dia x 3125"" (3125"")",1,5
 1.1.14.3,[HEAD-C-COMN-A-05] Holding Pin.SLDPRT,Left,3,1
 1.1.15,[HEAD-C-RGHT] Eye Tube Assembly (Right).SLDASM,Default,11,1
@@ -384,8 +383,8 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.15.2.9,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,5r,4,1
 1.1.15.2.10,[HEAD-C-COMN-A-04] Vent Fin with Mount.SLDPRT,1r,4,1
 1.1.15.2.11,CR-BHMS 0.06-80x0.188x0.188-N,"Binding Head Machine Screw (Cross Recessed) #0-80 x 0.188""",1,1
-1.1.15.2.12,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",1,10
-1.1.15.2.13,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",7,2
+1.1.15.2.12,SL-FHMS 0.06-80x0.125x0.125-N,"Flat Head Machine Screw (Slotted) #0-80 x 1/8"" (0.125"")",2,10
+1.1.15.2.13,HX-SHCS 0.086-56x0.375x0.375-N,"Hex Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",11,2
 1.1.15.2.14,ASME B18.8.2 - .03125x.3125,"Straight Pin 3125"" (03125"") dia x 3125"" (3125"")",1,5
 1.1.15.3,[HEAD-C-COMN-A-05] Holding Pin.SLDPRT,Right,3,1
 1.1.16,[HEAD-D-LWR-A] Retaining Bracket Assembly.SLDASM,Default,4,2
@@ -400,52 +399,48 @@ Item Number,Document,Configuration,Revision,Qty
 1.1.17.5,SBHCSCREW 0.073-72x0.375-HX-N,"Socket Button Head Cap Screw #1-72 x 3/8"" (0.375"")",1,4
 1.1.17.6,MSSQNUT 0.086-56-N,Machine Screw Square Nut #2-56,2,7
 1.1.17.7,MSHXNUT 0.086-56-D-N,Machine Screw Hex Nut #2-56,2,2
-1.1.18,[HEAD-J] Eye Pop.SLDASM,Default,6,1
+1.1.18,[HEAD-J] Eye Pop.SLDASM,v2 Actuator,7,1
 1.1.18.1,[HDWR-BELT-HEAD] Timing Belt 6mm x 103-Tooth (Gates GT 2MR103).SLDPRT,Default,2,2
 1.1.18.2,[HDWR-MISC] Nylon Spacer 1 ̸ 8 OD.SLDPRT,Default,1,4
 1.1.18.3,[HDWR-PULL] Timing 6mm Bore 20-Tooth (GT2).SLDPRT,5mm Bore,4,2
-1.1.18.4,[ELEC-SWCH] SPDT Miniature Limit Switch (605628).SLDPRT,Default,1,4
-1.1.18.5,[ELEC-MOTR-14HS201504S] Nema 14 Stepper Online 14HS20-1504S.SLDASM,Default,2,2
-1.1.18.5.1,[ELEC-MOTR-14HS201504S] Front Motor Cap.SLDPRT,Default,1,1
-1.1.18.5.2,[ELEC-MOTR-14HS201504S] Motor Core.SLDPRT,Default,1,1
-1.1.18.5.3,[ELEC-MOTR-14HS201504S] Rear Motor Cap.SLDPRT,Default,1,1
-1.1.18.5.4,[ELEC-MOTR-14HS201504S] Output Shaft.SLDPRT,Default,1,1
-1.1.18.6,[ELEC-CPU-TICT249] Pololu Stepper Motor Controller TIC-T249 (Right Angle Headers).SLDASM,Default,3,2
-1.1.18.6.1,[ELEC-CONN] Right Angle Header.SLDASM,1x10,3,1
-1.1.18.6.1.1,Body^[ELEC-CONN] Right Angle Header.sldprt,1x10,3,1
-1.1.18.6.1.2,Pin^[ELEC-CONN] Right Angle Header.sldprt,1x10,3,1
-1.1.18.6.2,[ELEC-CPU-TICT249] Pololu Stepper Motor Controller TIC-T249 (No Headers).SLDPRT,Default,1,1
-1.1.18.7,[HEAD-J-A-01] Stepper Motor Mount.SLDPRT,Default,2,1
-1.1.18.8,[HEAD-J-A-00] Mount Plate.SLDPRT,Default,4,1
-1.1.18.9,[HDWR-MISC-OPENXRAIL] Limit Switch Mount (D-605627).SLDPRT,Default,1,4
-1.1.18.10,[HDWR-MISC-OPENXRAIL] Surface Adaptor Bracket (585072).SLDPRT,Eye Pop Articulator,2,4
-1.1.18.11,[HEAD-J-B] Actuator.SLDASM,Default,5,2
-1.1.18.11.1,[HDWR-FSTR-CLIP-UK] E-Style Retaining Ring 4 x 9.3 x 0.7.SLDPRT,Default,2,2
-1.1.18.11.2,[HDWR-FSTR-STND] Unthreaded Spacer 6mm x 8mm x 1mm Acetal (1500-0010-0006).SLDPRT,Default,1,4
-1.1.18.11.3,[HDWR-PULL] Timing 6mm Bore 20-Tooth (GT2).SLDPRT,6mm Bore,4,1
-1.1.18.11.4,[HDWR-BRNG-BALL-UK-S] 6mm x 10mm x 3mm (106-2Z).SLDPRT,7804K111,1,2
-1.1.18.11.5,[HDWR-MISC-OPENXRAIL] 6 inch Rail (565106).SLDPRT,"4.95"" Eye Pop Actuator",1,1
-1.1.18.11.6,[HDWR-MISC-OPENXRAIL] 6mm Lead Screw Nut (545308).SLDPRT,Default,2,1
-1.1.18.11.7,[HDWR-MISC-OPENXRAIL] Screw Plate (585718).SLDPRT,Default,2,4
-1.1.18.11.8,[HDWR-MISC-OPENXRAIL] 350mm 6mm Lead Screw (3501-0606-0350).SLDPRT,Simple,3,1
-1.1.18.11.9,[HEAD-J-B-00] End Cap.SLDPRT,Default,1,2
-1.1.18.11.10,SBHCSCREW 0.138-32x0.5-HX-N,"Socket Button Head Cap Screw #6-32 x 1/2"" (0.5"")",1,8
-1.1.18.11.11,B18.3.6M - M4 x 0.7 x 4 Hex Socket Flat Pt. SS --N,Hex Socket Flat Pt. SS M4 x 0.7 x 4mm,1,2
-1.1.18.12,[HEAD-J-C-01] Arm.SLDPRT,Default,2,2
-1.1.18.13,CR-PHMS 0.073-72x0.375x0.375-N,"Pan Head Machine Screw (Cross Recessed) #1-72 x 3/8"" (0.375"")",2,8
-1.1.18.14,SBHCSCREW 0.164-32x0.75-HX-N,"Socket Button Head Cap Screw #8-32 x 3/4"" (0.75"")",1,4
-1.1.18.15,SBHCSCREW 0.138-32x0.4375-HX-N,"Socket Button Head Cap Screw #6-32 x 7/16"" (0.4375"")",1,12
-1.1.18.16,HX-SHCS 0.086-56x0.3125x0.3125-N,"Hex Socket Head Cap Screw #2-56 x 5/16"" (0.3125"")",7,4
-1.1.18.17,HX-SHCS 0.138-32x0.25x0.25-N,"Hex Socket Head Cap Screw #6-32 x 1/4"" (0.25"")",7,8
-1.1.18.18,HX-SHCS 0.138-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #6-32 x 7/16"" (0.4375"")",7,2
-1.1.18.19,B18.3.6M - M4 x 0.7 x 4 Hex Socket Flat Pt. SS --N,Hex Socket Flat Pt. SS M4 x 0.7 x 4mm,1,4
-1.1.18.20,B18.3.4M - 3 x 0.5 x 10 SBHCS --N,Socket Button Head Cap Screw M3 x 0.5 x 10mm,1,8
-1.1.18.21,"B18.22M - Plain washer, 3 mm, narrow",Plain washer (narrow) M3,1,8
+1.1.18.4,[ELEC-MOTR-14HS201504S] Nema 14 Stepper Online 14HS20-1504S.SLDASM,Default,2,2
+1.1.18.4.1,[ELEC-MOTR-14HS201504S] Front Motor Cap.SLDPRT,Default,1,1
+1.1.18.4.2,[ELEC-MOTR-14HS201504S] Motor Core.SLDPRT,Default,1,1
+1.1.18.4.3,[ELEC-MOTR-14HS201504S] Rear Motor Cap.SLDPRT,Default,1,1
+1.1.18.4.4,[ELEC-MOTR-14HS201504S] Output Shaft.SLDPRT,Default,1,1
+1.1.18.5,[ELEC-CPU-TICT249] Pololu Stepper Motor Controller TIC-T249 (Right Angle Headers).SLDASM,Default,3,2
+1.1.18.5.1,[ELEC-CONN] Right Angle Header.SLDASM,1x10,3,1
+1.1.18.5.1.1,Body^[ELEC-CONN] Right Angle Header.sldprt,1x10,3,1
+1.1.18.5.1.2,Pin^[ELEC-CONN] Right Angle Header.sldprt,1x10,3,1
+1.1.18.5.2,[ELEC-CPU-TICT249] Pololu Stepper Motor Controller TIC-T249 (No Headers).SLDPRT,Default,1,1
+1.1.18.6,[HEAD-J-A-01] Stepper Motor Mount.SLDPRT,Default,2,1
+1.1.18.7,[HEAD-J-A-00] Mount Plate.SLDPRT,Default,5,1
+1.1.18.8,[HDWR-MISC-OPENXRAIL] Surface Adaptor Bracket (585072).SLDPRT,Eye Pop Articulator,2,4
+1.1.18.9,[HEAD-J-B-V2] 8mm Lead Screw Actuator.SLDASM,Default,3,2
+1.1.18.9.1,[HDWR-BRNG-BALL-UK-F-81235] 8mm x 12mm x 3.5mm.SLDPRT,Default,2,2
+1.1.18.9.2,[HDWR-FSTR-STND] Unthreaded Spacer 8mm x 10mm (Variable).SLDPRT,1,2,2
+1.1.18.9.3,[HDWR-MISC-8LN] 8mm Lead Screw Lock Nut.SLDPRT,Default,2,1
+1.1.18.9.4,[HDWR-PULL] Timing 6mm Bore 20-Tooth (GT2).SLDPRT,8mm Bore,4,1
+1.1.18.9.5,[ELEC-SWCH-OPB8] Optical Limit Switch (OPB841W51Z).SLDPRT,Default,2,2
+1.1.18.9.6,[HDWR-MISC-OPENXRAIL] 150mm 8mm Lead Screw (3501-0804-0150).SLDPRT,Simple,2,1
+1.1.18.9.7,[HDWR-MISC-OPENXRAIL] 8mm Lead Screw Nut (3503-0804-0038).SLDPRT,Modified,2,1
+1.1.18.9.8,[HEAD-J-C-02] Optical Switch Block.SLDPRT,Default,2,1
+1.1.18.9.9,[HEAD-J-B-V2-01] Slide Housing.SLDPRT,Default,1,1
+1.1.18.9.10,[HEAD-J-B-V2-00] Actuator Bar.SLDPRT,Default,2,1
+1.1.18.9.11,SBHCSCREW 0.112-40x0.188-HX-N,"Socket Button Head Cap Screw #4-40 x 0.188""",1,4
+1.1.18.9.12,B18.3.6M - M5 x 0.8 x 3 Hex Socket Type I Cup Pt. SS --N,Hex Socket Type I Cup Pt. SS M5 x 0.8 x 3mm,1,1
+1.1.18.9.13,B18.3.1M - 4 x 0.7 x 12 Hex SHCS -- 12NHX,Hex Socket Head Cap Screw M4 x 0.7 x 12mm,1,3
+1.1.18.10,SBHCSCREW 0.164-32x0.75-HX-N,"Socket Button Head Cap Screw #8-32 x 3/4"" (0.75"")",1,4
+1.1.18.11,SBHCSCREW 0.138-32x0.4375-HX-N,"Socket Button Head Cap Screw #6-32 x 7/16"" (0.4375"")",1,10
+1.1.18.12,HX-SHCS 0.086-56x0.3125x0.3125-N,"Hex Socket Head Cap Screw #2-56 x 5/16"" (0.3125"")",11,4
+1.1.18.13,B18.3.6M - M4 x 0.7 x 4 Hex Socket Flat Pt. SS --N,Hex Socket Flat Pt. SS M4 x 0.7 x 4mm,1,4
+1.1.18.14,B18.3.4M - 3 x 0.5 x 10 SBHCS --N,Socket Button Head Cap Screw M3 x 0.5 x 10mm,1,8
+1.1.18.15,"B18.22M - Plain washer, 3 mm, narrow",Plain washer (narrow) M3,1,8
 1.1.19,SBHCSCREW 0.086-56x0.5625-HX-N,"Socket Button Head Cap Screw #2-56 x 9/16"" (0.5625"")",1,4
 1.1.20,SCHCSCREW 0.086-56x0.3125x0.3125-HX-N,"Socket Head Cap Screw #2-56 x 5/16"" (0.3125"")",3,6
 1.1.21,SCHCSCREW 0.086-56x0.375x0.375-HX-N,"Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",3,8
-1.1.22,HX-SHCS 0.112-40x0.4375x0.4375-N,"Hex Socket Head Cap Screw #4-40 x 7/16"" (0.4375"")",7,4
-1.1.23,HX-SHCS 0.138-32x0.625x0.625-N,"Hex Socket Head Cap Screw #6-32 x 5/8"" (0.625"")",7,4
+1.1.22,HX-SHCS 0.112-40x0.4375x0.4375-N,"Hex Socket Head Cap Screw #4-40 x 7/16"" (0.4375"")",11,4
+1.1.23,HX-SHCS 0.138-32x0.625x0.625-N,"Hex Socket Head Cap Screw #6-32 x 5/8"" (0.625"")",11,4
 1.1.24,MSSQNUT 0.086-56-N,Machine Screw Square Nut #2-56,2,6
 1.2,[NECK] Neck Assembly.SLDASM,V3,42,1
 1.2.1,[HDWR-BELT-NECK] Timing Belt HTD 306mm (A 6R23M102060).SLDPRT,Default,5,1
@@ -473,7 +468,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.2.3.8,[HDWR-HYDR-FABK5X-V1-COMN-02] Bottom Cap.SLDPRT,Default,2,1
 1.2.3.9,[HDWR-HYDR-FABK5X-V1-COMN-03] Piston.SLDPRT,Default,2,1
 1.2.3.10,[NECK-COMN-00] Bottom Ball Mounting Plate.SLDPRT,Default,4,1
-1.2.3.11,CR-FHMS 0.112-40x0.3125x0.3125-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 5/16"" (0.3125"")",1,8
+1.2.3.11,CR-FHMS 0.112-40x0.3125x0.3125-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 5/16"" (0.3125"")",2,8
 1.2.3.12,SBHCSCREW 0.138-32x0.5-HX-N,"Socket Button Head Cap Screw #6-32 x 1/2"" (0.5"")",1,2
 1.2.3.13,SCHCSCREW 0.164-32x0.625x0.625-HX-N,"Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",3,1
 1.2.4,[HDWR-HYDR-FABK5X] Fabco K-5-X with Fittings & Balls.SLDASM,Right Side,10,1
@@ -499,7 +494,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.2.4.8,[HDWR-HYDR-FABK5X-V1-COMN-02] Bottom Cap.SLDPRT,Default,2,1
 1.2.4.9,[HDWR-HYDR-FABK5X-V1-COMN-03] Piston.SLDPRT,Default,2,1
 1.2.4.10,[NECK-COMN-00] Bottom Ball Mounting Plate.SLDPRT,Default,4,1
-1.2.4.11,CR-FHMS 0.112-40x0.3125x0.3125-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 5/16"" (0.3125"")",1,8
+1.2.4.11,CR-FHMS 0.112-40x0.3125x0.3125-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 5/16"" (0.3125"")",2,8
 1.2.4.12,SBHCSCREW 0.138-32x0.5-HX-N,"Socket Button Head Cap Screw #6-32 x 1/2"" (0.5"")",1,2
 1.2.4.13,SCHCSCREW 0.164-32x0.625x0.625-HX-N,"Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",3,1
 1.2.5,[HDWR-MISC] Rubber Bellows 3 ̸ 4'' ID (HEAD).SLDPRT,Default,6,1
@@ -523,11 +518,11 @@ Item Number,Document,Configuration,Revision,Qty
 1.2.7.9,[NECK-A-COMN-06] Spring Bushing Standoff Sleeve.SLDPRT,Default,1,1
 1.2.7.10,[NECK-A-COMN-07] Spring Bushing Spacer Sleeve.SLDPRT,Default,1,1
 1.2.7.11,[NECK-A-COMN-00] C-Channel.SLDPRT,V2,2,1
-1.2.7.12,[NECK-A-COMN-05] Spring Spacer Plate.SLDPRT,Default,4,1
+1.2.7.12,[NECK-A-COMN-05] Spring Spacer Plate.SLDPRT,Default,5,1
 1.2.7.13,[HDWR-FSTR-GLU] Double Sided Acrylic Tape 15mm x 0.2mm.SLDPRT,70mm,2,2
-1.2.7.14,HX-SHCS 0.25-20x0.625x0.625-N,"Hex Socket Head Cap Screw 1/4""-20 x 5/8"" (0.625"")",7,1
-1.2.7.15,HX-SHCS 0.25-20x2.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-20 x 2-1/4"" (2.25"")",7,1
-1.2.7.16,HX-SHCS 0.375-24x1.25x1.25-N,"Hex Socket Head Cap Screw 3/8""-24 x 1-1/4"" (1.25"")",7,1
+1.2.7.14,HX-SHCS 0.25-20x0.625x0.625-N,"Hex Socket Head Cap Screw 1/4""-20 x 5/8"" (0.625"")",11,1
+1.2.7.15,HX-SHCS 0.25-20x2.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-20 x 2-1/4"" (2.25"")",11,1
+1.2.7.16,HX-SHCS 0.375-24x1.25x1.25-N,"Hex Socket Head Cap Screw 3/8""-24 x 1-1/4"" (1.25"")",11,1
 1.2.8,[NECK-E] Head Mount.SLDASM,Default,13,1
 1.2.8.1,[HDWR-FSTR-PIN] Push-Button Quick-Release Pin 1 ̸ 4 x 5 ̸ 16.SLDPRT,Default,4,1
 1.2.8.2,[HDWR-FSTR-STND] Male-Female Threaded Hex Standoff #2-56 x 3 ̸ 16.SLDPRT,Simplified,2,4
@@ -574,8 +569,8 @@ Item Number,Document,Configuration,Revision,Qty
 1.2.14.7,[NECK-D-V3-COMN-01] 3D Printable Timing Pulley HTD 72-Tooth.SLDPRT,Modified,3,1
 1.2.14.8,[NECK-D-V3-COMN-04] Neck Shaft.SLDPRT,Default,4,1
 1.2.14.9,SCHCSCREW 0.164-32x0.5x0.5-HX-N,"Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",3,2
-1.2.14.10,HX-SHCS 0.112-40x0.375x0.375-N,"Hex Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",7,8
-1.2.14.11,HX-SHCS 0.112-40x1.25x1-N,"Hex Socket Head Cap Screw #4-40 x 1-1/4"" (1.25"")",7,4
+1.2.14.10,HX-SHCS 0.112-40x0.375x0.375-N,"Hex Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",11,8
+1.2.14.11,HX-SHCS 0.112-40x1.25x1-N,"Hex Socket Head Cap Screw #4-40 x 1-1/4"" (1.25"")",11,4
 1.2.14.12,SPS 0.0938x0.875,"Slotted Spring Pin 3/32"" (0.0938"") dia x 7/8"" (0.875"")",1,1
 1.2.15,IN-HHMS 0.25-28x0.5x0.5-N,"Indented Hex Head Machine Screw 1/4""-28 x 1/2"" (0.5"")",1,1
 1.3,[NECK-F-FRNT] Front Rod.SLDASM,Default,5,1
@@ -587,8 +582,8 @@ Item Number,Document,Configuration,Revision,Qty
 1.3.6,[NECK-F-FRNT-COMN-00] Upper Block.SLDPRT,Default,2,1
 1.3.7,[NECK-F-FRNT-COMN-01] Lower Block.SLDPRT,Default,2,1
 1.3.8,[NECK-F-FRNT-COMN-02] Collar.SLDPRT,Default,4,1
-1.3.9,HX-SHCS 0.138-32x0.875x0.875-N,"Hex Socket Head Cap Screw #6-32 x 7/8"" (0.875"")",7,1
-1.3.10,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",7,2
+1.3.9,HX-SHCS 0.138-32x0.875x0.875-N,"Hex Socket Head Cap Screw #6-32 x 7/8"" (0.875"")",11,1
+1.3.10,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",11,2
 1.4,[ARM-RGHT] Arm (Right).SLDASM,Default,4,1
 1.4.1,[HDWR-SHFT] 8mm REX Shaft with E-Clip 54mm.SLDPRT,Default,2,1
 1.4.2,[ARM-B-COMN-05] Nylon Spacer.SLDPRT,Default,2,2
@@ -606,7 +601,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.4.4.2.4,SSCUPSKT 0.19-32x0.25-HX-N,"Socket Set Screw Cup Point #10-32 x 1/4"" (0.25"")",2,4
 1.4.4.2.5,SBHCSCREW 0.125-40x0.4375-HX-N,"Socket Button Head Cap Screw #5-40 x 7/16"" (0.4375"")",1,2
 1.4.4.2.6,SCHCSCREW 0.125-40x0.75x0.75-HX-N,"Socket Head Cap Screw #5-40 x 3/4"" (0.75"")",3,2
-1.4.4.2.7,HX-SHCS 0.138-32x0.5x0.5-N,"Hex Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",7,2
+1.4.4.2.7,HX-SHCS 0.138-32x0.5x0.5-N,"Hex Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",11,2
 1.4.4.3,[ARM-D-C] Lift Pulley.SLDASM,Default,9,1
 1.4.4.3.1,[HDWR-BRNG-BALL-US-F] 1 ̸ 4 x 3 ̸ 8 x 1 ̸ 8 (FR168ZZ).SLDPRT,Default,4,2
 1.4.4.3.2,[HDWR-FSTR-SCRW] Set Screw Cup Point #2-56 x 1 ̸ 16.SLDPRT,Simplified,5,4
@@ -620,7 +615,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.4.4.3.10,[ARM-D-C-COMN-00] Spacer Bar.SLDPRT,Default,5,1
 1.4.4.3.11,SBHCSCREW 0.164-32x0.25-HX-N,"Socket Button Head Cap Screw #8-32 x 1/4"" (0.25"")",1,2
 1.4.4.3.12,SCHCSCREW 0.112-40x0.5x0.5-HX-N,"Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",3,2
-1.4.4.3.13,HX-SHCS 0.112-40x0.25x0.25-N,"Hex Socket Head Cap Screw #4-40 x 1/4"" (0.25"")",7,8
+1.4.4.3.13,HX-SHCS 0.112-40x0.25x0.25-N,"Hex Socket Head Cap Screw #4-40 x 1/4"" (0.25"")",11,8
 1.4.4.3.14,SPS 0.125x0.5,"Slotted Spring Pin 1/8"" (0.125"") dia x 1/2"" (0.5"")",1,2
 1.4.4.4,[ARM-D-D] Hand Mounting Block.SLDASM,Left Hand,4,1
 1.4.4.4.1,[ARM-D-D-COMN-00] Hand Mounting Block.SLDPRT,Default,5,1
@@ -662,7 +657,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.4.5.2.11.4,[ARM-E-B-B-A-COMN-00-V2] Knuckle (V2).SLDPRT,Default,3,1
 1.4.5.2.11.5,SSCUPSKT 0.112-40x0.1875-HX-N,"Socket Set Screw Cup Point #4-40 x 3/16"" (0.1875"")",2,2
 1.4.5.2.11.6,ASME B18.8.2 - 0.1875x0.5,"Straight Pin 3/16"" (0.1875"") dia x 1/2"" (0.5"")",1,1
-1.4.5.2.12,HX-SHCS 0.19-24x0.5x0.5-N,"Hex Socket Head Cap Screw #10-24 x 1/2"" (0.5"")",7,1
+1.4.5.2.12,HX-SHCS 0.19-24x0.5x0.5-N,"Hex Socket Head Cap Screw #10-24 x 1/2"" (0.5"")",11,1
 1.4.5.3,[ARM-E-B-A-R] Finger (Right).SLDASM,Left,9,1
 1.4.5.3.1,[HDWR-PULL-FIT] Cable Crimp 8mm x 2mm.SLDPRT,Default,3,1
 1.4.5.3.2,[HDWR-SPNG] Utility Spring 1 x .187 x 0.023 (MCM 94135K1).SLDPRT,94135K1,2,1
@@ -791,7 +786,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.4.6.12,SCHCSCREW 0.112-40x0.375x0.375-HX-N,"Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",3,4
 1.4.6.13,SCHCSCREW 0.19-24x0.75x0.75-HX-N,"Socket Head Cap Screw #10-24 x 3/4"" (0.75"")",3,2
 1.4.6.14,SCHCSCREW 0.19-24x0.875x0.875-HX-N,"Socket Head Cap Screw #10-24 x 7/8"" (0.875"")",3,4
-1.4.6.15,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",7,2
+1.4.6.15,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",11,2
 1.4.6.16,Selected Narrow FW 0.188,"Selected Narrow Flat Washer 0.188""",2,2
 1.4.7,[ARM-B-RGHT] Upper Arm (Right).SLDASM,Default,4,1
 1.4.7.1,[HDWR-BRNG-BALL-UK-F] 32mm x 41mm x 5mm (1601-0039-0032).SLDPRT,Default,2,1
@@ -884,10 +879,10 @@ Item Number,Document,Configuration,Revision,Qty
 1.4.7.33.13,B18.6.7M - M3.5 x 0.6 x 5 Type I Cross Recessed PHMS --5N,Pan Head Machine Screw (Cross Recessed) M3.5 x 0.6 x 5mm,1,1
 1.4.7.33.14,B18.3.4M - 4 x 0.7 x 5 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 5mm,1,4
 1.4.7.34,Belt1-1^[ARM-B-RGHT] Upper Arm (Right).SLDPRT,Default,4,1
-1.4.7.35,CR-FHMS 0.112-40x0.375x0.375-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 3/8"" (0.375"")",1,3
+1.4.7.35,CR-FHMS 0.112-40x0.375x0.375-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 3/8"" (0.375"")",2,3
 1.4.7.36,SBHCSCREW 0.138-32x1.25-HX-N,"Socket Button Head Cap Screw #6-32 x 1-1/4"" (1.25"")",1,4
 1.4.7.37,SCHCSCREW 0.25-20x0.75x0.75-HX-N,"Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",3,2
-1.4.7.38,HX-SHCS 0.112-40x0.375x0.375-N,"Hex Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",7,39
+1.4.7.38,HX-SHCS 0.112-40x0.375x0.375-N,"Hex Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",11,39
 1.4.7.39,B18.3.1M - 4 x 0.7 x 10 Hex SHCS -- 10NHX,Hex Socket Head Cap Screw M4 x 0.7 x 10mm,1,2
 1.4.7.40,B18.3.1M - 4 x 0.7 x 25 Hex SHCS -- 25NHX,Hex Socket Head Cap Screw M4 x 0.7 x 25mm,1,3
 1.4.7.41,B18.3.1M - 4 x 0.7 x 20 Hex SHCS -- 20NHX,Hex Socket Head Cap Screw M4 x 0.7 x 20mm,1,1
@@ -996,10 +991,10 @@ Item Number,Document,Configuration,Revision,Qty
 1.5.3.34.12,SBHCSCREW 0.112-40x1.125-HX-N,"Socket Button Head Cap Screw #4-40 x 1-1/8"" (1.125"")",1,2
 1.5.3.34.13,B18.6.7M - M3.5 x 0.6 x 5 Type I Cross Recessed PHMS --5N,Pan Head Machine Screw (Cross Recessed) M3.5 x 0.6 x 5mm,1,1
 1.5.3.34.14,B18.3.4M - 4 x 0.7 x 5 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 5mm,1,4
-1.5.3.35,CR-FHMS 0.112-40x0.375x0.375-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 3/8"" (0.375"")",1,3
+1.5.3.35,CR-FHMS 0.112-40x0.375x0.375-N,"Flat Head Machine Screw (Cross Recessed) #4-40 x 3/8"" (0.375"")",2,3
 1.5.3.36,SBHCSCREW 0.138-32x1.25-HX-N,"Socket Button Head Cap Screw #6-32 x 1-1/4"" (1.25"")",1,4
 1.5.3.37,SCHCSCREW 0.25-20x0.75x0.75-HX-N,"Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",3,2
-1.5.3.38,HX-SHCS 0.112-40x0.375x0.375-N,"Hex Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",7,39
+1.5.3.38,HX-SHCS 0.112-40x0.375x0.375-N,"Hex Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",11,39
 1.5.3.39,B18.3.1M - 4 x 0.7 x 10 Hex SHCS -- 10NHX,Hex Socket Head Cap Screw M4 x 0.7 x 10mm,1,2
 1.5.3.40,B18.3.1M - 4 x 0.7 x 25 Hex SHCS -- 25NHX,Hex Socket Head Cap Screw M4 x 0.7 x 25mm,1,3
 1.5.3.41,B18.3.1M - 4 x 0.7 x 20 Hex SHCS -- 20NHX,Hex Socket Head Cap Screw M4 x 0.7 x 20mm,1,1
@@ -1029,7 +1024,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.5.6.2.4,SSCUPSKT 0.19-32x0.25-HX-N,"Socket Set Screw Cup Point #10-32 x 1/4"" (0.25"")",2,4
 1.5.6.2.5,SBHCSCREW 0.125-40x0.4375-HX-N,"Socket Button Head Cap Screw #5-40 x 7/16"" (0.4375"")",1,2
 1.5.6.2.6,SCHCSCREW 0.125-40x0.75x0.75-HX-N,"Socket Head Cap Screw #5-40 x 3/4"" (0.75"")",3,2
-1.5.6.2.7,HX-SHCS 0.138-32x0.5x0.5-N,"Hex Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",7,2
+1.5.6.2.7,HX-SHCS 0.138-32x0.5x0.5-N,"Hex Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",11,2
 1.5.6.3,[ARM-D-C] Lift Pulley.SLDASM,Default,9,1
 1.5.6.3.1,[HDWR-BRNG-BALL-US-F] 1 ̸ 4 x 3 ̸ 8 x 1 ̸ 8 (FR168ZZ).SLDPRT,Default,4,2
 1.5.6.3.2,[HDWR-FSTR-SCRW] Set Screw Cup Point #2-56 x 1 ̸ 16.SLDPRT,Simplified,5,4
@@ -1043,7 +1038,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.5.6.3.10,[ARM-D-C-COMN-00] Spacer Bar.SLDPRT,Default,5,1
 1.5.6.3.11,SBHCSCREW 0.164-32x0.25-HX-N,"Socket Button Head Cap Screw #8-32 x 1/4"" (0.25"")",1,2
 1.5.6.3.12,SCHCSCREW 0.112-40x0.5x0.5-HX-N,"Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",3,2
-1.5.6.3.13,HX-SHCS 0.112-40x0.25x0.25-N,"Hex Socket Head Cap Screw #4-40 x 1/4"" (0.25"")",7,8
+1.5.6.3.13,HX-SHCS 0.112-40x0.25x0.25-N,"Hex Socket Head Cap Screw #4-40 x 1/4"" (0.25"")",11,8
 1.5.6.3.14,SPS 0.125x0.5,"Slotted Spring Pin 1/8"" (0.125"") dia x 1/2"" (0.5"")",1,2
 1.5.6.4,[ARM-D-D] Hand Mounting Block.SLDASM,Left Hand,4,1
 1.5.6.4.1,[ARM-D-D-COMN-00] Hand Mounting Block.SLDPRT,Default,5,1
@@ -1101,7 +1096,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.5.7.12,SCHCSCREW 0.112-40x0.375x0.375-HX-N,"Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",3,4
 1.5.7.13,SCHCSCREW 0.19-24x0.75x0.75-HX-N,"Socket Head Cap Screw #10-24 x 3/4"" (0.75"")",3,2
 1.5.7.14,SCHCSCREW 0.19-24x0.875x0.875-HX-N,"Socket Head Cap Screw #10-24 x 7/8"" (0.875"")",3,4
-1.5.7.15,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",7,2
+1.5.7.15,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",11,2
 1.5.7.16,Selected Narrow FW 0.188,"Selected Narrow Flat Washer 0.188""",2,2
 1.5.8,[ARM-E] Hand.SLDASM,Middle,8,1
 1.5.8.1,[ARM-E-A] Hand Plates.SLDASM,Default,5,1
@@ -1139,7 +1134,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.5.8.2.11.4,[ARM-E-B-B-A-COMN-00-V2] Knuckle (V2).SLDPRT,Default,3,1
 1.5.8.2.11.5,SSCUPSKT 0.112-40x0.1875-HX-N,"Socket Set Screw Cup Point #4-40 x 3/16"" (0.1875"")",2,2
 1.5.8.2.11.6,ASME B18.8.2 - 0.1875x0.5,"Straight Pin 3/16"" (0.1875"") dia x 1/2"" (0.5"")",1,1
-1.5.8.2.12,HX-SHCS 0.19-24x0.5x0.5-N,"Hex Socket Head Cap Screw #10-24 x 1/2"" (0.5"")",7,1
+1.5.8.2.12,HX-SHCS 0.19-24x0.5x0.5-N,"Hex Socket Head Cap Screw #10-24 x 1/2"" (0.5"")",11,1
 1.5.8.3,[ARM-E-B-A-R] Finger (Right).SLDASM,Left,9,1
 1.5.8.3.1,[HDWR-PULL-FIT] Cable Crimp 8mm x 2mm.SLDPRT,Default,3,1
 1.5.8.3.2,[HDWR-SPNG] Utility Spring 1 x .187 x 0.023 (MCM 94135K1).SLDPRT,94135K1,2,1
@@ -1243,7 +1238,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.3.16,[TUPR-A-COMN-05] Rear Hinge.SLDPRT,Default,4,2
 1.6.1.3.17,[TUPR-A-COMN-01] Front Plate.SLDPRT,Default,7,1
 1.6.1.3.18,[TUPR-A-COMN-02-L] Flare Plate (Left).SLDPRT,Default,8,1
-1.6.1.3.19,[TUPR-A-COMN-02-R] Flare Plate (Right).SLDPRT,Default,8,1
+1.6.1.3.19,[TUPR-A-COMN-02-R] Flare Plate (Right).SLDPRT,Default,9,1
 1.6.1.3.20,[TUPR-A-COMN-00-L] Side Plate (Left).SLDPRT,Smooth,10,1
 1.6.1.3.21,[TUPR-A-COMN-00-R] Side Plate (Right).SLDPRT,Smooth,10,1
 1.6.1.3.22,HBOLT 0.3125-18x1x0.875-N,"Hex Bolt 5/16""-18 x 1"" (1"")",2,6
@@ -1251,7 +1246,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.3.24,SBHCSCREW 0.164-32x0.5-HX-N,"Socket Button Head Cap Screw #8-32 x 1/2"" (0.5"")",1,8
 1.6.1.3.25,SBHCSCREW 0.164-32x0.875-HX-N,"Socket Button Head Cap Screw #8-32 x 7/8"" (0.875"")",1,8
 1.6.1.3.26,SBHCSCREW 0.164-32x0.5625-HX-N,"Socket Button Head Cap Screw #8-32 x 9/16"" (0.5625"")",1,20
-1.6.1.3.27,HX-SHCS 0.25-28x3.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 3-1/4"" (3.25"")",7,1
+1.6.1.3.27,HX-SHCS 0.25-28x3.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 3-1/4"" (3.25"")",11,1
 1.6.1.3.28,MSSQNUT 0.164-32-N,Machine Screw Square Nut #8-32,2,2
 1.6.1.4,[TUPR-E] Accessory Mount.SLDASM,TLBX (With Coverings),17,1
 1.6.1.4.1,[ACC-TLBX] Toolbox.SLDASM,Default,5,1
@@ -1273,7 +1268,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.4.1.7.2,[ACC-TLBX-D-COMN-01] Tubular Rivet.SLDPRT,Default,1,2
 1.6.1.4.1.7.3,[ACC-TLBX-D-COMN-00] Mounting Plate (H-012A).SLDPRT,Default,1,2
 1.6.1.4.1.8,[HDWR-FSTR-NUT] NYHXNUT #6-32-D.SLDPRT,Simplified,3,4
-1.6.1.4.1.9,CR-PHMS 0.138-32x0.5625x0.5625-N,"Pan Head Machine Screw (Cross Recessed) #6-32 x 9/16"" (0.5625"")",2,4
+1.6.1.4.1.9,CR-PHMS 0.138-32x0.5625x0.5625-N,"Pan Head Machine Screw (Cross Recessed) #6-32 x 9/16"" (0.5625"")",4,4
 1.6.1.4.1.10,FLATCKT 0.164-19-type I-AB-1.25-N,Flat Countersunk Tapping Screw #8-19,1,6
 1.6.1.4.2,[HDWR-FSTR-NUT] Binding Barrel #10-24-D x 1 ̸ 4.SLDPRT,99637A179,2,9
 1.6.1.4.3,[HDWR-FSTR-NUT] NYTHNHXNUT #8-32-D.SLDPRT,Simplified,4,1
@@ -1284,15 +1279,15 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.4.5.3,[ELEC-ACTR-SKF-COMN-00] Limit Switch Cover.SLDPRT,Static & Dynamic LASR Mount,3,1
 1.6.1.4.5.4,[ELEC-ACTR-SKF-COMN-02] Limit Switch Dust Cover.SLDPRT,Modified,3,1
 1.6.1.4.5.5,[ELEC-ACTR-SKF-CAR32-C-00] Limit Switch Sleeve (CAXB32).SLDPRT,Modified (Static & Dynamic LASR Mount),6,1
-1.6.1.4.5.6,[TUPR-E-TLBX-COMN-02] Hinge.SLDPRT,Default,4,1
+1.6.1.4.5.6,[TUPR-E-TLBX-COMN-02] Hinge.SLDPRT,Default,5,1
 1.6.1.4.5.7,[TUPR-E-COMN-07] Plug Plate.SLDPRT,Default,1,1
 1.6.1.4.5.8,[TUPR-E-COMN-05] Filler Tube.SLDPRT,Static & Dynamic LASR Mount,3,1
 1.6.1.4.5.9,[TUPR-E-LASR-COMN-03] Shaft Coupling.SLDPRT,Default,4,1
 1.6.1.4.5.10,[TUPR-E-LASR-COMN-00] Vertical Tube.SLDPRT,Default,5,1
 1.6.1.4.5.11,[TUPR-E-LASR-COMN-01] Hinge Plug.SLDPRT,Default,5,1
 1.6.1.4.5.12,SSCUPSKT 0.138-32x0.375-HX-N,"Socket Set Screw Cup Point #6-32 x 3/8"" (0.375"")",2,3
-1.6.1.4.5.13,HX-SHCS 0.112-40x0.4375x0.4375-N,"Hex Socket Head Cap Screw #4-40 x 7/16"" (0.4375"")",7,2
-1.6.1.4.5.14,HX-SHCS 0.112-40x0.875x0.875-N,"Hex Socket Head Cap Screw #4-40 x 7/8"" (0.875"")",7,3
+1.6.1.4.5.13,HX-SHCS 0.112-40x0.4375x0.4375-N,"Hex Socket Head Cap Screw #4-40 x 7/16"" (0.4375"")",11,2
+1.6.1.4.5.14,HX-SHCS 0.112-40x0.875x0.875-N,"Hex Socket Head Cap Screw #4-40 x 7/8"" (0.875"")",11,3
 1.6.1.4.6,[TUPR-E-COMN-06] Clamp Bracket.SLDPRT,Default,1,1
 1.6.1.4.7,[TUPR-E-COMN-00] Base Plate.SLDPRT,Default,5,1
 1.6.1.4.8,[TUPR-E-COVR-01] Disc.SLDPRT,Default,3,1
@@ -1301,11 +1296,11 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.4.11,[HDWR-FRAM] Extruded Aluminum Frame (25-5050).SLDPRT,111.125mm,4,1
 1.6.1.4.12,IN-HHMS 0.164-32x1x1-N,"Indented Hex Head Machine Screw #8-32 x 1"" (1"")",1,1
 1.6.1.4.13,SCHCSCREW 0.112-40x0.4375x0.4375-HX-N,"Socket Head Cap Screw #4-40 x 7/16"" (0.4375"")",3,3
-1.6.1.4.14,HX-SHCS 0.19-24x.125x.125-N,"Hex Socket Head Cap Screw #10-24 x 1/8"" (.125"")",7,2
-1.6.1.4.15,HX-SHCS 0.19-24x5.25x.875-N,"Hex Socket Head Cap Screw #10-24 x 5-1/4"" (5.25"")",7,9
+1.6.1.4.14,HX-SHCS 0.19-24x.125x.125-N,"Hex Socket Head Cap Screw #10-24 x 1/8"" (.125"")",11,2
+1.6.1.4.15,HX-SHCS 0.19-24x5.25x.875-N,"Hex Socket Head Cap Screw #10-24 x 5-1/4"" (5.25"")",11,9
 1.6.1.4.16,Preferred Narrow FW 0.164,"Preferred Narrow Flat Washer 0.164""",2,2
 1.6.1.4.17,B18.3.5M - 4 x 0.7 x 12 Socket FCHS  -- 12N,Socket Flat Countersunk Head Screw M4 x 0.7 x 12mm,1,8
-1.6.1.5,[TUPR-B] Shoulder Tube Assembly.SLDASM,Flipped motor nuts (Screen Accurate),22,1
+1.6.1.5,[TUPR-B] Shoulder Tube Assembly.SLDASM,Flipped motor nuts (Screen Accurate),23,1
 1.6.1.5.1,[HDWR-BRNG-BALL-US-S] 3 ̸ 4 x 40mm x 12mm (6203-2RS-12).SLDPRT,Default,2,2
 1.6.1.5.2,[HDWR-FSTR-NUT] NYHXNUT 1 ̸ 4-28-D.SLDPRT,Simplified,1,1
 1.6.1.5.3,[HDWR-FSTR-SCRW] Low-Profile Socket Head Cap Screw 3 ̸ 8-16 x 1-1 ̸ 2.SLDPRT,Simplified,1,2
@@ -1317,7 +1312,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.5.9,[TUPR-B-COMN-06] Printable Bushing.SLDPRT,Default,1,1
 1.6.1.5.10,[TUPR-B-COMN-04] Neck Rod Mount Block.SLDPRT,Default,2,2
 1.6.1.5.11,[TUPR-B-COMN-03] Lug Spacer.SLDPRT,Default,3,2
-1.6.1.5.12,[TUPR-B-COMN-02] Pivot Lug.SLDPRT,Default,5,2
+1.6.1.5.12,[TUPR-B-COMN-02] Pivot Lug.SLDPRT,Default,6,2
 1.6.1.5.13,[TUPR-B-COMN-00-V2.0] Shoulder Tube (Input-Inc).SLDPRT,Default,7,1
 1.6.1.5.14,[TUPR-B-COVR-01] Potentiometer Covering.SLDPRT,Default,2,1
 1.6.1.5.15,[TUPR-B-COVR-00] Center Covering.SLDPRT,Default,4,1
@@ -1354,8 +1349,8 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.5.16.16,[TUPR-B-A-V2-COMN-04-LWR] Insert (Lower) .SLDPRT,Default,2,1
 1.6.1.5.16.17,[TUPR-B-A-V2-COMN-05] Servo Shim.SLDPRT,Default,2,1
 1.6.1.5.16.18,SSFLATSKT 0.19-24x0.1875-HX-N,"Socket Set Screw Flat Point #10-24 x 3/16"" (0.1875"")",2,1
-1.6.1.5.16.19,HX-SHCS 0.164-32x0.75x0.75-N,"Hex Socket Head Cap Screw #8-32 x 3/4"" (0.75"")",7,4
-1.6.1.5.16.20,HX-SHCS 0.25-20x1.625x1.125-N,"Hex Socket Head Cap Screw 1/4""-20 x 1-5/8"" (1.625"")",7,1
+1.6.1.5.16.19,HX-SHCS 0.164-32x0.75x0.75-N,"Hex Socket Head Cap Screw #8-32 x 3/4"" (0.75"")",11,4
+1.6.1.5.16.20,HX-SHCS 0.25-20x1.625x1.125-N,"Hex Socket Head Cap Screw 1/4""-20 x 1-5/8"" (1.625"")",11,1
 1.6.1.5.16.21,Selected Narrow FW 0.172,"Selected Narrow Flat Washer 0.172""",2,4
 1.6.1.5.17,[TUPR-B-A-V2] Hug Motion Assembly.SLDASM,Left (Screen Accurate),7,1
 1.6.1.5.17.1,[HDWR-BELT-TUPR] Timing Belt T5 185mm (POWGE T5x185x15).SLDPRT,Default,1,1
@@ -1390,14 +1385,14 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.5.17.16,[TUPR-B-A-V2-COMN-04-LWR] Insert (Lower) .SLDPRT,Default,2,1
 1.6.1.5.17.17,[TUPR-B-A-V2-COMN-05] Servo Shim.SLDPRT,Default,2,1
 1.6.1.5.17.18,SSFLATSKT 0.19-24x0.1875-HX-N,"Socket Set Screw Flat Point #10-24 x 3/16"" (0.1875"")",2,1
-1.6.1.5.17.19,HX-SHCS 0.164-32x0.875x0.875-N,"Hex Socket Head Cap Screw #8-32 x 7/8"" (0.875"")",7,4
-1.6.1.5.17.20,HX-SHCS 0.25-20x3.5x1-N,"Hex Socket Head Cap Screw 1/4""-20 x 3-1/2"" (3.5"")",7,1
+1.6.1.5.17.19,HX-SHCS 0.164-32x0.875x0.875-N,"Hex Socket Head Cap Screw #8-32 x 7/8"" (0.875"")",11,4
+1.6.1.5.17.20,HX-SHCS 0.25-20x3.5x1-N,"Hex Socket Head Cap Screw 1/4""-20 x 3-1/2"" (3.5"")",11,1
 1.6.1.5.17.21,Selected Narrow FW 0.172,"Selected Narrow Flat Washer 0.172""",2,4
 1.6.1.5.18,SCHCSCREW 0.112-40x0.375x0.375-HX-N,"Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",3,10
 1.6.1.5.19,SCHCSCREW 0.112-40x0.4375x0.4375-HX-N,"Socket Head Cap Screw #4-40 x 7/16"" (0.4375"")",3,12
 1.6.1.5.20,SCHCSCREW 0.112-40x0.5x0.5-HX-N,"Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",3,6
-1.6.1.5.21,HX-SHCS 0.19-24x1.25x1.25-N,"Hex Socket Head Cap Screw #10-24 x 1-1/4"" (1.25"")",7,4
-1.6.1.5.22,HX-SHCS 0.25-28x2.5x2.5-N,"Hex Socket Head Cap Screw 1/4""-28 x 2-1/2"" (2.5"")",7,1
+1.6.1.5.21,HX-SHCS 0.25-28x2.5x2.5-N,"Hex Socket Head Cap Screw 1/4""-28 x 2-1/2"" (2.5"")",11,1
+1.6.1.5.22,HX-SHCS 0.19-32x1.25x1.25-N,"Hex Socket Head Cap Screw #10-32 x 1-1/4"" (1.25"")",11,4
 1.6.1.6,[TUPR-F] Tool Arm Mount.SLDASM,[V2] Electronics Carrier (With Coverings),21,1
 1.6.1.6.1,[HDWR-MISC] Rubber Bellows 3 ̸ 4'' ID (TUPR).SLDPRT,Bent,4,1
 1.6.1.6.2,[TUPR-E-COMN-00] Base Plate.SLDPRT,Default,5,1
@@ -1428,7 +1423,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.7.6.5,[HDWR-HYDR-FABK5X-V1-COMN-03] Piston.SLDPRT,Default,2,1
 1.6.1.7.6.6,[HDWR-HYDR-MASTFIT] 1 ̸ 16 Universal Hose Fitting (UT0-2002-PKG).SLDPRT,Stock,2,2
 1.6.1.7.6.7,[HDWR-HYDR-MASTFIT] Universal Hose Fitting Banjo Bolt (UT0-4004-PKG).SLDPRT,Simplified,2,2
-1.6.1.7.6.8,HX-SHCS 0.138-32x0.5x0.5-N,"Hex Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",7,2
+1.6.1.7.6.8,HX-SHCS 0.138-32x0.5x0.5-N,"Hex Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",11,2
 1.6.1.7.7,[HDWR-HYDR-FABK5X] Fabco K-5-X Master Cylinder (V2).SLDASM,Right Side,9,1
 1.6.1.7.7.1,[HDWR-HYDR-FABK5X-COMN-01] Fabco Clevis Mount (PM).SLDPRT,Default,1,1
 1.6.1.7.7.2,[HDWR-HYDR-FABK5X-COMN-00] Fabco Rod Clevis & Pin (RC-16).SLDPRT,Default,3,1
@@ -1437,7 +1432,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.7.7.5,[HDWR-HYDR-FABK5X-V1-COMN-03] Piston.SLDPRT,Default,2,1
 1.6.1.7.7.6,[HDWR-HYDR-MASTFIT] 1 ̸ 16 Universal Hose Fitting (UT0-2002-PKG).SLDPRT,Stock,2,2
 1.6.1.7.7.7,[HDWR-HYDR-MASTFIT] Universal Hose Fitting Banjo Bolt (UT0-4004-PKG).SLDPRT,Simplified,2,2
-1.6.1.7.7.8,HX-SHCS 0.138-32x0.5x0.5-N,"Hex Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",7,2
+1.6.1.7.7.8,HX-SHCS 0.138-32x0.5x0.5-N,"Hex Socket Head Cap Screw #6-32 x 1/2"" (0.5"")",11,2
 1.6.1.7.8,[HDWR-SHFT] Sonic Hub 8mm x 32mm x 10mm (1309-0016-0008).SLDPRT,Default,2,2
 1.6.1.7.9,[ARM-B-COMN-06] D-Shaft Pulley Mount.SLDPRT,".125"" x 32mm (Master Cylinder Driver)",5,4
 1.6.1.7.10,Tube_1-[TUPR-D] Master Cylinder Drive.sldasm,Default,7,1
@@ -1511,8 +1506,8 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.8.6.5,[NECK-F-COMN-02] Countersunk End Cap.SLDPRT,Left,3,1
 1.6.1.8.6.6,[TUPR-C-A-COMN-04] D-Profile Neck Block Key Plate.SLDPRT,Default,2,5
 1.6.1.8.6.7,SCHCSCREW 0.112-40x0.75x0.75-HX-N,"Socket Head Cap Screw #4-40 x 3/4"" (0.75"")",3,3
-1.6.1.8.6.8,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",7,2
-1.6.1.8.6.9,HX-SHCS 0.25-28x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",7,1
+1.6.1.8.6.8,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",11,2
+1.6.1.8.6.9,HX-SHCS 0.25-28x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",11,1
 1.6.1.8.7,[NECK-F-RGHT] Right Rod.SLDASM,Key Plate,9,1
 1.6.1.8.7.1,[HDWR-FSTR-ROD] RH to LH Thread Adapting Stud 1 ̸ 2-13 x 5.SLDPRT,NECK Rear Rods,1,1
 1.6.1.8.7.2,[HDWR-MISC] Convoluted Sleeving 1 ̸ 2'' ID.SLDPRT,"3.5"" Long (29 Ribs)",1,1
@@ -1521,8 +1516,8 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.8.7.5,[NECK-F-COMN-02] Countersunk End Cap.SLDPRT,Right,3,1
 1.6.1.8.7.6,[TUPR-C-A-COMN-04] D-Profile Neck Block Key Plate.SLDPRT,Default,2,5
 1.6.1.8.7.7,SCHCSCREW 0.112-40x0.75x0.75-HX-N,"Socket Head Cap Screw #4-40 x 3/4"" (0.75"")",3,3
-1.6.1.8.7.8,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",7,2
-1.6.1.8.7.9,HX-SHCS 0.25-28x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",7,1
+1.6.1.8.7.8,HX-SHCS 0.164-32x0.4375x0.4375-N,"Hex Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",11,2
+1.6.1.8.7.9,HX-SHCS 0.25-28x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",11,1
 1.6.1.8.8,[HDWR-BRNG-SLV] Sleeve Bearing 8mm x 11mm x 8mm (7095K129).SLDPRT,7095K129,2,2
 1.6.1.8.9,[TUPR-C-A-COMN-04] D-Profile Neck Block Key Plate.SLDPRT,Default,2,4
 1.6.1.8.10,[TUPR-C-A-COMN-00] D-Profile Rotary Shaft 8mm.SLDPRT,Default,9,1
@@ -1587,7 +1582,7 @@ Item Number,Document,Configuration,Revision,Qty
 1.6.1.11.35,B18.3.4M - 4 x 0.7 x 8 SBHCS --N,Socket Button Head Cap Screw M4 x 0.7 x 8mm,1,2
 1.6.1.11.36,"B18.2.4.1M - Hex nut, Style 1,  M4 x 0.7 --D-N",Hex nut M4 x 0.7,1,4
 1.6.1.12,SCHCSCREW 0.164-32x0.5625x0.5625-HX-N,"Socket Head Cap Screw #8-32 x 9/16"" (0.5625"")",3,12
-1.6.1.13,HX-SHCS 0.25-28x4.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 4-1/4"" (4.25"")",7,1
+1.6.1.13,HX-SHCS 0.25-28x4.25x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 4-1/4"" (4.25"")",11,1
 1.6.2,[TUPR-COVR-00] Triangle.SLDPRT,Default,9,1
 1.6.3,[TUPR-H] Tracking Beacon.SLDASM,Default_speedpak,5,1
 1.6.3.1,[ELEC-BULB-LED5] Kingbright Green Diffused LED.SLDPRT,Stock,2,1
@@ -1633,11 +1628,11 @@ Item Number,Document,Configuration,Revision,Qty
 2.2.7,[ELEC-ACTR-N2HYBRID-D-00] Rear Clevis.SLDPRT,Default,1,1
 2.2.8,[ELEC-ACTR-N2HYBRID-D-02] Rear Clevis Rod Bushing.SLDPRT,Default,1,1
 2.2.9,[ELEC-ACTR-N2HYBRID-D-01] Rear Clevis Rod.SLDPRT,Default,2,1
-2.2.10,CR-PHMS 0.19-24x0.4375x0.4375-N,"Pan Head Machine Screw (Cross Recessed) #10-24 x 7/16"" (0.4375"")",2,2
-2.2.11,CR-FHMS 0.164-32x0.625x0.625-N,"Flat Head Machine Screw (Cross Recessed) #8-32 x 5/8"" (0.625"")",1,10
+2.2.10,CR-PHMS 0.19-24x0.4375x0.4375-N,"Pan Head Machine Screw (Cross Recessed) #10-24 x 7/16"" (0.4375"")",4,2
+2.2.11,CR-FHMS 0.164-32x0.625x0.625-N,"Flat Head Machine Screw (Cross Recessed) #8-32 x 5/8"" (0.625"")",2,10
 2.2.12,SSCUPSKT 0.112-40x0.1875-HX-N,"Socket Set Screw Cup Point #4-40 x 3/16"" (0.1875"")",2,2
 2.2.13,SCHCSCREW 0.25-28x0.625x0.625-HX-N,"Socket Head Cap Screw 1/4""-28 x 5/8"" (0.625"")",3,2
-2.2.14,HX-SHCS 0.086-56x0.5625x0.5625-N,"Hex Socket Head Cap Screw #2-56 x 9/16"" (0.5625"")",7,4
+2.2.14,HX-SHCS 0.086-56x0.5625x0.5625-N,"Hex Socket Head Cap Screw #2-56 x 9/16"" (0.5625"")",11,4
 2.3,[TMID] Middle Torso.SLDASM,Default_speedpak,16,1
 2.3.1,[HDWR-BELT-TMID] Timing Belt HTD 168mm (A 6R23M056060).SLDPRT,Default,2,1
 2.3.2,[HDWR-BELT-TMID] HKK Chain #25 Assembly (47 Links).SLDASM,Default,3,1
@@ -1656,8 +1651,8 @@ Item Number,Document,Configuration,Revision,Qty
 2.3.4.7,[TMID-A-COMN-03] Pivot Bushing.SLDPRT,Default,2,2
 2.3.4.8,SCHCSCREW 0.164-32x0.4375x0.4375-HX-N,"Socket Head Cap Screw #8-32 x 7/16"" (0.4375"")",3,2
 2.3.4.9,SCHCSCREW 0.164-32x0.625x0.625-HX-N,"Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",3,10
-2.3.4.10,HX-SHCS 0.164-32x0.5x0.5-N,"Hex Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",7,2
-2.3.4.11,HX-SHCS 0.164-32x0.625x0.625-N,"Hex Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",7,4
+2.3.4.10,HX-SHCS 0.164-32x0.5x0.5-N,"Hex Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",11,2
+2.3.4.11,HX-SHCS 0.164-32x0.625x0.625-N,"Hex Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",11,4
 2.3.4.12,Preferred Narrow FW 0.164,"Preferred Narrow Flat Washer 0.164""",2,6
 2.3.5,[TMID-B] Feedback Potentiometer.SLDASM,Default,5,1
 2.3.5.1,[HDWR-FSTR-NUT] PANLHXNUT 3 ̸ 8-32-D.SLDPRT,Simplified,1,1
@@ -1675,9 +1670,9 @@ Item Number,Document,Configuration,Revision,Qty
 2.3.6.4,[TMID-C-COMN-00] Adjustment Plate.SLDPRT,Default,1,1
 2.3.6.5,[TMID-C-COMN-01] Adjustment Block.SLDPRT,Default,1,1
 2.3.6.6,SSFLATSKT 0.138-32x0.125-HX-N,"Socket Set Screw Flat Point #6-32 x 1/8"" (0.125"")",2,1
-2.3.6.7,HX-SHCS 0.164-32x0.625x0.625-S,"Hex Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",7,1
-2.3.6.8,HX-SHCS 0.25-28x0.5625x0.5625-N,"Hex Socket Head Cap Screw 1/4""-28 x 9/16"" (0.5625"")",7,4
-2.3.6.9,HX-SHCS 0.138-32x0.625x0.625-N,"Hex Socket Head Cap Screw #6-32 x 5/8"" (0.625"")",7,2
+2.3.6.7,HX-SHCS 0.164-32x0.625x0.625-S,"Hex Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",11,1
+2.3.6.8,HX-SHCS 0.25-28x0.5625x0.5625-N,"Hex Socket Head Cap Screw 1/4""-28 x 9/16"" (0.5625"")",11,4
+2.3.6.9,HX-SHCS 0.138-32x0.625x0.625-N,"Hex Socket Head Cap Screw #6-32 x 5/8"" (0.625"")",11,2
 2.3.6.10,B18.3.5M - 5 x 0.8 x 16 Socket FCHS  -- 16N,Socket Flat Countersunk Head Screw M5 x 0.8 x 16mm,1,4
 2.3.7,[TMID-D] Rotation Shaft.SLDASM,Default,5,1
 2.3.7.1,[HDWR-GEAR] Martin 30-Tooth Sprocket (25A30).SLDPRT,TMID Shaft,3,1
@@ -1697,8 +1692,8 @@ Item Number,Document,Configuration,Revision,Qty
 2.3.8.4,[TMID-E-COMN-01] Cam.SLDPRT,Default,2,1
 2.3.8.5,[TMID-E-COMN-02] Bushing.SLDPRT,Default,2,1
 2.3.8.6,SSCUPSKT 0.164-32x0.1875-HX-N,"Socket Set Screw Cup Point #8-32 x 3/16"" (0.1875"")",2,2
-2.3.8.7,HX-SHCS 0.086-56x0.75x0.75-N,"Hex Socket Head Cap Screw #2-56 x 3/4"" (0.75"")",7,2
-2.3.8.8,HX-SHCS 0.138-32x0.625x0.625-N,"Hex Socket Head Cap Screw #6-32 x 5/8"" (0.625"")",7,4
+2.3.8.7,HX-SHCS 0.086-56x0.75x0.75-N,"Hex Socket Head Cap Screw #2-56 x 3/4"" (0.75"")",11,2
+2.3.8.8,HX-SHCS 0.138-32x0.625x0.625-N,"Hex Socket Head Cap Screw #6-32 x 5/8"" (0.625"")",11,4
 2.3.8.9,SPS 0.0625x0.375,"Slotted Spring Pin 1/16"" (0.0625"") dia x 3/8"" (0.375"")",1,1
 2.3.8.10,Selected Narrow FW 0.094,"Selected Narrow Flat Washer 0.094""",2,2
 2.3.9,[TMID-F] Upper Torso Hinge.SLDASM,V2,18,1
@@ -1715,7 +1710,7 @@ Item Number,Document,Configuration,Revision,Qty
 2.3.9.11,[TMID-F-V2-COMN-01-R] Side Plate (Right).SLDPRT,Default,3,1
 2.3.9.12,SCHCSCREW 0.25-20x0.75x0.75-HX-N,"Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",3,4
 2.3.9.13,SCHCSCREW 0.19-24x0.5x0.5-HX-N,"Socket Head Cap Screw #10-24 x 1/2"" (0.5"")",3,10
-2.3.9.14,HX-SHCS 0.164-32x0.5x0.5-N,"Hex Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",7,1
+2.3.9.14,HX-SHCS 0.164-32x0.5x0.5-N,"Hex Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",11,1
 2.3.9.15,HNUT 0.2500-20-D-N,"Hex Nut 1/4""-20",1,4
 2.3.10,[TMID-COVR-00] TMID Motor Covering.SLDPRT,Default,2,1
 2.3.11,SHSSCREW 0.5x0.625-N,"Socket Head Shoulder Screw 1/2"" (0.5"") dia x 5/8"" (0.625"")",2,2
@@ -1779,10 +1774,10 @@ Item Number,Document,Configuration,Revision,Qty
 2.4.4.26,SCHCSCREW 0.086-56x0.375x0.375-HX-N,"Socket Head Cap Screw #2-56 x 3/8"" (0.375"")",3,2
 2.4.4.27,SCHCSCREW 0.112-40x0.5x0.5-HX-N,"Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",3,2
 2.4.4.28,SCHCSCREW 0.112-40x1.5x1.5-HX-N,"Socket Head Cap Screw #4-40 x 1-1/2"" (1.5"")",3,4
-2.4.4.29,HX-SHCS 0.112-40x0.5625x0.5625-N,"Hex Socket Head Cap Screw #4-40 x 9/16"" (0.5625"")",7,2
-2.4.4.30,HX-SHCS 0.112-40x0.875x0.875-N,"Hex Socket Head Cap Screw #4-40 x 7/8"" (0.875"")",7,2
-2.4.4.31,HX-SHCS 0.112-40x1.125x0.875-N,"Hex Socket Head Cap Screw #4-40 x 1-1/8"" (1.125"")",7,4
-2.4.4.32,HX-SHCS 0.164-32x0.5625x0.5625-N,"Hex Socket Head Cap Screw #8-32 x 9/16"" (0.5625"")",7,2
+2.4.4.29,HX-SHCS 0.112-40x0.5625x0.5625-N,"Hex Socket Head Cap Screw #4-40 x 9/16"" (0.5625"")",11,2
+2.4.4.30,HX-SHCS 0.112-40x0.875x0.875-N,"Hex Socket Head Cap Screw #4-40 x 7/8"" (0.875"")",11,2
+2.4.4.31,HX-SHCS 0.112-40x1.125x0.875-N,"Hex Socket Head Cap Screw #4-40 x 1-1/8"" (1.125"")",11,4
+2.4.4.32,HX-SHCS 0.164-32x0.5625x0.5625-N,"Hex Socket Head Cap Screw #8-32 x 9/16"" (0.5625"")",11,2
 2.4.4.33,MSSQNUT 0.086-56-N,Machine Screw Square Nut #2-56,2,2
 2.4.4.34,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,10
 2.4.4.35,MSSQNUT 0.164-32-N,Machine Screw Square Nut #8-32,2,2
@@ -1802,7 +1797,7 @@ Item Number,Document,Configuration,Revision,Qty
 2.4.5.9,[TLWR-V3-A-00-L] Side Panel (Left).SLDPRT,Right,4,1
 2.4.5.10,[TLWR-V3-A-00-R] Side Panel (Right).SLDPRT,Right,4,1
 2.4.5.11,[TLWR-V3-A-03] Internal Support.SLDPRT,With wiring space,6,2
-2.4.5.12,CR-FHMS 0.19-32x0.5x0.5-N,"Flat Head Machine Screw (Cross Recessed) #10-32 x 1/2"" (0.5"")",1,2
+2.4.5.12,CR-FHMS 0.19-32x0.5x0.5-N,"Flat Head Machine Screw (Cross Recessed) #10-32 x 1/2"" (0.5"")",2,2
 2.4.5.13,SBHCSCREW 0.164-32x0.4375-HX-N,"Socket Button Head Cap Screw #8-32 x 7/16"" (0.4375"")",1,16
 2.4.5.14,SBHCSCREW 0.19-24x0.5625-HX-N,"Socket Button Head Cap Screw #10-24 x 9/16"" (0.5625"")",1,4
 2.4.5.15,SBHCSCREW 0.138-32x0.5-HX-N,"Socket Button Head Cap Screw #6-32 x 1/2"" (0.5"")",1,9
@@ -1849,7 +1844,7 @@ Item Number,Document,Configuration,Revision,Qty
 2.4.7.16,SCHCSCREW 0.138-32x1.125x1.125-HX-N,"Socket Head Cap Screw #6-32 x 1-1/8"" (1.125"")",3,2
 2.4.7.17,SCHCSCREW 0.138-32x0.75x0.75-HX-N,"Socket Head Cap Screw #6-32 x 3/4"" (0.75"")",3,2
 2.4.7.18,SCHCSCREW 0.138-32x1.5x1.5-HX-N,"Socket Head Cap Screw #6-32 x 1-1/2"" (1.5"")",3,2
-2.4.7.19,HX-SHCS 0.112-40x0.75x0.75-N,"Hex Socket Head Cap Screw #4-40 x 3/4"" (0.75"")",7,6
+2.4.7.19,HX-SHCS 0.112-40x0.75x0.75-N,"Hex Socket Head Cap Screw #4-40 x 3/4"" (0.75"")",11,6
 2.4.7.20,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,8
 2.4.7.21,MSSQNUT 0.164-32-N,Machine Screw Square Nut #8-32,2,3
 2.4.7.22,Selected Narrow FW 0.125,"Selected Narrow Flat Washer 1/8"" (0.125"")",2,6
@@ -1864,7 +1859,7 @@ Item Number,Document,Configuration,Revision,Qty
 2.4.13,SBHCSCREW 0.25-20x1-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 1"" (1"")",1,4
 2.4.14,Selected Narrow FW 0.156,"Selected Narrow Flat Washer 0.156""",2,2
 2.4.15,Preferred Narrow FW 0.125,"Preferred Narrow Flat Washer 1/8"" (0.125"")",2,2
-2.5,[TIP] Tiptoe Tube.SLDASM,Default_speedpak,18,1
+2.5,[TIP] Tiptoe Tube.SLDASM,Default_speedpak,19,1
 2.5.1,[HDWR-FSTR-PIN] Clevis Pin 5 ̸ 16 x 3 ̸ 4.SLDPRT,Default,1,2
 2.5.2,[HDWR-FSTR-PIN] Cotter Pin 1 ̸ 8 x 3 ̸ 4.SLDPRT,Default,1,2
 2.5.3,[HDWR-FSTR-PIN] Precision Clevis Pin 3 ̸ 8 x 3 ̸ 4.SLDPRT,Default,1,2
@@ -1880,16 +1875,16 @@ Item Number,Document,Configuration,Revision,Qty
 2.5.13,[TIP-COMN-07] Wire Tunnel Cap.SLDPRT,Right,2,1
 2.5.14,[TIP-COMN-04] Side Spacer.SLDPRT,Default,3,2
 2.5.15,[TIP-COMN-08] 24V Flexable Busbar.SLDPRT,Default,3,2
-2.5.16,[TIP-COMN-03] Center Spacer.SLDPRT,Default,4,1
+2.5.16,[TIP-COMN-03] Center Spacer.SLDPRT,Default,5,1
 2.5.17,[TIP-COMN-00] Tube.SLDPRT,Wiring tunnel compatible,8,1
 2.5.18,SSCUPSKT 0.25-20x1.125-HX-N,"Socket Set Screw Cup Point 1/4""-20 x 1-1/8"" (1.125"")",2,2
 2.5.19,SSFLATSKT 0.086-56x0.25-HX-N,"Socket Set Screw Flat Point #2-56 x 1/4"" (0.25"")",2,8
 2.5.20,SBHCSCREW 0.25-20x0.75-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",1,12
 2.5.21,SCHCSCREW 0.112-40x1.125x1.125-HX-N,"Socket Head Cap Screw #4-40 x 1-1/8"" (1.125"")",3,4
-2.5.22,HX-SHCS 0.25-20x0.75x0.75-N,"Hex Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",7,1
-2.5.23,HX-SHCS 0.25-20x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-20 x 1-1/8"" (1.125"")",7,10
+2.5.22,HX-SHCS 0.25-20x0.75x0.75-N,"Hex Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",11,1
+2.5.23,HX-SHCS 0.25-20x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-20 x 1-1/8"" (1.125"")",11,10
 2.6,[TIP-A-V3] A-Frame Linkage (Solid).SLDPRT,Default,1,2
-2.7,[TDRV-LEFT] Track Drive (Left).SLDASM,With EV105 Batteries_speedpak,47,1
+2.7,[TDRV-LEFT] Track Drive (Left).SLDASM,With EV105 Batteries_speedpak,48,1
 2.7.1,[HDWR-BELT-TDRV] HKK Chain #35 Assembly (65 Links).SLDASM,Default,6,1
 2.7.1.1,[HDWR-BELT] HKK Chain #35 Outer Link.SLDPRT,Default,3,32
 2.7.1.2,[HDWR-BELT] HKK Chain #35 Inner Link.SLDPRT,Default,3,32
@@ -1900,7 +1895,7 @@ Item Number,Document,Configuration,Revision,Qty
 2.7.4,[HDWR-FSTR-NUT] NYHXNUT #10-24-D.SLDPRT,Simplified,3,2
 2.7.5,[HDWR-FSTR-NUT] NYTHNHXNUT #8-32-D.SLDPRT,Simplified,4,8
 2.7.6,[HDWR-FSTR-WASH] Flat Washer 3 ̸ 8 Screw Size (91525A329).SLDPRT,91525A329,2,1
-2.7.7,[TDRV-LEFT] Main Structure (Left).SLDASM,v2 Bearing Cup Layout,31,1
+2.7.7,[TDRV-LEFT] Main Structure (Left).SLDASM,v2 Bearing Cup Layout,32,1
 2.7.7.1,[HDWR-BRNG-BALL-US-S] 3 ̸ 4 x 40mm x 12mm (6203-2RS-12).SLDPRT,Default,2,2
 2.7.7.2,[HDWR-FSTR-NUT] NYHXNUT #10-24-D.SLDPRT,Simplified,3,1
 2.7.7.3,[HDWR-FSTR-NUT] NYHXNUT #8-32-D.SLDPRT,Simplified,3,10
@@ -1910,73 +1905,75 @@ Item Number,Document,Configuration,Revision,Qty
 2.7.7.7,[HDWR-FSTR-STND] Unthreaded Spacer #8 Screw Size x 5 ̸ 16 x 5 ̸ 16.SLDPRT,92510A543,2,2
 2.7.7.8,[HDWR-FSTR-STND] Unthreaded Spacer #6 Screw Size x 1 ̸ 4 x 5 ̸ 16.SLDPRT,92510A443,2,4
 2.7.7.9,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff 1 ̸ 4-20 x 1.SLDPRT,Simplified,3,2
-2.7.7.10,[TDRV-COMN-10] Motor Covering Mount.SLDPRT,Default,3,1
-2.7.7.11,[TDRV-COMN-00] Front Spacer.SLDPRT,Default,5,1
-2.7.7.12,[TDRV-COMN-04] Quick-Release Collar.SLDPRT,Default,6,1
-2.7.7.13,[TDRV-COMN-11] Outer Wire Channel.SLDPRT,Default,12,1
-2.7.7.14,[TDRV-COMN-06] Shield & Accessory Covering Mounting Plate.SLDPRT,Default,13,1
-2.7.7.15,[TDRV-COMN-E-COMN-00] Tension Adjustment Block.SLDPRT,Default,3,2
-2.7.7.16,"[TDRV-COMN-D-OUTR-01] Bearing Cup (Outer, Tapped).SLDPRT",Default,5,2
-2.7.7.17,"[TDRV-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT",Default,10,1
-2.7.7.18,"[TDRV-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT",Default,16,1
-2.7.7.19,[HDWR-FSTR-MAG] Neodymium Disc Magnet 3 ̸ 4 x 1 ̸ 8.SLDPRT,5862K106,2,2
-2.7.7.20,[ELEC-CONN] Anderson SB Connector (SB120).SLDPRT,Default,3,2
-2.7.7.21,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Left,3,1
-2.7.7.22,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Right,3,1
-2.7.7.23,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Left,4,1
-2.7.7.24,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Right,4,1
-2.7.7.25,[TDRV-COMN-F-LWRV3] Lower Battery Box.SLDASM,Default,5,1
-2.7.7.25.1,[HDWR-NPRN-TDRV] Lower Battery Box (Liner).SLDPRT,Default,5,1
-2.7.7.25.2,[TDRV-COMN-F-EV105] Battery Case.SLDASM,Default,8,1
-2.7.7.25.2.1,[HDWR-FSTR-NUT] NYTHNHXNUT #6-32-D.SLDPRT,Simplified,2,4
-2.7.7.25.2.2,[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,"9""",4,4
-2.7.7.25.2.3,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4.SLDPRT,Default,3,2
-2.7.7.25.2.4,[ELEC-CONN] Anderson SB50 Pull Handle.SLDPRT,Default,2,1
-2.7.7.25.2.5,[ELEC-CONN] Anderson SB Connector (SB120).SLDPRT,Default,3,2
-2.7.7.25.2.6,[ELEC-BATT-EV105AH] BLS EV-105AH 3.2V LiFePO4 Battery.SLDPRT,Default,4,4
-2.7.7.25.2.7,[ELEC-BATT-JBDSP04S020] Overkill Solar BMS Assembly.SLDASM,Default,3,1
-2.7.7.25.2.7.1,[ELEC-BATT-JBDSP04S020] PCB.SLDPRT,Default,2,1
-2.7.7.25.2.7.2,[ELEC-BATT-JBDSP04S020] Rear plate.SLDPRT,Default,2,1
-2.7.7.25.2.7.3,[ELEC-BATT-JBDSP04S020] Front plate.SLDPRT,Default,2,1
-2.7.7.25.2.7.4,[ELEC-BATT-JBDSP04S020] Standoff.SLDPRT,Default,2,12
-2.7.7.25.2.8,[TDRV-COMN-F-EV105-COMN] Mylar Spacer.SLDPRT,Default,1,2
-2.7.7.25.2.9,[TDRV-COMN-F-EV105-COMN] Overkill Solar BMS Case.SLDPRT,Default,4,1
-2.7.7.25.2.10,[TDRV-COMN-F-EV105-COMN] Full Case.SLDPRT,Default,6,1
-2.7.7.25.2.11,[ELEC-TUBE-019] Heatshrink Tubing .019-.09.SLDPRT,PreShrunk,2,4
-2.7.7.25.2.12,HBOLT 0.2500-20x0.25x0.25-N,"Hex Bolt 1/4""-20 x 1/4"" (0.25"")",2,2
-2.7.7.25.2.13,CR-PHMS 0.19-32x0.875x0.875-N,"Pan Head Machine Screw (Cross Recessed) #10-32 x 7/8"" (0.875"")",2,2
-2.7.7.25.2.14,SBHCSCREW 0.138-32x0.875-HX-N,"Socket Button Head Cap Screw #6-32 x 7/8"" (0.875"")",1,2
-2.7.7.25.2.15,SBHCSCREW 0.138-32x1.25-HX-N,"Socket Button Head Cap Screw #6-32 x 1-1/4"" (1.25"")",1,4
-2.7.7.25.2.16,SBHCSCREW 0.138-32x1-HX-N,"Socket Button Head Cap Screw #6-32 x 1"" (1"")",1,4
-2.7.7.25.2.17,SBHCSCREW 0.19-32x1.125-HX-N,"Socket Button Head Cap Screw #10-32 x 1-1/8"" (1.125"")",1,2
-2.7.7.25.2.18,MSHXNUT 0.138-32-S-N,Machine Screw Hex Nut #6-32,2,4
-2.7.7.25.2.19,MSSQNUT 0.138-32-N,Machine Screw Square Nut #6-32,2,14
-2.7.7.25.2.20,Selected Narrow FW 0.172,"Selected Narrow Flat Washer 0.172""",2,6
-2.7.7.25.2.21,B18.3.5M - 3 x 0.5 x 25 Socket FCHS  -- 25N,Socket Flat Countersunk Head Screw M3 x 0.5 x 25mm,1,2
-2.7.7.25.3,[TDRV-COMN-F-LWRV3-COMN-02] Side Wall.SLDPRT,Default,2,2
-2.7.7.25.4,[TDRV-COMN-F-LWRV3-COMN-00] Outer Shell.SLDPRT,Default,4,1
-2.7.7.25.5,[TDRV-COMN-F-LWRV3-COMN-01] Front Plate.SLDPRT,Default,4,1
-2.7.7.26,SBHCSCREW 0.138-32x0.375-HX-N,"Socket Button Head Cap Screw #6-32 x 3/8"" (0.375"")",1,5
-2.7.7.27,SBHCSCREW 0.164-32x0.5-HX-N,"Socket Button Head Cap Screw #8-32 x 1/2"" (0.5"")",1,3
-2.7.7.28,SBHCSCREW 0.164-32x0.625-HX-N,"Socket Button Head Cap Screw #8-32 x 5/8"" (0.625"")",1,2
-2.7.7.29,SBHCSCREW 0.25-20x0.75-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",1,6
-2.7.7.30,SBHCSCREW 0.138-32x0.4375-HX-N,"Socket Button Head Cap Screw #6-32 x 7/16"" (0.4375"")",1,1
-2.7.7.31,SBHCSCREW 0.138-32x0.75-HX-N,"Socket Button Head Cap Screw #6-32 x 3/4"" (0.75"")",1,4
-2.7.7.32,SBHCSCREW 0.19-24x1.625-HX-N,"Socket Button Head Cap Screw #10-24 x 1-5/8"" (1.625"")",1,1
-2.7.7.33,SCHCSCREW 0.164-32x0.5x0.5-HX-N,"Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",3,13
-2.7.7.34,SCHCSCREW 0.164-32x0.625x0.625-HX-N,"Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",3,2
-2.7.7.35,SCHCSCREW 0.164-32x0.75x0.75-HX-N,"Socket Head Cap Screw #8-32 x 3/4"" (0.75"")",3,4
-2.7.7.36,SCHCSCREW 0.164-32x0.875x0.875-HX-N,"Socket Head Cap Screw #8-32 x 7/8"" (0.875"")",3,4
-2.7.7.37,SCHCSCREW 0.19-24x0.75x0.75-HX-N,"Socket Head Cap Screw #10-24 x 3/4"" (0.75"")",3,5
-2.7.7.38,SCHCSCREW 0.19-24x1.25x1.25-HX-N,"Socket Head Cap Screw #10-24 x 1-1/4"" (1.25"")",3,1
-2.7.7.39,SCHCSCREW 0.164-32x2x2-HX-N,"Socket Head Cap Screw #8-32 x 2"" (2"")",3,6
-2.7.7.40,HX-SHCS 0.164-32x0.3125x0.3125-N,"Hex Socket Head Cap Screw #8-32 x 5/16"" (0.3125"")",7,4
-2.7.7.41,HX-SHCS 0.112-40x1.25x1-N,"Hex Socket Head Cap Screw #4-40 x 1-1/4"" (1.25"")",7,1
-2.7.7.42,HX-SHCS 0.25-28x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",7,5
-2.7.7.43,MSHXNUT 0.164-32-D-N,Machine Screw Hex Nut #8-32,2,10
-2.7.7.44,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,1
-2.7.7.45,Selected Narrow FW 0.188,"Selected Narrow Flat Washer 0.188""",2,2
-2.7.7.46,Preferred Narrow FW 0.138,"Preferred Narrow Flat Washer 0.138""",2,4
+2.7.7.10,[ELEC-SWCH-RWOLF] Red Wolf 100A Breaker.SLDPRT,Default,2,1
+2.7.7.11,[TDRV-COMN-08] Breaker Cover.SLDPRT,Default,1,1
+2.7.7.12,[TDRV-COMN-10] Motor Covering Mount.SLDPRT,Default,3,1
+2.7.7.13,[TDRV-COMN-00] Front Spacer.SLDPRT,Default,5,1
+2.7.7.14,[TDRV-COMN-04] Quick-Release Collar.SLDPRT,Default,6,1
+2.7.7.15,[TDRV-COMN-11] Outer Wire Channel.SLDPRT,Default,12,1
+2.7.7.16,[TDRV-COMN-06] Shield & Accessory Covering Mounting Plate.SLDPRT,Default,13,1
+2.7.7.17,[TDRV-COMN-E-COMN-00] Tension Adjustment Block.SLDPRT,Default,3,2
+2.7.7.18,"[TDRV-COMN-D-OUTR-01] Bearing Cup (Outer, Tapped).SLDPRT",Default,5,2
+2.7.7.19,"[TDRV-LEFT-A-INNR-00] Side Plate (Left, Inner).SLDPRT",Default,10,1
+2.7.7.20,"[TDRV-LEFT-A-OUTR-00] Side Plate (Left, Outer).SLDPRT",Default,16,1
+2.7.7.21,[HDWR-FSTR-MAG] Neodymium Disc Magnet 3 ̸ 4 x 1 ̸ 8.SLDPRT,5862K106,2,2
+2.7.7.22,[ELEC-CONN] Anderson SB Connector (SB120).SLDPRT,Default,3,2
+2.7.7.23,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Left,3,1
+2.7.7.24,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Right,3,1
+2.7.7.25,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Left,4,1
+2.7.7.26,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Right,4,1
+2.7.7.27,[TDRV-COMN-F-LWRV3] Lower Battery Box.SLDASM,Default,5,1
+2.7.7.27.1,[HDWR-NPRN-TDRV] Lower Battery Box (Liner).SLDPRT,Default,5,1
+2.7.7.27.2,[TDRV-COMN-F-EV105] Battery Case.SLDASM,Default,8,1
+2.7.7.27.2.1,[HDWR-FSTR-NUT] NYTHNHXNUT #6-32-D.SLDPRT,Simplified,2,4
+2.7.7.27.2.2,[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,"9""",4,4
+2.7.7.27.2.3,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4.SLDPRT,Default,3,2
+2.7.7.27.2.4,[ELEC-CONN] Anderson SB50 Pull Handle.SLDPRT,Default,2,1
+2.7.7.27.2.5,[ELEC-CONN] Anderson SB Connector (SB120).SLDPRT,Default,3,2
+2.7.7.27.2.6,[ELEC-BATT-EV105AH] BLS EV-105AH 3.2V LiFePO4 Battery.SLDPRT,Default,4,4
+2.7.7.27.2.7,[ELEC-BATT-JBDSP04S020] Overkill Solar BMS Assembly.SLDASM,Default,3,1
+2.7.7.27.2.7.1,[ELEC-BATT-JBDSP04S020] PCB.SLDPRT,Default,2,1
+2.7.7.27.2.7.2,[ELEC-BATT-JBDSP04S020] Rear plate.SLDPRT,Default,2,1
+2.7.7.27.2.7.3,[ELEC-BATT-JBDSP04S020] Front plate.SLDPRT,Default,2,1
+2.7.7.27.2.7.4,[ELEC-BATT-JBDSP04S020] Standoff.SLDPRT,Default,2,12
+2.7.7.27.2.8,[TDRV-COMN-F-EV105-COMN] Mylar Spacer.SLDPRT,Default,1,2
+2.7.7.27.2.9,[TDRV-COMN-F-EV105-COMN] Overkill Solar BMS Case.SLDPRT,Default,4,1
+2.7.7.27.2.10,[TDRV-COMN-F-EV105-COMN] Full Case.SLDPRT,Default,7,1
+2.7.7.27.2.11,[ELEC-TUBE-019] Heatshrink Tubing .019-.09.SLDPRT,PreShrunk,2,4
+2.7.7.27.2.12,HBOLT 0.2500-20x0.25x0.25-N,"Hex Bolt 1/4""-20 x 1/4"" (0.25"")",2,2
+2.7.7.27.2.13,CR-PHMS 0.19-32x0.875x0.875-N,"Pan Head Machine Screw (Cross Recessed) #10-32 x 7/8"" (0.875"")",4,2
+2.7.7.27.2.14,SBHCSCREW 0.138-32x0.875-HX-N,"Socket Button Head Cap Screw #6-32 x 7/8"" (0.875"")",1,2
+2.7.7.27.2.15,SBHCSCREW 0.138-32x1.25-HX-N,"Socket Button Head Cap Screw #6-32 x 1-1/4"" (1.25"")",1,4
+2.7.7.27.2.16,SBHCSCREW 0.138-32x1-HX-N,"Socket Button Head Cap Screw #6-32 x 1"" (1"")",1,4
+2.7.7.27.2.17,SBHCSCREW 0.19-32x1.125-HX-N,"Socket Button Head Cap Screw #10-32 x 1-1/8"" (1.125"")",1,2
+2.7.7.27.2.18,MSHXNUT 0.138-32-S-N,Machine Screw Hex Nut #6-32,2,4
+2.7.7.27.2.19,MSSQNUT 0.138-32-N,Machine Screw Square Nut #6-32,2,14
+2.7.7.27.2.20,Selected Narrow FW 0.172,"Selected Narrow Flat Washer 0.172""",2,6
+2.7.7.27.2.21,B18.3.5M - 3 x 0.5 x 25 Socket FCHS  -- 25N,Socket Flat Countersunk Head Screw M3 x 0.5 x 25mm,1,2
+2.7.7.27.3,[TDRV-COMN-F-LWRV3-COMN-02] Side Wall.SLDPRT,Default,2,2
+2.7.7.27.4,[TDRV-COMN-F-LWRV3-COMN-00] Outer Shell.SLDPRT,Default,4,1
+2.7.7.27.5,[TDRV-COMN-F-LWRV3-COMN-01] Front Plate.SLDPRT,Default,5,1
+2.7.7.28,SBHCSCREW 0.138-32x0.375-HX-N,"Socket Button Head Cap Screw #6-32 x 3/8"" (0.375"")",1,5
+2.7.7.29,SBHCSCREW 0.164-32x0.5-HX-N,"Socket Button Head Cap Screw #8-32 x 1/2"" (0.5"")",1,3
+2.7.7.30,SBHCSCREW 0.164-32x0.625-HX-N,"Socket Button Head Cap Screw #8-32 x 5/8"" (0.625"")",1,2
+2.7.7.31,SBHCSCREW 0.25-20x0.75-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",1,6
+2.7.7.32,SBHCSCREW 0.138-32x0.4375-HX-N,"Socket Button Head Cap Screw #6-32 x 7/16"" (0.4375"")",1,1
+2.7.7.33,SBHCSCREW 0.138-32x0.75-HX-N,"Socket Button Head Cap Screw #6-32 x 3/4"" (0.75"")",1,4
+2.7.7.34,SBHCSCREW 0.19-24x1.625-HX-N,"Socket Button Head Cap Screw #10-24 x 1-5/8"" (1.625"")",1,1
+2.7.7.35,SCHCSCREW 0.164-32x0.5x0.5-HX-N,"Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",3,13
+2.7.7.36,SCHCSCREW 0.164-32x0.625x0.625-HX-N,"Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",3,2
+2.7.7.37,SCHCSCREW 0.164-32x0.75x0.75-HX-N,"Socket Head Cap Screw #8-32 x 3/4"" (0.75"")",3,4
+2.7.7.38,SCHCSCREW 0.164-32x0.875x0.875-HX-N,"Socket Head Cap Screw #8-32 x 7/8"" (0.875"")",3,4
+2.7.7.39,SCHCSCREW 0.19-24x0.75x0.75-HX-N,"Socket Head Cap Screw #10-24 x 3/4"" (0.75"")",3,5
+2.7.7.40,SCHCSCREW 0.19-24x1.25x1.25-HX-N,"Socket Head Cap Screw #10-24 x 1-1/4"" (1.25"")",3,1
+2.7.7.41,SCHCSCREW 0.164-32x2x2-HX-N,"Socket Head Cap Screw #8-32 x 2"" (2"")",3,6
+2.7.7.42,HX-SHCS 0.164-32x0.3125x0.3125-N,"Hex Socket Head Cap Screw #8-32 x 5/16"" (0.3125"")",11,4
+2.7.7.43,HX-SHCS 0.112-40x1.25x1-N,"Hex Socket Head Cap Screw #4-40 x 1-1/4"" (1.25"")",11,1
+2.7.7.44,HX-SHCS 0.25-28x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",11,5
+2.7.7.45,MSHXNUT 0.164-32-D-N,Machine Screw Hex Nut #8-32,2,10
+2.7.7.46,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,1
+2.7.7.47,Selected Narrow FW 0.188,"Selected Narrow Flat Washer 0.188""",2,2
+2.7.7.48,Preferred Narrow FW 0.138,"Preferred Narrow Flat Washer 0.138""",2,4
 2.7.8,[TDRV-COMN-05] Quick-Release Collar Bushing.SLDPRT,Default,6,1
 2.7.9,[TDRV-COMN-E] Track Tensioner.SLDASM,Default,4,2
 2.7.9.1,[HDWR-FSTR-ROD] Fully Threaded Stud #10-24 x 2-3 ̸ 4.SLDPRT,Default,3,1
@@ -2079,7 +2076,7 @@ Item Number,Document,Configuration,Revision,Qty
 2.7.24,SCHCSCREW 0.19-32x3x3-HX-N,"Socket Head Cap Screw #10-32 x 3"" (3"")",3,2
 2.7.25,Preferred Narrow FW 0.164,"Preferred Narrow Flat Washer 0.164""",2,4
 2.7.26,PEM FH-832-10 X--N,PEM Flush Head Stud #8-32,1,8
-2.8,[TDRV-RGHT] Track Drive (Right).SLDASM,With EV105 Battery_speedpak,17,1
+2.8,[TDRV-RGHT] Track Drive (Right).SLDASM,With EV105 Battery_speedpak,18,1
 2.8.1,[HDWR-BELT-TDRV] HKK Chain #35 Assembly (65 Links).SLDASM,Default,6,1
 2.8.1.1,[HDWR-BELT] HKK Chain #35 Outer Link.SLDPRT,Default,3,32
 2.8.1.2,[HDWR-BELT] HKK Chain #35 Inner Link.SLDPRT,Default,3,32
@@ -2090,88 +2087,92 @@ Item Number,Document,Configuration,Revision,Qty
 2.8.4,[HDWR-FSTR-NUT] NYHXNUT #10-24-D.SLDPRT,Simplified,3,2
 2.8.5,[HDWR-FSTR-NUT] NYTHNHXNUT #8-32-D.SLDPRT,Simplified,4,8
 2.8.6,[HDWR-FSTR-WASH] Flat Washer 3 ̸ 8 Screw Size (91525A329).SLDPRT,91525A329,2,1
-2.8.7,[TDRV-RGHT] Main Structure (Right).SLDASM,v2 Bearing Cup Layout,12,1
+2.8.7,[TDRV-RGHT] Main Structure (Right).SLDASM,v2 Bearing Cup Layout,13,1
 2.8.7.1,[HDWR-BRNG-BALL-US-S] 3 ̸ 4 x 40mm x 12mm (6203-2RS-12).SLDPRT,Default,2,2
-2.8.7.2,[HDWR-FSTR-NUT] NYHXNUT #10-24-D.SLDPRT,Simplified,3,1
-2.8.7.3,[HDWR-FSTR-NUT] NYHXNUT #8-32-D.SLDPRT,Simplified,3,10
-2.8.7.4,[HDWR-FSTR-NUT] NYHXNUT #6-32-D.SLDPRT,Simplified,3,6
-2.8.7.5,[HDWR-FSTR-NUT] NYTHNHXNUT #8-32-D.SLDPRT,Simplified,4,7
-2.8.7.6,[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,"7""",4,1
-2.8.7.7,[HDWR-FSTR-STND] Unthreaded Spacer #6 Screw Size x 1 ̸ 4 x 5 ̸ 16.SLDPRT,92510A443,2,4
-2.8.7.8,[HDWR-FSTR-STND] Unthreaded Spacer #8 Screw Size x 5 ̸ 16 x 5 ̸ 16.SLDPRT,92510A543,2,2
-2.8.7.9,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff 1 ̸ 4-20 x 1.SLDPRT,Simplified,3,2
-2.8.7.10,Harness_1^[TDRV-RGHT] Main Structure (Right).SLDASM,Default,12,1
-2.8.7.10.1,Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,12,1
-2.8.7.10.2,[ELEC-CONN] Anderson SB Connector (SB120).SLDPRT,Default,3,1
-2.8.7.11,[TDRV-COMN-10] Motor Covering Mount.SLDPRT,Default,3,1
-2.8.7.12,[TDRV-COMN-11] Outer Wire Channel (Front).SLDPRT,Right,4,1
-2.8.7.13,[TDRV-COMN-11] Outer Wire Channel (Rear).SLDPRT,Right,4,1
-2.8.7.14,[TDRV-COMN-00] Front Spacer.SLDPRT,Default,5,1
-2.8.7.15,[TDRV-COMN-04] Quick-Release Collar.SLDPRT,Default,6,1
-2.8.7.16,[TDRV-COMN-06] Shield & Accessory Covering Mounting Plate.SLDPRT,Default,13,1
-2.8.7.17,[TDRV-COMN-E-COMN-00] Tension Adjustment Block.SLDPRT,Default,3,2
-2.8.7.18,"[TDRV-COMN-D-OUTR-01] Bearing Cup (Outer, Tapped).SLDPRT",Default,5,2
-2.8.7.19,"[TDRV-RGHT-A-INNR-00] Side Plate (Right, Inner).SLDPRT",Default,12,1
-2.8.7.20,"[TDRV-RGHT-A-OUTR-00] Side Plate (Right, Outer).SLDPRT",Default,17,1
-2.8.7.21,[HDWR-FSTR-MAG] Neodymium Disc Magnet 3 ̸ 4 x 1 ̸ 8.SLDPRT,5862K106,2,2
-2.8.7.22,[ELEC-CONN] Anderson SB Connector (SB120).SLDPRT,Default,3,1
-2.8.7.23,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Left,3,1
-2.8.7.24,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Right,3,1
-2.8.7.25,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Left,4,1
-2.8.7.26,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Right,4,1
-2.8.7.27,[TDRV-COMN-F-LWRV3] Lower Battery Box.SLDASM,Default,5,1
-2.8.7.27.1,[HDWR-NPRN-TDRV] Lower Battery Box (Liner).SLDPRT,Default,5,1
-2.8.7.27.2,[TDRV-COMN-F-EV105] Battery Case.SLDASM,Default,8,1
-2.8.7.27.2.1,[HDWR-FSTR-NUT] NYTHNHXNUT #6-32-D.SLDPRT,Simplified,2,4
-2.8.7.27.2.2,[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,"9""",4,4
-2.8.7.27.2.3,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4.SLDPRT,Default,3,2
-2.8.7.27.2.4,[ELEC-CONN] Anderson SB50 Pull Handle.SLDPRT,Default,2,1
-2.8.7.27.2.5,[ELEC-CONN] Anderson SB Connector (SB120).SLDPRT,Default,3,2
-2.8.7.27.2.6,[ELEC-BATT-EV105AH] BLS EV-105AH 3.2V LiFePO4 Battery.SLDPRT,Default,4,4
-2.8.7.27.2.7,[ELEC-BATT-JBDSP04S020] Overkill Solar BMS Assembly.SLDASM,Default,3,1
-2.8.7.27.2.7.1,[ELEC-BATT-JBDSP04S020] PCB.SLDPRT,Default,2,1
-2.8.7.27.2.7.2,[ELEC-BATT-JBDSP04S020] Rear plate.SLDPRT,Default,2,1
-2.8.7.27.2.7.3,[ELEC-BATT-JBDSP04S020] Front plate.SLDPRT,Default,2,1
-2.8.7.27.2.7.4,[ELEC-BATT-JBDSP04S020] Standoff.SLDPRT,Default,2,12
-2.8.7.27.2.8,[TDRV-COMN-F-EV105-COMN] Mylar Spacer.SLDPRT,Default,1,2
-2.8.7.27.2.9,[TDRV-COMN-F-EV105-COMN] Overkill Solar BMS Case.SLDPRT,Default,4,1
-2.8.7.27.2.10,[TDRV-COMN-F-EV105-COMN] Full Case.SLDPRT,Default,6,1
-2.8.7.27.2.11,[ELEC-TUBE-019] Heatshrink Tubing .019-.09.SLDPRT,PreShrunk,2,4
-2.8.7.27.2.12,HBOLT 0.2500-20x0.25x0.25-N,"Hex Bolt 1/4""-20 x 1/4"" (0.25"")",2,2
-2.8.7.27.2.13,CR-PHMS 0.19-32x0.875x0.875-N,"Pan Head Machine Screw (Cross Recessed) #10-32 x 7/8"" (0.875"")",2,2
-2.8.7.27.2.14,SBHCSCREW 0.138-32x0.875-HX-N,"Socket Button Head Cap Screw #6-32 x 7/8"" (0.875"")",1,2
-2.8.7.27.2.15,SBHCSCREW 0.138-32x1.25-HX-N,"Socket Button Head Cap Screw #6-32 x 1-1/4"" (1.25"")",1,4
-2.8.7.27.2.16,SBHCSCREW 0.138-32x1-HX-N,"Socket Button Head Cap Screw #6-32 x 1"" (1"")",1,4
-2.8.7.27.2.17,SBHCSCREW 0.19-32x1.125-HX-N,"Socket Button Head Cap Screw #10-32 x 1-1/8"" (1.125"")",1,2
-2.8.7.27.2.18,MSHXNUT 0.138-32-S-N,Machine Screw Hex Nut #6-32,2,4
-2.8.7.27.2.19,MSSQNUT 0.138-32-N,Machine Screw Square Nut #6-32,2,14
-2.8.7.27.2.20,Selected Narrow FW 0.172,"Selected Narrow Flat Washer 0.172""",2,6
-2.8.7.27.2.21,B18.3.5M - 3 x 0.5 x 25 Socket FCHS  -- 25N,Socket Flat Countersunk Head Screw M3 x 0.5 x 25mm,1,2
-2.8.7.27.3,[TDRV-COMN-F-LWRV3-COMN-02] Side Wall.SLDPRT,Default,2,2
-2.8.7.27.4,[TDRV-COMN-F-LWRV3-COMN-00] Outer Shell.SLDPRT,Default,4,1
-2.8.7.27.5,[TDRV-COMN-F-LWRV3-COMN-01] Front Plate.SLDPRT,Default,4,1
-2.8.7.28,SBHCSCREW 0.138-32x0.375-HX-N,"Socket Button Head Cap Screw #6-32 x 3/8"" (0.375"")",1,4
-2.8.7.29,SBHCSCREW 0.164-32x0.625-HX-N,"Socket Button Head Cap Screw #8-32 x 5/8"" (0.625"")",1,2
-2.8.7.30,SBHCSCREW 0.138-32x0.4375-HX-N,"Socket Button Head Cap Screw #6-32 x 7/16"" (0.4375"")",1,1
-2.8.7.31,SBHCSCREW 0.138-32x0.75-HX-N,"Socket Button Head Cap Screw #6-32 x 3/4"" (0.75"")",1,4
-2.8.7.32,SBHCSCREW 0.19-24x1.625-HX-N,"Socket Button Head Cap Screw #10-24 x 1-5/8"" (1.625"")",1,1
-2.8.7.33,SBHCSCREW 0.164-32x0.5-HX-N-ZPA,"Socket Button Head Cap Screw #8-32 x 1/2"" (0.5"")",1,3
-2.8.7.34,SBHCSCREW 0.25-20x0.75-HX-N-18-8SS,"Socket Button Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",1,6
-2.8.7.35,SCHCSCREW 0.164-32x0.5x0.5-HX-N,"Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",3,10
-2.8.7.36,SCHCSCREW 0.164-32x0.625x0.625-HX-N,"Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",3,2
-2.8.7.37,SCHCSCREW 0.164-32x0.75x0.75-HX-N,"Socket Head Cap Screw #8-32 x 3/4"" (0.75"")",3,4
-2.8.7.38,SCHCSCREW 0.164-32x0.875x0.875-HX-N,"Socket Head Cap Screw #8-32 x 7/8"" (0.875"")",3,4
-2.8.7.39,SCHCSCREW 0.19-24x0.75x0.75-HX-N,"Socket Head Cap Screw #10-24 x 3/4"" (0.75"")",3,5
-2.8.7.40,SCHCSCREW 0.19-24x1.25x1.25-HX-N,"Socket Head Cap Screw #10-24 x 1-1/4"" (1.25"")",3,1
-2.8.7.41,SCHCSCREW 0.164-32x2x2-HX-N,"Socket Head Cap Screw #8-32 x 2"" (2"")",3,6
-2.8.7.42,SCHCSCREW 0.164-32x0.5x0.5-HX-N-ZPA,"Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",3,3
-2.8.7.43,HX-SHCS 0.164-32x0.3125x0.3125-N,"Hex Socket Head Cap Screw #8-32 x 5/16"" (0.3125"")",7,4
-2.8.7.44,HX-SHCS 0.112-40x1.25x1-N,"Hex Socket Head Cap Screw #4-40 x 1-1/4"" (1.25"")",7,1
-2.8.7.45,HX-SHCS 0.25-28x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",7,5
-2.8.7.46,MSHXNUT 0.164-32-D-N,Machine Screw Hex Nut #8-32,2,10
-2.8.7.47,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,1
-2.8.7.48,Preferred Narrow FW 0.138,"Preferred Narrow Flat Washer 0.138""",2,4
-2.8.7.49,Selected Narrow FW 0.188,"Selected Narrow Flat Washer 0.188""",2,2
+2.8.7.2,[HDWR-FSTR-NUT] NYTHNHXNUT 1 ̸ 4-20-D.SLDPRT,Simplified,2,2
+2.8.7.3,[HDWR-FSTR-NUT] NYHXNUT #10-24-D.SLDPRT,Simplified,3,1
+2.8.7.4,[HDWR-FSTR-NUT] NYHXNUT #8-32-D.SLDPRT,Simplified,3,10
+2.8.7.5,[HDWR-FSTR-NUT] NYHXNUT #6-32-D.SLDPRT,Simplified,3,6
+2.8.7.6,[HDWR-FSTR-NUT] NYTHNHXNUT #8-32-D.SLDPRT,Simplified,4,7
+2.8.7.7,[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,"7""",4,1
+2.8.7.8,[HDWR-FSTR-STND] Unthreaded Spacer #6 Screw Size x 1 ̸ 4 x 5 ̸ 16.SLDPRT,92510A443,2,4
+2.8.7.9,[HDWR-FSTR-STND] Unthreaded Spacer #8 Screw Size x 5 ̸ 16 x 5 ̸ 16.SLDPRT,92510A543,2,2
+2.8.7.10,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff 1 ̸ 4-20 x 1.SLDPRT,Simplified,3,2
+2.8.7.11,[ELEC-SWCH-RWOLF] Red Wolf 100A Breaker.SLDPRT,Default,2,1
+2.8.7.12,Harness_1^[TDRV-RGHT] Main Structure (Right).SLDASM,Default,13,1
+2.8.7.12.1,Cable^Harness_1_[TDRV-RGHT] Main Structure (Right).sldprt,Default,13,1
+2.8.7.12.2,[ELEC-CONN] Anderson SB Connector (SB120).SLDPRT,Default,3,1
+2.8.7.13,[TDRV-COMN-08] Breaker Cover.SLDPRT,Default,1,1
+2.8.7.14,[TDRV-COMN-10] Motor Covering Mount.SLDPRT,Default,3,1
+2.8.7.15,[TDRV-COMN-11] Outer Wire Channel (Front).SLDPRT,Right,4,1
+2.8.7.16,[TDRV-COMN-11] Outer Wire Channel (Rear).SLDPRT,Right,4,1
+2.8.7.17,[TDRV-COMN-00] Front Spacer.SLDPRT,Default,5,1
+2.8.7.18,[TDRV-COMN-04] Quick-Release Collar.SLDPRT,Default,6,1
+2.8.7.19,[TDRV-COMN-06] Shield & Accessory Covering Mounting Plate.SLDPRT,Default,13,1
+2.8.7.20,[TDRV-COMN-E-COMN-00] Tension Adjustment Block.SLDPRT,Default,3,2
+2.8.7.21,"[TDRV-COMN-D-OUTR-01] Bearing Cup (Outer, Tapped).SLDPRT",Default,5,2
+2.8.7.22,"[TDRV-RGHT-A-INNR-00] Side Plate (Right, Inner).SLDPRT",Default,12,1
+2.8.7.23,"[TDRV-RGHT-A-OUTR-00] Side Plate (Right, Outer).SLDPRT",Default,17,1
+2.8.7.24,[HDWR-FSTR-MAG] Neodymium Disc Magnet 3 ̸ 4 x 1 ̸ 8.SLDPRT,5862K106,2,2
+2.8.7.25,[ELEC-CONN] Anderson SB Connector (SB120).SLDPRT,Default,3,1
+2.8.7.26,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Left,3,1
+2.8.7.27,[TDRV-COMN-F-EV105-COMN] Front Mount.SLDPRT,Right,3,1
+2.8.7.28,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Left,4,1
+2.8.7.29,[TDRV-COMN-F-EV105-COMN] Back Mount.SLDPRT,Right,4,1
+2.8.7.30,[TDRV-COMN-F-LWRV3] Lower Battery Box.SLDASM,Default,5,1
+2.8.7.30.1,[HDWR-NPRN-TDRV] Lower Battery Box (Liner).SLDPRT,Default,5,1
+2.8.7.30.2,[TDRV-COMN-F-EV105] Battery Case.SLDASM,Default,8,1
+2.8.7.30.2.1,[HDWR-FSTR-NUT] NYTHNHXNUT #6-32-D.SLDPRT,Simplified,2,4
+2.8.7.30.2.2,[HDWR-FSTR-ROD] Fully Threaded Stud #6-32.SLDPRT,"9""",4,4
+2.8.7.30.2.3,[HDWR-FSTR-STND] Female-Female Threaded Hex Standoff #10-32 x 1 ̸ 4.SLDPRT,Default,3,2
+2.8.7.30.2.4,[ELEC-CONN] Anderson SB50 Pull Handle.SLDPRT,Default,2,1
+2.8.7.30.2.5,[ELEC-CONN] Anderson SB Connector (SB120).SLDPRT,Default,3,2
+2.8.7.30.2.6,[ELEC-BATT-EV105AH] BLS EV-105AH 3.2V LiFePO4 Battery.SLDPRT,Default,4,4
+2.8.7.30.2.7,[ELEC-BATT-JBDSP04S020] Overkill Solar BMS Assembly.SLDASM,Default,3,1
+2.8.7.30.2.7.1,[ELEC-BATT-JBDSP04S020] PCB.SLDPRT,Default,2,1
+2.8.7.30.2.7.2,[ELEC-BATT-JBDSP04S020] Rear plate.SLDPRT,Default,2,1
+2.8.7.30.2.7.3,[ELEC-BATT-JBDSP04S020] Front plate.SLDPRT,Default,2,1
+2.8.7.30.2.7.4,[ELEC-BATT-JBDSP04S020] Standoff.SLDPRT,Default,2,12
+2.8.7.30.2.8,[TDRV-COMN-F-EV105-COMN] Mylar Spacer.SLDPRT,Default,1,2
+2.8.7.30.2.9,[TDRV-COMN-F-EV105-COMN] Overkill Solar BMS Case.SLDPRT,Default,4,1
+2.8.7.30.2.10,[TDRV-COMN-F-EV105-COMN] Full Case.SLDPRT,Default,7,1
+2.8.7.30.2.11,[ELEC-TUBE-019] Heatshrink Tubing .019-.09.SLDPRT,PreShrunk,2,4
+2.8.7.30.2.12,HBOLT 0.2500-20x0.25x0.25-N,"Hex Bolt 1/4""-20 x 1/4"" (0.25"")",2,2
+2.8.7.30.2.13,CR-PHMS 0.19-32x0.875x0.875-N,"Pan Head Machine Screw (Cross Recessed) #10-32 x 7/8"" (0.875"")",4,2
+2.8.7.30.2.14,SBHCSCREW 0.138-32x0.875-HX-N,"Socket Button Head Cap Screw #6-32 x 7/8"" (0.875"")",1,2
+2.8.7.30.2.15,SBHCSCREW 0.138-32x1.25-HX-N,"Socket Button Head Cap Screw #6-32 x 1-1/4"" (1.25"")",1,4
+2.8.7.30.2.16,SBHCSCREW 0.138-32x1-HX-N,"Socket Button Head Cap Screw #6-32 x 1"" (1"")",1,4
+2.8.7.30.2.17,SBHCSCREW 0.19-32x1.125-HX-N,"Socket Button Head Cap Screw #10-32 x 1-1/8"" (1.125"")",1,2
+2.8.7.30.2.18,MSHXNUT 0.138-32-S-N,Machine Screw Hex Nut #6-32,2,4
+2.8.7.30.2.19,MSSQNUT 0.138-32-N,Machine Screw Square Nut #6-32,2,14
+2.8.7.30.2.20,Selected Narrow FW 0.172,"Selected Narrow Flat Washer 0.172""",2,6
+2.8.7.30.2.21,B18.3.5M - 3 x 0.5 x 25 Socket FCHS  -- 25N,Socket Flat Countersunk Head Screw M3 x 0.5 x 25mm,1,2
+2.8.7.30.3,[TDRV-COMN-F-LWRV3-COMN-02] Side Wall.SLDPRT,Default,2,2
+2.8.7.30.4,[TDRV-COMN-F-LWRV3-COMN-00] Outer Shell.SLDPRT,Default,4,1
+2.8.7.30.5,[TDRV-COMN-F-LWRV3-COMN-01] Front Plate.SLDPRT,Default,5,1
+2.8.7.31,SBHCSCREW 0.138-32x0.375-HX-N,"Socket Button Head Cap Screw #6-32 x 3/8"" (0.375"")",1,4
+2.8.7.32,SBHCSCREW 0.164-32x0.625-HX-N,"Socket Button Head Cap Screw #8-32 x 5/8"" (0.625"")",1,2
+2.8.7.33,SBHCSCREW 0.25-20x0.75-HX-N,"Socket Button Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",1,2
+2.8.7.34,SBHCSCREW 0.138-32x0.4375-HX-N,"Socket Button Head Cap Screw #6-32 x 7/16"" (0.4375"")",1,1
+2.8.7.35,SBHCSCREW 0.138-32x0.75-HX-N,"Socket Button Head Cap Screw #6-32 x 3/4"" (0.75"")",1,4
+2.8.7.36,SBHCSCREW 0.19-24x1.625-HX-N,"Socket Button Head Cap Screw #10-24 x 1-5/8"" (1.625"")",1,1
+2.8.7.37,SBHCSCREW 0.164-32x0.5-HX-N-ZPA,"Socket Button Head Cap Screw #8-32 x 1/2"" (0.5"")",1,3
+2.8.7.38,SBHCSCREW 0.25-20x0.75-HX-N-18-8SS,"Socket Button Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",1,6
+2.8.7.39,SCHCSCREW 0.164-32x0.5x0.5-HX-N,"Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",3,10
+2.8.7.40,SCHCSCREW 0.164-32x0.625x0.625-HX-N,"Socket Head Cap Screw #8-32 x 5/8"" (0.625"")",3,2
+2.8.7.41,SCHCSCREW 0.164-32x0.75x0.75-HX-N,"Socket Head Cap Screw #8-32 x 3/4"" (0.75"")",3,4
+2.8.7.42,SCHCSCREW 0.164-32x0.875x0.875-HX-N,"Socket Head Cap Screw #8-32 x 7/8"" (0.875"")",3,4
+2.8.7.43,SCHCSCREW 0.19-24x0.75x0.75-HX-N,"Socket Head Cap Screw #10-24 x 3/4"" (0.75"")",3,5
+2.8.7.44,SCHCSCREW 0.19-24x1.25x1.25-HX-N,"Socket Head Cap Screw #10-24 x 1-1/4"" (1.25"")",3,1
+2.8.7.45,SCHCSCREW 0.164-32x2x2-HX-N,"Socket Head Cap Screw #8-32 x 2"" (2"")",3,6
+2.8.7.46,SCHCSCREW 0.164-32x0.5x0.5-HX-N-ZPA,"Socket Head Cap Screw #8-32 x 1/2"" (0.5"")",3,3
+2.8.7.47,HX-SHCS 0.164-32x0.3125x0.3125-N,"Hex Socket Head Cap Screw #8-32 x 5/16"" (0.3125"")",11,4
+2.8.7.48,HX-SHCS 0.112-40x1.25x1-N,"Hex Socket Head Cap Screw #4-40 x 1-1/4"" (1.25"")",11,1
+2.8.7.49,HX-SHCS 0.25-28x1.125x1.125-N,"Hex Socket Head Cap Screw 1/4""-28 x 1-1/8"" (1.125"")",11,5
+2.8.7.50,MSHXNUT 0.164-32-D-N,Machine Screw Hex Nut #8-32,2,10
+2.8.7.51,MSSQNUT 0.112-40-N,Machine Screw Square Nut #4-40,2,1
+2.8.7.52,Preferred Narrow FW 0.138,"Preferred Narrow Flat Washer 0.138""",2,4
+2.8.7.53,Selected Narrow FW 0.188,"Selected Narrow Flat Washer 0.188""",2,2
 2.8.8,[TDRV-COMN-05] Quick-Release Collar Bushing.SLDPRT,Default,6,1
 2.8.9,[TDRV-COMN-E] Track Tensioner.SLDASM,Default,4,2
 2.8.9.1,[HDWR-FSTR-ROD] Fully Threaded Stud #10-24 x 2-3 ̸ 4.SLDPRT,Default,3,1
@@ -2277,15 +2278,15 @@ Item Number,Document,Configuration,Revision,Qty
 2.8.23,SCHCSCREW 0.19-32x3x3-HX-N,"Socket Head Cap Screw #10-32 x 3"" (3"")",3,2
 2.8.24,Preferred Narrow FW 0.164,"Preferred Narrow Flat Washer 0.164""",2,4
 2.8.25,PEM FH-832-10 X--N,PEM Flush Head Stud #8-32,1,8
-2.9,[CSTR] Caster.SLDASM,v2 - Single Piece_speedpak,22,1
+2.9,[CSTR] Caster.SLDASM,v2 - Single Piece_speedpak,23,1
 2.9.1,[HDWR-FSTR-NUT] HXNUT 1 ̸ 2-13-D.SLDPRT,Simplified,1,1
 2.9.2,[HDWR-MISC] Rubber Bellows 52mm ID (BS-5054).SLDPRT,Modified,1,2
 2.9.3,[HDWR-SHFT] Shaft Collar 3 ̸ 4 x 1-1 ̸ 4 x 9 ̸ 16.SLDPRT,Default,2,2
-2.9.4,[CSTR] Main Structure.SLDASM,v2 - Single piece,7,1
+2.9.4,[CSTR] Main Structure.SLDASM,v2 - Single piece,8,1
 2.9.4.1,[HDWR-BRNG-TAPR] 1 ̸ 2 x 1.377 x 0.47 (A4050 & A4138).SLDPRT,Stock,2,2
 2.9.4.2,[HDWR-FSTR-NUT] NYHXNUT #4-40-D.SLDPRT,Simplified,2,6
 2.9.4.3,[HDWR-FSTR-NUT] NYHXNUT #6-32-D.SLDPRT,Simplified,3,1
-2.9.4.4,[CSTR-COMN-00] Axle.SLDPRT,Default,2,1
+2.9.4.4,[CSTR-COMN-00] Axle.SLDPRT,Default,3,1
 2.9.4.5,[CSTR-COMN-01] Triangular Support.SLDPRT,Default,3,1
 2.9.4.6,[CSTR-COMN-02] Curved Plate.SLDPRT,Default,3,1
 2.9.4.7,[CSTR-COMN-03] Curved Plate Support Bracket.SLDPRT,Default,5,1
@@ -2307,11 +2308,11 @@ Item Number,Document,Configuration,Revision,Qty
 2.9.6.2.5,HJNUT 0.3750-24-D-N,"Hex Jam Nut 3/8""-24",2,3
 2.9.6.2.6,Regular LW 0.375,"Regular Spring Lock Washer 3/8"" (0.375"")",1,3
 2.9.6.3,[CSTR-C-B-00] Inner Tube.SLDPRT,Default,7,1
-2.9.6.4,[CSTR-C-B-01] Goodyear 2.80-4NHS Tire.SLDPRT,Default,8,1
+2.9.6.4,[CSTR-C-B-01] Goodyear 2.80-4NHS Tire.SLDPRT,Default,9,1
 2.9.6.5,[CSTR-C-C] Covering Mount Assembly.SLDASM,Offset,7,1
 2.9.6.5.1,[CSTR-C-C-COMN-00] Covering Mount.SLDPRT,Default,7,1
 2.9.6.5.2,MSSQNUT 0.138-32-N,Machine Screw Square Nut #6-32,2,6
-2.9.6.6,HX-SHCS 0.138-32x0.375x0.375-N,"Hex Socket Head Cap Screw #6-32 x 3/8"" (0.375"")",7,6
+2.9.6.6,HX-SHCS 0.138-32x0.375x0.375-N,"Hex Socket Head Cap Screw #6-32 x 3/8"" (0.375"")",11,6
 2.9.6.7,HJNUT 0.3750-24-D-N,"Hex Jam Nut 3/8""-24",2,3
 2.10,[AFRM-LWR] Lower A-Frame.SLDASM,v2 - Laser cut_speedpak,13,1
 2.10.1,[HDWR-FSTR-NUT] NYHXNUT 1 ̸ 4-28-D.SLDPRT,Simplified,1,1
@@ -2328,42 +2329,45 @@ Item Number,Document,Configuration,Revision,Qty
 2.10.4.8,SBHCSCREW 0.164-32x0.375-HX-N,"Socket Button Head Cap Screw #8-32 x 3/8"" (0.375"")",1,2
 2.10.4.9,SCHCSCREW 0.164-32x0.25x0.25-HX-N,"Socket Head Cap Screw #8-32 x 1/4"" (0.25"")",3,4
 2.10.5,SBHCSCREW 0.164-32x0.5625-HX-N,"Socket Button Head Cap Screw #8-32 x 9/16"" (0.5625"")",1,2
-2.10.6,HX-SHCS 0.25-28x3x1-N,"Hex Socket Head Cap Screw 1/4""-28 x 3"" (3"")",7,1
+2.10.6,HX-SHCS 0.25-28x3x1-N,"Hex Socket Head Cap Screw 1/4""-28 x 3"" (3"")",11,1
 2.11,[TLWR-A-V2-A] Tie Bar Assembly.SLDASM,Default,5,2
 2.11.1,[HDWR-BRNG-BALL-US-F] 3 ̸ 16 x 1 ̸ 2 x 5 ̸ 32 (R3-2Z).SLDPRT,57155K321,3,1
 2.11.2,[HDWR-FSTR-NUT] NYHXNUT #10-32-D.SLDPRT,Simplified,2,1
 2.11.3,[HDWR-FSTR-SHIM-US] 1 ̸ 4 x 3 ̸ 16 x 0.02.SLDPRT,97022A883,2,2
 2.11.4,[HDWR-FSTR-WASH] Flat Washer #8 Screw Size (SAE Regular).SLDPRT,Default,3,1
 2.11.5,[TLWR-A-V2-A-COMN-00] Tie Bar.SLDPRT,Default,4,1
-2.12,[AFRM-UPR] Upper A-Frame.SLDASM,Default_speedpak,16,1
+2.12,[AFRM-UPR] Upper A-Frame.SLDASM,Default_speedpak,17,1
 2.12.1,[HDWR-BRNG-BALL-US-S] 1 ̸ 2 x 1-1 ̸ 8 x 3 ̸ 8 (1616-2RS).SLDPRT,Default,2,2
 2.12.2,[HDWR-FSTR-NUT] NYHXNUT 1 ̸ 4-28-D.SLDPRT,Simplified,1,1
 2.12.3,[HDWR-FSTR-NUT] MSTHNHXNUT #4-40-D.SLDPRT,Simplified,1,4
 2.12.4,[HDWR-FSTR-NUT] NYTHNHXNUT #6-32-D.SLDPRT,Simplified,2,41
-2.12.5,[HDWR-FSTR-SCRW] Hex Bolt 1 ̸ 4-28 x 1.SLDPRT,Modified,2,2
-2.12.6,[HDWR-FSTR-STND] Male-Female Threaded Hex Standoff #6-32 x 1.SLDPRT,Simplified,1,1
-2.12.7,[HDWR-SHFT] Shaft Collar 1 ̸ 2 x 1 x 7 ̸ 16 (Zinc-Plated).SLDPRT,Default,2,4
-2.12.8,[AFRM-UPR-A-01] Top Plate.SLDPRT,Default<As Machined>,2,1
-2.12.9,[AFRM-UPR-A-00-L] Side Plate (Left).SLDPRT,Default<As Machined>,5,1
-2.12.10,[AFRM-UPR-A-00-R] Side Plate (Right).SLDPRT,Default<As Machined>,5,1
-2.12.11,[AFRM-UPR-A-02] Bottom Plate.SLDPRT,Default<As Machined>,5,1
-2.12.12,[AFRM-UPR-COMN-01] Tiptoe Linkage Pivot Rod.SLDPRT,Default,1,1
-2.12.13,[AFRM-UPR-COMN-00] Bearing Cup.SLDPRT,Default,2,2
-2.12.14,[AFRM-UPR-COMN-02] Bushing.SLDPRT,Default,3,2
-2.12.15,[AFRM-UPR-COMN-03] Caster Bushing.SLDPRT,Default,3,2
-2.12.16,[AFRM-UPR-COMN-05] Cable Duct.SLDPRT,Default,5,1
-2.12.17,[HDWR-MISC-HINGE01] A-Frame Piano Hinge.SLDASM,Modified,8,1
-2.12.17.1,[HDWR-MISC-HINGE01-COMN-02] Pin.SLDPRT,Modified,3,1
-2.12.17.2,[HDWR-MISC-HINGE01-COMN-01] Top Half.SLDPRT,Modified,6,1
-2.12.17.3,[HDWR-MISC-HINGE01-COMN-00] Bottom Half.SLDPRT,Modified,7,1
-2.12.18,[AFRM-UPR-COVR-00] Upper Covering.SLDPRT,Default,2,1
-2.12.19,SBHCSCREW 0.112-40x0.25-HX-N,"Socket Button Head Cap Screw #4-40 x 1/4"" (0.25"")",1,3
-2.12.20,SBHCSCREW 0.138-32x0.375-HX-N,"Socket Button Head Cap Screw #6-32 x 3/8"" (0.375"")",1,7
-2.12.21,SBHCSCREW 0.112-40x0.125-HX-N,"Socket Button Head Cap Screw #4-40 x 1/8"" (0.125"")",1,1
-2.12.22,SCHCSCREW 0.138-32x0.4375x0.4375-HX-N,"Socket Head Cap Screw #6-32 x 7/16"" (0.4375"")",3,22
-2.12.23,SCHCSCREW 0.138-32x0.75x0.75-HX-N,"Socket Head Cap Screw #6-32 x 3/4"" (0.75"")",3,12
-2.12.24,HX-SHCS 0.25-28x2.75x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 2-3/4"" (2.75"")",7,1
-2.12.25,Preferred Narrow FW 0.375,"Preferred Narrow Flat Washer 3/8"" (0.375"")",2,1
+2.12.5,[HDWR-FSTR-NUT] NYHXNUT #6-32-D.SLDPRT,Simplified,3,6
+2.12.6,[HDWR-FSTR-SCRW] Hex Bolt 1 ̸ 4-28 x 1.SLDPRT,Modified,2,2
+2.12.7,[HDWR-FSTR-STND] Male-Female Threaded Hex Standoff #6-32 x 1.SLDPRT,Simplified,1,1
+2.12.8,[HDWR-SHFT] Shaft Collar 1 ̸ 2 x 1 x 7 ̸ 16 (Zinc-Plated).SLDPRT,Default,2,4
+2.12.9,[AFRM-UPR-A-01] Top Plate.SLDPRT,Default<As Machined>,3,1
+2.12.10,[AFRM-UPR-A-00-L] Side Plate (Left).SLDPRT,Default<As Machined>,5,1
+2.12.11,[AFRM-UPR-A-00-R] Side Plate (Right).SLDPRT,Default<As Machined>,5,1
+2.12.12,[AFRM-UPR-A-02] Bottom Plate.SLDPRT,Default<As Machined>,5,1
+2.12.13,[AFRM-UPR-COMN-01] Tiptoe Linkage Pivot Rod.SLDPRT,Default,1,1
+2.12.14,[AFRM-UPR-COMN-06] Power Switch Mount Plate.SLDPRT,Default,1,1
+2.12.15,[AFRM-UPR-COMN-00] Bearing Cup.SLDPRT,Default,2,2
+2.12.16,[AFRM-UPR-COMN-02] Bushing.SLDPRT,Default,3,2
+2.12.17,[AFRM-UPR-COMN-03] Caster Bushing.SLDPRT,Default,3,2
+2.12.18,[AFRM-UPR-COMN-05] Cable Duct.SLDPRT,Default,5,1
+2.12.19,[HDWR-MISC-HINGE01] A-Frame Piano Hinge.SLDASM,Modified,8,1
+2.12.19.1,[HDWR-MISC-HINGE01-COMN-02] Pin.SLDPRT,Modified,3,1
+2.12.19.2,[HDWR-MISC-HINGE01-COMN-01] Top Half.SLDPRT,Modified,6,1
+2.12.19.3,[HDWR-MISC-HINGE01-COMN-00] Bottom Half.SLDPRT,Modified,7,1
+2.12.20,[AFRM-UPR-COVR-00] Upper Covering.SLDPRT,Default,2,1
+2.12.21,SBHCSCREW 0.112-40x0.25-HX-N,"Socket Button Head Cap Screw #4-40 x 1/4"" (0.25"")",1,3
+2.12.22,SBHCSCREW 0.138-32x0.375-HX-N,"Socket Button Head Cap Screw #6-32 x 3/8"" (0.375"")",1,7
+2.12.23,SBHCSCREW 0.138-32x0.4375-HX-N,"Socket Button Head Cap Screw #6-32 x 7/16"" (0.4375"")",1,6
+2.12.24,SBHCSCREW 0.112-40x0.125-HX-N,"Socket Button Head Cap Screw #4-40 x 1/8"" (0.125"")",1,1
+2.12.25,SCHCSCREW 0.138-32x0.4375x0.4375-HX-N,"Socket Head Cap Screw #6-32 x 7/16"" (0.4375"")",3,22
+2.12.26,SCHCSCREW 0.138-32x0.75x0.75-HX-N,"Socket Head Cap Screw #6-32 x 3/4"" (0.75"")",3,12
+2.12.27,HX-SHCS 0.25-28x2.75x1.25-N,"Hex Socket Head Cap Screw 1/4""-28 x 2-3/4"" (2.75"")",11,1
+2.12.28,Preferred Narrow FW 0.138,"Preferred Narrow Flat Washer 0.138""",2,1
 2.13,[CRDL-COMN-D] Tiptoe Eccentric Drive.SLDASM,Default,11,1
 2.13.1,[HDWR-BELT-CRDL] HKK Chain #40 Assembly (64 Links).SLDASM,Default,1,2
 2.13.1.1,[HDWR-BELT] HKK Chain #40 Inner Link.SLDPRT,Default,2,32
@@ -2392,8 +2396,8 @@ Item Number,Document,Configuration,Revision,Qty
 2.13.19,"[CRDL-COMN-D-COMN-01-OUTR-RGHT] Side Plate (Outer, Right).SLDPRT",Default,3,1
 2.13.20,"[CRDL-COMN-D-COMN-00-INNR-LEFT] Side Plate (Inner, Left).SLDPRT",Default,3,1
 2.13.21,"[CRDL-COMN-D-COMN-00-INNR-RGHT] Side Plate (Inner, Right).SLDPRT",Default,3,1
-2.13.22,[CRDL-COMN-D-COMN-03] Potentiometer Housing.SLDPRT,Default,4,1
-2.13.23,[CRDL-COMN-D-COMN-04] Potentiometer Sprocket.SLDPRT,Default,4,1
+2.13.22,[CRDL-COMN-D-COMN-04] Potentiometer Sprocket.SLDPRT,Default,4,1
+2.13.23,[CRDL-COMN-D-COMN-03] Potentiometer Housing.SLDPRT,Default,5,1
 2.13.24,[CRDL-COMN-D-COMN-03] Wire Passthrough.SLDPRT,Default,5,1
 2.13.25,[CRDL-COMN-D-COMN-03] Wire Passthrough.SLDPRT,Mirror,5,1
 2.13.26,[CRDL-COMN-D-B] Motor Assembly.SLDASM,Default,7,1
@@ -2431,7 +2435,7 @@ Item Number,Document,Configuration,Revision,Qty
 2.13.26.10,SCHCSCREW 0.25-20x0.75x0.75-HX-N,"Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",3,3
 2.13.26.11,SCHCSCREW 0.19-32x0.5625x0.5625-HX-N,"Socket Head Cap Screw #10-32 x 9/16"" (0.5625"")",3,2
 2.13.26.12,SCHCSCREW 0.19-32x3x3-HX-N,"Socket Head Cap Screw #10-32 x 3"" (3"")",3,2
-2.13.26.13,HX-SHCS 0.25-20x0.75x0.75-N,"Hex Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",7,3
+2.13.26.13,HX-SHCS 0.25-20x0.75x0.75-N,"Hex Socket Head Cap Screw 1/4""-20 x 3/4"" (0.75"")",11,3
 2.13.26.14,Key B17.1 0.125x0.125x.72,"Square Key 1/8"" (0.125"") sq x .72""",1,1
 2.13.27,[CRDL-COMN-D-A] Eccentric Gear.SLDASM,Default,3,2
 2.13.27.1,[HDWR-GEAR] Tsubaki 44-Tooth Sprocket (40A44).SLDPRT,Modified (CRDL Tiptoe Eccentric Drive),4,1
@@ -2478,7 +2482,7 @@ Item Number,Document,Configuration,Revision,Qty
 2.16.11.8.6,SCHCSCREW 0.112-40x0.3125x0.3125-HX-N,"Socket Head Cap Screw #4-40 x 5/16"" (0.3125"")",3,1
 2.16.11.8.7,SCHCSCREW 0.112-40x0.375x0.375-HX-N,"Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",3,2
 2.16.11.8.8,SCHCSCREW 0.112-40x0.5625x0.5625-HX-N,"Socket Head Cap Screw #4-40 x 9/16"" (0.5625"")",3,2
-2.16.11.8.9,HX-SHCS 0.112-40x0.5x0.5-N,"Hex Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",7,4
+2.16.11.8.9,HX-SHCS 0.112-40x0.5x0.5-N,"Hex Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",11,4
 2.16.11.9,SBHCSCREW 0.138-32x0.375-HX-N,"Socket Button Head Cap Screw #6-32 x 3/8"" (0.375"")",1,4
 2.16.11.10,SBHCSCREW 0.138-32x0.5-HX-N,"Socket Button Head Cap Screw #6-32 x 1/2"" (0.5"")",1,4
 2.16.11.11,SCHCSCREW 0.138-32x0.375x0.375-HX-N,"Socket Head Cap Screw #6-32 x 3/8"" (0.375"")",3,2
@@ -2501,7 +2505,7 @@ Item Number,Document,Configuration,Revision,Qty
 2.16.12.8.6,SCHCSCREW 0.112-40x0.3125x0.3125-HX-N,"Socket Head Cap Screw #4-40 x 5/16"" (0.3125"")",3,1
 2.16.12.8.7,SCHCSCREW 0.112-40x0.375x0.375-HX-N,"Socket Head Cap Screw #4-40 x 3/8"" (0.375"")",3,2
 2.16.12.8.8,SCHCSCREW 0.112-40x0.5625x0.5625-HX-N,"Socket Head Cap Screw #4-40 x 9/16"" (0.5625"")",3,2
-2.16.12.8.9,HX-SHCS 0.112-40x0.5x0.5-N,"Hex Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",7,4
+2.16.12.8.9,HX-SHCS 0.112-40x0.5x0.5-N,"Hex Socket Head Cap Screw #4-40 x 1/2"" (0.5"")",11,4
 2.16.12.9,SBHCSCREW 0.138-32x0.375-HX-N,"Socket Button Head Cap Screw #6-32 x 3/8"" (0.375"")",1,4
 2.16.12.10,SBHCSCREW 0.138-32x0.5-HX-N,"Socket Button Head Cap Screw #6-32 x 1/2"" (0.5"")",1,4
 2.16.12.11,SCHCSCREW 0.138-32x0.375x0.375-HX-N,"Socket Head Cap Screw #6-32 x 3/8"" (0.375"")",3,2

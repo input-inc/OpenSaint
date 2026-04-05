@@ -1,0 +1,19 @@
+This version, while aesthetically pleasing and relatively simpler, does not produce the same amount of lift as the original.
+
+Because the "Base Rod", "Tie Bar", and "Banana Plate" are all inline with each other, this causes a significant reduction (upwards of 5 degrees) in the
+maximum height the Lower Torso can achieve compared to the movie (within the first 6 minutes when all 5 SAINT robots salute in unison). The "Base Rod" hits
+the large concave radius on the Side Plates of the Lower Torso, and the Banana Plate becomes almost concentric with the Tip Toe Tube. The major limiting
+factors are the Base Rod, and the fact that all points are inline.
+
+Note Banana Plate concentricity to the Tip Toe Tube is fine and probably desired. In V2 that will be attempted, or avoidance of the tube/screws altogether.
+
+In the original version, because the Tie Bars are on the outside of the Lower Torso Side Plates, and given the Banana Plate and Tie Bars are offset by
+around 7/8" to 1" (the small L-shaped bracket), allows the Lower Torso to actuate higher. The limiting factor (read: collision) then becomes between the
+small L-shaped bracket and the 3" Bearing Collars, which in turn requires more thrust to reach, giving us more lift.
+
+The original requires a cutout for the Tie Bar motion on the covering, viewable from the rear. While my artistic side normally prefers "form over function"
+in most cases, this one stands out too much to ignore and I have to side with "function." It may be possible to put the Tie Bars on the inside, and I will
+keep that in mind for another version. As such, V2 will more closely resemble the original for now until I can figure it out.
+
+Andrew
+2016/03/19
