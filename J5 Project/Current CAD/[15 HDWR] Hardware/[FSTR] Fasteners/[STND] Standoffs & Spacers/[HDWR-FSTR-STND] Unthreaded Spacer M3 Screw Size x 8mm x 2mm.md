@@ -9,7 +9,8 @@
 | Number | 92871A029 |
 | Vendor | McMaster-Carr Supply Company |
 | Material | 18-8 Stainless Steel |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2026 |
+| _SW_Last_Open_Time_ | 0:03 |
 # 92871A029
 | Attribute | Value |
 | ---  | ---     |

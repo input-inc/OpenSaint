@@ -9,7 +9,8 @@
 | Material | 316 Stainless Steel |
 | Part Type | Purchased |
 | Cost | 0.83 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2026 |
+| _SW_Last_Open_Time_ | 0:10 |
 # 97022A261
 | Attribute | Value |
 | ---  | ---     |

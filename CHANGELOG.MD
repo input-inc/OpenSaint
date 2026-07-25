@@ -1,3 +1,27 @@
+# July 2026
+
+* SpeedPak updates in the Upper / Lower Half assemblies
+* Changed the default eye pop articulator to v2
+* Fixed a lot of broken references throughout the repo
+* Adjusted tolerance on Master Cylinder Drive back cover mount
+* Made adjustments to the PCB mount for the Neck Drive to account for lower posts
+* Added clearance holes to the current chest covering to clear fasteners
+* Made Adjustments to the Accessory Mount (Laser / Toolbox) to swap binding barrels for standard fasteners
+* Widened the Raspberry PI Mount in the Console area to make it easier to access
+* Started working on Cradle Base V2 compatible mount plates since the screws are on top
+* Fixed some broken references in the track tip tube wire tunnel and related parts
+* Updated accessory plate in the track drive to mount the Roboclaw
+* Fully Defined the Aluminum Extrusion profile for the side sections
+* Fixed 'Arial Narrow' font issue with some third-party parts / fasteners
+* Added new hardware and adjusted the snap action switch to add metadata
+* Added 'Dicot Medium' font Fonts folder to keep power button editable
+* Fixed missing "Thumb Screw" part in lower torso
+* Added 3D printable flanged sleeve spacer for Hug Servo
+* Added new Timing Pulley Assembly for Hug Servo
+* Started Adding "Simplified" assemblies for later frontend rendering
+* Added Roboclaw Solo 60 motor controller
+* Added Twist Pulley Cabling Part to store vendor information
+
 # April 2026
 
 * New Red Wolf Breaker and Cover in Track Drives

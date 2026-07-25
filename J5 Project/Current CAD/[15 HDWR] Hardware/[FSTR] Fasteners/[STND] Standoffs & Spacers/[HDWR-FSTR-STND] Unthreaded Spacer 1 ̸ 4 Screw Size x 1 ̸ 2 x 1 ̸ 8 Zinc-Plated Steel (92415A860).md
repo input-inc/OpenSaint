@@ -8,7 +8,8 @@
 | Vendor | McMaster-Carr Supply Company |
 | Material | 12L14-1215 Steel |
 | Part Type | Purchased |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2023 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2026 |
+| _SW_Last_Open_Time_ | 0:05 |
 # 92415A860
 | Attribute | Value |
 | ---  | ---     |

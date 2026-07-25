@@ -11,7 +11,8 @@
 | Material | 12L14 Steel |
 | Part Type | Purchased |
 | Cost | 14.26/5 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2026 |
+| _SW_Last_Open_Time_ | 0:03 |
 # 93320A102
 | Attribute | Value |
 | ---  | ---     |

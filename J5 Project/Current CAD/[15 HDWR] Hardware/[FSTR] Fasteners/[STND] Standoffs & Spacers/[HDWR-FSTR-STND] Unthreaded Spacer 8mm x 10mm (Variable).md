@@ -8,7 +8,8 @@
 | Date | 01/17/2024 |
 | Vendor | Servo City |
 | Material |  |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2026 |
+| _SW_Last_Open_Time_ | 0:03 |
 # 1
 | Attribute | Value |
 | ---  | ---     |

@@ -7,7 +7,8 @@
 | Number | 3417-4008-0024 |
 | Part Type | Purchased |
 | Cost | 8.99 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2026 |
+| _SW_Last_Open_Time_ | 0:03 |
 # Default
 | Attribute | Value |
 | ---  | ---     |

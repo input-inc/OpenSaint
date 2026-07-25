@@ -11,7 +11,8 @@
 | Material | 841 Bearing Bronze |
 | Part Type | Purchased |
 | Cost | 3.61 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2026 |
+| _SW_Last_Open_Time_ | 0:02 |
 # 7095K129
 | Attribute | Value |
 | ---  | ---     |

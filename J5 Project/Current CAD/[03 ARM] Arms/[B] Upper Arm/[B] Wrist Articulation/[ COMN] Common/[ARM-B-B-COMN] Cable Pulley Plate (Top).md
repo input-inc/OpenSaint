@@ -5,8 +5,8 @@
 | Revision | ANY |
 | Date | 11/01/2023 |
 | Part Type | Purchased |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2025 |
-| _SW_Last_Open_Time_ | 0:01 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2026 |
+| _SW_Last_Open_Time_ | 0:02 |
 # Default
 | Attribute | Value |
 | ---  | ---     |

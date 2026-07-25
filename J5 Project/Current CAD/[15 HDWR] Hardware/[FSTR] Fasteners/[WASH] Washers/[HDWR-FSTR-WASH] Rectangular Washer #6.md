@@ -11,7 +11,8 @@
 | Material | 18-8 Stainless Steel |
 | Part Type | Purchased |
 | Cost | 20.00/50 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2026 |
+| _SW_Last_Open_Time_ | 0:05 |
 # 92516A120
 | Attribute | Value |
 | ---  | ---     |

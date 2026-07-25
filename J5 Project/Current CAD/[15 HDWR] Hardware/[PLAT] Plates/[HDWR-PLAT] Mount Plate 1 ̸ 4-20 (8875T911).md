@@ -11,7 +11,8 @@
 | Material | Steel |
 | Part Type | Purchased |
 | Cost | 1.28/5 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2026 |
+| _SW_Last_Open_Time_ | 0:02 |
 # 8875T911
 | Attribute | Value |
 | ---  | ---     |

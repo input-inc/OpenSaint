@@ -10,7 +10,8 @@
 | Vendor | McMaster-Carr Supply Company |
 | Material | Steel |
 | Cost | 5.67/50 |
-| _SW_Last_Saved_With_ | SOLIDWORKS 2024 |
+| _SW_Last_Saved_With_ | SOLIDWORKS 2026 |
+| _SW_Last_Open_Time_ | 0:03 |
 # 91090A108
 | Attribute | Value |
 | ---  | ---     |
